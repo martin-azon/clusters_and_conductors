@@ -1,0 +1,5314 @@
+Magma V2.28-9     Mon Jul 22 2024 17:52:40 on ordi-martin [Seed = 2273272097]
+Type ? for help.  Type <Ctrl>-D to quit.
+
+Loading file "Cminus_at_q.m"
+We compute the cluster pictures and conductor of the curve
+Cminus(r, p, a, c) at q when q is a place not dividing 2r.
+#############################################
+CHANGING PARAMETER r !!!!
+#############################################
+
+#############################################
+CHANGING PARAMETER p !!!!
+#############################################
+
+r =  5 , p =  7 , a =  -5 , b^p =  77101 , c =  -4
+Factorisation of b^p =  [ <77101, 1> ]
+
+Polynomial frminus =  x^5 - 80*x^3 + 1280*x + 310452
+Bad primes are:  [ <2, 8>, <5, 19>, <77101, 2> ]
+
+
+The cluster picture of Cminus at  77101 is :
+(5,(1,2),(3,4)) d=[1/2,1/2,0]
+
+The conductor of Cminus at  77101 is 2
+Expected depth n =  1/2
+
+
+
+
+
+r =  5 , p =  7 , a =  -5 , b^p =  77882 , c =  -3
+Factorisation of b^p =  [ <2, 1>, <7, 1>, <5563, 1> ]
+
+Polynomial frminus =  x^5 - 45*x^3 + 405*x + 312014
+Bad primes are:  [ <2, 10>, <5, 19>, <7, 2>, <5563, 2> ]
+
+
+The cluster picture of Cminus at  7 is :
+(1,(2,3),(4,5)) F[[6,7]] d=[1/2,1/2,0]
+
+The conductor of Cminus at  7 is 2
+Expected depth n =  1/2
+
+The cluster picture of Cminus at  5563 is :
+(1,(2,3),(4,5)) F[[6,7]] d=[1/2,1/2,0]
+
+The conductor of Cminus at  5563 is 2
+Expected depth n =  1/2
+
+
+
+
+
+r =  5 , p =  7 , a =  -5 , b^p =  78093 , c =  -2
+Factorisation of b^p =  [ <3, 2>, <8677, 1> ]
+
+Polynomial frminus =  x^5 - 20*x^3 + 80*x + 312436
+Bad primes are:  [ <2, 8>, <3, 4>, <5, 19>, <8677, 2> ]
+
+
+The cluster picture of Cminus at  3 is :
+(1,(2,3),(4,5)) F[[6,7]] d=[1,1,0]
+
+The conductor of Cminus at  3 is 2
+Expected depth n =  1
+
+The cluster picture of Cminus at  8677 is :
+(1,(2,3),(4,5)) F[[6,7]] d=[1/2,1/2,0]
+
+The conductor of Cminus at  8677 is 2
+Expected depth n =  1/2
+
+
+
+
+
+r =  5 , p =  7 , a =  -5 , b^p =  78124 , c =  -1
+Factorisation of b^p =  [ <2, 2>, <19531, 1> ]
+
+Polynomial frminus =  x^5 - 5*x^3 + 5*x + 312498
+Bad primes are:  [ <2, 12>, <5, 19>, <19531, 2> ]
+
+
+The cluster picture of Cminus at  19531 is :
+(5,(1,2),(3,4)) d=[1/2,1/2,0]
+
+The conductor of Cminus at  19531 is 2
+Expected depth n =  1/2
+
+
+
+
+
+r =  5 , p =  7 , a =  -5 , b^p =  78126 , c =  1
+Factorisation of b^p =  [ <2, 1>, <3, 1>, <29, 1>, <449, 1> ]
+
+Polynomial frminus =  x^5 - 5*x^3 + 5*x + 312502
+Bad primes are:  [ <2, 10>, <3, 2>, <5, 19>, <29, 2>, <449, 2> ]
+
+
+The cluster picture of Cminus at  3 is :
+(1,(2,3),(4,5)) F[[6,7]] d=[1/2,1/2,0]
+
+The conductor of Cminus at  3 is 2
+Expected depth n =  1/2
+
+The cluster picture of Cminus at  29 is :
+(1,(2,3),(4,5)) d=[1/2,1/2,0]
+
+The conductor of Cminus at  29 is 2
+Expected depth n =  1/2
+
+The cluster picture of Cminus at  449 is :
+(1,(2,3),(4,5)) d=[1/2,1/2,0]
+
+The conductor of Cminus at  449 is 2
+Expected depth n =  1/2
+
+
+
+
+
+r =  5 , p =  7 , a =  -5 , b^p =  78157 , c =  2
+Factorisation of b^p =  [ <78157, 1> ]
+
+Polynomial frminus =  x^5 - 20*x^3 + 80*x + 312564
+Bad primes are:  [ <2, 8>, <5, 19>, <78157, 2> ]
+
+
+The cluster picture of Cminus at  78157 is :
+(1,(2,3),(4,5)) F[[6,7]] d=[1/2,1/2,0]
+
+The conductor of Cminus at  78157 is 2
+Expected depth n =  1/2
+
+
+
+
+
+r =  5 , p =  7 , a =  -5 , b^p =  78368 , c =  3
+Factorisation of b^p =  [ <2, 5>, <31, 1>, <79, 1> ]
+
+Polynomial frminus =  x^5 - 45*x^3 + 405*x + 312986
+Bad primes are:  [ <2, 18>, <5, 19>, <31, 2>, <79, 2> ]
+
+
+The cluster picture of Cminus at  31 is :
+(3,(1,2),(4,5)) d=[1/2,1/2,0]
+
+The conductor of Cminus at  31 is 2
+Expected depth n =  1/2
+
+The cluster picture of Cminus at  79 is :
+(1,(2,3),(4,5)) d=[1/2,1/2,0]
+
+The conductor of Cminus at  79 is 2
+Expected depth n =  1/2
+
+
+
+
+
+r =  5 , p =  7 , a =  -5 , b^p =  79149 , c =  4
+Factorisation of b^p =  [ <3, 1>, <7, 1>, <3769, 1> ]
+
+Polynomial frminus =  x^5 - 80*x^3 + 1280*x + 314548
+Bad primes are:  [ <2, 8>, <3, 2>, <5, 19>, <7, 2>, <3769, 2> ]
+
+
+The cluster picture of Cminus at  3 is :
+(1,(2,3),(4,5)) F[[6,7]] d=[1/2,1/2,0]
+
+The conductor of Cminus at  3 is 2
+Expected depth n =  1/2
+
+The cluster picture of Cminus at  7 is :
+(1,(2,3),(4,5)) F[[6,7]] d=[1/2,1/2,0]
+
+The conductor of Cminus at  7 is 2
+Expected depth n =  1/2
+
+The cluster picture of Cminus at  3769 is :
+(1,(2,3),(4,5)) d=[1/2,1/2,0]
+
+The conductor of Cminus at  3769 is 2
+Expected depth n =  1/2
+
+
+
+
+
+r =  5 , p =  7 , a =  -4 , b^p =  13259 , c =  -5
+Factorisation of b^p =  [ <13259, 1> ]
+
+Polynomial frminus =  x^5 - 125*x^3 + 3125*x + 59286
+Bad primes are:  [ <2, 36>, <5, 5>, <13259, 2> ]
+
+
+The cluster picture of Cminus at  13259 is :
+(5,(1,2),(3,4)) d=[1/2,1/2,0]
+
+The conductor of Cminus at  13259 is 2
+Expected depth n =  1/2
+
+
+
+
+
+r =  5 , p =  7 , a =  -4 , b^p =  16141 , c =  -3
+Factorisation of b^p =  [ <16141, 1> ]
+
+Polynomial frminus =  x^5 - 45*x^3 + 405*x + 65050
+Bad primes are:  [ <2, 36>, <5, 5>, <16141, 2> ]
+
+
+The cluster picture of Cminus at  16141 is :
+(5,(1,2),(3,4)) d=[1/2,1/2,0]
+
+The conductor of Cminus at  16141 is 2
+Expected depth n =  1/2
+
+
+
+
+
+r =  5 , p =  7 , a =  -4 , b^p =  16383 , c =  -1
+Factorisation of b^p =  [ <3, 1>, <43, 1>, <127, 1> ]
+
+Polynomial frminus =  x^5 - 5*x^3 + 5*x + 65534
+Bad primes are:  [ <2, 36>, <3, 2>, <5, 5>, <43, 2>, <127, 2> ]
+
+
+The cluster picture of Cminus at  3 is :
+(1,(2,3),(4,5)) F[[6,7]] d=[1/2,1/2,0]
+
+The conductor of Cminus at  3 is 2
+Expected depth n =  1/2
+
+The cluster picture of Cminus at  43 is :
+(1,(2,3),(4,5)) F[[6,7]] d=[1/2,1/2,0]
+
+The conductor of Cminus at  43 is 2
+Expected depth n =  1/2
+
+The cluster picture of Cminus at  127 is :
+(1,(2,3),(4,5)) F[[6,7]] d=[1/2,1/2,0]
+
+The conductor of Cminus at  127 is 2
+Expected depth n =  1/2
+
+
+
+
+
+r =  5 , p =  7 , a =  -4 , b^p =  16385 , c =  1
+Factorisation of b^p =  [ <5, 1>, <29, 1>, <113, 1> ]
+
+Polynomial frminus =  x^5 - 5*x^3 + 5*x + 65538
+Bad primes are:  [ <2, 36>, <5, 7>, <29, 2>, <113, 2> ]
+
+
+The cluster picture of Cminus at  29 is :
+(1,(2,3),(4,5)) d=[1/2,1/2,0]
+
+The conductor of Cminus at  29 is 2
+Expected depth n =  1/2
+
+The cluster picture of Cminus at  113 is :
+(1,(2,3),(4,5)) F[[6,7]] d=[1/2,1/2,0]
+
+The conductor of Cminus at  113 is 2
+Expected depth n =  1/2
+
+
+
+
+
+r =  5 , p =  7 , a =  -4 , b^p =  16627 , c =  3
+Factorisation of b^p =  [ <13, 1>, <1279, 1> ]
+
+Polynomial frminus =  x^5 - 45*x^3 + 405*x + 66022
+Bad primes are:  [ <2, 36>, <5, 5>, <13, 2>, <1279, 2> ]
+
+
+The cluster picture of Cminus at  13 is :
+(5,(1,2),(3,4)) F[[6,7]] d=[1/2,1/2,0]
+
+The conductor of Cminus at  13 is 2
+Expected depth n =  1/2
+
+The cluster picture of Cminus at  1279 is :
+(1,(2,3),(4,5)) d=[1/2,1/2,0]
+
+The conductor of Cminus at  1279 is 2
+Expected depth n =  1/2
+
+
+
+
+
+r =  5 , p =  7 , a =  -4 , b^p =  19509 , c =  5
+Factorisation of b^p =  [ <3, 1>, <7, 1>, <929, 1> ]
+
+Polynomial frminus =  x^5 - 125*x^3 + 3125*x + 71786
+Bad primes are:  [ <2, 36>, <3, 2>, <5, 5>, <7, 2>, <929, 2> ]
+
+
+The cluster picture of Cminus at  3 is :
+(1,(2,3),(4,5)) F[[6,7]] d=[1/2,1/2,0]
+
+The conductor of Cminus at  3 is 2
+Expected depth n =  1/2
+
+The cluster picture of Cminus at  7 is :
+(1,(2,3),(4,5)) F[[6,7]] d=[1/2,1/2,0]
+
+The conductor of Cminus at  7 is 2
+Expected depth n =  1/2
+
+The cluster picture of Cminus at  929 is :
+(5,(1,2),(3,4)) d=[1/2,1/2,0]
+
+The conductor of Cminus at  929 is 2
+Expected depth n =  1/2
+
+
+
+
+
+r =  5 , p =  7 , a =  -3 , b^p =  -938 , c =  -5
+Factorisation of b^p =  [ <2, 1>, <7, 1>, <67, 1> ]
+
+Polynomial frminus =  x^5 - 125*x^3 + 3125*x + 2498
+Bad primes are:  [ <2, 10>, <3, 14>, <5, 5>, <7, 2>, <67, 2> ]
+
+
+The cluster picture of Cminus at  3 is :
+(1,(2,3),(4,5)) F[[6,7]] d=[7/2,7/2,0]
+
+The conductor of Cminus at  3 is 2
+Expected depth n =  7/2
+
+The cluster picture of Cminus at  7 is :
+(3,(1,2),(4,5)) F[[6,7]] d=[1/2,1/2,0]
+
+The conductor of Cminus at  7 is 2
+Expected depth n =  1/2
+
+The cluster picture of Cminus at  67 is :
+(1,(2,3),(4,5)) F[[6,7]] d=[1/2,1/2,0]
+
+The conductor of Cminus at  67 is 2
+Expected depth n =  1/2
+
+
+
+
+
+r =  5 , p =  7 , a =  -3 , b^p =  1163 , c =  -4
+Factorisation of b^p =  [ <1163, 1> ]
+
+Polynomial frminus =  x^5 - 80*x^3 + 1280*x + 6700
+Bad primes are:  [ <2, 8>, <3, 14>, <5, 5>, <1163, 2> ]
+
+
+The cluster picture of Cminus at  3 is :
+(1,(2,3),(4,5)) F[[6,7]] d=[7/2,7/2,0]
+
+The conductor of Cminus at  3 is 2
+Expected depth n =  7/2
+
+The cluster picture of Cminus at  1163 is :
+(1,(2,3),(4,5)) F[[6,7]] d=[1/2,1/2,0]
+
+The conductor of Cminus at  1163 is 2
+Expected depth n =  1/2
+
+
+
+
+
+r =  5 , p =  7 , a =  -3 , b^p =  2155 , c =  -2
+Factorisation of b^p =  [ <5, 1>, <431, 1> ]
+
+Polynomial frminus =  x^5 - 20*x^3 + 80*x + 8684
+Bad primes are:  [ <2, 8>, <3, 14>, <5, 7>, <431, 2> ]
+
+
+The cluster picture of Cminus at  3 is :
+(1,(2,3),(4,5)) F[[6,7]] d=[7/2,7/2,0]
+
+The conductor of Cminus at  3 is 2
+Expected depth n =  7/2
+
+The cluster picture of Cminus at  431 is :
+(1,(2,3),(4,5)) d=[1/2,1/2,0]
+
+The conductor of Cminus at  431 is 2
+Expected depth n =  1/2
+
+
+
+
+
+r =  5 , p =  7 , a =  -3 , b^p =  2186 , c =  -1
+Factorisation of b^p =  [ <2, 1>, <1093, 1> ]
+
+Polynomial frminus =  x^5 - 5*x^3 + 5*x + 8746
+Bad primes are:  [ <2, 10>, <3, 14>, <5, 5>, <1093, 2> ]
+
+
+The cluster picture of Cminus at  3 is :
+(1,(2,3),(4,5)) F[[6,7]] d=[7/2,7/2,0]
+
+The conductor of Cminus at  3 is 2
+Expected depth n =  7/2
+
+The cluster picture of Cminus at  1093 is :
+(1,(2,3),(4,5)) F[[6,7]] d=[1/2,1/2,0]
+
+The conductor of Cminus at  1093 is 2
+Expected depth n =  1/2
+
+
+
+
+
+r =  5 , p =  7 , a =  -3 , b^p =  2188 , c =  1
+Factorisation of b^p =  [ <2, 2>, <547, 1> ]
+
+Polynomial frminus =  x^5 - 5*x^3 + 5*x + 8750
+Bad primes are:  [ <2, 12>, <3, 14>, <5, 5>, <547, 2> ]
+
+
+The cluster picture of Cminus at  3 is :
+(1,(2,3),(4,5)) F[[6,7]] d=[7/2,7/2,0]
+
+The conductor of Cminus at  3 is 2
+Expected depth n =  7/2
+
+The cluster picture of Cminus at  547 is :
+(1,(2,3),(4,5)) F[[6,7]] d=[1/2,1/2,0]
+
+The conductor of Cminus at  547 is 2
+Expected depth n =  1/2
+
+
+
+
+
+r =  5 , p =  7 , a =  -3 , b^p =  2219 , c =  2
+Factorisation of b^p =  [ <7, 1>, <317, 1> ]
+
+Polynomial frminus =  x^5 - 20*x^3 + 80*x + 8812
+Bad primes are:  [ <2, 8>, <3, 14>, <5, 5>, <7, 2>, <317, 2> ]
+
+
+The cluster picture of Cminus at  3 is :
+(1,(2,3),(4,5)) F[[6,7]] d=[7/2,7/2,0]
+
+The conductor of Cminus at  3 is 2
+Expected depth n =  7/2
+
+The cluster picture of Cminus at  7 is :
+(3,(1,2),(4,5)) F[[6,7]] d=[1/2,1/2,0]
+
+The conductor of Cminus at  7 is 2
+Expected depth n =  1/2
+
+The cluster picture of Cminus at  317 is :
+(1,(2,3),(4,5)) F[[6,7]] d=[1/2,1/2,0]
+
+The conductor of Cminus at  317 is 2
+Expected depth n =  1/2
+
+
+
+
+
+r =  5 , p =  7 , a =  -3 , b^p =  3211 , c =  4
+Factorisation of b^p =  [ <13, 2>, <19, 1> ]
+
+Polynomial frminus =  x^5 - 80*x^3 + 1280*x + 10796
+Bad primes are:  [ <2, 8>, <3, 14>, <5, 5>, <13, 4>, <19, 2> ]
+
+
+The cluster picture of Cminus at  3 is :
+(1,(2,3),(4,5)) F[[6,7]] d=[7/2,7/2,0]
+
+The conductor of Cminus at  3 is 2
+Expected depth n =  7/2
+
+The cluster picture of Cminus at  13 is :
+(1,(2,3),(4,5)) F[[6,7]] d=[1,1,0]
+
+The conductor of Cminus at  13 is 2
+Expected depth n =  1
+
+The cluster picture of Cminus at  19 is :
+(1,(2,3),(4,5)) d=[1/2,1/2,0]
+
+The conductor of Cminus at  19 is 2
+Expected depth n =  1/2
+
+
+
+
+
+r =  5 , p =  7 , a =  -3 , b^p =  5312 , c =  5
+Factorisation of b^p =  [ <2, 6>, <83, 1> ]
+
+Polynomial frminus =  x^5 - 125*x^3 + 3125*x + 14998
+Bad primes are:  [ <2, 20>, <3, 14>, <5, 5>, <83, 2> ]
+
+
+The cluster picture of Cminus at  3 is :
+(1,(2,3),(4,5)) F[[6,7]] d=[7/2,7/2,0]
+
+The conductor of Cminus at  3 is 2
+Expected depth n =  7/2
+
+The cluster picture of Cminus at  83 is :
+(3,(1,2),(4,5)) F[[6,7]] d=[1/2,1/2,0]
+
+The conductor of Cminus at  83 is 2
+Expected depth n =  1/2
+
+
+
+
+
+r =  5 , p =  7 , a =  -2 , b^p =  -2997 , c =  -5
+Factorisation of b^p =  [ <3, 4>, <37, 1> ]
+
+Polynomial frminus =  x^5 - 125*x^3 + 3125*x - 5738
+Bad primes are:  [ <2, 22>, <3, 8>, <5, 5>, <37, 2> ]
+
+
+The cluster picture of Cminus at  3 is :
+(1,(2,3),(4,5)) F[[6,7]] d=[2,2,0]
+
+The conductor of Cminus at  3 is 2
+Expected depth n =  2
+
+The cluster picture of Cminus at  37 is :
+(1,(2,3),(4,5)) F[[6,7]] d=[1/2,1/2,0]
+
+The conductor of Cminus at  37 is 2
+Expected depth n =  1/2
+
+
+
+
+
+r =  5 , p =  7 , a =  -2 , b^p =  -115 , c =  -3
+Factorisation of b^p =  [ <5, 1>, <23, 1> ]
+
+Polynomial frminus =  x^5 - 45*x^3 + 405*x + 26
+Bad primes are:  [ <2, 22>, <5, 7>, <23, 2> ]
+
+
+The cluster picture of Cminus at  23 is :
+(3,(1,2),(4,5)) F[[6,7]] d=[1/2,1/2,0]
+
+The conductor of Cminus at  23 is 2
+Expected depth n =  1/2
+
+
+
+
+
+r =  5 , p =  7 , a =  -2 , b^p =  127 , c =  -1
+Factorisation of b^p =  [ <127, 1> ]
+
+Polynomial frminus =  x^5 - 5*x^3 + 5*x + 510
+Bad primes are:  [ <2, 22>, <5, 5>, <127, 2> ]
+
+
+The cluster picture of Cminus at  127 is :
+(1,(2,3),(4,5)) F[[6,7]] d=[1/2,1/2,0]
+
+The conductor of Cminus at  127 is 2
+Expected depth n =  1/2
+
+
+
+
+
+r =  5 , p =  7 , a =  -2 , b^p =  129 , c =  1
+Factorisation of b^p =  [ <3, 1>, <43, 1> ]
+
+Polynomial frminus =  x^5 - 5*x^3 + 5*x + 514
+Bad primes are:  [ <2, 22>, <3, 2>, <5, 5>, <43, 2> ]
+
+
+The cluster picture of Cminus at  3 is :
+(1,(2,3),(4,5)) F[[6,7]] d=[1/2,1/2,0]
+
+The conductor of Cminus at  3 is 2
+Expected depth n =  1/2
+
+The cluster picture of Cminus at  43 is :
+(1,(2,3),(4,5)) F[[6,7]] d=[1/2,1/2,0]
+
+The conductor of Cminus at  43 is 2
+Expected depth n =  1/2
+
+
+
+
+
+r =  5 , p =  7 , a =  -2 , b^p =  371 , c =  3
+Factorisation of b^p =  [ <7, 1>, <53, 1> ]
+
+Polynomial frminus =  x^5 - 45*x^3 + 405*x + 998
+Bad primes are:  [ <2, 22>, <5, 5>, <7, 2>, <53, 2> ]
+
+
+The cluster picture of Cminus at  7 is :
+(3,(1,2),(4,5)) F[[6,7]] d=[1/2,1/2,0]
+
+The conductor of Cminus at  7 is 2
+Expected depth n =  1/2
+
+The cluster picture of Cminus at  53 is :
+(3,(1,2),(4,5)) F[[6,7]] d=[1/2,1/2,0]
+
+The conductor of Cminus at  53 is 2
+Expected depth n =  1/2
+
+
+
+
+
+r =  5 , p =  7 , a =  -2 , b^p =  3253 , c =  5
+Factorisation of b^p =  [ <3253, 1> ]
+
+Polynomial frminus =  x^5 - 125*x^3 + 3125*x + 6762
+Bad primes are:  [ <2, 22>, <5, 5>, <3253, 2> ]
+
+
+The cluster picture of Cminus at  3253 is :
+(1,(2,3),(4,5)) F[[6,7]] d=[1/2,1/2,0]
+
+The conductor of Cminus at  3253 is 2
+Expected depth n =  1/2
+
+
+
+
+
+r =  5 , p =  7 , a =  -1 , b^p =  -3124 , c =  -5
+Factorisation of b^p =  [ <2, 2>, <11, 1>, <71, 1> ]
+
+Polynomial frminus =  x^5 - 125*x^3 + 3125*x - 6246
+Bad primes are:  [ <2, 12>, <5, 5>, <11, 2>, <71, 2> ]
+
+
+The cluster picture of Cminus at  11 is :
+(1,(2,3),(4,5)) d=[1/2,1/2,0]
+
+The conductor of Cminus at  11 is 2
+Expected depth n =  1/2
+
+The cluster picture of Cminus at  71 is :
+(5,(1,2),(3,4)) d=[1/2,1/2,0]
+
+The conductor of Cminus at  71 is 2
+Expected depth n =  1/2
+
+
+
+
+
+r =  5 , p =  7 , a =  -1 , b^p =  -1023 , c =  -4
+Factorisation of b^p =  [ <3, 1>, <11, 1>, <31, 1> ]
+
+Polynomial frminus =  x^5 - 80*x^3 + 1280*x - 2044
+Bad primes are:  [ <2, 8>, <3, 2>, <5, 5>, <11, 2>, <31, 2> ]
+
+
+The cluster picture of Cminus at  3 is :
+(1,(2,3),(4,5)) F[[6,7]] d=[1/2,1/2,0]
+
+The conductor of Cminus at  3 is 2
+Expected depth n =  1/2
+
+The cluster picture of Cminus at  11 is :
+(5,(1,2),(3,4)) d=[1/2,1/2,0]
+
+The conductor of Cminus at  11 is 2
+Expected depth n =  1/2
+
+The cluster picture of Cminus at  31 is :
+(3,(1,2),(4,5)) d=[1/2,1/2,0]
+
+The conductor of Cminus at  31 is 2
+Expected depth n =  1/2
+
+
+
+
+
+r =  5 , p =  7 , a =  -1 , b^p =  -242 , c =  -3
+Factorisation of b^p =  [ <2, 1>, <11, 2> ]
+
+Polynomial frminus =  x^5 - 45*x^3 + 405*x - 482
+Bad primes are:  [ <2, 10>, <5, 5>, <11, 4> ]
+
+
+The cluster picture of Cminus at  11 is :
+(5,(1,2),(3,4)) d=[1,1,0]
+
+The conductor of Cminus at  11 is 2
+Expected depth n =  1
+
+
+
+
+
+r =  5 , p =  7 , a =  -1 , b^p =  -31 , c =  -2
+Factorisation of b^p =  [ <31, 1> ]
+
+Polynomial frminus =  x^5 - 20*x^3 + 80*x - 60
+Bad primes are:  [ <2, 8>, <5, 5>, <31, 2> ]
+
+
+The cluster picture of Cminus at  31 is :
+(1,(2,3),(4,5)) d=[1/2,1/2,0]
+
+The conductor of Cminus at  31 is 2
+Expected depth n =  1/2
+
+
+
+
+
+r =  5 , p =  7 , a =  -1 , b^p =  2 , c =  1
+Factorisation of b^p =  [ <2, 1> ]
+
+Polynomial frminus =  x^5 - 5*x^3 + 5*x + 6
+Bad primes are:  [ <2, 10>, <5, 5> ]
+
+
+
+
+
+
+r =  5 , p =  7 , a =  -1 , b^p =  33 , c =  2
+Factorisation of b^p =  [ <3, 1>, <11, 1> ]
+
+Polynomial frminus =  x^5 - 20*x^3 + 80*x + 68
+Bad primes are:  [ <2, 8>, <3, 2>, <5, 5>, <11, 2> ]
+
+
+The cluster picture of Cminus at  3 is :
+(1,(2,3),(4,5)) F[[6,7]] d=[1/2,1/2,0]
+
+The conductor of Cminus at  3 is 2
+Expected depth n =  1/2
+
+The cluster picture of Cminus at  11 is :
+(1,(2,3),(4,5)) d=[1/2,1/2,0]
+
+The conductor of Cminus at  11 is 2
+Expected depth n =  1/2
+
+
+
+
+
+r =  5 , p =  7 , a =  -1 , b^p =  244 , c =  3
+Factorisation of b^p =  [ <2, 2>, <61, 1> ]
+
+Polynomial frminus =  x^5 - 45*x^3 + 405*x + 490
+Bad primes are:  [ <2, 12>, <5, 5>, <61, 2> ]
+
+
+The cluster picture of Cminus at  61 is :
+(1,(2,3),(4,5)) d=[1/2,1/2,0]
+
+The conductor of Cminus at  61 is 2
+Expected depth n =  1/2
+
+
+
+
+
+r =  5 , p =  7 , a =  -1 , b^p =  1025 , c =  4
+Factorisation of b^p =  [ <5, 2>, <41, 1> ]
+
+Polynomial frminus =  x^5 - 80*x^3 + 1280*x + 2052
+Bad primes are:  [ <2, 8>, <5, 9>, <41, 2> ]
+
+
+The cluster picture of Cminus at  41 is :
+(5,(1,2),(3,4)) d=[1/2,1/2,0]
+
+The conductor of Cminus at  41 is 2
+Expected depth n =  1/2
+
+
+
+
+
+r =  5 , p =  7 , a =  -1 , b^p =  3126 , c =  5
+Factorisation of b^p =  [ <2, 1>, <3, 1>, <521, 1> ]
+
+Polynomial frminus =  x^5 - 125*x^3 + 3125*x + 6254
+Bad primes are:  [ <2, 10>, <3, 2>, <5, 5>, <521, 2> ]
+
+
+The cluster picture of Cminus at  3 is :
+(1,(2,3),(4,5)) F[[6,7]] d=[1/2,1/2,0]
+
+The conductor of Cminus at  3 is 2
+Expected depth n =  1/2
+
+The cluster picture of Cminus at  521 is :
+(5,(1,2),(3,4)) d=[1/2,1/2,0]
+
+The conductor of Cminus at  521 is 2
+Expected depth n =  1/2
+
+
+
+
+
+r =  5 , p =  7 , a =  1 , b^p =  -3126 , c =  -5
+Factorisation of b^p =  [ <2, 1>, <3, 1>, <521, 1> ]
+
+Polynomial frminus =  x^5 - 125*x^3 + 3125*x - 6254
+Bad primes are:  [ <2, 10>, <3, 2>, <5, 5>, <521, 2> ]
+
+
+The cluster picture of Cminus at  3 is :
+(1,(2,3),(4,5)) F[[6,7]] d=[1/2,1/2,0]
+
+The conductor of Cminus at  3 is 2
+Expected depth n =  1/2
+
+The cluster picture of Cminus at  521 is :
+(3,(1,2),(4,5)) d=[1/2,1/2,0]
+
+The conductor of Cminus at  521 is 2
+Expected depth n =  1/2
+
+
+
+
+
+r =  5 , p =  7 , a =  1 , b^p =  -1025 , c =  -4
+Factorisation of b^p =  [ <5, 2>, <41, 1> ]
+
+Polynomial frminus =  x^5 - 80*x^3 + 1280*x - 2052
+Bad primes are:  [ <2, 8>, <5, 9>, <41, 2> ]
+
+
+The cluster picture of Cminus at  41 is :
+(3,(1,2),(4,5)) d=[1/2,1/2,0]
+
+The conductor of Cminus at  41 is 2
+Expected depth n =  1/2
+
+
+
+
+
+r =  5 , p =  7 , a =  1 , b^p =  -244 , c =  -3
+Factorisation of b^p =  [ <2, 2>, <61, 1> ]
+
+Polynomial frminus =  x^5 - 45*x^3 + 405*x - 490
+Bad primes are:  [ <2, 12>, <5, 5>, <61, 2> ]
+
+
+The cluster picture of Cminus at  61 is :
+(5,(1,2),(3,4)) d=[1/2,1/2,0]
+
+The conductor of Cminus at  61 is 2
+Expected depth n =  1/2
+
+
+
+
+
+r =  5 , p =  7 , a =  1 , b^p =  -33 , c =  -2
+Factorisation of b^p =  [ <3, 1>, <11, 1> ]
+
+Polynomial frminus =  x^5 - 20*x^3 + 80*x - 68
+Bad primes are:  [ <2, 8>, <3, 2>, <5, 5>, <11, 2> ]
+
+
+The cluster picture of Cminus at  3 is :
+(1,(2,3),(4,5)) F[[6,7]] d=[1/2,1/2,0]
+
+The conductor of Cminus at  3 is 2
+Expected depth n =  1/2
+
+The cluster picture of Cminus at  11 is :
+(5,(1,2),(3,4)) d=[1/2,1/2,0]
+
+The conductor of Cminus at  11 is 2
+Expected depth n =  1/2
+
+
+
+
+
+r =  5 , p =  7 , a =  1 , b^p =  -2 , c =  -1
+Factorisation of b^p =  [ <2, 1> ]
+
+Polynomial frminus =  x^5 - 5*x^3 + 5*x - 6
+Bad primes are:  [ <2, 10>, <5, 5> ]
+
+
+
+
+
+
+r =  5 , p =  7 , a =  1 , b^p =  31 , c =  2
+Factorisation of b^p =  [ <31, 1> ]
+
+Polynomial frminus =  x^5 - 20*x^3 + 80*x + 60
+Bad primes are:  [ <2, 8>, <5, 5>, <31, 2> ]
+
+
+The cluster picture of Cminus at  31 is :
+(3,(1,2),(4,5)) d=[1/2,1/2,0]
+
+The conductor of Cminus at  31 is 2
+Expected depth n =  1/2
+
+
+
+
+
+r =  5 , p =  7 , a =  1 , b^p =  242 , c =  3
+Factorisation of b^p =  [ <2, 1>, <11, 2> ]
+
+Polynomial frminus =  x^5 - 45*x^3 + 405*x + 482
+Bad primes are:  [ <2, 10>, <5, 5>, <11, 4> ]
+
+
+The cluster picture of Cminus at  11 is :
+(5,(1,2),(3,4)) d=[1,1,0]
+
+The conductor of Cminus at  11 is 2
+Expected depth n =  1
+
+
+
+
+
+r =  5 , p =  7 , a =  1 , b^p =  1023 , c =  4
+Factorisation of b^p =  [ <3, 1>, <11, 1>, <31, 1> ]
+
+Polynomial frminus =  x^5 - 80*x^3 + 1280*x + 2044
+Bad primes are:  [ <2, 8>, <3, 2>, <5, 5>, <11, 2>, <31, 2> ]
+
+
+The cluster picture of Cminus at  3 is :
+(1,(2,3),(4,5)) F[[6,7]] d=[1/2,1/2,0]
+
+The conductor of Cminus at  3 is 2
+Expected depth n =  1/2
+
+The cluster picture of Cminus at  11 is :
+(3,(1,2),(4,5)) d=[1/2,1/2,0]
+
+The conductor of Cminus at  11 is 2
+Expected depth n =  1/2
+
+The cluster picture of Cminus at  31 is :
+(3,(1,2),(4,5)) d=[1/2,1/2,0]
+
+The conductor of Cminus at  31 is 2
+Expected depth n =  1/2
+
+
+
+
+
+r =  5 , p =  7 , a =  1 , b^p =  3124 , c =  5
+Factorisation of b^p =  [ <2, 2>, <11, 1>, <71, 1> ]
+
+Polynomial frminus =  x^5 - 125*x^3 + 3125*x + 6246
+Bad primes are:  [ <2, 12>, <5, 5>, <11, 2>, <71, 2> ]
+
+
+The cluster picture of Cminus at  11 is :
+(5,(1,2),(3,4)) d=[1/2,1/2,0]
+
+The conductor of Cminus at  11 is 2
+Expected depth n =  1/2
+
+The cluster picture of Cminus at  71 is :
+(1,(2,3),(4,5)) d=[1/2,1/2,0]
+
+The conductor of Cminus at  71 is 2
+Expected depth n =  1/2
+
+
+
+
+
+r =  5 , p =  7 , a =  2 , b^p =  -3253 , c =  -5
+Factorisation of b^p =  [ <3253, 1> ]
+
+Polynomial frminus =  x^5 - 125*x^3 + 3125*x - 6762
+Bad primes are:  [ <2, 22>, <5, 5>, <3253, 2> ]
+
+
+The cluster picture of Cminus at  3253 is :
+(1,(2,3),(4,5)) F[[6,7]] d=[1/2,1/2,0]
+
+The conductor of Cminus at  3253 is 2
+Expected depth n =  1/2
+
+
+
+
+
+r =  5 , p =  7 , a =  2 , b^p =  -371 , c =  -3
+Factorisation of b^p =  [ <7, 1>, <53, 1> ]
+
+Polynomial frminus =  x^5 - 45*x^3 + 405*x - 998
+Bad primes are:  [ <2, 22>, <5, 5>, <7, 2>, <53, 2> ]
+
+
+The cluster picture of Cminus at  7 is :
+(1,(2,3),(4,5)) F[[6,7]] d=[1/2,1/2,0]
+
+The conductor of Cminus at  7 is 2
+Expected depth n =  1/2
+
+The cluster picture of Cminus at  53 is :
+(5,(1,2),(3,4)) F[[6,7]] d=[1/2,1/2,0]
+
+The conductor of Cminus at  53 is 2
+Expected depth n =  1/2
+
+
+
+
+
+r =  5 , p =  7 , a =  2 , b^p =  -129 , c =  -1
+Factorisation of b^p =  [ <3, 1>, <43, 1> ]
+
+Polynomial frminus =  x^5 - 5*x^3 + 5*x - 514
+Bad primes are:  [ <2, 22>, <3, 2>, <5, 5>, <43, 2> ]
+
+
+The cluster picture of Cminus at  3 is :
+(1,(2,3),(4,5)) F[[6,7]] d=[1/2,1/2,0]
+
+The conductor of Cminus at  3 is 2
+Expected depth n =  1/2
+
+The cluster picture of Cminus at  43 is :
+(1,(2,3),(4,5)) F[[6,7]] d=[1/2,1/2,0]
+
+The conductor of Cminus at  43 is 2
+Expected depth n =  1/2
+
+
+
+
+
+r =  5 , p =  7 , a =  2 , b^p =  -127 , c =  1
+Factorisation of b^p =  [ <127, 1> ]
+
+Polynomial frminus =  x^5 - 5*x^3 + 5*x - 510
+Bad primes are:  [ <2, 22>, <5, 5>, <127, 2> ]
+
+
+The cluster picture of Cminus at  127 is :
+(5,(1,2),(3,4)) F[[6,7]] d=[1/2,1/2,0]
+
+The conductor of Cminus at  127 is 2
+Expected depth n =  1/2
+
+
+
+
+
+r =  5 , p =  7 , a =  2 , b^p =  115 , c =  3
+Factorisation of b^p =  [ <5, 1>, <23, 1> ]
+
+Polynomial frminus =  x^5 - 45*x^3 + 405*x - 26
+Bad primes are:  [ <2, 22>, <5, 7>, <23, 2> ]
+
+
+The cluster picture of Cminus at  23 is :
+(5,(1,2),(3,4)) F[[6,7]] d=[1/2,1/2,0]
+
+The conductor of Cminus at  23 is 2
+Expected depth n =  1/2
+
+
+
+
+
+r =  5 , p =  7 , a =  2 , b^p =  2997 , c =  5
+Factorisation of b^p =  [ <3, 4>, <37, 1> ]
+
+Polynomial frminus =  x^5 - 125*x^3 + 3125*x + 5738
+Bad primes are:  [ <2, 22>, <3, 8>, <5, 5>, <37, 2> ]
+
+
+The cluster picture of Cminus at  3 is :
+(1,(2,3),(4,5)) F[[6,7]] d=[2,2,0]
+
+The conductor of Cminus at  3 is 2
+Expected depth n =  2
+
+The cluster picture of Cminus at  37 is :
+(5,(1,2),(3,4)) F[[6,7]] d=[1/2,1/2,0]
+
+The conductor of Cminus at  37 is 2
+Expected depth n =  1/2
+
+
+
+
+
+r =  5 , p =  7 , a =  3 , b^p =  -5312 , c =  -5
+Factorisation of b^p =  [ <2, 6>, <83, 1> ]
+
+Polynomial frminus =  x^5 - 125*x^3 + 3125*x - 14998
+Bad primes are:  [ <2, 20>, <3, 14>, <5, 5>, <83, 2> ]
+
+
+The cluster picture of Cminus at  3 is :
+(1,(2,3),(4,5)) F[[6,7]] d=[7/2,7/2,0]
+
+The conductor of Cminus at  3 is 2
+Expected depth n =  7/2
+
+The cluster picture of Cminus at  83 is :
+(5,(1,2),(3,4)) F[[6,7]] d=[1/2,1/2,0]
+
+The conductor of Cminus at  83 is 2
+Expected depth n =  1/2
+
+
+
+
+
+r =  5 , p =  7 , a =  3 , b^p =  -3211 , c =  -4
+Factorisation of b^p =  [ <13, 2>, <19, 1> ]
+
+Polynomial frminus =  x^5 - 80*x^3 + 1280*x - 10796
+Bad primes are:  [ <2, 8>, <3, 14>, <5, 5>, <13, 4>, <19, 2> ]
+
+
+The cluster picture of Cminus at  3 is :
+(1,(2,3),(4,5)) F[[6,7]] d=[7/2,7/2,0]
+
+The conductor of Cminus at  3 is 2
+Expected depth n =  7/2
+
+The cluster picture of Cminus at  13 is :
+(5,(1,2),(3,4)) F[[6,7]] d=[1,1,0]
+
+The conductor of Cminus at  13 is 2
+Expected depth n =  1
+
+The cluster picture of Cminus at  19 is :
+(3,(1,2),(4,5)) d=[1/2,1/2,0]
+
+The conductor of Cminus at  19 is 2
+Expected depth n =  1/2
+
+
+
+
+
+r =  5 , p =  7 , a =  3 , b^p =  -2219 , c =  -2
+Factorisation of b^p =  [ <7, 1>, <317, 1> ]
+
+Polynomial frminus =  x^5 - 20*x^3 + 80*x - 8812
+Bad primes are:  [ <2, 8>, <3, 14>, <5, 5>, <7, 2>, <317, 2> ]
+
+
+The cluster picture of Cminus at  3 is :
+(1,(2,3),(4,5)) F[[6,7]] d=[7/2,7/2,0]
+
+The conductor of Cminus at  3 is 2
+Expected depth n =  7/2
+
+The cluster picture of Cminus at  7 is :
+(1,(2,3),(4,5)) F[[6,7]] d=[1/2,1/2,0]
+
+The conductor of Cminus at  7 is 2
+Expected depth n =  1/2
+
+The cluster picture of Cminus at  317 is :
+(1,(2,3),(4,5)) F[[6,7]] d=[1/2,1/2,0]
+
+The conductor of Cminus at  317 is 2
+Expected depth n =  1/2
+
+
+
+
+
+r =  5 , p =  7 , a =  3 , b^p =  -2188 , c =  -1
+Factorisation of b^p =  [ <2, 2>, <547, 1> ]
+
+Polynomial frminus =  x^5 - 5*x^3 + 5*x - 8750
+Bad primes are:  [ <2, 12>, <3, 14>, <5, 5>, <547, 2> ]
+
+
+The cluster picture of Cminus at  3 is :
+(1,(2,3),(4,5)) F[[6,7]] d=[7/2,7/2,0]
+
+The conductor of Cminus at  3 is 2
+Expected depth n =  7/2
+
+The cluster picture of Cminus at  547 is :
+(1,(2,3),(4,5)) F[[6,7]] d=[1/2,1/2,0]
+
+The conductor of Cminus at  547 is 2
+Expected depth n =  1/2
+
+
+
+
+
+r =  5 , p =  7 , a =  3 , b^p =  -2186 , c =  1
+Factorisation of b^p =  [ <2, 1>, <1093, 1> ]
+
+Polynomial frminus =  x^5 - 5*x^3 + 5*x - 8746
+Bad primes are:  [ <2, 10>, <3, 14>, <5, 5>, <1093, 2> ]
+
+
+The cluster picture of Cminus at  3 is :
+(1,(2,3),(4,5)) F[[6,7]] d=[7/2,7/2,0]
+
+The conductor of Cminus at  3 is 2
+Expected depth n =  7/2
+
+The cluster picture of Cminus at  1093 is :
+(1,(2,3),(4,5)) F[[6,7]] d=[1/2,1/2,0]
+
+The conductor of Cminus at  1093 is 2
+Expected depth n =  1/2
+
+
+
+
+
+r =  5 , p =  7 , a =  3 , b^p =  -2155 , c =  2
+Factorisation of b^p =  [ <5, 1>, <431, 1> ]
+
+Polynomial frminus =  x^5 - 20*x^3 + 80*x - 8684
+Bad primes are:  [ <2, 8>, <3, 14>, <5, 7>, <431, 2> ]
+
+
+The cluster picture of Cminus at  3 is :
+(1,(2,3),(4,5)) F[[6,7]] d=[7/2,7/2,0]
+
+The conductor of Cminus at  3 is 2
+Expected depth n =  7/2
+
+The cluster picture of Cminus at  431 is :
+(1,(2,3),(4,5)) d=[1/2,1/2,0]
+
+The conductor of Cminus at  431 is 2
+Expected depth n =  1/2
+
+
+
+
+
+r =  5 , p =  7 , a =  3 , b^p =  -1163 , c =  4
+Factorisation of b^p =  [ <1163, 1> ]
+
+Polynomial frminus =  x^5 - 80*x^3 + 1280*x - 6700
+Bad primes are:  [ <2, 8>, <3, 14>, <5, 5>, <1163, 2> ]
+
+
+The cluster picture of Cminus at  3 is :
+(1,(2,3),(4,5)) F[[6,7]] d=[7/2,7/2,0]
+
+The conductor of Cminus at  3 is 2
+Expected depth n =  7/2
+
+The cluster picture of Cminus at  1163 is :
+(1,(2,3),(4,5)) F[[6,7]] d=[1/2,1/2,0]
+
+The conductor of Cminus at  1163 is 2
+Expected depth n =  1/2
+
+
+
+
+
+r =  5 , p =  7 , a =  3 , b^p =  938 , c =  5
+Factorisation of b^p =  [ <2, 1>, <7, 1>, <67, 1> ]
+
+Polynomial frminus =  x^5 - 125*x^3 + 3125*x - 2498
+Bad primes are:  [ <2, 10>, <3, 14>, <5, 5>, <7, 2>, <67, 2> ]
+
+
+The cluster picture of Cminus at  3 is :
+(1,(2,3),(4,5)) F[[6,7]] d=[7/2,7/2,0]
+
+The conductor of Cminus at  3 is 2
+Expected depth n =  7/2
+
+The cluster picture of Cminus at  7 is :
+(1,(2,3),(4,5)) F[[6,7]] d=[1/2,1/2,0]
+
+The conductor of Cminus at  7 is 2
+Expected depth n =  1/2
+
+The cluster picture of Cminus at  67 is :
+(1,(2,3),(4,5)) F[[6,7]] d=[1/2,1/2,0]
+
+The conductor of Cminus at  67 is 2
+Expected depth n =  1/2
+
+
+
+
+
+r =  5 , p =  7 , a =  4 , b^p =  -19509 , c =  -5
+Factorisation of b^p =  [ <3, 1>, <7, 1>, <929, 1> ]
+
+Polynomial frminus =  x^5 - 125*x^3 + 3125*x - 71786
+Bad primes are:  [ <2, 36>, <3, 2>, <5, 5>, <7, 2>, <929, 2> ]
+
+
+The cluster picture of Cminus at  3 is :
+(1,(2,3),(4,5)) F[[6,7]] d=[1/2,1/2,0]
+
+The conductor of Cminus at  3 is 2
+Expected depth n =  1/2
+
+The cluster picture of Cminus at  7 is :
+(3,(1,2),(4,5)) F[[6,7]] d=[1/2,1/2,0]
+
+The conductor of Cminus at  7 is 2
+Expected depth n =  1/2
+
+The cluster picture of Cminus at  929 is :
+(5,(1,2),(3,4)) d=[1/2,1/2,0]
+
+The conductor of Cminus at  929 is 2
+Expected depth n =  1/2
+
+
+
+
+
+r =  5 , p =  7 , a =  4 , b^p =  -16627 , c =  -3
+Factorisation of b^p =  [ <13, 1>, <1279, 1> ]
+
+Polynomial frminus =  x^5 - 45*x^3 + 405*x - 66022
+Bad primes are:  [ <2, 36>, <5, 5>, <13, 2>, <1279, 2> ]
+
+
+The cluster picture of Cminus at  13 is :
+(5,(1,2),(3,4)) F[[6,7]] d=[1/2,1/2,0]
+
+The conductor of Cminus at  13 is 2
+Expected depth n =  1/2
+
+The cluster picture of Cminus at  1279 is :
+(5,(1,2),(3,4)) d=[1/2,1/2,0]
+
+The conductor of Cminus at  1279 is 2
+Expected depth n =  1/2
+
+
+
+
+
+r =  5 , p =  7 , a =  4 , b^p =  -16385 , c =  -1
+Factorisation of b^p =  [ <5, 1>, <29, 1>, <113, 1> ]
+
+Polynomial frminus =  x^5 - 5*x^3 + 5*x - 65538
+Bad primes are:  [ <2, 36>, <5, 7>, <29, 2>, <113, 2> ]
+
+
+The cluster picture of Cminus at  29 is :
+(5,(1,2),(3,4)) d=[1/2,1/2,0]
+
+The conductor of Cminus at  29 is 2
+Expected depth n =  1/2
+
+The cluster picture of Cminus at  113 is :
+(5,(1,2),(3,4)) F[[6,7]] d=[1/2,1/2,0]
+
+The conductor of Cminus at  113 is 2
+Expected depth n =  1/2
+
+
+
+
+
+r =  5 , p =  7 , a =  4 , b^p =  -16383 , c =  1
+Factorisation of b^p =  [ <3, 1>, <43, 1>, <127, 1> ]
+
+Polynomial frminus =  x^5 - 5*x^3 + 5*x - 65534
+Bad primes are:  [ <2, 36>, <3, 2>, <5, 5>, <43, 2>, <127, 2> ]
+
+
+The cluster picture of Cminus at  3 is :
+(1,(2,3),(4,5)) F[[6,7]] d=[1/2,1/2,0]
+
+The conductor of Cminus at  3 is 2
+Expected depth n =  1/2
+
+The cluster picture of Cminus at  43 is :
+(1,(2,3),(4,5)) F[[6,7]] d=[1/2,1/2,0]
+
+The conductor of Cminus at  43 is 2
+Expected depth n =  1/2
+
+The cluster picture of Cminus at  127 is :
+(5,(1,2),(3,4)) F[[6,7]] d=[1/2,1/2,0]
+
+The conductor of Cminus at  127 is 2
+Expected depth n =  1/2
+
+
+
+
+
+r =  5 , p =  7 , a =  4 , b^p =  -16141 , c =  3
+Factorisation of b^p =  [ <16141, 1> ]
+
+Polynomial frminus =  x^5 - 45*x^3 + 405*x - 65050
+Bad primes are:  [ <2, 36>, <5, 5>, <16141, 2> ]
+
+
+The cluster picture of Cminus at  16141 is :
+(1,(2,3),(4,5)) d=[1/2,1/2,0]
+
+The conductor of Cminus at  16141 is 2
+Expected depth n =  1/2
+
+
+
+
+
+r =  5 , p =  7 , a =  4 , b^p =  -13259 , c =  5
+Factorisation of b^p =  [ <13259, 1> ]
+
+Polynomial frminus =  x^5 - 125*x^3 + 3125*x - 59286
+Bad primes are:  [ <2, 36>, <5, 5>, <13259, 2> ]
+
+
+The cluster picture of Cminus at  13259 is :
+(1,(2,3),(4,5)) d=[1/2,1/2,0]
+
+The conductor of Cminus at  13259 is 2
+Expected depth n =  1/2
+
+
+
+
+
+r =  5 , p =  7 , a =  5 , b^p =  -79149 , c =  -4
+Factorisation of b^p =  [ <3, 1>, <7, 1>, <3769, 1> ]
+
+Polynomial frminus =  x^5 - 80*x^3 + 1280*x - 314548
+Bad primes are:  [ <2, 8>, <3, 2>, <5, 19>, <7, 2>, <3769, 2> ]
+
+
+The cluster picture of Cminus at  3 is :
+(1,(2,3),(4,5)) F[[6,7]] d=[1/2,1/2,0]
+
+The conductor of Cminus at  3 is 2
+Expected depth n =  1/2
+
+The cluster picture of Cminus at  7 is :
+(3,(1,2),(4,5)) F[[6,7]] d=[1/2,1/2,0]
+
+The conductor of Cminus at  7 is 2
+Expected depth n =  1/2
+
+The cluster picture of Cminus at  3769 is :
+(5,(1,2),(3,4)) d=[1/2,1/2,0]
+
+The conductor of Cminus at  3769 is 2
+Expected depth n =  1/2
+
+
+
+
+
+r =  5 , p =  7 , a =  5 , b^p =  -78368 , c =  -3
+Factorisation of b^p =  [ <2, 5>, <31, 1>, <79, 1> ]
+
+Polynomial frminus =  x^5 - 45*x^3 + 405*x - 312986
+Bad primes are:  [ <2, 18>, <5, 19>, <31, 2>, <79, 2> ]
+
+
+The cluster picture of Cminus at  31 is :
+(3,(1,2),(4,5)) d=[1/2,1/2,0]
+
+The conductor of Cminus at  31 is 2
+Expected depth n =  1/2
+
+The cluster picture of Cminus at  79 is :
+(1,(2,3),(4,5)) d=[1/2,1/2,0]
+
+The conductor of Cminus at  79 is 2
+Expected depth n =  1/2
+
+
+
+
+
+r =  5 , p =  7 , a =  5 , b^p =  -78157 , c =  -2
+Factorisation of b^p =  [ <78157, 1> ]
+
+Polynomial frminus =  x^5 - 20*x^3 + 80*x - 312564
+Bad primes are:  [ <2, 8>, <5, 19>, <78157, 2> ]
+
+
+The cluster picture of Cminus at  78157 is :
+(1,(2,3),(4,5)) F[[6,7]] d=[1/2,1/2,0]
+
+The conductor of Cminus at  78157 is 2
+Expected depth n =  1/2
+
+
+
+
+
+r =  5 , p =  7 , a =  5 , b^p =  -78126 , c =  -1
+Factorisation of b^p =  [ <2, 1>, <3, 1>, <29, 1>, <449, 1> ]
+
+Polynomial frminus =  x^5 - 5*x^3 + 5*x - 312502
+Bad primes are:  [ <2, 10>, <3, 2>, <5, 19>, <29, 2>, <449, 2> ]
+
+
+The cluster picture of Cminus at  3 is :
+(1,(2,3),(4,5)) F[[6,7]] d=[1/2,1/2,0]
+
+The conductor of Cminus at  3 is 2
+Expected depth n =  1/2
+
+The cluster picture of Cminus at  29 is :
+(5,(1,2),(3,4)) d=[1/2,1/2,0]
+
+The conductor of Cminus at  29 is 2
+Expected depth n =  1/2
+
+The cluster picture of Cminus at  449 is :
+(1,(2,3),(4,5)) d=[1/2,1/2,0]
+
+The conductor of Cminus at  449 is 2
+Expected depth n =  1/2
+
+
+
+
+
+r =  5 , p =  7 , a =  5 , b^p =  -78124 , c =  1
+Factorisation of b^p =  [ <2, 2>, <19531, 1> ]
+
+Polynomial frminus =  x^5 - 5*x^3 + 5*x - 312498
+Bad primes are:  [ <2, 12>, <5, 19>, <19531, 2> ]
+
+
+The cluster picture of Cminus at  19531 is :
+(1,(2,3),(4,5)) d=[1/2,1/2,0]
+
+The conductor of Cminus at  19531 is 2
+Expected depth n =  1/2
+
+
+
+
+
+r =  5 , p =  7 , a =  5 , b^p =  -78093 , c =  2
+Factorisation of b^p =  [ <3, 2>, <8677, 1> ]
+
+Polynomial frminus =  x^5 - 20*x^3 + 80*x - 312436
+Bad primes are:  [ <2, 8>, <3, 4>, <5, 19>, <8677, 2> ]
+
+
+The cluster picture of Cminus at  3 is :
+(1,(2,3),(4,5)) F[[6,7]] d=[1,1,0]
+
+The conductor of Cminus at  3 is 2
+Expected depth n =  1
+
+The cluster picture of Cminus at  8677 is :
+(1,(2,3),(4,5)) F[[6,7]] d=[1/2,1/2,0]
+
+The conductor of Cminus at  8677 is 2
+Expected depth n =  1/2
+
+
+
+
+
+r =  5 , p =  7 , a =  5 , b^p =  -77882 , c =  3
+Factorisation of b^p =  [ <2, 1>, <7, 1>, <5563, 1> ]
+
+Polynomial frminus =  x^5 - 45*x^3 + 405*x - 312014
+Bad primes are:  [ <2, 10>, <5, 19>, <7, 2>, <5563, 2> ]
+
+
+The cluster picture of Cminus at  7 is :
+(3,(1,2),(4,5)) F[[6,7]] d=[1/2,1/2,0]
+
+The conductor of Cminus at  7 is 2
+Expected depth n =  1/2
+
+The cluster picture of Cminus at  5563 is :
+(1,(2,3),(4,5)) F[[6,7]] d=[1/2,1/2,0]
+
+The conductor of Cminus at  5563 is 2
+Expected depth n =  1/2
+
+
+
+
+
+r =  5 , p =  7 , a =  5 , b^p =  -77101 , c =  4
+Factorisation of b^p =  [ <77101, 1> ]
+
+Polynomial frminus =  x^5 - 80*x^3 + 1280*x - 310452
+Bad primes are:  [ <2, 8>, <5, 19>, <77101, 2> ]
+
+
+The cluster picture of Cminus at  77101 is :
+(1,(2,3),(4,5)) d=[1/2,1/2,0]
+
+The conductor of Cminus at  77101 is 2
+Expected depth n =  1/2
+
+
+
+
+
+#############################################
+CHANGING PARAMETER p !!!!
+#############################################
+
+r =  5 , p =  11 , a =  -5 , b^p =  48827101 , c =  -4
+Factorisation of b^p =  [ <48827101, 1> ]
+
+Polynomial frminus =  x^5 - 80*x^3 + 1280*x + 195310452
+Bad primes are:  [ <2, 8>, <5, 27>, <48827101, 2> ]
+
+
+The cluster picture of Cminus at  48827101 is :
+(5,(1,2),(3,4)) d=[1/2,1/2,0]
+
+The conductor of Cminus at  48827101 is 2
+Expected depth n =  1/2
+
+
+
+
+
+r =  5 , p =  11 , a =  -5 , b^p =  48827882 , c =  -3
+Factorisation of b^p =  [ <2, 1>, <367, 1>, <66523, 1> ]
+
+Polynomial frminus =  x^5 - 45*x^3 + 405*x + 195312014
+Bad primes are:  [ <2, 10>, <5, 27>, <367, 2>, <66523, 2> ]
+
+
+The cluster picture of Cminus at  367 is :
+(3,(1,2),(4,5)) F[[6,7]] d=[1/2,1/2,0]
+
+The conductor of Cminus at  367 is 2
+Expected depth n =  1/2
+
+The cluster picture of Cminus at  66523 is :
+(1,(2,3),(4,5)) F[[6,7]] d=[1/2,1/2,0]
+
+The conductor of Cminus at  66523 is 2
+Expected depth n =  1/2
+
+
+
+
+
+r =  5 , p =  11 , a =  -5 , b^p =  48828093 , c =  -2
+Factorisation of b^p =  [ <3, 1>, <16276031, 1> ]
+
+Polynomial frminus =  x^5 - 20*x^3 + 80*x + 195312436
+Bad primes are:  [ <2, 8>, <3, 2>, <5, 27>, <16276031, 2> ]
+
+
+The cluster picture of Cminus at  3 is :
+(1,(2,3),(4,5)) F[[6,7]] d=[1/2,1/2,0]
+
+The conductor of Cminus at  3 is 2
+Expected depth n =  1/2
+
+The cluster picture of Cminus at  16276031 is :
+(5,(1,2),(3,4)) d=[1/2,1/2,0]
+
+The conductor of Cminus at  16276031 is 2
+Expected depth n =  1/2
+
+
+
+
+
+r =  5 , p =  11 , a =  -5 , b^p =  48828124 , c =  -1
+Factorisation of b^p =  [ <2, 2>, <12207031, 1> ]
+
+Polynomial frminus =  x^5 - 5*x^3 + 5*x + 195312498
+Bad primes are:  [ <2, 12>, <5, 27>, <12207031, 2> ]
+
+
+The cluster picture of Cminus at  12207031 is :
+(5,(1,2),(3,4)) d=[1/2,1/2,0]
+
+The conductor of Cminus at  12207031 is 2
+Expected depth n =  1/2
+
+
+
+
+
+r =  5 , p =  11 , a =  -5 , b^p =  48828126 , c =  1
+Factorisation of b^p =  [ <2, 1>, <3, 1>, <23, 1>, <67, 1>, <5281, 1> ]
+
+Polynomial frminus =  x^5 - 5*x^3 + 5*x + 195312502
+Bad primes are:  [ <2, 10>, <3, 2>, <5, 27>, <23, 2>, <67, 2>, <5281, 2> ]
+
+
+The cluster picture of Cminus at  3 is :
+(1,(2,3),(4,5)) F[[6,7]] d=[1/2,1/2,0]
+
+The conductor of Cminus at  3 is 2
+Expected depth n =  1/2
+
+The cluster picture of Cminus at  23 is :
+(1,(2,3),(4,5)) F[[6,7]] d=[1/2,1/2,0]
+
+The conductor of Cminus at  23 is 2
+Expected depth n =  1/2
+
+The cluster picture of Cminus at  67 is :
+(1,(2,3),(4,5)) F[[6,7]] d=[1/2,1/2,0]
+
+The conductor of Cminus at  67 is 2
+Expected depth n =  1/2
+
+The cluster picture of Cminus at  5281 is :
+(1,(2,3),(4,5)) d=[1/2,1/2,0]
+
+The conductor of Cminus at  5281 is 2
+Expected depth n =  1/2
+
+
+
+
+
+r =  5 , p =  11 , a =  -5 , b^p =  48828157 , c =  2
+Factorisation of b^p =  [ <7, 2>, <19, 1>, <179, 1>, <293, 1> ]
+
+Polynomial frminus =  x^5 - 20*x^3 + 80*x + 195312564
+Bad primes are:  [ <2, 8>, <5, 27>, <7, 4>, <19, 2>, <179, 2>, <293, 2> ]
+
+
+The cluster picture of Cminus at  7 is :
+(3,(1,2),(4,5)) F[[6,7]] d=[1,1,0]
+
+The conductor of Cminus at  7 is 2
+Expected depth n =  1
+
+The cluster picture of Cminus at  19 is :
+(1,(2,3),(4,5)) d=[1/2,1/2,0]
+
+The conductor of Cminus at  19 is 2
+Expected depth n =  1/2
+
+The cluster picture of Cminus at  179 is :
+(1,(2,3),(4,5)) d=[1/2,1/2,0]
+
+The conductor of Cminus at  179 is 2
+Expected depth n =  1/2
+
+The cluster picture of Cminus at  293 is :
+(1,(2,3),(4,5)) F[[6,7]] d=[1/2,1/2,0]
+
+The conductor of Cminus at  293 is 2
+Expected depth n =  1/2
+
+
+
+
+
+r =  5 , p =  11 , a =  -5 , b^p =  48828368 , c =  3
+Factorisation of b^p =  [ <2, 4>, <3051773, 1> ]
+
+Polynomial frminus =  x^5 - 45*x^3 + 405*x + 195312986
+Bad primes are:  [ <2, 16>, <5, 27>, <3051773, 2> ]
+
+
+The cluster picture of Cminus at  3051773 is :
+(1,(2,3),(4,5)) F[[6,7]] d=[1/2,1/2,0]
+
+The conductor of Cminus at  3051773 is 2
+Expected depth n =  1/2
+
+
+
+
+
+r =  5 , p =  11 , a =  -5 , b^p =  48829149 , c =  4
+Factorisation of b^p =  [ <3, 7>, <83, 1>, <269, 1> ]
+
+Polynomial frminus =  x^5 - 80*x^3 + 1280*x + 195314548
+Bad primes are:  [ <2, 8>, <3, 14>, <5, 27>, <83, 2>, <269, 2> ]
+
+
+The cluster picture of Cminus at  3 is :
+(1,(2,3),(4,5)) F[[6,7]] d=[7/2,7/2,0]
+
+The conductor of Cminus at  3 is 2
+Expected depth n =  7/2
+
+The cluster picture of Cminus at  83 is :
+(1,(2,3),(4,5)) F[[6,7]] d=[1/2,1/2,0]
+
+The conductor of Cminus at  83 is 2
+Expected depth n =  1/2
+
+The cluster picture of Cminus at  269 is :
+(1,(2,3),(4,5)) d=[1/2,1/2,0]
+
+The conductor of Cminus at  269 is 2
+Expected depth n =  1/2
+
+
+
+
+
+r =  5 , p =  11 , a =  -4 , b^p =  4191179 , c =  -5
+Factorisation of b^p =  [ <4191179, 1> ]
+
+Polynomial frminus =  x^5 - 125*x^3 + 3125*x + 16770966
+Bad primes are:  [ <2, 52>, <5, 5>, <4191179, 2> ]
+
+
+The cluster picture of Cminus at  4191179 is :
+(5,(1,2),(3,4)) d=[1/2,1/2,0]
+
+The conductor of Cminus at  4191179 is 2
+Expected depth n =  1/2
+
+
+
+
+
+r =  5 , p =  11 , a =  -4 , b^p =  4194061 , c =  -3
+Factorisation of b^p =  [ <37, 1>, <263, 1>, <431, 1> ]
+
+Polynomial frminus =  x^5 - 45*x^3 + 405*x + 16776730
+Bad primes are:  [ <2, 52>, <5, 5>, <37, 2>, <263, 2>, <431, 2> ]
+
+
+The cluster picture of Cminus at  37 is :
+(1,(2,3),(4,5)) F[[6,7]] d=[1/2,1/2,0]
+
+The conductor of Cminus at  37 is 2
+Expected depth n =  1/2
+
+The cluster picture of Cminus at  263 is :
+(3,(1,2),(4,5)) F[[6,7]] d=[1/2,1/2,0]
+
+The conductor of Cminus at  263 is 2
+Expected depth n =  1/2
+
+The cluster picture of Cminus at  431 is :
+(3,(1,2),(4,5)) d=[1/2,1/2,0]
+
+The conductor of Cminus at  431 is 2
+Expected depth n =  1/2
+
+
+
+
+
+r =  5 , p =  11 , a =  -4 , b^p =  4194303 , c =  -1
+Factorisation of b^p =  [ <3, 1>, <23, 1>, <89, 1>, <683, 1> ]
+
+Polynomial frminus =  x^5 - 5*x^3 + 5*x + 16777214
+Bad primes are:  [ <2, 52>, <3, 2>, <5, 5>, <23, 2>, <89, 2>, <683, 2> ]
+
+
+The cluster picture of Cminus at  3 is :
+(1,(2,3),(4,5)) F[[6,7]] d=[1/2,1/2,0]
+
+The conductor of Cminus at  3 is 2
+Expected depth n =  1/2
+
+The cluster picture of Cminus at  23 is :
+(5,(1,2),(3,4)) F[[6,7]] d=[1/2,1/2,0]
+
+The conductor of Cminus at  23 is 2
+Expected depth n =  1/2
+
+The cluster picture of Cminus at  89 is :
+(3,(1,2),(4,5)) d=[1/2,1/2,0]
+
+The conductor of Cminus at  89 is 2
+Expected depth n =  1/2
+
+The cluster picture of Cminus at  683 is :
+(5,(1,2),(3,4)) F[[6,7]] d=[1/2,1/2,0]
+
+The conductor of Cminus at  683 is 2
+Expected depth n =  1/2
+
+
+
+
+
+r =  5 , p =  11 , a =  -4 , b^p =  4194305 , c =  1
+Factorisation of b^p =  [ <5, 1>, <397, 1>, <2113, 1> ]
+
+Polynomial frminus =  x^5 - 5*x^3 + 5*x + 16777218
+Bad primes are:  [ <2, 52>, <5, 7>, <397, 2>, <2113, 2> ]
+
+
+The cluster picture of Cminus at  397 is :
+(5,(1,2),(3,4)) F[[6,7]] d=[1/2,1/2,0]
+
+The conductor of Cminus at  397 is 2
+Expected depth n =  1/2
+
+The cluster picture of Cminus at  2113 is :
+(1,(2,3),(4,5)) F[[6,7]] d=[1/2,1/2,0]
+
+The conductor of Cminus at  2113 is 2
+Expected depth n =  1/2
+
+
+
+
+
+r =  5 , p =  11 , a =  -4 , b^p =  4194547 , c =  3
+Factorisation of b^p =  [ <7, 4>, <1747, 1> ]
+
+Polynomial frminus =  x^5 - 45*x^3 + 405*x + 16777702
+Bad primes are:  [ <2, 52>, <5, 5>, <7, 8>, <1747, 2> ]
+
+
+The cluster picture of Cminus at  7 is :
+(3,(1,2),(4,5)) F[[6,7]] d=[2,2,0]
+
+The conductor of Cminus at  7 is 2
+Expected depth n =  2
+
+The cluster picture of Cminus at  1747 is :
+(1,(2,3),(4,5)) F[[6,7]] d=[1/2,1/2,0]
+
+The conductor of Cminus at  1747 is 2
+Expected depth n =  1/2
+
+
+
+
+
+r =  5 , p =  11 , a =  -4 , b^p =  4197429 , c =  5
+Factorisation of b^p =  [ <3, 2>, <47, 1>, <9923, 1> ]
+
+Polynomial frminus =  x^5 - 125*x^3 + 3125*x + 16783466
+Bad primes are:  [ <2, 52>, <3, 4>, <5, 5>, <47, 2>, <9923, 2> ]
+
+
+The cluster picture of Cminus at  3 is :
+(1,(2,3),(4,5)) F[[6,7]] d=[1,1,0]
+
+The conductor of Cminus at  3 is 2
+Expected depth n =  1
+
+The cluster picture of Cminus at  47 is :
+(3,(1,2),(4,5)) F[[6,7]] d=[1/2,1/2,0]
+
+The conductor of Cminus at  47 is 2
+Expected depth n =  1/2
+
+The cluster picture of Cminus at  9923 is :
+(1,(2,3),(4,5)) F[[6,7]] d=[1/2,1/2,0]
+
+The conductor of Cminus at  9923 is 2
+Expected depth n =  1/2
+
+
+
+
+
+r =  5 , p =  11 , a =  -3 , b^p =  174022 , c =  -5
+Factorisation of b^p =  [ <2, 1>, <87011, 1> ]
+
+Polynomial frminus =  x^5 - 125*x^3 + 3125*x + 702338
+Bad primes are:  [ <2, 10>, <3, 22>, <5, 5>, <87011, 2> ]
+
+
+The cluster picture of Cminus at  3 is :
+(1,(2,3),(4,5)) F[[6,7]] d=[11/2,11/2,0]
+
+The conductor of Cminus at  3 is 2
+Expected depth n =  11/2
+
+The cluster picture of Cminus at  87011 is :
+(5,(1,2),(3,4)) d=[1/2,1/2,0]
+
+The conductor of Cminus at  87011 is 2
+Expected depth n =  1/2
+
+
+
+
+
+r =  5 , p =  11 , a =  -3 , b^p =  176123 , c =  -4
+Factorisation of b^p =  [ <176123, 1> ]
+
+Polynomial frminus =  x^5 - 80*x^3 + 1280*x + 706540
+Bad primes are:  [ <2, 8>, <3, 22>, <5, 5>, <176123, 2> ]
+
+
+The cluster picture of Cminus at  3 is :
+(1,(2,3),(4,5)) F[[6,7]] d=[11/2,11/2,0]
+
+The conductor of Cminus at  3 is 2
+Expected depth n =  11/2
+
+The cluster picture of Cminus at  176123 is :
+(1,(2,3),(4,5)) F[[6,7]] d=[1/2,1/2,0]
+
+The conductor of Cminus at  176123 is 2
+Expected depth n =  1/2
+
+
+
+
+
+r =  5 , p =  11 , a =  -3 , b^p =  177115 , c =  -2
+Factorisation of b^p =  [ <5, 1>, <35423, 1> ]
+
+Polynomial frminus =  x^5 - 20*x^3 + 80*x + 708524
+Bad primes are:  [ <2, 8>, <3, 22>, <5, 7>, <35423, 2> ]
+
+
+The cluster picture of Cminus at  3 is :
+(1,(2,3),(4,5)) F[[6,7]] d=[11/2,11/2,0]
+
+The conductor of Cminus at  3 is 2
+Expected depth n =  11/2
+
+The cluster picture of Cminus at  35423 is :
+(1,(2,3),(4,5)) F[[6,7]] d=[1/2,1/2,0]
+
+The conductor of Cminus at  35423 is 2
+Expected depth n =  1/2
+
+
+
+
+
+r =  5 , p =  11 , a =  -3 , b^p =  177146 , c =  -1
+Factorisation of b^p =  [ <2, 1>, <23, 1>, <3851, 1> ]
+
+Polynomial frminus =  x^5 - 5*x^3 + 5*x + 708586
+Bad primes are:  [ <2, 10>, <3, 22>, <5, 5>, <23, 2>, <3851, 2> ]
+
+
+The cluster picture of Cminus at  3 is :
+(1,(2,3),(4,5)) F[[6,7]] d=[11/2,11/2,0]
+
+The conductor of Cminus at  3 is 2
+Expected depth n =  11/2
+
+The cluster picture of Cminus at  23 is :
+(5,(1,2),(3,4)) F[[6,7]] d=[1/2,1/2,0]
+
+The conductor of Cminus at  23 is 2
+Expected depth n =  1/2
+
+The cluster picture of Cminus at  3851 is :
+(5,(1,2),(3,4)) d=[1/2,1/2,0]
+
+The conductor of Cminus at  3851 is 2
+Expected depth n =  1/2
+
+
+
+
+
+r =  5 , p =  11 , a =  -3 , b^p =  177148 , c =  1
+Factorisation of b^p =  [ <2, 2>, <67, 1>, <661, 1> ]
+
+Polynomial frminus =  x^5 - 5*x^3 + 5*x + 708590
+Bad primes are:  [ <2, 12>, <3, 22>, <5, 5>, <67, 2>, <661, 2> ]
+
+
+The cluster picture of Cminus at  3 is :
+(1,(2,3),(4,5)) F[[6,7]] d=[11/2,11/2,0]
+
+The conductor of Cminus at  3 is 2
+Expected depth n =  11/2
+
+The cluster picture of Cminus at  67 is :
+(1,(2,3),(4,5)) F[[6,7]] d=[1/2,1/2,0]
+
+The conductor of Cminus at  67 is 2
+Expected depth n =  1/2
+
+The cluster picture of Cminus at  661 is :
+(1,(2,3),(4,5)) d=[1/2,1/2,0]
+
+The conductor of Cminus at  661 is 2
+Expected depth n =  1/2
+
+
+
+
+
+r =  5 , p =  11 , a =  -3 , b^p =  177179 , c =  2
+Factorisation of b^p =  [ <53, 1>, <3343, 1> ]
+
+Polynomial frminus =  x^5 - 20*x^3 + 80*x + 708652
+Bad primes are:  [ <2, 8>, <3, 22>, <5, 5>, <53, 2>, <3343, 2> ]
+
+
+The cluster picture of Cminus at  3 is :
+(1,(2,3),(4,5)) F[[6,7]] d=[11/2,11/2,0]
+
+The conductor of Cminus at  3 is 2
+Expected depth n =  11/2
+
+The cluster picture of Cminus at  53 is :
+(1,(2,3),(4,5)) F[[6,7]] d=[1/2,1/2,0]
+
+The conductor of Cminus at  53 is 2
+Expected depth n =  1/2
+
+The cluster picture of Cminus at  3343 is :
+(1,(2,3),(4,5)) F[[6,7]] d=[1/2,1/2,0]
+
+The conductor of Cminus at  3343 is 2
+Expected depth n =  1/2
+
+
+
+
+
+r =  5 , p =  11 , a =  -3 , b^p =  178171 , c =  4
+Factorisation of b^p =  [ <7, 1>, <25453, 1> ]
+
+Polynomial frminus =  x^5 - 80*x^3 + 1280*x + 710636
+Bad primes are:  [ <2, 8>, <3, 22>, <5, 5>, <7, 2>, <25453, 2> ]
+
+
+The cluster picture of Cminus at  3 is :
+(1,(2,3),(4,5)) F[[6,7]] d=[11/2,11/2,0]
+
+The conductor of Cminus at  3 is 2
+Expected depth n =  11/2
+
+The cluster picture of Cminus at  7 is :
+(1,(2,3),(4,5)) F[[6,7]] d=[1/2,1/2,0]
+
+The conductor of Cminus at  7 is 2
+Expected depth n =  1/2
+
+The cluster picture of Cminus at  25453 is :
+(1,(2,3),(4,5)) F[[6,7]] d=[1/2,1/2,0]
+
+The conductor of Cminus at  25453 is 2
+Expected depth n =  1/2
+
+
+
+
+
+r =  5 , p =  11 , a =  -3 , b^p =  180272 , c =  5
+Factorisation of b^p =  [ <2, 4>, <19, 1>, <593, 1> ]
+
+Polynomial frminus =  x^5 - 125*x^3 + 3125*x + 714838
+Bad primes are:  [ <2, 16>, <3, 22>, <5, 5>, <19, 2>, <593, 2> ]
+
+
+The cluster picture of Cminus at  3 is :
+(1,(2,3),(4,5)) F[[6,7]] d=[11/2,11/2,0]
+
+The conductor of Cminus at  3 is 2
+Expected depth n =  11/2
+
+The cluster picture of Cminus at  19 is :
+(5,(1,2),(3,4)) d=[1/2,1/2,0]
+
+The conductor of Cminus at  19 is 2
+Expected depth n =  1/2
+
+The cluster picture of Cminus at  593 is :
+(5,(1,2),(3,4)) F[[6,7]] d=[1/2,1/2,0]
+
+The conductor of Cminus at  593 is 2
+Expected depth n =  1/2
+
+
+
+
+
+r =  5 , p =  11 , a =  -2 , b^p =  -1077 , c =  -5
+Factorisation of b^p =  [ <3, 1>, <359, 1> ]
+
+Polynomial frminus =  x^5 - 125*x^3 + 3125*x + 1942
+Bad primes are:  [ <2, 30>, <3, 2>, <5, 5>, <359, 2> ]
+
+
+The cluster picture of Cminus at  3 is :
+(1,(2,3),(4,5)) F[[6,7]] d=[1/2,1/2,0]
+
+The conductor of Cminus at  3 is 2
+Expected depth n =  1/2
+
+The cluster picture of Cminus at  359 is :
+(5,(1,2),(3,4)) d=[1/2,1/2,0]
+
+The conductor of Cminus at  359 is 2
+Expected depth n =  1/2
+
+
+
+
+
+r =  5 , p =  11 , a =  -2 , b^p =  1805 , c =  -3
+Factorisation of b^p =  [ <5, 1>, <19, 2> ]
+
+Polynomial frminus =  x^5 - 45*x^3 + 405*x + 7706
+Bad primes are:  [ <2, 30>, <5, 7>, <19, 4> ]
+
+
+The cluster picture of Cminus at  19 is :
+(1,(2,3),(4,5)) d=[1,1,0]
+
+The conductor of Cminus at  19 is 2
+Expected depth n =  1
+
+
+
+
+
+r =  5 , p =  11 , a =  -2 , b^p =  2047 , c =  -1
+Factorisation of b^p =  [ <23, 1>, <89, 1> ]
+
+Polynomial frminus =  x^5 - 5*x^3 + 5*x + 8190
+Bad primes are:  [ <2, 30>, <5, 5>, <23, 2>, <89, 2> ]
+
+
+The cluster picture of Cminus at  23 is :
+(5,(1,2),(3,4)) F[[6,7]] d=[1/2,1/2,0]
+
+The conductor of Cminus at  23 is 2
+Expected depth n =  1/2
+
+The cluster picture of Cminus at  89 is :
+(3,(1,2),(4,5)) d=[1/2,1/2,0]
+
+The conductor of Cminus at  89 is 2
+Expected depth n =  1/2
+
+
+
+
+
+r =  5 , p =  11 , a =  -2 , b^p =  2049 , c =  1
+Factorisation of b^p =  [ <3, 1>, <683, 1> ]
+
+Polynomial frminus =  x^5 - 5*x^3 + 5*x + 8194
+Bad primes are:  [ <2, 30>, <3, 2>, <5, 5>, <683, 2> ]
+
+
+The cluster picture of Cminus at  3 is :
+(1,(2,3),(4,5)) F[[6,7]] d=[1/2,1/2,0]
+
+The conductor of Cminus at  3 is 2
+Expected depth n =  1/2
+
+The cluster picture of Cminus at  683 is :
+(1,(2,3),(4,5)) F[[6,7]] d=[1/2,1/2,0]
+
+The conductor of Cminus at  683 is 2
+Expected depth n =  1/2
+
+
+
+
+
+r =  5 , p =  11 , a =  -2 , b^p =  2291 , c =  3
+Factorisation of b^p =  [ <29, 1>, <79, 1> ]
+
+Polynomial frminus =  x^5 - 45*x^3 + 405*x + 8678
+Bad primes are:  [ <2, 30>, <5, 5>, <29, 2>, <79, 2> ]
+
+
+The cluster picture of Cminus at  29 is :
+(1,(2,3),(4,5)) d=[1/2,1/2,0]
+
+The conductor of Cminus at  29 is 2
+Expected depth n =  1/2
+
+The cluster picture of Cminus at  79 is :
+(1,(2,3),(4,5)) d=[1/2,1/2,0]
+
+The conductor of Cminus at  79 is 2
+Expected depth n =  1/2
+
+
+
+
+
+r =  5 , p =  11 , a =  -2 , b^p =  5173 , c =  5
+Factorisation of b^p =  [ <7, 1>, <739, 1> ]
+
+Polynomial frminus =  x^5 - 125*x^3 + 3125*x + 14442
+Bad primes are:  [ <2, 30>, <5, 5>, <7, 2>, <739, 2> ]
+
+
+The cluster picture of Cminus at  7 is :
+(1,(2,3),(4,5)) F[[6,7]] d=[1/2,1/2,0]
+
+The conductor of Cminus at  7 is 2
+Expected depth n =  1/2
+
+The cluster picture of Cminus at  739 is :
+(5,(1,2),(3,4)) d=[1/2,1/2,0]
+
+The conductor of Cminus at  739 is 2
+Expected depth n =  1/2
+
+
+
+
+
+r =  5 , p =  11 , a =  -1 , b^p =  -3124 , c =  -5
+Factorisation of b^p =  [ <2, 2>, <11, 1>, <71, 1> ]
+
+Polynomial frminus =  x^5 - 125*x^3 + 3125*x - 6246
+Bad primes are:  [ <2, 12>, <5, 5>, <11, 2>, <71, 2> ]
+
+
+The cluster picture of Cminus at  11 is :
+(1,(2,3),(4,5)) d=[1/2,1/2,0]
+
+The conductor of Cminus at  11 is 2
+Expected depth n =  1/2
+
+The cluster picture of Cminus at  71 is :
+(5,(1,2),(3,4)) d=[1/2,1/2,0]
+
+The conductor of Cminus at  71 is 2
+Expected depth n =  1/2
+
+
+
+
+
+r =  5 , p =  11 , a =  -1 , b^p =  -1023 , c =  -4
+Factorisation of b^p =  [ <3, 1>, <11, 1>, <31, 1> ]
+
+Polynomial frminus =  x^5 - 80*x^3 + 1280*x - 2044
+Bad primes are:  [ <2, 8>, <3, 2>, <5, 5>, <11, 2>, <31, 2> ]
+
+
+The cluster picture of Cminus at  3 is :
+(1,(2,3),(4,5)) F[[6,7]] d=[1/2,1/2,0]
+
+The conductor of Cminus at  3 is 2
+Expected depth n =  1/2
+
+The cluster picture of Cminus at  11 is :
+(5,(1,2),(3,4)) d=[1/2,1/2,0]
+
+The conductor of Cminus at  11 is 2
+Expected depth n =  1/2
+
+The cluster picture of Cminus at  31 is :
+(3,(1,2),(4,5)) d=[1/2,1/2,0]
+
+The conductor of Cminus at  31 is 2
+Expected depth n =  1/2
+
+
+
+
+
+r =  5 , p =  11 , a =  -1 , b^p =  -242 , c =  -3
+Factorisation of b^p =  [ <2, 1>, <11, 2> ]
+
+Polynomial frminus =  x^5 - 45*x^3 + 405*x - 482
+Bad primes are:  [ <2, 10>, <5, 5>, <11, 4> ]
+
+
+The cluster picture of Cminus at  11 is :
+(5,(1,2),(3,4)) d=[1,1,0]
+
+The conductor of Cminus at  11 is 2
+Expected depth n =  1
+
+
+
+
+
+r =  5 , p =  11 , a =  -1 , b^p =  -31 , c =  -2
+Factorisation of b^p =  [ <31, 1> ]
+
+Polynomial frminus =  x^5 - 20*x^3 + 80*x - 60
+Bad primes are:  [ <2, 8>, <5, 5>, <31, 2> ]
+
+
+The cluster picture of Cminus at  31 is :
+(1,(2,3),(4,5)) d=[1/2,1/2,0]
+
+The conductor of Cminus at  31 is 2
+Expected depth n =  1/2
+
+
+
+
+
+r =  5 , p =  11 , a =  -1 , b^p =  2 , c =  1
+Factorisation of b^p =  [ <2, 1> ]
+
+Polynomial frminus =  x^5 - 5*x^3 + 5*x + 6
+Bad primes are:  [ <2, 10>, <5, 5> ]
+
+
+
+
+
+
+r =  5 , p =  11 , a =  -1 , b^p =  33 , c =  2
+Factorisation of b^p =  [ <3, 1>, <11, 1> ]
+
+Polynomial frminus =  x^5 - 20*x^3 + 80*x + 68
+Bad primes are:  [ <2, 8>, <3, 2>, <5, 5>, <11, 2> ]
+
+
+The cluster picture of Cminus at  3 is :
+(1,(2,3),(4,5)) F[[6,7]] d=[1/2,1/2,0]
+
+The conductor of Cminus at  3 is 2
+Expected depth n =  1/2
+
+The cluster picture of Cminus at  11 is :
+(1,(2,3),(4,5)) d=[1/2,1/2,0]
+
+The conductor of Cminus at  11 is 2
+Expected depth n =  1/2
+
+
+
+
+
+r =  5 , p =  11 , a =  -1 , b^p =  244 , c =  3
+Factorisation of b^p =  [ <2, 2>, <61, 1> ]
+
+Polynomial frminus =  x^5 - 45*x^3 + 405*x + 490
+Bad primes are:  [ <2, 12>, <5, 5>, <61, 2> ]
+
+
+The cluster picture of Cminus at  61 is :
+(1,(2,3),(4,5)) d=[1/2,1/2,0]
+
+The conductor of Cminus at  61 is 2
+Expected depth n =  1/2
+
+
+
+
+
+r =  5 , p =  11 , a =  -1 , b^p =  1025 , c =  4
+Factorisation of b^p =  [ <5, 2>, <41, 1> ]
+
+Polynomial frminus =  x^5 - 80*x^3 + 1280*x + 2052
+Bad primes are:  [ <2, 8>, <5, 9>, <41, 2> ]
+
+
+The cluster picture of Cminus at  41 is :
+(5,(1,2),(3,4)) d=[1/2,1/2,0]
+
+The conductor of Cminus at  41 is 2
+Expected depth n =  1/2
+
+
+
+
+
+r =  5 , p =  11 , a =  -1 , b^p =  3126 , c =  5
+Factorisation of b^p =  [ <2, 1>, <3, 1>, <521, 1> ]
+
+Polynomial frminus =  x^5 - 125*x^3 + 3125*x + 6254
+Bad primes are:  [ <2, 10>, <3, 2>, <5, 5>, <521, 2> ]
+
+
+The cluster picture of Cminus at  3 is :
+(1,(2,3),(4,5)) F[[6,7]] d=[1/2,1/2,0]
+
+The conductor of Cminus at  3 is 2
+Expected depth n =  1/2
+
+The cluster picture of Cminus at  521 is :
+(5,(1,2),(3,4)) d=[1/2,1/2,0]
+
+The conductor of Cminus at  521 is 2
+Expected depth n =  1/2
+
+
+
+
+
+r =  5 , p =  11 , a =  1 , b^p =  -3126 , c =  -5
+Factorisation of b^p =  [ <2, 1>, <3, 1>, <521, 1> ]
+
+Polynomial frminus =  x^5 - 125*x^3 + 3125*x - 6254
+Bad primes are:  [ <2, 10>, <3, 2>, <5, 5>, <521, 2> ]
+
+
+The cluster picture of Cminus at  3 is :
+(1,(2,3),(4,5)) F[[6,7]] d=[1/2,1/2,0]
+
+The conductor of Cminus at  3 is 2
+Expected depth n =  1/2
+
+The cluster picture of Cminus at  521 is :
+(3,(1,2),(4,5)) d=[1/2,1/2,0]
+
+The conductor of Cminus at  521 is 2
+Expected depth n =  1/2
+
+
+
+
+
+r =  5 , p =  11 , a =  1 , b^p =  -1025 , c =  -4
+Factorisation of b^p =  [ <5, 2>, <41, 1> ]
+
+Polynomial frminus =  x^5 - 80*x^3 + 1280*x - 2052
+Bad primes are:  [ <2, 8>, <5, 9>, <41, 2> ]
+
+
+The cluster picture of Cminus at  41 is :
+(3,(1,2),(4,5)) d=[1/2,1/2,0]
+
+The conductor of Cminus at  41 is 2
+Expected depth n =  1/2
+
+
+
+
+
+r =  5 , p =  11 , a =  1 , b^p =  -244 , c =  -3
+Factorisation of b^p =  [ <2, 2>, <61, 1> ]
+
+Polynomial frminus =  x^5 - 45*x^3 + 405*x - 490
+Bad primes are:  [ <2, 12>, <5, 5>, <61, 2> ]
+
+
+The cluster picture of Cminus at  61 is :
+(5,(1,2),(3,4)) d=[1/2,1/2,0]
+
+The conductor of Cminus at  61 is 2
+Expected depth n =  1/2
+
+
+
+
+
+r =  5 , p =  11 , a =  1 , b^p =  -33 , c =  -2
+Factorisation of b^p =  [ <3, 1>, <11, 1> ]
+
+Polynomial frminus =  x^5 - 20*x^3 + 80*x - 68
+Bad primes are:  [ <2, 8>, <3, 2>, <5, 5>, <11, 2> ]
+
+
+The cluster picture of Cminus at  3 is :
+(1,(2,3),(4,5)) F[[6,7]] d=[1/2,1/2,0]
+
+The conductor of Cminus at  3 is 2
+Expected depth n =  1/2
+
+The cluster picture of Cminus at  11 is :
+(5,(1,2),(3,4)) d=[1/2,1/2,0]
+
+The conductor of Cminus at  11 is 2
+Expected depth n =  1/2
+
+
+
+
+
+r =  5 , p =  11 , a =  1 , b^p =  -2 , c =  -1
+Factorisation of b^p =  [ <2, 1> ]
+
+Polynomial frminus =  x^5 - 5*x^3 + 5*x - 6
+Bad primes are:  [ <2, 10>, <5, 5> ]
+
+
+
+
+
+
+r =  5 , p =  11 , a =  1 , b^p =  31 , c =  2
+Factorisation of b^p =  [ <31, 1> ]
+
+Polynomial frminus =  x^5 - 20*x^3 + 80*x + 60
+Bad primes are:  [ <2, 8>, <5, 5>, <31, 2> ]
+
+
+The cluster picture of Cminus at  31 is :
+(3,(1,2),(4,5)) d=[1/2,1/2,0]
+
+The conductor of Cminus at  31 is 2
+Expected depth n =  1/2
+
+
+
+
+
+r =  5 , p =  11 , a =  1 , b^p =  242 , c =  3
+Factorisation of b^p =  [ <2, 1>, <11, 2> ]
+
+Polynomial frminus =  x^5 - 45*x^3 + 405*x + 482
+Bad primes are:  [ <2, 10>, <5, 5>, <11, 4> ]
+
+
+The cluster picture of Cminus at  11 is :
+(5,(1,2),(3,4)) d=[1,1,0]
+
+The conductor of Cminus at  11 is 2
+Expected depth n =  1
+
+
+
+
+
+r =  5 , p =  11 , a =  1 , b^p =  1023 , c =  4
+Factorisation of b^p =  [ <3, 1>, <11, 1>, <31, 1> ]
+
+Polynomial frminus =  x^5 - 80*x^3 + 1280*x + 2044
+Bad primes are:  [ <2, 8>, <3, 2>, <5, 5>, <11, 2>, <31, 2> ]
+
+
+The cluster picture of Cminus at  3 is :
+(1,(2,3),(4,5)) F[[6,7]] d=[1/2,1/2,0]
+
+The conductor of Cminus at  3 is 2
+Expected depth n =  1/2
+
+The cluster picture of Cminus at  11 is :
+(3,(1,2),(4,5)) d=[1/2,1/2,0]
+
+The conductor of Cminus at  11 is 2
+Expected depth n =  1/2
+
+The cluster picture of Cminus at  31 is :
+(3,(1,2),(4,5)) d=[1/2,1/2,0]
+
+The conductor of Cminus at  31 is 2
+Expected depth n =  1/2
+
+
+
+
+
+r =  5 , p =  11 , a =  1 , b^p =  3124 , c =  5
+Factorisation of b^p =  [ <2, 2>, <11, 1>, <71, 1> ]
+
+Polynomial frminus =  x^5 - 125*x^3 + 3125*x + 6246
+Bad primes are:  [ <2, 12>, <5, 5>, <11, 2>, <71, 2> ]
+
+
+The cluster picture of Cminus at  11 is :
+(5,(1,2),(3,4)) d=[1/2,1/2,0]
+
+The conductor of Cminus at  11 is 2
+Expected depth n =  1/2
+
+The cluster picture of Cminus at  71 is :
+(1,(2,3),(4,5)) d=[1/2,1/2,0]
+
+The conductor of Cminus at  71 is 2
+Expected depth n =  1/2
+
+
+
+
+
+r =  5 , p =  11 , a =  2 , b^p =  -5173 , c =  -5
+Factorisation of b^p =  [ <7, 1>, <739, 1> ]
+
+Polynomial frminus =  x^5 - 125*x^3 + 3125*x - 14442
+Bad primes are:  [ <2, 30>, <5, 5>, <7, 2>, <739, 2> ]
+
+
+The cluster picture of Cminus at  7 is :
+(3,(1,2),(4,5)) F[[6,7]] d=[1/2,1/2,0]
+
+The conductor of Cminus at  7 is 2
+Expected depth n =  1/2
+
+The cluster picture of Cminus at  739 is :
+(1,(2,3),(4,5)) d=[1/2,1/2,0]
+
+The conductor of Cminus at  739 is 2
+Expected depth n =  1/2
+
+
+
+
+
+r =  5 , p =  11 , a =  2 , b^p =  -2291 , c =  -3
+Factorisation of b^p =  [ <29, 1>, <79, 1> ]
+
+Polynomial frminus =  x^5 - 45*x^3 + 405*x - 8678
+Bad primes are:  [ <2, 30>, <5, 5>, <29, 2>, <79, 2> ]
+
+
+The cluster picture of Cminus at  29 is :
+(5,(1,2),(3,4)) d=[1/2,1/2,0]
+
+The conductor of Cminus at  29 is 2
+Expected depth n =  1/2
+
+The cluster picture of Cminus at  79 is :
+(1,(2,3),(4,5)) d=[1/2,1/2,0]
+
+The conductor of Cminus at  79 is 2
+Expected depth n =  1/2
+
+
+
+
+
+r =  5 , p =  11 , a =  2 , b^p =  -2049 , c =  -1
+Factorisation of b^p =  [ <3, 1>, <683, 1> ]
+
+Polynomial frminus =  x^5 - 5*x^3 + 5*x - 8194
+Bad primes are:  [ <2, 30>, <3, 2>, <5, 5>, <683, 2> ]
+
+
+The cluster picture of Cminus at  3 is :
+(1,(2,3),(4,5)) F[[6,7]] d=[1/2,1/2,0]
+
+The conductor of Cminus at  3 is 2
+Expected depth n =  1/2
+
+The cluster picture of Cminus at  683 is :
+(5,(1,2),(3,4)) F[[6,7]] d=[1/2,1/2,0]
+
+The conductor of Cminus at  683 is 2
+Expected depth n =  1/2
+
+
+
+
+
+r =  5 , p =  11 , a =  2 , b^p =  -2047 , c =  1
+Factorisation of b^p =  [ <23, 1>, <89, 1> ]
+
+Polynomial frminus =  x^5 - 5*x^3 + 5*x - 8190
+Bad primes are:  [ <2, 30>, <5, 5>, <23, 2>, <89, 2> ]
+
+
+The cluster picture of Cminus at  23 is :
+(1,(2,3),(4,5)) F[[6,7]] d=[1/2,1/2,0]
+
+The conductor of Cminus at  23 is 2
+Expected depth n =  1/2
+
+The cluster picture of Cminus at  89 is :
+(3,(1,2),(4,5)) d=[1/2,1/2,0]
+
+The conductor of Cminus at  89 is 2
+Expected depth n =  1/2
+
+
+
+
+
+r =  5 , p =  11 , a =  2 , b^p =  -1805 , c =  3
+Factorisation of b^p =  [ <5, 1>, <19, 2> ]
+
+Polynomial frminus =  x^5 - 45*x^3 + 405*x - 7706
+Bad primes are:  [ <2, 30>, <5, 7>, <19, 4> ]
+
+
+The cluster picture of Cminus at  19 is :
+(3,(1,2),(4,5)) d=[1,1,0]
+
+The conductor of Cminus at  19 is 2
+Expected depth n =  1
+
+
+
+
+
+r =  5 , p =  11 , a =  2 , b^p =  1077 , c =  5
+Factorisation of b^p =  [ <3, 1>, <359, 1> ]
+
+Polynomial frminus =  x^5 - 125*x^3 + 3125*x - 1942
+Bad primes are:  [ <2, 30>, <3, 2>, <5, 5>, <359, 2> ]
+
+
+The cluster picture of Cminus at  3 is :
+(1,(2,3),(4,5)) F[[6,7]] d=[1/2,1/2,0]
+
+The conductor of Cminus at  3 is 2
+Expected depth n =  1/2
+
+The cluster picture of Cminus at  359 is :
+(3,(1,2),(4,5)) d=[1/2,1/2,0]
+
+The conductor of Cminus at  359 is 2
+Expected depth n =  1/2
+
+
+
+
+
+r =  5 , p =  11 , a =  3 , b^p =  -180272 , c =  -5
+Factorisation of b^p =  [ <2, 4>, <19, 1>, <593, 1> ]
+
+Polynomial frminus =  x^5 - 125*x^3 + 3125*x - 714838
+Bad primes are:  [ <2, 16>, <3, 22>, <5, 5>, <19, 2>, <593, 2> ]
+
+
+The cluster picture of Cminus at  3 is :
+(1,(2,3),(4,5)) F[[6,7]] d=[11/2,11/2,0]
+
+The conductor of Cminus at  3 is 2
+Expected depth n =  11/2
+
+The cluster picture of Cminus at  19 is :
+(1,(2,3),(4,5)) d=[1/2,1/2,0]
+
+The conductor of Cminus at  19 is 2
+Expected depth n =  1/2
+
+The cluster picture of Cminus at  593 is :
+(1,(2,3),(4,5)) F[[6,7]] d=[1/2,1/2,0]
+
+The conductor of Cminus at  593 is 2
+Expected depth n =  1/2
+
+
+
+
+
+r =  5 , p =  11 , a =  3 , b^p =  -178171 , c =  -4
+Factorisation of b^p =  [ <7, 1>, <25453, 1> ]
+
+Polynomial frminus =  x^5 - 80*x^3 + 1280*x - 710636
+Bad primes are:  [ <2, 8>, <3, 22>, <5, 5>, <7, 2>, <25453, 2> ]
+
+
+The cluster picture of Cminus at  3 is :
+(1,(2,3),(4,5)) F[[6,7]] d=[11/2,11/2,0]
+
+The conductor of Cminus at  3 is 2
+Expected depth n =  11/2
+
+The cluster picture of Cminus at  7 is :
+(3,(1,2),(4,5)) F[[6,7]] d=[1/2,1/2,0]
+
+The conductor of Cminus at  7 is 2
+Expected depth n =  1/2
+
+The cluster picture of Cminus at  25453 is :
+(1,(2,3),(4,5)) F[[6,7]] d=[1/2,1/2,0]
+
+The conductor of Cminus at  25453 is 2
+Expected depth n =  1/2
+
+
+
+
+
+r =  5 , p =  11 , a =  3 , b^p =  -177179 , c =  -2
+Factorisation of b^p =  [ <53, 1>, <3343, 1> ]
+
+Polynomial frminus =  x^5 - 20*x^3 + 80*x - 708652
+Bad primes are:  [ <2, 8>, <3, 22>, <5, 5>, <53, 2>, <3343, 2> ]
+
+
+The cluster picture of Cminus at  3 is :
+(1,(2,3),(4,5)) F[[6,7]] d=[11/2,11/2,0]
+
+The conductor of Cminus at  3 is 2
+Expected depth n =  11/2
+
+The cluster picture of Cminus at  53 is :
+(5,(1,2),(3,4)) F[[6,7]] d=[1/2,1/2,0]
+
+The conductor of Cminus at  53 is 2
+Expected depth n =  1/2
+
+The cluster picture of Cminus at  3343 is :
+(1,(2,3),(4,5)) F[[6,7]] d=[1/2,1/2,0]
+
+The conductor of Cminus at  3343 is 2
+Expected depth n =  1/2
+
+
+
+
+
+r =  5 , p =  11 , a =  3 , b^p =  -177148 , c =  -1
+Factorisation of b^p =  [ <2, 2>, <67, 1>, <661, 1> ]
+
+Polynomial frminus =  x^5 - 5*x^3 + 5*x - 708590
+Bad primes are:  [ <2, 12>, <3, 22>, <5, 5>, <67, 2>, <661, 2> ]
+
+
+The cluster picture of Cminus at  3 is :
+(1,(2,3),(4,5)) F[[6,7]] d=[11/2,11/2,0]
+
+The conductor of Cminus at  3 is 2
+Expected depth n =  11/2
+
+The cluster picture of Cminus at  67 is :
+(1,(2,3),(4,5)) F[[6,7]] d=[1/2,1/2,0]
+
+The conductor of Cminus at  67 is 2
+Expected depth n =  1/2
+
+The cluster picture of Cminus at  661 is :
+(1,(2,3),(4,5)) d=[1/2,1/2,0]
+
+The conductor of Cminus at  661 is 2
+Expected depth n =  1/2
+
+
+
+
+
+r =  5 , p =  11 , a =  3 , b^p =  -177146 , c =  1
+Factorisation of b^p =  [ <2, 1>, <23, 1>, <3851, 1> ]
+
+Polynomial frminus =  x^5 - 5*x^3 + 5*x - 708586
+Bad primes are:  [ <2, 10>, <3, 22>, <5, 5>, <23, 2>, <3851, 2> ]
+
+
+The cluster picture of Cminus at  3 is :
+(1,(2,3),(4,5)) F[[6,7]] d=[11/2,11/2,0]
+
+The conductor of Cminus at  3 is 2
+Expected depth n =  11/2
+
+The cluster picture of Cminus at  23 is :
+(1,(2,3),(4,5)) F[[6,7]] d=[1/2,1/2,0]
+
+The conductor of Cminus at  23 is 2
+Expected depth n =  1/2
+
+The cluster picture of Cminus at  3851 is :
+(1,(2,3),(4,5)) d=[1/2,1/2,0]
+
+The conductor of Cminus at  3851 is 2
+Expected depth n =  1/2
+
+
+
+
+
+r =  5 , p =  11 , a =  3 , b^p =  -177115 , c =  2
+Factorisation of b^p =  [ <5, 1>, <35423, 1> ]
+
+Polynomial frminus =  x^5 - 20*x^3 + 80*x - 708524
+Bad primes are:  [ <2, 8>, <3, 22>, <5, 7>, <35423, 2> ]
+
+
+The cluster picture of Cminus at  3 is :
+(1,(2,3),(4,5)) F[[6,7]] d=[11/2,11/2,0]
+
+The conductor of Cminus at  3 is 2
+Expected depth n =  11/2
+
+The cluster picture of Cminus at  35423 is :
+(1,(2,3),(4,5)) F[[6,7]] d=[1/2,1/2,0]
+
+The conductor of Cminus at  35423 is 2
+Expected depth n =  1/2
+
+
+
+
+
+r =  5 , p =  11 , a =  3 , b^p =  -176123 , c =  4
+Factorisation of b^p =  [ <176123, 1> ]
+
+Polynomial frminus =  x^5 - 80*x^3 + 1280*x - 706540
+Bad primes are:  [ <2, 8>, <3, 22>, <5, 5>, <176123, 2> ]
+
+
+The cluster picture of Cminus at  3 is :
+(1,(2,3),(4,5)) F[[6,7]] d=[11/2,11/2,0]
+
+The conductor of Cminus at  3 is 2
+Expected depth n =  11/2
+
+The cluster picture of Cminus at  176123 is :
+(1,(2,3),(4,5)) F[[6,7]] d=[1/2,1/2,0]
+
+The conductor of Cminus at  176123 is 2
+Expected depth n =  1/2
+
+
+
+
+
+r =  5 , p =  11 , a =  3 , b^p =  -174022 , c =  5
+Factorisation of b^p =  [ <2, 1>, <87011, 1> ]
+
+Polynomial frminus =  x^5 - 125*x^3 + 3125*x - 702338
+Bad primes are:  [ <2, 10>, <3, 22>, <5, 5>, <87011, 2> ]
+
+
+The cluster picture of Cminus at  3 is :
+(1,(2,3),(4,5)) F[[6,7]] d=[11/2,11/2,0]
+
+The conductor of Cminus at  3 is 2
+Expected depth n =  11/2
+
+The cluster picture of Cminus at  87011 is :
+(1,(2,3),(4,5)) d=[1/2,1/2,0]
+
+The conductor of Cminus at  87011 is 2
+Expected depth n =  1/2
+
+
+
+
+
+r =  5 , p =  11 , a =  4 , b^p =  -4197429 , c =  -5
+Factorisation of b^p =  [ <3, 2>, <47, 1>, <9923, 1> ]
+
+Polynomial frminus =  x^5 - 125*x^3 + 3125*x - 16783466
+Bad primes are:  [ <2, 52>, <3, 4>, <5, 5>, <47, 2>, <9923, 2> ]
+
+
+The cluster picture of Cminus at  3 is :
+(1,(2,3),(4,5)) F[[6,7]] d=[1,1,0]
+
+The conductor of Cminus at  3 is 2
+Expected depth n =  1
+
+The cluster picture of Cminus at  47 is :
+(3,(1,2),(4,5)) F[[6,7]] d=[1/2,1/2,0]
+
+The conductor of Cminus at  47 is 2
+Expected depth n =  1/2
+
+The cluster picture of Cminus at  9923 is :
+(1,(2,3),(4,5)) F[[6,7]] d=[1/2,1/2,0]
+
+The conductor of Cminus at  9923 is 2
+Expected depth n =  1/2
+
+
+
+
+
+r =  5 , p =  11 , a =  4 , b^p =  -4194547 , c =  -3
+Factorisation of b^p =  [ <7, 4>, <1747, 1> ]
+
+Polynomial frminus =  x^5 - 45*x^3 + 405*x - 16777702
+Bad primes are:  [ <2, 52>, <5, 5>, <7, 8>, <1747, 2> ]
+
+
+The cluster picture of Cminus at  7 is :
+(1,(2,3),(4,5)) F[[6,7]] d=[2,2,0]
+
+The conductor of Cminus at  7 is 2
+Expected depth n =  2
+
+The cluster picture of Cminus at  1747 is :
+(1,(2,3),(4,5)) F[[6,7]] d=[1/2,1/2,0]
+
+The conductor of Cminus at  1747 is 2
+Expected depth n =  1/2
+
+
+
+
+
+r =  5 , p =  11 , a =  4 , b^p =  -4194305 , c =  -1
+Factorisation of b^p =  [ <5, 1>, <397, 1>, <2113, 1> ]
+
+Polynomial frminus =  x^5 - 5*x^3 + 5*x - 16777218
+Bad primes are:  [ <2, 52>, <5, 7>, <397, 2>, <2113, 2> ]
+
+
+The cluster picture of Cminus at  397 is :
+(1,(2,3),(4,5)) F[[6,7]] d=[1/2,1/2,0]
+
+The conductor of Cminus at  397 is 2
+Expected depth n =  1/2
+
+The cluster picture of Cminus at  2113 is :
+(1,(2,3),(4,5)) F[[6,7]] d=[1/2,1/2,0]
+
+The conductor of Cminus at  2113 is 2
+Expected depth n =  1/2
+
+
+
+
+
+r =  5 , p =  11 , a =  4 , b^p =  -4194303 , c =  1
+Factorisation of b^p =  [ <3, 1>, <23, 1>, <89, 1>, <683, 1> ]
+
+Polynomial frminus =  x^5 - 5*x^3 + 5*x - 16777214
+Bad primes are:  [ <2, 52>, <3, 2>, <5, 5>, <23, 2>, <89, 2>, <683, 2> ]
+
+
+The cluster picture of Cminus at  3 is :
+(1,(2,3),(4,5)) F[[6,7]] d=[1/2,1/2,0]
+
+The conductor of Cminus at  3 is 2
+Expected depth n =  1/2
+
+The cluster picture of Cminus at  23 is :
+(1,(2,3),(4,5)) F[[6,7]] d=[1/2,1/2,0]
+
+The conductor of Cminus at  23 is 2
+Expected depth n =  1/2
+
+The cluster picture of Cminus at  89 is :
+(3,(1,2),(4,5)) d=[1/2,1/2,0]
+
+The conductor of Cminus at  89 is 2
+Expected depth n =  1/2
+
+The cluster picture of Cminus at  683 is :
+(1,(2,3),(4,5)) F[[6,7]] d=[1/2,1/2,0]
+
+The conductor of Cminus at  683 is 2
+Expected depth n =  1/2
+
+
+
+
+
+r =  5 , p =  11 , a =  4 , b^p =  -4194061 , c =  3
+Factorisation of b^p =  [ <37, 1>, <263, 1>, <431, 1> ]
+
+Polynomial frminus =  x^5 - 45*x^3 + 405*x - 16776730
+Bad primes are:  [ <2, 52>, <5, 5>, <37, 2>, <263, 2>, <431, 2> ]
+
+
+The cluster picture of Cminus at  37 is :
+(5,(1,2),(3,4)) F[[6,7]] d=[1/2,1/2,0]
+
+The conductor of Cminus at  37 is 2
+Expected depth n =  1/2
+
+The cluster picture of Cminus at  263 is :
+(5,(1,2),(3,4)) F[[6,7]] d=[1/2,1/2,0]
+
+The conductor of Cminus at  263 is 2
+Expected depth n =  1/2
+
+The cluster picture of Cminus at  431 is :
+(1,(2,3),(4,5)) d=[1/2,1/2,0]
+
+The conductor of Cminus at  431 is 2
+Expected depth n =  1/2
+
+
+
+
+
+r =  5 , p =  11 , a =  4 , b^p =  -4191179 , c =  5
+Factorisation of b^p =  [ <4191179, 1> ]
+
+Polynomial frminus =  x^5 - 125*x^3 + 3125*x - 16770966
+Bad primes are:  [ <2, 52>, <5, 5>, <4191179, 2> ]
+
+
+The cluster picture of Cminus at  4191179 is :
+(1,(2,3),(4,5)) d=[1/2,1/2,0]
+
+The conductor of Cminus at  4191179 is 2
+Expected depth n =  1/2
+
+
+
+
+
+r =  5 , p =  11 , a =  5 , b^p =  -48829149 , c =  -4
+Factorisation of b^p =  [ <3, 7>, <83, 1>, <269, 1> ]
+
+Polynomial frminus =  x^5 - 80*x^3 + 1280*x - 195314548
+Bad primes are:  [ <2, 8>, <3, 14>, <5, 27>, <83, 2>, <269, 2> ]
+
+
+The cluster picture of Cminus at  3 is :
+(1,(2,3),(4,5)) F[[6,7]] d=[7/2,7/2,0]
+
+The conductor of Cminus at  3 is 2
+Expected depth n =  7/2
+
+The cluster picture of Cminus at  83 is :
+(5,(1,2),(3,4)) F[[6,7]] d=[1/2,1/2,0]
+
+The conductor of Cminus at  83 is 2
+Expected depth n =  1/2
+
+The cluster picture of Cminus at  269 is :
+(1,(2,3),(4,5)) d=[1/2,1/2,0]
+
+The conductor of Cminus at  269 is 2
+Expected depth n =  1/2
+
+
+
+
+
+r =  5 , p =  11 , a =  5 , b^p =  -48828368 , c =  -3
+Factorisation of b^p =  [ <2, 4>, <3051773, 1> ]
+
+Polynomial frminus =  x^5 - 45*x^3 + 405*x - 195312986
+Bad primes are:  [ <2, 16>, <5, 27>, <3051773, 2> ]
+
+
+The cluster picture of Cminus at  3051773 is :
+(1,(2,3),(4,5)) F[[6,7]] d=[1/2,1/2,0]
+
+The conductor of Cminus at  3051773 is 2
+Expected depth n =  1/2
+
+
+
+
+
+r =  5 , p =  11 , a =  5 , b^p =  -48828157 , c =  -2
+Factorisation of b^p =  [ <7, 2>, <19, 1>, <179, 1>, <293, 1> ]
+
+Polynomial frminus =  x^5 - 20*x^3 + 80*x - 195312564
+Bad primes are:  [ <2, 8>, <5, 27>, <7, 4>, <19, 2>, <179, 2>, <293, 2> ]
+
+
+The cluster picture of Cminus at  7 is :
+(1,(2,3),(4,5)) F[[6,7]] d=[1,1,0]
+
+The conductor of Cminus at  7 is 2
+Expected depth n =  1
+
+The cluster picture of Cminus at  19 is :
+(1,(2,3),(4,5)) d=[1/2,1/2,0]
+
+The conductor of Cminus at  19 is 2
+Expected depth n =  1/2
+
+The cluster picture of Cminus at  179 is :
+(5,(1,2),(3,4)) d=[1/2,1/2,0]
+
+The conductor of Cminus at  179 is 2
+Expected depth n =  1/2
+
+The cluster picture of Cminus at  293 is :
+(1,(2,3),(4,5)) F[[6,7]] d=[1/2,1/2,0]
+
+The conductor of Cminus at  293 is 2
+Expected depth n =  1/2
+
+
+
+
+
+r =  5 , p =  11 , a =  5 , b^p =  -48828126 , c =  -1
+Factorisation of b^p =  [ <2, 1>, <3, 1>, <23, 1>, <67, 1>, <5281, 1> ]
+
+Polynomial frminus =  x^5 - 5*x^3 + 5*x - 195312502
+Bad primes are:  [ <2, 10>, <3, 2>, <5, 27>, <23, 2>, <67, 2>, <5281, 2> ]
+
+
+The cluster picture of Cminus at  3 is :
+(1,(2,3),(4,5)) F[[6,7]] d=[1/2,1/2,0]
+
+The conductor of Cminus at  3 is 2
+Expected depth n =  1/2
+
+The cluster picture of Cminus at  23 is :
+(5,(1,2),(3,4)) F[[6,7]] d=[1/2,1/2,0]
+
+The conductor of Cminus at  23 is 2
+Expected depth n =  1/2
+
+The cluster picture of Cminus at  67 is :
+(1,(2,3),(4,5)) F[[6,7]] d=[1/2,1/2,0]
+
+The conductor of Cminus at  67 is 2
+Expected depth n =  1/2
+
+The cluster picture of Cminus at  5281 is :
+(5,(1,2),(3,4)) d=[1/2,1/2,0]
+
+The conductor of Cminus at  5281 is 2
+Expected depth n =  1/2
+
+
+
+
+
+r =  5 , p =  11 , a =  5 , b^p =  -48828124 , c =  1
+Factorisation of b^p =  [ <2, 2>, <12207031, 1> ]
+
+Polynomial frminus =  x^5 - 5*x^3 + 5*x - 195312498
+Bad primes are:  [ <2, 12>, <5, 27>, <12207031, 2> ]
+
+
+The cluster picture of Cminus at  12207031 is :
+(1,(2,3),(4,5)) d=[1/2,1/2,0]
+
+The conductor of Cminus at  12207031 is 2
+Expected depth n =  1/2
+
+
+
+
+
+r =  5 , p =  11 , a =  5 , b^p =  -48828093 , c =  2
+Factorisation of b^p =  [ <3, 1>, <16276031, 1> ]
+
+Polynomial frminus =  x^5 - 20*x^3 + 80*x - 195312436
+Bad primes are:  [ <2, 8>, <3, 2>, <5, 27>, <16276031, 2> ]
+
+
+The cluster picture of Cminus at  3 is :
+(1,(2,3),(4,5)) F[[6,7]] d=[1/2,1/2,0]
+
+The conductor of Cminus at  3 is 2
+Expected depth n =  1/2
+
+The cluster picture of Cminus at  16276031 is :
+(1,(2,3),(4,5)) d=[1/2,1/2,0]
+
+The conductor of Cminus at  16276031 is 2
+Expected depth n =  1/2
+
+
+
+
+
+r =  5 , p =  11 , a =  5 , b^p =  -48827882 , c =  3
+Factorisation of b^p =  [ <2, 1>, <367, 1>, <66523, 1> ]
+
+Polynomial frminus =  x^5 - 45*x^3 + 405*x - 195312014
+Bad primes are:  [ <2, 10>, <5, 27>, <367, 2>, <66523, 2> ]
+
+
+The cluster picture of Cminus at  367 is :
+(1,(2,3),(4,5)) F[[6,7]] d=[1/2,1/2,0]
+
+The conductor of Cminus at  367 is 2
+Expected depth n =  1/2
+
+The cluster picture of Cminus at  66523 is :
+(1,(2,3),(4,5)) F[[6,7]] d=[1/2,1/2,0]
+
+The conductor of Cminus at  66523 is 2
+Expected depth n =  1/2
+
+
+
+
+
+r =  5 , p =  11 , a =  5 , b^p =  -48827101 , c =  4
+Factorisation of b^p =  [ <48827101, 1> ]
+
+Polynomial frminus =  x^5 - 80*x^3 + 1280*x - 195310452
+Bad primes are:  [ <2, 8>, <5, 27>, <48827101, 2> ]
+
+
+The cluster picture of Cminus at  48827101 is :
+(1,(2,3),(4,5)) d=[1/2,1/2,0]
+
+The conductor of Cminus at  48827101 is 2
+Expected depth n =  1/2
+
+
+
+
+
+#############################################
+CHANGING PARAMETER r !!!!
+#############################################
+
+#############################################
+CHANGING PARAMETER p !!!!
+#############################################
+
+r =  7 , p =  5 , a =  -5 , b^p =  -13259 , c =  -4
+Factorisation of b^p =  [ <13259, 1> ]
+
+Polynomial frminus =  x^7 - 112*x^5 + 3584*x^3 - 28672*x - 20268
+Bad primes are:  [ <2, 12>, <5, 15>, <7, 7>, <13259, 3> ]
+
+
+The cluster picture of Cminus at  5 is :
+(7,(1,2),(3,4),(5,6)) F[[8,9],[9,10]] d=[5/2,5/2,5/2,0]
+
+The conductor of Cminus at  5 is 3
+Expected depth n =  5/2
+
+The cluster picture of Cminus at  13259 is :
+(7,(1,2),(3,4),(5,6)) d=[1/2,1/2,1/2,0]
+
+The conductor of Cminus at  13259 is 3
+Expected depth n =  1/2
+
+
+
+
+
+r =  7 , p =  5 , a =  -5 , b^p =  938 , c =  -3
+Factorisation of b^p =  [ <2, 1>, <7, 1>, <67, 1> ]
+
+Polynomial frminus =  x^7 - 63*x^5 + 1134*x^3 - 5103*x + 8126
+Bad primes are:  [ <2, 15>, <5, 15>, <7, 10>, <67, 3> ]
+
+
+The cluster picture of Cminus at  5 is :
+(1,(2,3),(4,5),(6,7)) F[[8,9],[9,10]] d=[5/2,5/2,5/2,0]
+
+The conductor of Cminus at  5 is 3
+Expected depth n =  5/2
+
+The cluster picture of Cminus at  67 is :
+(5,(1,2),(3,4),(6,7)) F[[8,9],[9,10]] d=[1/2,1/2,1/2,0]
+
+The conductor of Cminus at  67 is 3
+Expected depth n =  1/2
+
+
+
+
+
+r =  7 , p =  5 , a =  -5 , b^p =  2997 , c =  -2
+Factorisation of b^p =  [ <3, 4>, <37, 1> ]
+
+Polynomial frminus =  x^7 - 28*x^5 + 224*x^3 - 448*x + 12244
+Bad primes are:  [ <2, 12>, <3, 12>, <5, 15>, <7, 7>, <37, 3> ]
+
+
+The cluster picture of Cminus at  3 is :
+(5,(1,2),(3,4),(6,7)) F[[8,9],[9,10]] d=[2,2,2,0]
+
+The conductor of Cminus at  3 is 3
+Expected depth n =  2
+
+The cluster picture of Cminus at  5 is :
+(7,(1,2),(3,4),(5,6)) F[[8,9],[9,10]] d=[5/2,5/2,5/2,0]
+
+The conductor of Cminus at  5 is 3
+Expected depth n =  5/2
+
+The cluster picture of Cminus at  37 is :
+(3,(1,2),(4,5),(6,7)) F[[8,9],[9,10]] d=[1/2,1/2,1/2,0]
+
+The conductor of Cminus at  37 is 3
+Expected depth n =  1/2
+
+
+
+
+
+r =  7 , p =  5 , a =  -5 , b^p =  3124 , c =  -1
+Factorisation of b^p =  [ <2, 2>, <11, 1>, <71, 1> ]
+
+Polynomial frminus =  x^7 - 7*x^5 + 14*x^3 - 7*x + 12498
+Bad primes are:  [ <2, 18>, <5, 15>, <7, 7>, <11, 3>, <71, 3> ]
+
+
+The cluster picture of Cminus at  5 is :
+(3,(1,2),(4,5),(6,7)) F[[8,9],[9,10]] d=[5/2,5/2,5/2,0]
+
+The conductor of Cminus at  5 is 3
+Expected depth n =  5/2
+
+The cluster picture of Cminus at  11 is :
+(3,(1,2),(4,5),(6,7)) F[[8,9],[9,10]] d=[1/2,1/2,1/2,0]
+
+The conductor of Cminus at  11 is 3
+Expected depth n =  1/2
+
+The cluster picture of Cminus at  71 is :
+(3,(1,2),(4,5),(6,7)) d=[1/2,1/2,1/2,0]
+
+The conductor of Cminus at  71 is 3
+Expected depth n =  1/2
+
+
+
+
+
+r =  7 , p =  5 , a =  -5 , b^p =  3126 , c =  1
+Factorisation of b^p =  [ <2, 1>, <3, 1>, <521, 1> ]
+
+Polynomial frminus =  x^7 - 7*x^5 + 14*x^3 - 7*x + 12502
+Bad primes are:  [ <2, 15>, <3, 3>, <5, 15>, <7, 7>, <521, 3> ]
+
+
+The cluster picture of Cminus at  3 is :
+(5,(1,2),(3,4),(6,7)) F[[8,9],[9,10]] d=[1/2,1/2,1/2,0]
+
+The conductor of Cminus at  3 is 3
+Expected depth n =  1/2
+
+The cluster picture of Cminus at  5 is :
+(7,(1,2),(3,4),(5,6)) F[[8,9],[9,10]] d=[5/2,5/2,5/2,0]
+
+The conductor of Cminus at  5 is 3
+Expected depth n =  5/2
+
+The cluster picture of Cminus at  521 is :
+(1,(2,3),(4,5),(6,7)) F[[8,9],[9,10]] d=[1/2,1/2,1/2,0]
+
+The conductor of Cminus at  521 is 3
+Expected depth n =  1/2
+
+
+
+
+
+r =  7 , p =  5 , a =  -5 , b^p =  3253 , c =  2
+Factorisation of b^p =  [ <3253, 1> ]
+
+Polynomial frminus =  x^7 - 28*x^5 + 224*x^3 - 448*x + 12756
+Bad primes are:  [ <2, 12>, <5, 15>, <7, 7>, <3253, 3> ]
+
+
+The cluster picture of Cminus at  5 is :
+(1,(2,3),(4,5),(6,7)) F[[8,9],[9,10]] d=[5/2,5/2,5/2,0]
+
+The conductor of Cminus at  5 is 3
+Expected depth n =  5/2
+
+The cluster picture of Cminus at  3253 is :
+(1,(2,3),(4,5),(6,7)) F[[8,9],[9,10]] d=[1/2,1/2,1/2,0]
+
+The conductor of Cminus at  3253 is 3
+Expected depth n =  1/2
+
+
+
+
+
+r =  7 , p =  5 , a =  -5 , b^p =  5312 , c =  3
+Factorisation of b^p =  [ <2, 6>, <83, 1> ]
+
+Polynomial frminus =  x^7 - 63*x^5 + 1134*x^3 - 5103*x + 16874
+Bad primes are:  [ <2, 30>, <5, 15>, <7, 7>, <83, 3> ]
+
+
+The cluster picture of Cminus at  5 is :
+(7,(1,2),(3,4),(5,6)) F[[8,9],[9,10]] d=[5/2,5/2,5/2,0]
+
+The conductor of Cminus at  5 is 3
+Expected depth n =  5/2
+
+The cluster picture of Cminus at  83 is :
+(7,(1,2),(3,4),(5,6)) d=[1/2,1/2,1/2,0]
+
+The conductor of Cminus at  83 is 3
+Expected depth n =  1/2
+
+
+
+
+
+r =  7 , p =  5 , a =  -5 , b^p =  19509 , c =  4
+Factorisation of b^p =  [ <3, 1>, <7, 1>, <929, 1> ]
+
+Polynomial frminus =  x^7 - 112*x^5 + 3584*x^3 - 28672*x + 45268
+Bad primes are:  [ <2, 12>, <3, 3>, <5, 15>, <7, 10>, <929, 3> ]
+
+
+The cluster picture of Cminus at  3 is :
+(5,(1,2),(3,4),(6,7)) F[[8,9],[9,10]] d=[1/2,1/2,1/2,0]
+
+The conductor of Cminus at  3 is 3
+Expected depth n =  1/2
+
+The cluster picture of Cminus at  5 is :
+(3,(1,2),(4,5),(6,7)) F[[8,9],[9,10]] d=[5/2,5/2,5/2,0]
+
+The conductor of Cminus at  5 is 3
+Expected depth n =  5/2
+
+The cluster picture of Cminus at  929 is :
+(1,(2,3),(4,5),(6,7)) F[[8,9],[9,10]] d=[1/2,1/2,1/2,0]
+
+The conductor of Cminus at  929 is 3
+Expected depth n =  1/2
+
+
+
+
+
+r =  7 , p =  5 , a =  -4 , b^p =  -77101 , c =  -5
+Factorisation of b^p =  [ <77101, 1> ]
+
+Polynomial frminus =  x^7 - 175*x^5 + 8750*x^3 - 109375*x - 152154
+Bad primes are:  [ <2, 42>, <7, 7>, <77101, 3> ]
+
+
+The cluster picture of Cminus at  77101 is :
+(1,(2,3),(4,5),(6,7)) F[[8,9],[9,10]] d=[1/2,1/2,1/2,0]
+
+The conductor of Cminus at  77101 is 3
+Expected depth n =  1/2
+
+
+
+
+
+r =  7 , p =  5 , a =  -4 , b^p =  -1163 , c =  -3
+Factorisation of b^p =  [ <1163, 1> ]
+
+Polynomial frminus =  x^7 - 63*x^5 + 1134*x^3 - 5103*x - 278
+Bad primes are:  [ <2, 42>, <7, 7>, <1163, 3> ]
+
+
+The cluster picture of Cminus at  1163 is :
+(7,(1,2),(3,4),(5,6)) d=[1/2,1/2,1/2,0]
+
+The conductor of Cminus at  1163 is 3
+Expected depth n =  1/2
+
+
+
+
+
+r =  7 , p =  5 , a =  -4 , b^p =  1023 , c =  -1
+Factorisation of b^p =  [ <3, 1>, <11, 1>, <31, 1> ]
+
+Polynomial frminus =  x^7 - 7*x^5 + 14*x^3 - 7*x + 4094
+Bad primes are:  [ <2, 42>, <3, 3>, <7, 7>, <11, 3>, <31, 3> ]
+
+
+The cluster picture of Cminus at  3 is :
+(1,(2,3),(4,5),(6,7)) F[[8,9],[9,10]] d=[1/2,1/2,1/2,0]
+
+The conductor of Cminus at  3 is 3
+Expected depth n =  1/2
+
+The cluster picture of Cminus at  11 is :
+(3,(1,2),(4,5),(6,7)) F[[8,9],[9,10]] d=[1/2,1/2,1/2,0]
+
+The conductor of Cminus at  11 is 3
+Expected depth n =  1/2
+
+The cluster picture of Cminus at  31 is :
+(3,(1,2),(4,5),(6,7)) F[[8,9],[9,10]] d=[1/2,1/2,1/2,0]
+
+The conductor of Cminus at  31 is 3
+Expected depth n =  1/2
+
+
+
+
+
+r =  7 , p =  5 , a =  -4 , b^p =  1025 , c =  1
+Factorisation of b^p =  [ <5, 2>, <41, 1> ]
+
+Polynomial frminus =  x^7 - 7*x^5 + 14*x^3 - 7*x + 4098
+Bad primes are:  [ <2, 42>, <5, 6>, <7, 7>, <41, 3> ]
+
+
+The cluster picture of Cminus at  5 is :
+(3,(1,2),(4,5),(6,7)) F[[8,9],[9,10]] d=[1,1,1,0]
+
+The conductor of Cminus at  5 is 3
+Expected depth n =  1
+
+The cluster picture of Cminus at  41 is :
+(5,(1,2),(3,4),(6,7)) d=[1/2,1/2,1/2,0]
+
+The conductor of Cminus at  41 is 3
+Expected depth n =  1/2
+
+
+
+
+
+r =  7 , p =  5 , a =  -4 , b^p =  3211 , c =  3
+Factorisation of b^p =  [ <13, 2>, <19, 1> ]
+
+Polynomial frminus =  x^7 - 63*x^5 + 1134*x^3 - 5103*x + 8470
+Bad primes are:  [ <2, 42>, <7, 7>, <13, 6>, <19, 3> ]
+
+
+The cluster picture of Cminus at  13 is :
+(5,(1,2),(3,4),(6,7)) d=[1,1,1,0]
+
+The conductor of Cminus at  13 is 3
+Expected depth n =  1
+
+The cluster picture of Cminus at  19 is :
+(3,(1,2),(4,5),(6,7)) F[[8,9],[9,10]] d=[1/2,1/2,1/2,0]
+
+The conductor of Cminus at  19 is 3
+Expected depth n =  1/2
+
+
+
+
+
+r =  7 , p =  5 , a =  -4 , b^p =  79149 , c =  5
+Factorisation of b^p =  [ <3, 1>, <7, 1>, <3769, 1> ]
+
+Polynomial frminus =  x^7 - 175*x^5 + 8750*x^3 - 109375*x + 160346
+Bad primes are:  [ <2, 42>, <3, 3>, <7, 10>, <3769, 3> ]
+
+
+The cluster picture of Cminus at  3 is :
+(1,(2,3),(4,5),(6,7)) F[[8,9],[9,10]] d=[1/2,1/2,1/2,0]
+
+The conductor of Cminus at  3 is 3
+Expected depth n =  1/2
+
+The cluster picture of Cminus at  3769 is :
+(1,(2,3),(4,5),(6,7)) F[[8,9],[9,10]] d=[1/2,1/2,1/2,0]
+
+The conductor of Cminus at  3769 is 3
+Expected depth n =  1/2
+
+
+
+
+
+r =  7 , p =  5 , a =  -3 , b^p =  -77882 , c =  -5
+Factorisation of b^p =  [ <2, 1>, <7, 1>, <5563, 1> ]
+
+Polynomial frminus =  x^7 - 175*x^5 + 8750*x^3 - 109375*x - 155278
+Bad primes are:  [ <2, 15>, <3, 15>, <7, 10>, <5563, 3> ]
+
+
+The cluster picture of Cminus at  3 is :
+(1,(2,3),(4,5),(6,7)) F[[8,9],[9,10]] d=[5/2,5/2,5/2,0]
+
+The conductor of Cminus at  3 is 3
+Expected depth n =  5/2
+
+The cluster picture of Cminus at  5563 is :
+(1,(2,3),(4,5),(6,7)) F[[8,9],[9,10]] d=[1/2,1/2,1/2,0]
+
+The conductor of Cminus at  5563 is 3
+Expected depth n =  1/2
+
+
+
+
+
+r =  7 , p =  5 , a =  -3 , b^p =  -16141 , c =  -4
+Factorisation of b^p =  [ <16141, 1> ]
+
+Polynomial frminus =  x^7 - 112*x^5 + 3584*x^3 - 28672*x - 31796
+Bad primes are:  [ <2, 12>, <3, 15>, <7, 7>, <16141, 3> ]
+
+
+The cluster picture of Cminus at  3 is :
+(5,(1,2),(3,4),(6,7)) F[[8,9],[9,10]] d=[5/2,5/2,5/2,0]
+
+The conductor of Cminus at  3 is 3
+Expected depth n =  5/2
+
+The cluster picture of Cminus at  16141 is :
+(7,(1,2),(3,4),(5,6)) d=[1/2,1/2,1/2,0]
+
+The conductor of Cminus at  16141 is 3
+Expected depth n =  1/2
+
+
+
+
+
+r =  7 , p =  5 , a =  -3 , b^p =  115 , c =  -2
+Factorisation of b^p =  [ <5, 1>, <23, 1> ]
+
+Polynomial frminus =  x^7 - 28*x^5 + 224*x^3 - 448*x + 716
+Bad primes are:  [ <2, 12>, <3, 15>, <5, 3>, <7, 7>, <23, 3> ]
+
+
+The cluster picture of Cminus at  3 is :
+(1,(2,3),(4,5),(6,7)) F[[8,9],[9,10]] d=[5/2,5/2,5/2,0]
+
+The conductor of Cminus at  3 is 3
+Expected depth n =  5/2
+
+The cluster picture of Cminus at  5 is :
+(1,(2,3),(4,5),(6,7)) F[[8,9],[9,10]] d=[1/2,1/2,1/2,0]
+
+The conductor of Cminus at  5 is 3
+Expected depth n =  1/2
+
+The cluster picture of Cminus at  23 is :
+(5,(1,2),(3,4),(6,7)) F[[8,9],[9,10]] d=[1/2,1/2,1/2,0]
+
+The conductor of Cminus at  23 is 3
+Expected depth n =  1/2
+
+
+
+
+
+r =  7 , p =  5 , a =  -3 , b^p =  242 , c =  -1
+Factorisation of b^p =  [ <2, 1>, <11, 2> ]
+
+Polynomial frminus =  x^7 - 7*x^5 + 14*x^3 - 7*x + 970
+Bad primes are:  [ <2, 15>, <3, 15>, <7, 7>, <11, 6> ]
+
+
+The cluster picture of Cminus at  3 is :
+(5,(1,2),(3,4),(6,7)) F[[8,9],[9,10]] d=[5/2,5/2,5/2,0]
+
+The conductor of Cminus at  3 is 3
+Expected depth n =  5/2
+
+The cluster picture of Cminus at  11 is :
+(1,(2,3),(4,5),(6,7)) F[[8,9],[9,10]] d=[1,1,1,0]
+
+The conductor of Cminus at  11 is 3
+Expected depth n =  1
+
+
+
+
+
+r =  7 , p =  5 , a =  -3 , b^p =  244 , c =  1
+Factorisation of b^p =  [ <2, 2>, <61, 1> ]
+
+Polynomial frminus =  x^7 - 7*x^5 + 14*x^3 - 7*x + 974
+Bad primes are:  [ <2, 18>, <3, 15>, <7, 7>, <61, 3> ]
+
+
+The cluster picture of Cminus at  3 is :
+(1,(2,3),(4,5),(6,7)) F[[8,9],[9,10]] d=[5/2,5/2,5/2,0]
+
+The conductor of Cminus at  3 is 3
+Expected depth n =  5/2
+
+The cluster picture of Cminus at  61 is :
+(1,(2,3),(4,5),(6,7)) F[[8,9],[9,10]] d=[1/2,1/2,1/2,0]
+
+The conductor of Cminus at  61 is 3
+Expected depth n =  1/2
+
+
+
+
+
+r =  7 , p =  5 , a =  -3 , b^p =  371 , c =  2
+Factorisation of b^p =  [ <7, 1>, <53, 1> ]
+
+Polynomial frminus =  x^7 - 28*x^5 + 224*x^3 - 448*x + 1228
+Bad primes are:  [ <2, 12>, <3, 15>, <7, 10>, <53, 3> ]
+
+
+The cluster picture of Cminus at  3 is :
+(5,(1,2),(3,4),(6,7)) F[[8,9],[9,10]] d=[5/2,5/2,5/2,0]
+
+The conductor of Cminus at  3 is 3
+Expected depth n =  5/2
+
+The cluster picture of Cminus at  53 is :
+(1,(2,3),(4,5),(6,7)) F[[8,9],[9,10]] d=[1/2,1/2,1/2,0]
+
+The conductor of Cminus at  53 is 3
+Expected depth n =  1/2
+
+
+
+
+
+r =  7 , p =  5 , a =  -3 , b^p =  16627 , c =  4
+Factorisation of b^p =  [ <13, 1>, <1279, 1> ]
+
+Polynomial frminus =  x^7 - 112*x^5 + 3584*x^3 - 28672*x + 33740
+Bad primes are:  [ <2, 12>, <3, 15>, <7, 7>, <13, 3>, <1279, 3> ]
+
+
+The cluster picture of Cminus at  3 is :
+(1,(2,3),(4,5),(6,7)) F[[8,9],[9,10]] d=[5/2,5/2,5/2,0]
+
+The conductor of Cminus at  3 is 3
+Expected depth n =  5/2
+
+The cluster picture of Cminus at  13 is :
+(5,(1,2),(3,4),(6,7)) d=[1/2,1/2,1/2,0]
+
+The conductor of Cminus at  13 is 3
+Expected depth n =  1/2
+
+The cluster picture of Cminus at  1279 is :
+(1,(2,3),(4,5),(6,7)) F[[8,9],[9,10]] d=[1/2,1/2,1/2,0]
+
+The conductor of Cminus at  1279 is 3
+Expected depth n =  1/2
+
+
+
+
+
+r =  7 , p =  5 , a =  -3 , b^p =  78368 , c =  5
+Factorisation of b^p =  [ <2, 5>, <31, 1>, <79, 1> ]
+
+Polynomial frminus =  x^7 - 175*x^5 + 8750*x^3 - 109375*x + 157222
+Bad primes are:  [ <2, 27>, <3, 15>, <7, 7>, <31, 3>, <79, 3> ]
+
+
+The cluster picture of Cminus at  3 is :
+(5,(1,2),(3,4),(6,7)) F[[8,9],[9,10]] d=[5/2,5/2,5/2,0]
+
+The conductor of Cminus at  3 is 3
+Expected depth n =  5/2
+
+The cluster picture of Cminus at  31 is :
+(3,(1,2),(4,5),(6,7)) F[[8,9],[9,10]] d=[1/2,1/2,1/2,0]
+
+The conductor of Cminus at  31 is 3
+Expected depth n =  1/2
+
+The cluster picture of Cminus at  79 is :
+(7,(1,2),(3,4),(5,6)) F[[8,9],[9,10]] d=[1/2,1/2,1/2,0]
+
+The conductor of Cminus at  79 is 3
+Expected depth n =  1/2
+
+
+
+
+
+r =  7 , p =  5 , a =  -2 , b^p =  -78093 , c =  -5
+Factorisation of b^p =  [ <3, 2>, <8677, 1> ]
+
+Polynomial frminus =  x^7 - 175*x^5 + 8750*x^3 - 109375*x - 156122
+Bad primes are:  [ <2, 27>, <3, 6>, <7, 7>, <8677, 3> ]
+
+
+The cluster picture of Cminus at  3 is :
+(5,(1,2),(3,4),(6,7)) F[[8,9],[9,10]] d=[1,1,1,0]
+
+The conductor of Cminus at  3 is 3
+Expected depth n =  1
+
+The cluster picture of Cminus at  8677 is :
+(1,(2,3),(4,5),(6,7)) F[[8,9],[9,10]] d=[1/2,1/2,1/2,0]
+
+The conductor of Cminus at  8677 is 3
+Expected depth n =  1/2
+
+
+
+
+
+r =  7 , p =  5 , a =  -2 , b^p =  -2155 , c =  -3
+Factorisation of b^p =  [ <5, 1>, <431, 1> ]
+
+Polynomial frminus =  x^7 - 63*x^5 + 1134*x^3 - 5103*x - 4246
+Bad primes are:  [ <2, 27>, <5, 3>, <7, 7>, <431, 3> ]
+
+
+The cluster picture of Cminus at  5 is :
+(7,(1,2),(3,4),(5,6)) F[[8,9],[9,10]] d=[1/2,1/2,1/2,0]
+
+The conductor of Cminus at  5 is 3
+Expected depth n =  1/2
+
+The cluster picture of Cminus at  431 is :
+(1,(2,3),(4,5),(6,7)) F[[8,9],[9,10]] d=[1/2,1/2,1/2,0]
+
+The conductor of Cminus at  431 is 3
+Expected depth n =  1/2
+
+
+
+
+
+r =  7 , p =  5 , a =  -2 , b^p =  31 , c =  -1
+Factorisation of b^p =  [ <31, 1> ]
+
+Polynomial frminus =  x^7 - 7*x^5 + 14*x^3 - 7*x + 126
+Bad primes are:  [ <2, 27>, <7, 7>, <31, 3> ]
+
+
+The cluster picture of Cminus at  31 is :
+(3,(1,2),(4,5),(6,7)) F[[8,9],[9,10]] d=[1/2,1/2,1/2,0]
+
+The conductor of Cminus at  31 is 3
+Expected depth n =  1/2
+
+
+
+
+
+r =  7 , p =  5 , a =  -2 , b^p =  33 , c =  1
+Factorisation of b^p =  [ <3, 1>, <11, 1> ]
+
+Polynomial frminus =  x^7 - 7*x^5 + 14*x^3 - 7*x + 130
+Bad primes are:  [ <2, 27>, <3, 3>, <7, 7>, <11, 3> ]
+
+
+The cluster picture of Cminus at  3 is :
+(5,(1,2),(3,4),(6,7)) F[[8,9],[9,10]] d=[1/2,1/2,1/2,0]
+
+The conductor of Cminus at  3 is 3
+Expected depth n =  1/2
+
+The cluster picture of Cminus at  11 is :
+(1,(2,3),(4,5),(6,7)) F[[8,9],[9,10]] d=[1/2,1/2,1/2,0]
+
+The conductor of Cminus at  11 is 3
+Expected depth n =  1/2
+
+
+
+
+
+r =  7 , p =  5 , a =  -2 , b^p =  2219 , c =  3
+Factorisation of b^p =  [ <7, 1>, <317, 1> ]
+
+Polynomial frminus =  x^7 - 63*x^5 + 1134*x^3 - 5103*x + 4502
+Bad primes are:  [ <2, 27>, <7, 10>, <317, 3> ]
+
+
+The cluster picture of Cminus at  317 is :
+(1,(2,3),(4,5),(6,7)) F[[8,9],[9,10]] d=[1/2,1/2,1/2,0]
+
+The conductor of Cminus at  317 is 3
+Expected depth n =  1/2
+
+
+
+
+
+r =  7 , p =  5 , a =  -2 , b^p =  78157 , c =  5
+Factorisation of b^p =  [ <78157, 1> ]
+
+Polynomial frminus =  x^7 - 175*x^5 + 8750*x^3 - 109375*x + 156378
+Bad primes are:  [ <2, 27>, <7, 7>, <78157, 3> ]
+
+
+The cluster picture of Cminus at  78157 is :
+(1,(2,3),(4,5),(6,7)) F[[8,9],[9,10]] d=[1/2,1/2,1/2,0]
+
+The conductor of Cminus at  78157 is 3
+Expected depth n =  1/2
+
+
+
+
+
+r =  7 , p =  5 , a =  -1 , b^p =  -78124 , c =  -5
+Factorisation of b^p =  [ <2, 2>, <19531, 1> ]
+
+Polynomial frminus =  x^7 - 175*x^5 + 8750*x^3 - 109375*x - 156246
+Bad primes are:  [ <2, 18>, <7, 7>, <19531, 3> ]
+
+
+The cluster picture of Cminus at  19531 is :
+(7,(1,2),(3,4),(5,6)) d=[1/2,1/2,1/2,0]
+
+The conductor of Cminus at  19531 is 3
+Expected depth n =  1/2
+
+
+
+
+
+r =  7 , p =  5 , a =  -1 , b^p =  -16383 , c =  -4
+Factorisation of b^p =  [ <3, 1>, <43, 1>, <127, 1> ]
+
+Polynomial frminus =  x^7 - 112*x^5 + 3584*x^3 - 28672*x - 32764
+Bad primes are:  [ <2, 12>, <3, 3>, <7, 7>, <43, 3>, <127, 3> ]
+
+
+The cluster picture of Cminus at  3 is :
+(1,(2,3),(4,5),(6,7)) F[[8,9],[9,10]] d=[1/2,1/2,1/2,0]
+
+The conductor of Cminus at  3 is 3
+Expected depth n =  1/2
+
+The cluster picture of Cminus at  43 is :
+(5,(1,2),(3,4),(6,7)) d=[1/2,1/2,1/2,0]
+
+The conductor of Cminus at  43 is 3
+Expected depth n =  1/2
+
+The cluster picture of Cminus at  127 is :
+(1,(2,3),(4,5),(6,7)) d=[1/2,1/2,1/2,0]
+
+The conductor of Cminus at  127 is 3
+Expected depth n =  1/2
+
+
+
+
+
+r =  7 , p =  5 , a =  -1 , b^p =  -2186 , c =  -3
+Factorisation of b^p =  [ <2, 1>, <1093, 1> ]
+
+Polynomial frminus =  x^7 - 63*x^5 + 1134*x^3 - 5103*x - 4370
+Bad primes are:  [ <2, 15>, <7, 7>, <1093, 3> ]
+
+
+The cluster picture of Cminus at  1093 is :
+(7,(1,2),(3,4),(5,6)) d=[1/2,1/2,1/2,0]
+
+The conductor of Cminus at  1093 is 3
+Expected depth n =  1/2
+
+
+
+
+
+r =  7 , p =  5 , a =  -1 , b^p =  -127 , c =  -2
+Factorisation of b^p =  [ <127, 1> ]
+
+Polynomial frminus =  x^7 - 28*x^5 + 224*x^3 - 448*x - 252
+Bad primes are:  [ <2, 12>, <7, 7>, <127, 3> ]
+
+
+The cluster picture of Cminus at  127 is :
+(5,(1,2),(3,4),(6,7)) d=[1/2,1/2,1/2,0]
+
+The conductor of Cminus at  127 is 3
+Expected depth n =  1/2
+
+
+
+
+
+r =  7 , p =  5 , a =  -1 , b^p =  2 , c =  1
+Factorisation of b^p =  [ <2, 1> ]
+
+Polynomial frminus =  x^7 - 7*x^5 + 14*x^3 - 7*x + 6
+Bad primes are:  [ <2, 15>, <7, 7> ]
+
+
+
+
+
+
+r =  7 , p =  5 , a =  -1 , b^p =  129 , c =  2
+Factorisation of b^p =  [ <3, 1>, <43, 1> ]
+
+Polynomial frminus =  x^7 - 28*x^5 + 224*x^3 - 448*x + 260
+Bad primes are:  [ <2, 12>, <3, 3>, <7, 7>, <43, 3> ]
+
+
+The cluster picture of Cminus at  3 is :
+(1,(2,3),(4,5),(6,7)) F[[8,9],[9,10]] d=[1/2,1/2,1/2,0]
+
+The conductor of Cminus at  3 is 3
+Expected depth n =  1/2
+
+The cluster picture of Cminus at  43 is :
+(5,(1,2),(3,4),(6,7)) d=[1/2,1/2,1/2,0]
+
+The conductor of Cminus at  43 is 3
+Expected depth n =  1/2
+
+
+
+
+
+r =  7 , p =  5 , a =  -1 , b^p =  2188 , c =  3
+Factorisation of b^p =  [ <2, 2>, <547, 1> ]
+
+Polynomial frminus =  x^7 - 63*x^5 + 1134*x^3 - 5103*x + 4378
+Bad primes are:  [ <2, 18>, <7, 7>, <547, 3> ]
+
+
+The cluster picture of Cminus at  547 is :
+(5,(1,2),(3,4),(6,7)) d=[1/2,1/2,1/2,0]
+
+The conductor of Cminus at  547 is 3
+Expected depth n =  1/2
+
+
+
+
+
+r =  7 , p =  5 , a =  -1 , b^p =  16385 , c =  4
+Factorisation of b^p =  [ <5, 1>, <29, 1>, <113, 1> ]
+
+Polynomial frminus =  x^7 - 112*x^5 + 3584*x^3 - 28672*x + 32772
+Bad primes are:  [ <2, 12>, <5, 3>, <7, 7>, <29, 3>, <113, 3> ]
+
+
+The cluster picture of Cminus at  5 is :
+(7,(1,2),(3,4),(5,6)) F[[8,9],[9,10]] d=[1/2,1/2,1/2,0]
+
+The conductor of Cminus at  5 is 3
+Expected depth n =  1/2
+
+The cluster picture of Cminus at  29 is :
+(1,(2,3),(4,5),(6,7)) d=[1/2,1/2,1/2,0]
+
+The conductor of Cminus at  29 is 3
+Expected depth n =  1/2
+
+The cluster picture of Cminus at  113 is :
+(3,(1,2),(4,5),(6,7)) d=[1/2,1/2,1/2,0]
+
+The conductor of Cminus at  113 is 3
+Expected depth n =  1/2
+
+
+
+
+
+r =  7 , p =  5 , a =  -1 , b^p =  78126 , c =  5
+Factorisation of b^p =  [ <2, 1>, <3, 1>, <29, 1>, <449, 1> ]
+
+Polynomial frminus =  x^7 - 175*x^5 + 8750*x^3 - 109375*x + 156254
+Bad primes are:  [ <2, 15>, <3, 3>, <7, 7>, <29, 3>, <449, 3> ]
+
+
+The cluster picture of Cminus at  3 is :
+(1,(2,3),(4,5),(6,7)) F[[8,9],[9,10]] d=[1/2,1/2,1/2,0]
+
+The conductor of Cminus at  3 is 3
+Expected depth n =  1/2
+
+The cluster picture of Cminus at  29 is :
+(5,(1,2),(3,4),(6,7)) d=[1/2,1/2,1/2,0]
+
+The conductor of Cminus at  29 is 3
+Expected depth n =  1/2
+
+The cluster picture of Cminus at  449 is :
+(5,(1,2),(3,4),(6,7)) d=[1/2,1/2,1/2,0]
+
+The conductor of Cminus at  449 is 3
+Expected depth n =  1/2
+
+
+
+
+
+r =  7 , p =  5 , a =  1 , b^p =  -78126 , c =  -5
+Factorisation of b^p =  [ <2, 1>, <3, 1>, <29, 1>, <449, 1> ]
+
+Polynomial frminus =  x^7 - 175*x^5 + 8750*x^3 - 109375*x - 156254
+Bad primes are:  [ <2, 15>, <3, 3>, <7, 7>, <29, 3>, <449, 3> ]
+
+
+The cluster picture of Cminus at  3 is :
+(5,(1,2),(3,4),(6,7)) F[[8,9],[9,10]] d=[1/2,1/2,1/2,0]
+
+The conductor of Cminus at  3 is 3
+Expected depth n =  1/2
+
+The cluster picture of Cminus at  29 is :
+(1,(2,3),(4,5),(6,7)) d=[1/2,1/2,1/2,0]
+
+The conductor of Cminus at  29 is 3
+Expected depth n =  1/2
+
+The cluster picture of Cminus at  449 is :
+(1,(2,3),(4,5),(6,7)) d=[1/2,1/2,1/2,0]
+
+The conductor of Cminus at  449 is 3
+Expected depth n =  1/2
+
+
+
+
+
+r =  7 , p =  5 , a =  1 , b^p =  -16385 , c =  -4
+Factorisation of b^p =  [ <5, 1>, <29, 1>, <113, 1> ]
+
+Polynomial frminus =  x^7 - 112*x^5 + 3584*x^3 - 28672*x - 32772
+Bad primes are:  [ <2, 12>, <5, 3>, <7, 7>, <29, 3>, <113, 3> ]
+
+
+The cluster picture of Cminus at  5 is :
+(3,(1,2),(4,5),(6,7)) F[[8,9],[9,10]] d=[1/2,1/2,1/2,0]
+
+The conductor of Cminus at  5 is 3
+Expected depth n =  1/2
+
+The cluster picture of Cminus at  29 is :
+(3,(1,2),(4,5),(6,7)) d=[1/2,1/2,1/2,0]
+
+The conductor of Cminus at  29 is 3
+Expected depth n =  1/2
+
+The cluster picture of Cminus at  113 is :
+(7,(1,2),(3,4),(5,6)) d=[1/2,1/2,1/2,0]
+
+The conductor of Cminus at  113 is 3
+Expected depth n =  1/2
+
+
+
+
+
+r =  7 , p =  5 , a =  1 , b^p =  -2188 , c =  -3
+Factorisation of b^p =  [ <2, 2>, <547, 1> ]
+
+Polynomial frminus =  x^7 - 63*x^5 + 1134*x^3 - 5103*x - 4378
+Bad primes are:  [ <2, 18>, <7, 7>, <547, 3> ]
+
+
+The cluster picture of Cminus at  547 is :
+(1,(2,3),(4,5),(6,7)) d=[1/2,1/2,1/2,0]
+
+The conductor of Cminus at  547 is 3
+Expected depth n =  1/2
+
+
+
+
+
+r =  7 , p =  5 , a =  1 , b^p =  -129 , c =  -2
+Factorisation of b^p =  [ <3, 1>, <43, 1> ]
+
+Polynomial frminus =  x^7 - 28*x^5 + 224*x^3 - 448*x - 260
+Bad primes are:  [ <2, 12>, <3, 3>, <7, 7>, <43, 3> ]
+
+
+The cluster picture of Cminus at  3 is :
+(5,(1,2),(3,4),(6,7)) F[[8,9],[9,10]] d=[1/2,1/2,1/2,0]
+
+The conductor of Cminus at  3 is 3
+Expected depth n =  1/2
+
+The cluster picture of Cminus at  43 is :
+(7,(1,2),(3,4),(5,6)) d=[1/2,1/2,1/2,0]
+
+The conductor of Cminus at  43 is 3
+Expected depth n =  1/2
+
+
+
+
+
+r =  7 , p =  5 , a =  1 , b^p =  -2 , c =  -1
+Factorisation of b^p =  [ <2, 1> ]
+
+Polynomial frminus =  x^7 - 7*x^5 + 14*x^3 - 7*x - 6
+Bad primes are:  [ <2, 15>, <7, 7> ]
+
+
+
+
+
+
+r =  7 , p =  5 , a =  1 , b^p =  127 , c =  2
+Factorisation of b^p =  [ <127, 1> ]
+
+Polynomial frminus =  x^7 - 28*x^5 + 224*x^3 - 448*x + 252
+Bad primes are:  [ <2, 12>, <7, 7>, <127, 3> ]
+
+
+The cluster picture of Cminus at  127 is :
+(1,(2,3),(4,5),(6,7)) d=[1/2,1/2,1/2,0]
+
+The conductor of Cminus at  127 is 3
+Expected depth n =  1/2
+
+
+
+
+
+r =  7 , p =  5 , a =  1 , b^p =  2186 , c =  3
+Factorisation of b^p =  [ <2, 1>, <1093, 1> ]
+
+Polynomial frminus =  x^7 - 63*x^5 + 1134*x^3 - 5103*x + 4370
+Bad primes are:  [ <2, 15>, <7, 7>, <1093, 3> ]
+
+
+The cluster picture of Cminus at  1093 is :
+(1,(2,3),(4,5),(6,7)) d=[1/2,1/2,1/2,0]
+
+The conductor of Cminus at  1093 is 3
+Expected depth n =  1/2
+
+
+
+
+
+r =  7 , p =  5 , a =  1 , b^p =  16383 , c =  4
+Factorisation of b^p =  [ <3, 1>, <43, 1>, <127, 1> ]
+
+Polynomial frminus =  x^7 - 112*x^5 + 3584*x^3 - 28672*x + 32764
+Bad primes are:  [ <2, 12>, <3, 3>, <7, 7>, <43, 3>, <127, 3> ]
+
+
+The cluster picture of Cminus at  3 is :
+(5,(1,2),(3,4),(6,7)) F[[8,9],[9,10]] d=[1/2,1/2,1/2,0]
+
+The conductor of Cminus at  3 is 3
+Expected depth n =  1/2
+
+The cluster picture of Cminus at  43 is :
+(7,(1,2),(3,4),(5,6)) d=[1/2,1/2,1/2,0]
+
+The conductor of Cminus at  43 is 3
+Expected depth n =  1/2
+
+The cluster picture of Cminus at  127 is :
+(5,(1,2),(3,4),(6,7)) d=[1/2,1/2,1/2,0]
+
+The conductor of Cminus at  127 is 3
+Expected depth n =  1/2
+
+
+
+
+
+r =  7 , p =  5 , a =  1 , b^p =  78124 , c =  5
+Factorisation of b^p =  [ <2, 2>, <19531, 1> ]
+
+Polynomial frminus =  x^7 - 175*x^5 + 8750*x^3 - 109375*x + 156246
+Bad primes are:  [ <2, 18>, <7, 7>, <19531, 3> ]
+
+
+The cluster picture of Cminus at  19531 is :
+(1,(2,3),(4,5),(6,7)) d=[1/2,1/2,1/2,0]
+
+The conductor of Cminus at  19531 is 3
+Expected depth n =  1/2
+
+
+
+
+
+r =  7 , p =  5 , a =  2 , b^p =  -78157 , c =  -5
+Factorisation of b^p =  [ <78157, 1> ]
+
+Polynomial frminus =  x^7 - 175*x^5 + 8750*x^3 - 109375*x - 156378
+Bad primes are:  [ <2, 27>, <7, 7>, <78157, 3> ]
+
+
+The cluster picture of Cminus at  78157 is :
+(1,(2,3),(4,5),(6,7)) F[[8,9],[9,10]] d=[1/2,1/2,1/2,0]
+
+The conductor of Cminus at  78157 is 3
+Expected depth n =  1/2
+
+
+
+
+
+r =  7 , p =  5 , a =  2 , b^p =  -2219 , c =  -3
+Factorisation of b^p =  [ <7, 1>, <317, 1> ]
+
+Polynomial frminus =  x^7 - 63*x^5 + 1134*x^3 - 5103*x - 4502
+Bad primes are:  [ <2, 27>, <7, 10>, <317, 3> ]
+
+
+The cluster picture of Cminus at  317 is :
+(1,(2,3),(4,5),(6,7)) F[[8,9],[9,10]] d=[1/2,1/2,1/2,0]
+
+The conductor of Cminus at  317 is 3
+Expected depth n =  1/2
+
+
+
+
+
+r =  7 , p =  5 , a =  2 , b^p =  -33 , c =  -1
+Factorisation of b^p =  [ <3, 1>, <11, 1> ]
+
+Polynomial frminus =  x^7 - 7*x^5 + 14*x^3 - 7*x - 130
+Bad primes are:  [ <2, 27>, <3, 3>, <7, 7>, <11, 3> ]
+
+
+The cluster picture of Cminus at  3 is :
+(1,(2,3),(4,5),(6,7)) F[[8,9],[9,10]] d=[1/2,1/2,1/2,0]
+
+The conductor of Cminus at  3 is 3
+Expected depth n =  1/2
+
+The cluster picture of Cminus at  11 is :
+(3,(1,2),(4,5),(6,7)) F[[8,9],[9,10]] d=[1/2,1/2,1/2,0]
+
+The conductor of Cminus at  11 is 3
+Expected depth n =  1/2
+
+
+
+
+
+r =  7 , p =  5 , a =  2 , b^p =  -31 , c =  1
+Factorisation of b^p =  [ <31, 1> ]
+
+Polynomial frminus =  x^7 - 7*x^5 + 14*x^3 - 7*x - 126
+Bad primes are:  [ <2, 27>, <7, 7>, <31, 3> ]
+
+
+The cluster picture of Cminus at  31 is :
+(5,(1,2),(3,4),(6,7)) F[[8,9],[9,10]] d=[1/2,1/2,1/2,0]
+
+The conductor of Cminus at  31 is 3
+Expected depth n =  1/2
+
+
+
+
+
+r =  7 , p =  5 , a =  2 , b^p =  2155 , c =  3
+Factorisation of b^p =  [ <5, 1>, <431, 1> ]
+
+Polynomial frminus =  x^7 - 63*x^5 + 1134*x^3 - 5103*x + 4246
+Bad primes are:  [ <2, 27>, <5, 3>, <7, 7>, <431, 3> ]
+
+
+The cluster picture of Cminus at  5 is :
+(1,(2,3),(4,5),(6,7)) F[[8,9],[9,10]] d=[1/2,1/2,1/2,0]
+
+The conductor of Cminus at  5 is 3
+Expected depth n =  1/2
+
+The cluster picture of Cminus at  431 is :
+(1,(2,3),(4,5),(6,7)) F[[8,9],[9,10]] d=[1/2,1/2,1/2,0]
+
+The conductor of Cminus at  431 is 3
+Expected depth n =  1/2
+
+
+
+
+
+r =  7 , p =  5 , a =  2 , b^p =  78093 , c =  5
+Factorisation of b^p =  [ <3, 2>, <8677, 1> ]
+
+Polynomial frminus =  x^7 - 175*x^5 + 8750*x^3 - 109375*x + 156122
+Bad primes are:  [ <2, 27>, <3, 6>, <7, 7>, <8677, 3> ]
+
+
+The cluster picture of Cminus at  3 is :
+(1,(2,3),(4,5),(6,7)) F[[8,9],[9,10]] d=[1,1,1,0]
+
+The conductor of Cminus at  3 is 3
+Expected depth n =  1
+
+The cluster picture of Cminus at  8677 is :
+(1,(2,3),(4,5),(6,7)) F[[8,9],[9,10]] d=[1/2,1/2,1/2,0]
+
+The conductor of Cminus at  8677 is 3
+Expected depth n =  1/2
+
+
+
+
+
+r =  7 , p =  5 , a =  3 , b^p =  -78368 , c =  -5
+Factorisation of b^p =  [ <2, 5>, <31, 1>, <79, 1> ]
+
+Polynomial frminus =  x^7 - 175*x^5 + 8750*x^3 - 109375*x - 157222
+Bad primes are:  [ <2, 27>, <3, 15>, <7, 7>, <31, 3>, <79, 3> ]
+
+
+The cluster picture of Cminus at  3 is :
+(1,(2,3),(4,5),(6,7)) F[[8,9],[9,10]] d=[5/2,5/2,5/2,0]
+
+The conductor of Cminus at  3 is 3
+Expected depth n =  5/2
+
+The cluster picture of Cminus at  31 is :
+(7,(1,2),(3,4),(5,6)) F[[8,9],[9,10]] d=[1/2,1/2,1/2,0]
+
+The conductor of Cminus at  31 is 3
+Expected depth n =  1/2
+
+The cluster picture of Cminus at  79 is :
+(3,(1,2),(4,5),(6,7)) F[[8,9],[9,10]] d=[1/2,1/2,1/2,0]
+
+The conductor of Cminus at  79 is 3
+Expected depth n =  1/2
+
+
+
+
+
+r =  7 , p =  5 , a =  3 , b^p =  -16627 , c =  -4
+Factorisation of b^p =  [ <13, 1>, <1279, 1> ]
+
+Polynomial frminus =  x^7 - 112*x^5 + 3584*x^3 - 28672*x - 33740
+Bad primes are:  [ <2, 12>, <3, 15>, <7, 7>, <13, 3>, <1279, 3> ]
+
+
+The cluster picture of Cminus at  3 is :
+(5,(1,2),(3,4),(6,7)) F[[8,9],[9,10]] d=[5/2,5/2,5/2,0]
+
+The conductor of Cminus at  3 is 3
+Expected depth n =  5/2
+
+The cluster picture of Cminus at  13 is :
+(5,(1,2),(3,4),(6,7)) d=[1/2,1/2,1/2,0]
+
+The conductor of Cminus at  13 is 3
+Expected depth n =  1/2
+
+The cluster picture of Cminus at  1279 is :
+(1,(2,3),(4,5),(6,7)) F[[8,9],[9,10]] d=[1/2,1/2,1/2,0]
+
+The conductor of Cminus at  1279 is 3
+Expected depth n =  1/2
+
+
+
+
+
+r =  7 , p =  5 , a =  3 , b^p =  -371 , c =  -2
+Factorisation of b^p =  [ <7, 1>, <53, 1> ]
+
+Polynomial frminus =  x^7 - 28*x^5 + 224*x^3 - 448*x - 1228
+Bad primes are:  [ <2, 12>, <3, 15>, <7, 10>, <53, 3> ]
+
+
+The cluster picture of Cminus at  3 is :
+(1,(2,3),(4,5),(6,7)) F[[8,9],[9,10]] d=[5/2,5/2,5/2,0]
+
+The conductor of Cminus at  3 is 3
+Expected depth n =  5/2
+
+The cluster picture of Cminus at  53 is :
+(5,(1,2),(3,4),(6,7)) F[[8,9],[9,10]] d=[1/2,1/2,1/2,0]
+
+The conductor of Cminus at  53 is 3
+Expected depth n =  1/2
+
+
+
+
+
+r =  7 , p =  5 , a =  3 , b^p =  -244 , c =  -1
+Factorisation of b^p =  [ <2, 2>, <61, 1> ]
+
+Polynomial frminus =  x^7 - 7*x^5 + 14*x^3 - 7*x - 974
+Bad primes are:  [ <2, 18>, <3, 15>, <7, 7>, <61, 3> ]
+
+
+The cluster picture of Cminus at  3 is :
+(5,(1,2),(3,4),(6,7)) F[[8,9],[9,10]] d=[5/2,5/2,5/2,0]
+
+The conductor of Cminus at  3 is 3
+Expected depth n =  5/2
+
+The cluster picture of Cminus at  61 is :
+(5,(1,2),(3,4),(6,7)) F[[8,9],[9,10]] d=[1/2,1/2,1/2,0]
+
+The conductor of Cminus at  61 is 3
+Expected depth n =  1/2
+
+
+
+
+
+r =  7 , p =  5 , a =  3 , b^p =  -242 , c =  1
+Factorisation of b^p =  [ <2, 1>, <11, 2> ]
+
+Polynomial frminus =  x^7 - 7*x^5 + 14*x^3 - 7*x - 970
+Bad primes are:  [ <2, 15>, <3, 15>, <7, 7>, <11, 6> ]
+
+
+The cluster picture of Cminus at  3 is :
+(1,(2,3),(4,5),(6,7)) F[[8,9],[9,10]] d=[5/2,5/2,5/2,0]
+
+The conductor of Cminus at  3 is 3
+Expected depth n =  5/2
+
+The cluster picture of Cminus at  11 is :
+(1,(2,3),(4,5),(6,7)) F[[8,9],[9,10]] d=[1,1,1,0]
+
+The conductor of Cminus at  11 is 3
+Expected depth n =  1
+
+
+
+
+
+r =  7 , p =  5 , a =  3 , b^p =  -115 , c =  2
+Factorisation of b^p =  [ <5, 1>, <23, 1> ]
+
+Polynomial frminus =  x^7 - 28*x^5 + 224*x^3 - 448*x - 716
+Bad primes are:  [ <2, 12>, <3, 15>, <5, 3>, <7, 7>, <23, 3> ]
+
+
+The cluster picture of Cminus at  3 is :
+(5,(1,2),(3,4),(6,7)) F[[8,9],[9,10]] d=[5/2,5/2,5/2,0]
+
+The conductor of Cminus at  3 is 3
+Expected depth n =  5/2
+
+The cluster picture of Cminus at  5 is :
+(7,(1,2),(3,4),(5,6)) F[[8,9],[9,10]] d=[1/2,1/2,1/2,0]
+
+The conductor of Cminus at  5 is 3
+Expected depth n =  1/2
+
+The cluster picture of Cminus at  23 is :
+(1,(2,3),(4,5),(6,7)) F[[8,9],[9,10]] d=[1/2,1/2,1/2,0]
+
+The conductor of Cminus at  23 is 3
+Expected depth n =  1/2
+
+
+
+
+
+r =  7 , p =  5 , a =  3 , b^p =  16141 , c =  4
+Factorisation of b^p =  [ <16141, 1> ]
+
+Polynomial frminus =  x^7 - 112*x^5 + 3584*x^3 - 28672*x + 31796
+Bad primes are:  [ <2, 12>, <3, 15>, <7, 7>, <16141, 3> ]
+
+
+The cluster picture of Cminus at  3 is :
+(1,(2,3),(4,5),(6,7)) F[[8,9],[9,10]] d=[5/2,5/2,5/2,0]
+
+The conductor of Cminus at  3 is 3
+Expected depth n =  5/2
+
+The cluster picture of Cminus at  16141 is :
+(1,(2,3),(4,5),(6,7)) d=[1/2,1/2,1/2,0]
+
+The conductor of Cminus at  16141 is 3
+Expected depth n =  1/2
+
+
+
+
+
+r =  7 , p =  5 , a =  3 , b^p =  77882 , c =  5
+Factorisation of b^p =  [ <2, 1>, <7, 1>, <5563, 1> ]
+
+Polynomial frminus =  x^7 - 175*x^5 + 8750*x^3 - 109375*x + 155278
+Bad primes are:  [ <2, 15>, <3, 15>, <7, 10>, <5563, 3> ]
+
+
+The cluster picture of Cminus at  3 is :
+(5,(1,2),(3,4),(6,7)) F[[8,9],[9,10]] d=[5/2,5/2,5/2,0]
+
+The conductor of Cminus at  3 is 3
+Expected depth n =  5/2
+
+The cluster picture of Cminus at  5563 is :
+(1,(2,3),(4,5),(6,7)) F[[8,9],[9,10]] d=[1/2,1/2,1/2,0]
+
+The conductor of Cminus at  5563 is 3
+Expected depth n =  1/2
+
+
+
+
+
+r =  7 , p =  5 , a =  4 , b^p =  -79149 , c =  -5
+Factorisation of b^p =  [ <3, 1>, <7, 1>, <3769, 1> ]
+
+Polynomial frminus =  x^7 - 175*x^5 + 8750*x^3 - 109375*x - 160346
+Bad primes are:  [ <2, 42>, <3, 3>, <7, 10>, <3769, 3> ]
+
+
+The cluster picture of Cminus at  3 is :
+(5,(1,2),(3,4),(6,7)) F[[8,9],[9,10]] d=[1/2,1/2,1/2,0]
+
+The conductor of Cminus at  3 is 3
+Expected depth n =  1/2
+
+The cluster picture of Cminus at  3769 is :
+(1,(2,3),(4,5),(6,7)) F[[8,9],[9,10]] d=[1/2,1/2,1/2,0]
+
+The conductor of Cminus at  3769 is 3
+Expected depth n =  1/2
+
+
+
+
+
+r =  7 , p =  5 , a =  4 , b^p =  -3211 , c =  -3
+Factorisation of b^p =  [ <13, 2>, <19, 1> ]
+
+Polynomial frminus =  x^7 - 63*x^5 + 1134*x^3 - 5103*x - 8470
+Bad primes are:  [ <2, 42>, <7, 7>, <13, 6>, <19, 3> ]
+
+
+The cluster picture of Cminus at  13 is :
+(7,(1,2),(3,4),(5,6)) d=[1,1,1,0]
+
+The conductor of Cminus at  13 is 3
+Expected depth n =  1
+
+The cluster picture of Cminus at  19 is :
+(1,(2,3),(4,5),(6,7)) F[[8,9],[9,10]] d=[1/2,1/2,1/2,0]
+
+The conductor of Cminus at  19 is 3
+Expected depth n =  1/2
+
+
+
+
+
+r =  7 , p =  5 , a =  4 , b^p =  -1025 , c =  -1
+Factorisation of b^p =  [ <5, 2>, <41, 1> ]
+
+Polynomial frminus =  x^7 - 7*x^5 + 14*x^3 - 7*x - 4098
+Bad primes are:  [ <2, 42>, <5, 6>, <7, 7>, <41, 3> ]
+
+
+The cluster picture of Cminus at  5 is :
+(7,(1,2),(3,4),(5,6)) F[[8,9],[9,10]] d=[1,1,1,0]
+
+The conductor of Cminus at  5 is 3
+Expected depth n =  1
+
+The cluster picture of Cminus at  41 is :
+(5,(1,2),(3,4),(6,7)) d=[1/2,1/2,1/2,0]
+
+The conductor of Cminus at  41 is 3
+Expected depth n =  1/2
+
+
+
+
+
+r =  7 , p =  5 , a =  4 , b^p =  -1023 , c =  1
+Factorisation of b^p =  [ <3, 1>, <11, 1>, <31, 1> ]
+
+Polynomial frminus =  x^7 - 7*x^5 + 14*x^3 - 7*x - 4094
+Bad primes are:  [ <2, 42>, <3, 3>, <7, 7>, <11, 3>, <31, 3> ]
+
+
+The cluster picture of Cminus at  3 is :
+(5,(1,2),(3,4),(6,7)) F[[8,9],[9,10]] d=[1/2,1/2,1/2,0]
+
+The conductor of Cminus at  3 is 3
+Expected depth n =  1/2
+
+The cluster picture of Cminus at  11 is :
+(1,(2,3),(4,5),(6,7)) F[[8,9],[9,10]] d=[1/2,1/2,1/2,0]
+
+The conductor of Cminus at  11 is 3
+Expected depth n =  1/2
+
+The cluster picture of Cminus at  31 is :
+(5,(1,2),(3,4),(6,7)) F[[8,9],[9,10]] d=[1/2,1/2,1/2,0]
+
+The conductor of Cminus at  31 is 3
+Expected depth n =  1/2
+
+
+
+
+
+r =  7 , p =  5 , a =  4 , b^p =  1163 , c =  3
+Factorisation of b^p =  [ <1163, 1> ]
+
+Polynomial frminus =  x^7 - 63*x^5 + 1134*x^3 - 5103*x + 278
+Bad primes are:  [ <2, 42>, <7, 7>, <1163, 3> ]
+
+
+The cluster picture of Cminus at  1163 is :
+(1,(2,3),(4,5),(6,7)) d=[1/2,1/2,1/2,0]
+
+The conductor of Cminus at  1163 is 3
+Expected depth n =  1/2
+
+
+
+
+
+r =  7 , p =  5 , a =  4 , b^p =  77101 , c =  5
+Factorisation of b^p =  [ <77101, 1> ]
+
+Polynomial frminus =  x^7 - 175*x^5 + 8750*x^3 - 109375*x + 152154
+Bad primes are:  [ <2, 42>, <7, 7>, <77101, 3> ]
+
+
+The cluster picture of Cminus at  77101 is :
+(1,(2,3),(4,5),(6,7)) F[[8,9],[9,10]] d=[1/2,1/2,1/2,0]
+
+The conductor of Cminus at  77101 is 3
+Expected depth n =  1/2
+
+
+
+
+
+r =  7 , p =  5 , a =  5 , b^p =  -19509 , c =  -4
+Factorisation of b^p =  [ <3, 1>, <7, 1>, <929, 1> ]
+
+Polynomial frminus =  x^7 - 112*x^5 + 3584*x^3 - 28672*x - 45268
+Bad primes are:  [ <2, 12>, <3, 3>, <5, 15>, <7, 10>, <929, 3> ]
+
+
+The cluster picture of Cminus at  3 is :
+(1,(2,3),(4,5),(6,7)) F[[8,9],[9,10]] d=[1/2,1/2,1/2,0]
+
+The conductor of Cminus at  3 is 3
+Expected depth n =  1/2
+
+The cluster picture of Cminus at  5 is :
+(7,(1,2),(3,4),(5,6)) F[[8,9],[9,10]] d=[5/2,5/2,5/2,0]
+
+The conductor of Cminus at  5 is 3
+Expected depth n =  5/2
+
+The cluster picture of Cminus at  929 is :
+(1,(2,3),(4,5),(6,7)) F[[8,9],[9,10]] d=[1/2,1/2,1/2,0]
+
+The conductor of Cminus at  929 is 3
+Expected depth n =  1/2
+
+
+
+
+
+r =  7 , p =  5 , a =  5 , b^p =  -5312 , c =  -3
+Factorisation of b^p =  [ <2, 6>, <83, 1> ]
+
+Polynomial frminus =  x^7 - 63*x^5 + 1134*x^3 - 5103*x - 16874
+Bad primes are:  [ <2, 30>, <5, 15>, <7, 7>, <83, 3> ]
+
+
+The cluster picture of Cminus at  5 is :
+(1,(2,3),(4,5),(6,7)) F[[8,9],[9,10]] d=[5/2,5/2,5/2,0]
+
+The conductor of Cminus at  5 is 3
+Expected depth n =  5/2
+
+The cluster picture of Cminus at  83 is :
+(1,(2,3),(4,5),(6,7)) d=[1/2,1/2,1/2,0]
+
+The conductor of Cminus at  83 is 3
+Expected depth n =  1/2
+
+
+
+
+
+r =  7 , p =  5 , a =  5 , b^p =  -3253 , c =  -2
+Factorisation of b^p =  [ <3253, 1> ]
+
+Polynomial frminus =  x^7 - 28*x^5 + 224*x^3 - 448*x - 12756
+Bad primes are:  [ <2, 12>, <5, 15>, <7, 7>, <3253, 3> ]
+
+
+The cluster picture of Cminus at  5 is :
+(7,(1,2),(3,4),(5,6)) F[[8,9],[9,10]] d=[5/2,5/2,5/2,0]
+
+The conductor of Cminus at  5 is 3
+Expected depth n =  5/2
+
+The cluster picture of Cminus at  3253 is :
+(1,(2,3),(4,5),(6,7)) F[[8,9],[9,10]] d=[1/2,1/2,1/2,0]
+
+The conductor of Cminus at  3253 is 3
+Expected depth n =  1/2
+
+
+
+
+
+r =  7 , p =  5 , a =  5 , b^p =  -3126 , c =  -1
+Factorisation of b^p =  [ <2, 1>, <3, 1>, <521, 1> ]
+
+Polynomial frminus =  x^7 - 7*x^5 + 14*x^3 - 7*x - 12502
+Bad primes are:  [ <2, 15>, <3, 3>, <5, 15>, <7, 7>, <521, 3> ]
+
+
+The cluster picture of Cminus at  3 is :
+(1,(2,3),(4,5),(6,7)) F[[8,9],[9,10]] d=[1/2,1/2,1/2,0]
+
+The conductor of Cminus at  3 is 3
+Expected depth n =  1/2
+
+The cluster picture of Cminus at  5 is :
+(3,(1,2),(4,5),(6,7)) F[[8,9],[9,10]] d=[5/2,5/2,5/2,0]
+
+The conductor of Cminus at  5 is 3
+Expected depth n =  5/2
+
+The cluster picture of Cminus at  521 is :
+(1,(2,3),(4,5),(6,7)) F[[8,9],[9,10]] d=[1/2,1/2,1/2,0]
+
+The conductor of Cminus at  521 is 3
+Expected depth n =  1/2
+
+
+
+
+
+r =  7 , p =  5 , a =  5 , b^p =  -3124 , c =  1
+Factorisation of b^p =  [ <2, 2>, <11, 1>, <71, 1> ]
+
+Polynomial frminus =  x^7 - 7*x^5 + 14*x^3 - 7*x - 12498
+Bad primes are:  [ <2, 18>, <5, 15>, <7, 7>, <11, 3>, <71, 3> ]
+
+
+The cluster picture of Cminus at  5 is :
+(7,(1,2),(3,4),(5,6)) F[[8,9],[9,10]] d=[5/2,5/2,5/2,0]
+
+The conductor of Cminus at  5 is 3
+Expected depth n =  5/2
+
+The cluster picture of Cminus at  11 is :
+(1,(2,3),(4,5),(6,7)) F[[8,9],[9,10]] d=[1/2,1/2,1/2,0]
+
+The conductor of Cminus at  11 is 3
+Expected depth n =  1/2
+
+The cluster picture of Cminus at  71 is :
+(1,(2,3),(4,5),(6,7)) d=[1/2,1/2,1/2,0]
+
+The conductor of Cminus at  71 is 3
+Expected depth n =  1/2
+
+
+
+
+
+r =  7 , p =  5 , a =  5 , b^p =  -2997 , c =  2
+Factorisation of b^p =  [ <3, 4>, <37, 1> ]
+
+Polynomial frminus =  x^7 - 28*x^5 + 224*x^3 - 448*x - 12244
+Bad primes are:  [ <2, 12>, <3, 12>, <5, 15>, <7, 7>, <37, 3> ]
+
+
+The cluster picture of Cminus at  3 is :
+(1,(2,3),(4,5),(6,7)) F[[8,9],[9,10]] d=[2,2,2,0]
+
+The conductor of Cminus at  3 is 3
+Expected depth n =  2
+
+The cluster picture of Cminus at  5 is :
+(1,(2,3),(4,5),(6,7)) F[[8,9],[9,10]] d=[5/2,5/2,5/2,0]
+
+The conductor of Cminus at  5 is 3
+Expected depth n =  5/2
+
+The cluster picture of Cminus at  37 is :
+(1,(2,3),(4,5),(6,7)) F[[8,9],[9,10]] d=[1/2,1/2,1/2,0]
+
+The conductor of Cminus at  37 is 3
+Expected depth n =  1/2
+
+
+
+
+
+r =  7 , p =  5 , a =  5 , b^p =  -938 , c =  3
+Factorisation of b^p =  [ <2, 1>, <7, 1>, <67, 1> ]
+
+Polynomial frminus =  x^7 - 63*x^5 + 1134*x^3 - 5103*x - 8126
+Bad primes are:  [ <2, 15>, <5, 15>, <7, 10>, <67, 3> ]
+
+
+The cluster picture of Cminus at  5 is :
+(7,(1,2),(3,4),(5,6)) F[[8,9],[9,10]] d=[5/2,5/2,5/2,0]
+
+The conductor of Cminus at  5 is 3
+Expected depth n =  5/2
+
+The cluster picture of Cminus at  67 is :
+(5,(1,2),(3,4),(6,7)) F[[8,9],[9,10]] d=[1/2,1/2,1/2,0]
+
+The conductor of Cminus at  67 is 3
+Expected depth n =  1/2
+
+
+
+
+
+r =  7 , p =  5 , a =  5 , b^p =  13259 , c =  4
+Factorisation of b^p =  [ <13259, 1> ]
+
+Polynomial frminus =  x^7 - 112*x^5 + 3584*x^3 - 28672*x + 20268
+Bad primes are:  [ <2, 12>, <5, 15>, <7, 7>, <13259, 3> ]
+
+
+The cluster picture of Cminus at  5 is :
+(3,(1,2),(4,5),(6,7)) F[[8,9],[9,10]] d=[5/2,5/2,5/2,0]
+
+The conductor of Cminus at  5 is 3
+Expected depth n =  5/2
+
+The cluster picture of Cminus at  13259 is :
+(1,(2,3),(4,5),(6,7)) d=[1/2,1/2,1/2,0]
+
+The conductor of Cminus at  13259 is 3
+Expected depth n =  1/2
+
+
+
+
+
+#############################################
+CHANGING PARAMETER p !!!!
+#############################################
+
+r =  7 , p =  11 , a =  -5 , b^p =  48811741 , c =  -4
+Factorisation of b^p =  [ <11, 1>, <19, 1>, <233549, 1> ]
+
+Polynomial frminus =  x^7 - 112*x^5 + 3584*x^3 - 28672*x + 195279732
+Bad primes are:  [ <2, 12>, <5, 33>, <7, 7>, <11, 3>, <19, 3>, <233549, 3> ]
+
+
+The cluster picture of Cminus at  5 is :
+(7,(1,2),(3,4),(5,6)) F[[8,9],[9,10]] d=[11/2,11/2,11/2,0]
+
+The conductor of Cminus at  5 is 3
+Expected depth n =  11/2
+
+The cluster picture of Cminus at  11 is :
+(3,(1,2),(4,5),(6,7)) F[[8,9],[9,10]] d=[1/2,1/2,1/2,0]
+
+The conductor of Cminus at  11 is 3
+Expected depth n =  1/2
+
+The cluster picture of Cminus at  19 is :
+(3,(1,2),(4,5),(6,7)) F[[8,9],[9,10]] d=[1/2,1/2,1/2,0]
+
+The conductor of Cminus at  19 is 3
+Expected depth n =  1/2
+
+The cluster picture of Cminus at  233549 is :
+(7,(1,2),(3,4),(5,6)) d=[1/2,1/2,1/2,0]
+
+The conductor of Cminus at  233549 is 3
+Expected depth n =  1/2
+
+
+
+
+
+r =  7 , p =  11 , a =  -5 , b^p =  48825938 , c =  -3
+Factorisation of b^p =  [ <2, 1>, <7, 1>, <17, 1>, <205151, 1> ]
+
+Polynomial frminus =  x^7 - 63*x^5 + 1134*x^3 - 5103*x + 195308126
+Bad primes are:  [ <2, 15>, <5, 33>, <7, 10>, <17, 3>, <205151, 3> ]
+
+
+The cluster picture of Cminus at  5 is :
+(1,(2,3),(4,5),(6,7)) F[[8,9],[9,10]] d=[11/2,11/2,11/2,0]
+
+The conductor of Cminus at  5 is 3
+Expected depth n =  11/2
+
+The cluster picture of Cminus at  17 is :
+(3,(1,2),(4,5),(6,7)) F[[8,9],[9,10]] d=[1/2,1/2,1/2,0]
+
+The conductor of Cminus at  17 is 3
+Expected depth n =  1/2
+
+The cluster picture of Cminus at  205151 is :
+(1,(2,3),(4,5),(6,7)) F[[8,9],[9,10]] d=[1/2,1/2,1/2,0]
+
+The conductor of Cminus at  205151 is 3
+Expected depth n =  1/2
+
+
+
+
+
+r =  7 , p =  11 , a =  -5 , b^p =  48827997 , c =  -2
+Factorisation of b^p =  [ <3, 2>, <5425333, 1> ]
+
+Polynomial frminus =  x^7 - 28*x^5 + 224*x^3 - 448*x + 195312244
+Bad primes are:  [ <2, 12>, <3, 6>, <5, 33>, <7, 7>, <5425333, 3> ]
+
+
+The cluster picture of Cminus at  3 is :
+(5,(1,2),(3,4),(6,7)) F[[8,9],[9,10]] d=[1,1,1,0]
+
+The conductor of Cminus at  3 is 3
+Expected depth n =  1
+
+The cluster picture of Cminus at  5 is :
+(7,(1,2),(3,4),(5,6)) F[[8,9],[9,10]] d=[11/2,11/2,11/2,0]
+
+The conductor of Cminus at  5 is 3
+Expected depth n =  11/2
+
+The cluster picture of Cminus at  5425333 is :
+(1,(2,3),(4,5),(6,7)) F[[8,9],[9,10]] d=[1/2,1/2,1/2,0]
+
+The conductor of Cminus at  5425333 is 3
+Expected depth n =  1/2
+
+
+
+
+
+r =  7 , p =  11 , a =  -5 , b^p =  48828124 , c =  -1
+Factorisation of b^p =  [ <2, 2>, <12207031, 1> ]
+
+Polynomial frminus =  x^7 - 7*x^5 + 14*x^3 - 7*x + 195312498
+Bad primes are:  [ <2, 18>, <5, 33>, <7, 7>, <12207031, 3> ]
+
+
+The cluster picture of Cminus at  5 is :
+(3,(1,2),(4,5),(6,7)) F[[8,9],[9,10]] d=[11/2,11/2,11/2,0]
+
+The conductor of Cminus at  5 is 3
+Expected depth n =  11/2
+
+The cluster picture of Cminus at  12207031 is :
+(1,(2,3),(4,5),(6,7)) F[[8,9],[9,10]] d=[1/2,1/2,1/2,0]
+
+The conductor of Cminus at  12207031 is 3
+Expected depth n =  1/2
+
+
+
+
+
+r =  7 , p =  11 , a =  -5 , b^p =  48828126 , c =  1
+Factorisation of b^p =  [ <2, 1>, <3, 1>, <23, 1>, <67, 1>, <5281, 1> ]
+
+Polynomial frminus =  x^7 - 7*x^5 + 14*x^3 - 7*x + 195312502
+Bad primes are:  [ <2, 15>, <3, 3>, <5, 33>, <7, 7>, <23, 3>, <67, 3>, <5281, 3>
+]
+
+
+The cluster picture of Cminus at  3 is :
+(5,(1,2),(3,4),(6,7)) F[[8,9],[9,10]] d=[1/2,1/2,1/2,0]
+
+The conductor of Cminus at  3 is 3
+Expected depth n =  1/2
+
+The cluster picture of Cminus at  5 is :
+(7,(1,2),(3,4),(5,6)) F[[8,9],[9,10]] d=[11/2,11/2,11/2,0]
+
+The conductor of Cminus at  5 is 3
+Expected depth n =  11/2
+
+The cluster picture of Cminus at  23 is :
+(1,(2,3),(4,5),(6,7)) F[[8,9],[9,10]] d=[1/2,1/2,1/2,0]
+
+The conductor of Cminus at  23 is 3
+Expected depth n =  1/2
+
+The cluster picture of Cminus at  67 is :
+(1,(2,3),(4,5),(6,7)) F[[8,9],[9,10]] d=[1/2,1/2,1/2,0]
+
+The conductor of Cminus at  67 is 3
+Expected depth n =  1/2
+
+The cluster picture of Cminus at  5281 is :
+(1,(2,3),(4,5),(6,7)) F[[8,9],[9,10]] d=[1/2,1/2,1/2,0]
+
+The conductor of Cminus at  5281 is 3
+Expected depth n =  1/2
+
+
+
+
+
+r =  7 , p =  11 , a =  -5 , b^p =  48828253 , c =  2
+Factorisation of b^p =  [ <41, 1>, <47, 1>, <25339, 1> ]
+
+Polynomial frminus =  x^7 - 28*x^5 + 224*x^3 - 448*x + 195312756
+Bad primes are:  [ <2, 12>, <5, 33>, <7, 7>, <41, 3>, <47, 3>, <25339, 3> ]
+
+
+The cluster picture of Cminus at  5 is :
+(1,(2,3),(4,5),(6,7)) F[[8,9],[9,10]] d=[11/2,11/2,11/2,0]
+
+The conductor of Cminus at  5 is 3
+Expected depth n =  11/2
+
+The cluster picture of Cminus at  41 is :
+(5,(1,2),(3,4),(6,7)) d=[1/2,1/2,1/2,0]
+
+The conductor of Cminus at  41 is 3
+Expected depth n =  1/2
+
+The cluster picture of Cminus at  47 is :
+(5,(1,2),(3,4),(6,7)) F[[8,9],[9,10]] d=[1/2,1/2,1/2,0]
+
+The conductor of Cminus at  47 is 3
+Expected depth n =  1/2
+
+The cluster picture of Cminus at  25339 is :
+(1,(2,3),(4,5),(6,7)) d=[1/2,1/2,1/2,0]
+
+The conductor of Cminus at  25339 is 3
+Expected depth n =  1/2
+
+
+
+
+
+r =  7 , p =  11 , a =  -5 , b^p =  48830312 , c =  3
+Factorisation of b^p =  [ <2, 3>, <6103789, 1> ]
+
+Polynomial frminus =  x^7 - 63*x^5 + 1134*x^3 - 5103*x + 195316874
+Bad primes are:  [ <2, 21>, <5, 33>, <7, 7>, <6103789, 3> ]
+
+
+
+[Interrupted]

@@ -82,7 +82,7 @@ for r in primes_r do
             print "CHANGING PARAMETER p !!!!";
             print"#############################################";
             print " ";
-            Cminus_at_q(r, p, 10, 10);
+            Cminus_at_q(r, p, 5, 5);
         end if;
     end for;
 end for;

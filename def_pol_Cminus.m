@@ -1,3 +1,5 @@
+//In this file we construct the defining polynomials for the Cminus curve for different values of r and p.
+
 primes := [r : r in [5..100] | IsPrime(r)]; //Initializing the lists
 defining_pols := [* *];
 

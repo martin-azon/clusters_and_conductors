@@ -1,4 +1,4 @@
-//We are going to compute the cluster picture and conductor of the curve C^- (a.k.a. Cminus) at any place q dividng a*b, q ne r.
+//We are going to compute the cluster picture and conductor of the curve C^- (a.k.a. Cminus) at r, when r does not divide ab
 //We expect Cminus to be semistable at such places!
 
 Attach("clusters.m");

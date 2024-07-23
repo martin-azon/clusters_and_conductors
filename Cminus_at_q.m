@@ -28,9 +28,9 @@ procedure Cminus_at_q(r, p, rge_a, rge_c); //prints the cluster picture of Cminu
                 print "r = ", r, ", p = ", p, ", a = ", a, ", b^p = ", bp, ", c = ", c;
                 print "Factorisation of b^p = ", Factorization(bp);
                 print " ";
-                print "Polynomial frminus = ", frm; //displaying places of bad reduction
+                print "Polynomial frminus = ", frm; 
                 BadPrimes:=Factorization(Integers()!Discriminant(frm));
-                print "Bad primes are: ", BadPrimes;
+                print "Bad primes are: ", BadPrimes; //displaying places of bad reduction
                 print " ";
                 print " ";
                 for i in [2..#BadPrimes] do //i begins at position 2 because BadPrimes[1] = 2

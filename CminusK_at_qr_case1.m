@@ -13,8 +13,8 @@ end function;
 function extK(r : prec:= 50);
     //returns the extension K of Qr obtained by adjoining zeta_r + 1/zeta_r
     MinPolw := Minpolw(r);
-
-    R<x> := PolynomialRing(pAdicField(r, prec));
+    Qr := pAdicField(r, prec);
+    R<x> := PolynomialRing(Qr);
     minpolw := elt<R | Evaluate(MinPolw, x+2)>;
     //print IsEisenstein(minpolw); it is always true!
     K := ext<Qr | minpolw>;
@@ -100,4 +100,3 @@ for r in primes_r do
     print"#############################################";
     print " ";
 end for;
-

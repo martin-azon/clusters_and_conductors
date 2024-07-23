@@ -1,5 +1,5 @@
 //We are going to compute the cluster picture and conductor of the curve C^- (a.k.a. Cminus) at r when r divides a.
-//We expect Cminus the conductor to be r-1 in that case!
+//We expect the conductor of Cminus to be r-1 in that case!
 
 Attach("clusters.m");
 

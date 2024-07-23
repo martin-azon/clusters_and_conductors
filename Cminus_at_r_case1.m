@@ -1,5 +1,5 @@
 //We are going to compute the cluster picture and conductor of the curve C^- (a.k.a. Cminus) at r, when r does not divide ab
-//We expect Cminus to be semistable at such places!
+//We expect the conductor to be r or r-1 depending on the irreducibility of frminus over Qr.
 
 Attach("clusters.m");
 

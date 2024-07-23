@@ -57,7 +57,7 @@ primes_r := [5, 7];
 primes_p := [7, 11, 13];
 
 print "We compute the cluster pictures and conductor of the curve";
-print "Cminus(r, p, a, c) at r when r divides a*bp.";
+print "Cminus(r, p, a, c) at r when r does not divide a*bp.";
 
 for r in primes_r do
     print"#############################################";

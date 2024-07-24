@@ -1,0 +1,1178 @@
+Magma V2.28-10    Tue Jul 23 2024 19:43:49 on BABBAGE  [Seed = 
+1907834438]
+
++-------------------------------------------------------------------+
+|       This copy of Magma has been made available through a        |
+|                   generous initiative of the                      |
+|                                                                   |
+|                         Simons Foundation                         |
+|                                                                   |
+| covering U.S. Colleges, Universities, Nonprofit Research entities,|
+|               and their students, faculty, and staff              |
++-------------------------------------------------------------------+
+
+Type ? for help.  Type <Ctrl>-D to quit.
+
+Loading file "CminusK_at_qr_case1.m"
+
+##########################################################
+We compute the cluster pictures and conductor of the curve
+Cminus(r, p, a, c) at r when r does not divide a*bp.
+We call w = zeta + 1/zeta
+##########################################################
+
+r =  5 , p =  7 , a =  -9 , b^p =  4779844 , c =  -5
+Polynomial frminus =  x^5 - (5^3 + O(5^52))*x^3 + (5^5 + O(5^54))*x 
+    + 19125626 + O(5^50)
+
+Factorisation of frm in Qr is  [
+    <x + 31463091456594487370694893045665776 + O(5^50), 1>,
+    <x^4 - (31463091456594487370694893045665776 + O(5^50))*x^3 - 
+        (42897808937253520945363371800755449 + O(5^50))*x^2 - 
+        (21415986817944190148291756550811576 + O(5^50))*x - 
+        35947952057629659460829488440455149 + O(5^50), 1>
+]
+1 + O(5^50)
+
+
+The cluster picture of Cminus at r is :
+(1,2,3,4,5) d=[1/2]
+
+Expected depth is 1/2
+
+The conductor of Cminus at r is 4
+
+
+
+
+r =  5 , p =  7 , a =  -9 , b^p =  4782937 , c =  -2
+Polynomial frminus =  x^5 - (4*5 + O(5^50))*x^3 + (16*5 + O(5^50))*x + 19131812 
+    + O(5^50)
+
+Factorisation of frm in Qr is  [
+    <x^5 + O(5^50)*x^4 - (4*5 + O(5^50))*x^3 + O(5^50)*x^2 + (16*5 + O(5^50))*x 
+        + 19131812 + O(5^50), 1>
+]
+1 + O(5^50)
+
+
+The cluster picture of Cminus at r is :
+(1,2,3,4,5) d=[1/2]
+
+Expected depth is 1/2
+
+The conductor of Cminus at r is 6
+
+
+
+
+r =  5 , p =  7 , a =  -9 , b^p =  4782968 , c =  -1
+Polynomial frminus =  x^5 - (5 + O(5^50))*x^3 + (5 + O(5^50))*x + 19131874 + 
+    O(5^50)
+
+Factorisation of frm in Qr is  [
+    <x - 30023244077196017030926770026154501 + O(5^50), 1>,
+    <x^4 + (30023244077196017030926770026154501 + O(5^50))*x^3 + 
+        (40632324989691064318511329612012121 + O(5^50))*x^2 - 
+        (6982126818868237213216465306793379 + O(5^50))*x - 
+        14957042325698950771776438704645749 + O(5^50), 1>
+]
+1 + O(5^50)
+
+
+The cluster picture of Cminus at r is :
+(1,2,3,4,5) d=[1/2]
+
+Expected depth is 1/2
+
+The conductor of Cminus at r is 4
+
+
+
+
+r =  5 , p =  7 , a =  -9 , b^p =  4783001 , c =  2
+Polynomial frminus =  x^5 - (4*5 + O(5^50))*x^3 + (16*5 + O(5^50))*x + 3826388*5
+    + O(5^51)
+
+Factorisation of frm in Qr is  [
+    <x^5 + O(5^50)*x^4 - (4*5 + O(5^50))*x^3 + O(5^50)*x^2 + (16*5 + O(5^50))*x 
+        + 3826388*5 + O(5^50), 1>
+]
+1 + O(5^50)
+
+
+The cluster picture of Cminus at r is :
+(1,2,3,4,5) d=[1/2]
+
+Expected depth is 1/2
+
+The conductor of Cminus at r is 6
+
+
+
+
+r =  5 , p =  7 , a =  -9 , b^p =  4783993 , c =  4
+Polynomial frminus =  x^5 - (16*5 + O(5^50))*x^3 + (256*5 + O(5^50))*x + 
+    19133924 + O(5^50)
+
+Factorisation of frm in Qr is  [
+    <x - 33988298382306193548767063605666651 + O(5^50), 1>,
+    <x^4 + (33988298382306193548767063605666651 + O(5^50))*x^3 + 
+        (41811905490475504427259833465586971 + O(5^50))*x^2 + 
+        (14389839716112155920744427933788496 + O(5^50))*x + 
+        38692641086080039472328241934960676 + O(5^50), 1>
+]
+1 + O(5^50)
+
+
+The cluster picture of Cminus at r is :
+(1,2,3,4,5) d=[1/2]
+
+Expected depth is 1/2
+
+The conductor of Cminus at r is 4
+
+
+
+
+r =  5 , p =  7 , a =  -9 , b^p =  4786094 , c =  5
+Polynomial frminus =  x^5 - (5^3 + O(5^52))*x^3 + (5^5 + O(5^54))*x + 19138126 +
+    O(5^50)
+
+Factorisation of frm in Qr is  [
+    <x + 10298031629931529989706089106074526 + O(5^50), 1>,
+    <x^4 - (10298031629931529989706089106074526 + O(5^50))*x^3 - 
+        (34819885311819988015253110879187949 + O(5^50))*x^2 + 
+        (18873261440408289558068533533212174 + O(5^50))*x + 
+        41144339969913876891033817033961101 + O(5^50), 1>
+]
+1 + O(5^50)
+
+
+The cluster picture of Cminus at r is :
+(1,2,3,4,5) d=[1/2]
+
+Expected depth is 1/2
+
+The conductor of Cminus at r is 4
+
+
+
+
+r =  5 , p =  7 , a =  -8 , b^p =  2094027 , c =  -5
+Polynomial frminus =  x^5 - (5^3 + O(5^52))*x^3 + (5^5 + O(5^54))*x + 8382358 + 
+    O(5^50)
+
+Factorisation of frm in Qr is  [
+    <x^5 + O(5^50)*x^4 - (5^3 + O(5^50))*x^3 + O(5^50)*x^2 + (5^5 + O(5^50))*x +
+        8382358 + O(5^50), 1>
+]
+1 + O(5^50)
+
+
+The cluster picture of Cminus at r is :
+(1,2,3,4,5) d=[1/2]
+
+Expected depth is 1/2
+
+The conductor of Cminus at r is 6
+
+
+
+
+r =  5 , p =  7 , a =  -8 , b^p =  2096909 , c =  -3
+Polynomial frminus =  x^5 - (9*5 + O(5^50))*x^3 + (81*5 + O(5^50))*x + 8388122 +
+    O(5^50)
+
+Factorisation of frm in Qr is  [
+    <x^5 + O(5^50)*x^4 - (9*5 + O(5^50))*x^3 + O(5^50)*x^2 + (81*5 + O(5^50))*x 
+        + 8388122 + O(5^50), 1>
+]
+1 + O(5^50)
+
+
+The cluster picture of Cminus at r is :
+(1,2,3,4,5) d=[1/2]
+
+Expected depth is 1/2
+
+The conductor of Cminus at r is 6
+
+
+
+
+r =  5 , p =  7 , a =  -8 , b^p =  2097151 , c =  -1
+Polynomial frminus =  x^5 - (5 + O(5^50))*x^3 + (5 + O(5^50))*x + 8388606 + 
+    O(5^50)
+
+Factorisation of frm in Qr is  [
+    <x^5 + O(5^50)*x^4 - (5 + O(5^50))*x^3 + O(5^50)*x^2 + (5 + O(5^50))*x + 
+        8388606 + O(5^50), 1>
+]
+1 + O(5^50)
+
+
+The cluster picture of Cminus at r is :
+(1,2,3,4,5) d=[1/2]
+
+Expected depth is 1/2
+
+The conductor of Cminus at r is 6
+
+
+
+
+r =  5 , p =  7 , a =  -8 , b^p =  2097153 , c =  1
+Polynomial frminus =  x^5 - (5 + O(5^50))*x^3 + (5 + O(5^50))*x + 1677722*5 + 
+    O(5^51)
+
+Factorisation of frm in Qr is  [
+    <x^5 + O(5^50)*x^4 - (5 + O(5^50))*x^3 + O(5^50)*x^2 + (5 + O(5^50))*x + 
+        1677722*5 + O(5^50), 1>
+]
+1 + O(5^50)
+
+
+The cluster picture of Cminus at r is :
+(1,2,3,4,5) d=[1/2]
+
+Expected depth is 1/2
+
+The conductor of Cminus at r is 6
+
+
+
+
+r =  5 , p =  7 , a =  -8 , b^p =  2100277 , c =  5
+Polynomial frminus =  x^5 - (5^3 + O(5^52))*x^3 + (5^5 + O(5^54))*x + 8394858 + 
+    O(5^50)
+
+Factorisation of frm in Qr is  [
+    <x^5 + O(5^50)*x^4 - (5^3 + O(5^50))*x^3 + O(5^50)*x^2 + (5^5 + O(5^50))*x +
+        8394858 + O(5^50), 1>
+]
+1 + O(5^50)
+
+
+The cluster picture of Cminus at r is :
+(1,2,3,4,5) d=[1/2]
+
+Expected depth is 1/2
+
+The conductor of Cminus at r is 6
+
+
+
+
+r =  5 , p =  7 , a =  -7 , b^p =  820418 , c =  -5
+Polynomial frminus =  x^5 - (5^3 + O(5^52))*x^3 + (5^5 + O(5^54))*x + 3287922 + 
+    O(5^50)
+
+Factorisation of frm in Qr is  [
+    <x^5 + O(5^50)*x^4 - (5^3 + O(5^50))*x^3 + O(5^50)*x^2 + (5^5 + O(5^50))*x +
+        3287922 + O(5^50), 1>
+]
+1 + O(5^50)
+
+
+The cluster picture of Cminus at r is :
+(1,2,3,4,5) d=[1/2]
+
+Expected depth is 1/2
+
+The conductor of Cminus at r is 6
+
+
+
+
+r =  5 , p =  7 , a =  -7 , b^p =  822519 , c =  -4
+Polynomial frminus =  x^5 - (16*5 + O(5^50))*x^3 + (256*5 + O(5^50))*x + 3292124
+    + O(5^50)
+
+Factorisation of frm in Qr is  [
+    <x + 35202332362022203442412920754710409 + O(5^50), 1>,
+    <x^4 - (35202332362022203442412920754710409 + O(5^50))*x^3 - 
+        (17037228748250511332341722043146549 + O(5^50))*x^2 - 
+        (13525053105594279223378217474458959 + O(5^50))*x - 
+        40167709893691917192980811472050739 + O(5^50), 1>
+]
+1 + O(5^50)
+
+
+The cluster picture of Cminus at r is :
+(1,2,3,4,5) d=[1/2]
+
+Expected depth is 1/2
+
+The conductor of Cminus at r is 4
+
+
+
+
+r =  5 , p =  7 , a =  -7 , b^p =  823511 , c =  -2
+Polynomial frminus =  x^5 - (4*5 + O(5^50))*x^3 + (16*5 + O(5^50))*x + 3294108 +
+    O(5^50)
+
+Factorisation of frm in Qr is  [
+    <x^5 + O(5^50)*x^4 - (4*5 + O(5^50))*x^3 + O(5^50)*x^2 + (16*5 + O(5^50))*x 
+        + 3294108 + O(5^50), 1>
+]
+1 + O(5^50)
+
+
+The cluster picture of Cminus at r is :
+(1,2,3,4,5) d=[1/2]
+
+Expected depth is 1/2
+
+The conductor of Cminus at r is 6
+
+
+
+
+r =  5 , p =  7 , a =  -7 , b^p =  823542 , c =  -1
+Polynomial frminus =  x^5 - (5 + O(5^50))*x^3 + (5 + O(5^50))*x + 658834*5 + 
+    O(5^51)
+
+Factorisation of frm in Qr is  [
+    <x^5 + O(5^50)*x^4 - (5 + O(5^50))*x^3 + O(5^50)*x^2 + (5 + O(5^50))*x + 
+        658834*5 + O(5^50), 1>
+]
+1 + O(5^50)
+
+
+The cluster picture of Cminus at r is :
+(1,2,3,4,5) d=[1/2]
+
+Expected depth is 1/2
+
+The conductor of Cminus at r is 6
+
+
+
+
+r =  5 , p =  7 , a =  -7 , b^p =  823544 , c =  1
+Polynomial frminus =  x^5 - (5 + O(5^50))*x^3 + (5 + O(5^50))*x + 3294174 + 
+    O(5^50)
+
+Factorisation of frm in Qr is  [
+    <x - 17739799573020590257821002983786486 + O(5^50), 1>,
+    <x^4 + (17739799573020590257821002983786486 + O(5^50))*x^3 - 
+        (2201055730408204855158915924709309 + O(5^50))*x^2 + 
+        (38639930950235573132507473305917451 + O(5^50))*x - 
+        35719334319544963811450624517210934 + O(5^50), 1>
+]
+1 + O(5^50)
+
+
+The cluster picture of Cminus at r is :
+(1,2,3,4,5) d=[1/2]
+
+Expected depth is 1/2
+
+The conductor of Cminus at r is 4
+
+
+
+
+r =  5 , p =  7 , a =  -7 , b^p =  823786 , c =  3
+Polynomial frminus =  x^5 - (9*5 + O(5^50))*x^3 + (81*5 + O(5^50))*x + 3294658 +
+    O(5^50)
+
+Factorisation of frm in Qr is  [
+    <x^5 + O(5^50)*x^4 - (9*5 + O(5^50))*x^3 + O(5^50)*x^2 + (81*5 + O(5^50))*x 
+        + 3294658 + O(5^50), 1>
+]
+1 + O(5^50)
+
+
+The cluster picture of Cminus at r is :
+(1,2,3,4,5) d=[1/2]
+
+Expected depth is 1/2
+
+The conductor of Cminus at r is 6
+
+
+
+
+r =  5 , p =  7 , a =  -7 , b^p =  824567 , c =  4
+Polynomial frminus =  x^5 - (16*5 + O(5^50))*x^3 + (256*5 + O(5^50))*x + 
+    659244*5 + O(5^51)
+
+Factorisation of frm in Qr is  [
+    <x^5 + O(5^50)*x^4 - (16*5 + O(5^50))*x^3 + O(5^50)*x^2 + (256*5 + 
+        O(5^50))*x + 659244*5 + O(5^50), 1>
+]
+1 + O(5^50)
+
+
+The cluster picture of Cminus at r is :
+(1,2,3,4,5) d=[1/2]
+
+Expected depth is 1/2
+
+The conductor of Cminus at r is 6
+
+
+
+
+r =  5 , p =  7 , a =  -7 , b^p =  826668 , c =  5
+Polynomial frminus =  x^5 - (5^3 + O(5^52))*x^3 + (5^5 + O(5^54))*x + 3300422 + 
+    O(5^50)
+
+Factorisation of frm in Qr is  [
+    <x^5 + O(5^50)*x^4 - (5^3 + O(5^50))*x^3 + O(5^50)*x^2 + (5^5 + O(5^50))*x +
+        3300422 + O(5^50), 1>
+]
+1 + O(5^50)
+
+
+The cluster picture of Cminus at r is :
+(1,2,3,4,5) d=[1/2]
+
+Expected depth is 1/2
+
+The conductor of Cminus at r is 6
+
+
+
+
+r =  5 , p =  7 , a =  -6 , b^p =  276811 , c =  -5
+Polynomial frminus =  x^5 - (5^3 + O(5^52))*x^3 + (5^5 + O(5^54))*x + 1113494 + 
+    O(5^50)
+
+Factorisation of frm in Qr is  [
+    <x^5 + O(5^50)*x^4 - (5^3 + O(5^50))*x^3 + O(5^50)*x^2 + (5^5 + O(5^50))*x +
+        1113494 + O(5^50), 1>
+]
+1 + O(5^50)
+
+
+The cluster picture of Cminus at r is :
+(1,2,3,4,5) d=[1/2]
+
+Expected depth is 1/2
+
+The conductor of Cminus at r is 6
+
+
+
+
+r =  5 , p =  7 , a =  -6 , b^p =  279937 , c =  1
+Polynomial frminus =  x^5 - (5 + O(5^50))*x^3 + (5 + O(5^50))*x + 1119746 + 
+    O(5^50)
+
+Factorisation of frm in Qr is  [
+    <x^5 + O(5^50)*x^4 - (5 + O(5^50))*x^3 + O(5^50)*x^2 + (5 + O(5^50))*x + 
+        1119746 + O(5^50), 1>
+]
+1 + O(5^50)
+
+
+The cluster picture of Cminus at r is :
+(1,2,3,4,5) d=[1/2]
+
+Expected depth is 1/2
+
+The conductor of Cminus at r is 6
+
+
+
+
+r =  5 , p =  7 , a =  -6 , b^p =  283061 , c =  5
+Polynomial frminus =  x^5 - (5^3 + O(5^52))*x^3 + (5^5 + O(5^54))*x + 1125994 + 
+    O(5^50)
+
+Factorisation of frm in Qr is  [
+    <x^5 + O(5^50)*x^4 - (5^3 + O(5^50))*x^3 + O(5^50)*x^2 + (5^5 + O(5^50))*x +
+        1125994 + O(5^50), 1>
+]
+1 + O(5^50)
+
+
+The cluster picture of Cminus at r is :
+(1,2,3,4,5) d=[1/2]
+
+Expected depth is 1/2
+
+The conductor of Cminus at r is 6
+
+
+
+
+r =  5 , p =  7 , a =  -4 , b^p =  13259 , c =  -5
+Polynomial frminus =  x^5 - (5^3 + O(5^52))*x^3 + (5^5 + O(5^54))*x + 59286 + 
+    O(5^50)
+
+Factorisation of frm in Qr is  [
+    <x^5 + O(5^50)*x^4 - (5^3 + O(5^50))*x^3 + O(5^50)*x^2 + (5^5 + O(5^50))*x +
+        59286 + O(5^50), 1>
+]
+1 + O(5^50)
+
+
+The cluster picture of Cminus at r is :
+(1,2,3,4,5) d=[1/2]
+
+Expected depth is 1/2
+
+The conductor of Cminus at r is 6
+
+
+
+
+r =  5 , p =  7 , a =  -4 , b^p =  16141 , c =  -3
+Polynomial frminus =  x^5 - (9*5 + O(5^50))*x^3 + (81*5 + O(5^50))*x + 2602*5^2 
+    + O(5^52)
+
+Factorisation of frm in Qr is  [
+    <x - 4500327030051442885603263085450583*5 + O(5^50), 1>,
+    <x^4 + (4500327030051442885603263085450583*5 + O(5^50))*x^3 - 
+        (3973710005846290810623186385347439*5 + O(5^50))*x^2 + 
+        (684224148466291775057346709189938*5^2 + O(5^50))*x - 
+        5439358311693537467942329207278569*5 + O(5^50), 1>
+]
+1 + O(5^50)
+
+
+The cluster picture of Cminus at r is :
+(1,2,3,4,5) d=[1/2]
+
+Expected depth is 1/2
+
+The conductor of Cminus at r is 4
+
+
+
+
+r =  5 , p =  7 , a =  -4 , b^p =  16383 , c =  -1
+Polynomial frminus =  x^5 - (5 + O(5^50))*x^3 + (5 + O(5^50))*x + 65534 + 
+    O(5^50)
+
+Factorisation of frm in Qr is  [
+    <x^5 + O(5^50)*x^4 - (5 + O(5^50))*x^3 + O(5^50)*x^2 + (5 + O(5^50))*x + 
+        65534 + O(5^50), 1>
+]
+1 + O(5^50)
+
+
+The cluster picture of Cminus at r is :
+(1,2,3,4,5) d=[1/2]
+
+Expected depth is 1/2
+
+The conductor of Cminus at r is 6
+
+
+
+
+r =  5 , p =  7 , a =  -4 , b^p =  16627 , c =  3
+Polynomial frminus =  x^5 - (9*5 + O(5^50))*x^3 + (81*5 + O(5^50))*x + 66022 + 
+    O(5^50)
+
+Factorisation of frm in Qr is  [
+    <x^5 + O(5^50)*x^4 - (9*5 + O(5^50))*x^3 + O(5^50)*x^2 + (81*5 + O(5^50))*x 
+        + 66022 + O(5^50), 1>
+]
+1 + O(5^50)
+
+
+The cluster picture of Cminus at r is :
+(1,2,3,4,5) d=[1/2]
+
+Expected depth is 1/2
+
+The conductor of Cminus at r is 6
+
+
+
+
+r =  5 , p =  7 , a =  -4 , b^p =  19509 , c =  5
+Polynomial frminus =  x^5 - (5^3 + O(5^52))*x^3 + (5^5 + O(5^54))*x + 71786 + 
+    O(5^50)
+
+Factorisation of frm in Qr is  [
+    <x^5 + O(5^50)*x^4 - (5^3 + O(5^50))*x^3 + O(5^50)*x^2 + (5^5 + O(5^50))*x +
+        71786 + O(5^50), 1>
+]
+1 + O(5^50)
+
+
+The cluster picture of Cminus at r is :
+(1,2,3,4,5) d=[1/2]
+
+Expected depth is 1/2
+
+The conductor of Cminus at r is 6
+
+
+
+
+r =  5 , p =  7 , a =  -3 , b^p =  -938 , c =  -5
+Polynomial frminus =  x^5 - (5^3 + O(5^52))*x^3 + (5^5 + O(5^54))*x + 2498 + 
+    O(5^50)
+
+Factorisation of frm in Qr is  [
+    <x^5 + O(5^50)*x^4 - (5^3 + O(5^50))*x^3 + O(5^50)*x^2 + (5^5 + O(5^50))*x +
+        2498 + O(5^50), 1>
+]
+1 + O(5^50)
+
+
+The cluster picture of Cminus at r is :
+(1,2,3,4,5) d=[1/2]
+
+Expected depth is 1/2
+
+The conductor of Cminus at r is 6
+
+
+
+
+r =  5 , p =  7 , a =  -3 , b^p =  1163 , c =  -4
+Polynomial frminus =  x^5 - (16*5 + O(5^50))*x^3 + (256*5 + O(5^50))*x + 268*5^2
+    + O(5^52)
+
+Factorisation of frm in Qr is  [
+    <x + 3426763789241618402059284243459053*5 + O(5^50), 1>,
+    <x^4 - (3426763789241618402059284243459053*5 + O(5^50))*x^3 + 
+        (2785442785374778559631714772268404*5 + O(5^50))*x^2 + 
+        (918671290394130479027584428854213*5^2 + O(5^50))*x + 
+        3355722519761408011722307085711781*5 + O(5^50), 1>
+]
+1 + O(5^50)
+
+
+The cluster picture of Cminus at r is :
+(1,2,3,4,5) d=[1/2]
+
+Expected depth is 1/2
+
+The conductor of Cminus at r is 4
+
+
+
+
+r =  5 , p =  7 , a =  -3 , b^p =  2186 , c =  -1
+Polynomial frminus =  x^5 - (5 + O(5^50))*x^3 + (5 + O(5^50))*x + 8746 + O(5^50)
+
+Factorisation of frm in Qr is  [
+    <x^5 + O(5^50)*x^4 - (5 + O(5^50))*x^3 + O(5^50)*x^2 + (5 + O(5^50))*x + 
+        8746 + O(5^50), 1>
+]
+1 + O(5^50)
+
+
+The cluster picture of Cminus at r is :
+(1,2,3,4,5) d=[1/2]
+
+Expected depth is 1/2
+
+The conductor of Cminus at r is 6
+
+
+
+
+r =  5 , p =  7 , a =  -3 , b^p =  2188 , c =  1
+Polynomial frminus =  x^5 - (5 + O(5^50))*x^3 + (5 + O(5^50))*x + 14*5^4 + 
+    O(5^54)
+
+Factorisation of frm in Qr is  [
+    <x - 321992984802356896732413970796861*5^3 + O(5^50), 1>,
+    <x^4 + (321992984802356896732413970796861*5^3 + O(5^50))*x^3 + 
+        (5617088838598585234598172949831249*5 + O(5^50))*x^2 + 
+        (54793948929393344796011460081264*5^4 + O(5^50))*x - 
+        2211744085214891774895574661265624*5 + O(5^50), 1>
+]
+1 + O(5^50)
+
+
+The cluster picture of Cminus at r is :
+(1,2,3,4,5) d=[1/2]
+
+Expected depth is 1/2
+
+The conductor of Cminus at r is 4
+
+
+
+
+r =  5 , p =  7 , a =  -3 , b^p =  2219 , c =  2
+Polynomial frminus =  x^5 - (4*5 + O(5^50))*x^3 + (16*5 + O(5^50))*x + 8812 + 
+    O(5^50)
+
+Factorisation of frm in Qr is  [
+    <x^5 + O(5^50)*x^4 - (4*5 + O(5^50))*x^3 + O(5^50)*x^2 + (16*5 + O(5^50))*x 
+        + 8812 + O(5^50), 1>
+]
+1 + O(5^50)
+
+
+The cluster picture of Cminus at r is :
+(1,2,3,4,5) d=[1/2]
+
+Expected depth is 1/2
+
+The conductor of Cminus at r is 6
+
+
+
+
+r =  5 , p =  7 , a =  -3 , b^p =  3211 , c =  4
+Polynomial frminus =  x^5 - (16*5 + O(5^50))*x^3 + (256*5 + O(5^50))*x + 10796 +
+    O(5^50)
+
+Factorisation of frm in Qr is  [
+    <x^5 + O(5^50)*x^4 - (16*5 + O(5^50))*x^3 + O(5^50)*x^2 + (256*5 + 
+        O(5^50))*x + 10796 + O(5^50), 1>
+]
+1 + O(5^50)
+
+
+The cluster picture of Cminus at r is :
+(1,2,3,4,5) d=[1/2]
+
+Expected depth is 1/2
+
+The conductor of Cminus at r is 6
+
+
+
+
+r =  5 , p =  7 , a =  -3 , b^p =  5312 , c =  5
+Polynomial frminus =  x^5 - (5^3 + O(5^52))*x^3 + (5^5 + O(5^54))*x + 14998 + 
+    O(5^50)
+
+Factorisation of frm in Qr is  [
+    <x^5 + O(5^50)*x^4 - (5^3 + O(5^50))*x^3 + O(5^50)*x^2 + (5^5 + O(5^50))*x +
+        14998 + O(5^50), 1>
+]
+1 + O(5^50)
+
+
+The cluster picture of Cminus at r is :
+(1,2,3,4,5) d=[1/2]
+
+Expected depth is 1/2
+
+The conductor of Cminus at r is 6
+
+
+
+
+r =  5 , p =  7 , a =  -2 , b^p =  -2997 , c =  -5
+Polynomial frminus =  x^5 - (5^3 + O(5^52))*x^3 + (5^5 + O(5^54))*x - 5738 + 
+    O(5^50)
+
+Factorisation of frm in Qr is  [
+    <x^5 + O(5^50)*x^4 - (5^3 + O(5^50))*x^3 + O(5^50)*x^2 + (5^5 + O(5^50))*x -
+        5738 + O(5^50), 1>
+]
+1 + O(5^50)
+
+
+The cluster picture of Cminus at r is :
+(1,2,3,4,5) d=[1/2]
+
+Expected depth is 1/2
+
+The conductor of Cminus at r is 6
+
+
+
+
+r =  5 , p =  7 , a =  -2 , b^p =  127 , c =  -1
+Polynomial frminus =  x^5 - (5 + O(5^50))*x^3 + (5 + O(5^50))*x + 102*5 + 
+    O(5^51)
+
+Factorisation of frm in Qr is  [
+    <x^5 + O(5^50)*x^4 - (5 + O(5^50))*x^3 + O(5^50)*x^2 + (5 + O(5^50))*x + 
+        102*5 + O(5^50), 1>
+]
+1 + O(5^50)
+
+
+The cluster picture of Cminus at r is :
+(1,2,3,4,5) d=[1/2]
+
+Expected depth is 1/2
+
+The conductor of Cminus at r is 6
+
+
+
+
+r =  5 , p =  7 , a =  -2 , b^p =  129 , c =  1
+Polynomial frminus =  x^5 - (5 + O(5^50))*x^3 + (5 + O(5^50))*x + 514 + O(5^50)
+
+Factorisation of frm in Qr is  [
+    <x^5 + O(5^50)*x^4 - (5 + O(5^50))*x^3 + O(5^50)*x^2 + (5 + O(5^50))*x + 514
+        + O(5^50), 1>
+]
+1 + O(5^50)
+
+
+The cluster picture of Cminus at r is :
+(1,2,3,4,5) d=[1/2]
+
+Expected depth is 1/2
+
+The conductor of Cminus at r is 6
+
+
+
+
+r =  5 , p =  7 , a =  -2 , b^p =  371 , c =  3
+Polynomial frminus =  x^5 - (9*5 + O(5^50))*x^3 + (81*5 + O(5^50))*x + 998 + 
+    O(5^50)
+
+Factorisation of frm in Qr is  [
+    <x^5 + O(5^50)*x^4 - (9*5 + O(5^50))*x^3 + O(5^50)*x^2 + (81*5 + O(5^50))*x 
+        + 998 + O(5^50), 1>
+]
+1 + O(5^50)
+
+
+The cluster picture of Cminus at r is :
+(1,2,3,4,5) d=[1/2]
+
+Expected depth is 1/2
+
+The conductor of Cminus at r is 6
+
+
+
+
+r =  5 , p =  7 , a =  -2 , b^p =  3253 , c =  5
+Polynomial frminus =  x^5 - (5^3 + O(5^52))*x^3 + (5^5 + O(5^54))*x + 6762 + 
+    O(5^50)
+
+Factorisation of frm in Qr is  [
+    <x^5 + O(5^50)*x^4 - (5^3 + O(5^50))*x^3 + O(5^50)*x^2 + (5^5 + O(5^50))*x +
+        6762 + O(5^50), 1>
+]
+1 + O(5^50)
+
+
+The cluster picture of Cminus at r is :
+(1,2,3,4,5) d=[1/2]
+
+Expected depth is 1/2
+
+The conductor of Cminus at r is 6
+
+
+
+
+r =  5 , p =  7 , a =  -1 , b^p =  -3124 , c =  -5
+Polynomial frminus =  x^5 - (5^3 + O(5^52))*x^3 + (5^5 + O(5^54))*x - 6246 + 
+    O(5^50)
+
+Factorisation of frm in Qr is  [
+    <x^5 + O(5^50)*x^4 - (5^3 + O(5^50))*x^3 + O(5^50)*x^2 + (5^5 + O(5^50))*x -
+        6246 + O(5^50), 1>
+]
+1 + O(5^50)
+
+
+The cluster picture of Cminus at r is :
+(1,2,3,4,5) d=[1/2]
+
+Expected depth is 1/2
+
+The conductor of Cminus at r is 6
+
+
+
+
+r =  5 , p =  7 , a =  -1 , b^p =  -1023 , c =  -4
+Polynomial frminus =  x^5 - (16*5 + O(5^50))*x^3 + (256*5 + O(5^50))*x - 2044 + 
+    O(5^50)
+
+Factorisation of frm in Qr is  [
+    <x^5 + O(5^50)*x^4 - (16*5 + O(5^50))*x^3 + O(5^50)*x^2 + (256*5 + 
+        O(5^50))*x - 2044 + O(5^50), 1>
+]
+1 + O(5^50)
+
+
+The cluster picture of Cminus at r is :
+(1,2,3,4,5) d=[1/2]
+
+Expected depth is 1/2
+
+The conductor of Cminus at r is 6
+
+
+
+
+r =  5 , p =  7 , a =  -1 , b^p =  -242 , c =  -3
+Polynomial frminus =  x^5 - (9*5 + O(5^50))*x^3 + (81*5 + O(5^50))*x - 482 + 
+    O(5^50)
+
+Factorisation of frm in Qr is  [
+    <x - 2 + O(5^50), 1>,
+    <x^4 + (2 + O(5^50))*x^3 - (41 + O(5^50))*x^2 - (82 + O(5^50))*x + 241 + 
+        O(5^50), 1>
+]
+1 + O(5^50)
+
+
+The cluster picture of Cminus at r is :
+(1,2,3,4,5) d=[1/2]
+
+Expected depth is 1/2
+
+The conductor of Cminus at r is 4
+
+
+
+
+r =  5 , p =  7 , a =  -1 , b^p =  -31 , c =  -2
+Polynomial frminus =  x^5 - (4*5 + O(5^50))*x^3 + (16*5 + O(5^50))*x - 12*5 + 
+    O(5^51)
+
+Factorisation of frm in Qr is  [
+    <x^5 + O(5^50)*x^4 - (4*5 + O(5^50))*x^3 + O(5^50)*x^2 + (16*5 + O(5^50))*x 
+        - 12*5 + O(5^50), 1>
+]
+1 + O(5^50)
+
+
+The cluster picture of Cminus at r is :
+(1,2,3,4,5) d=[1/2]
+
+Expected depth is 1/2
+
+The conductor of Cminus at r is 6
+
+
+
+
+r =  5 , p =  7 , a =  -1 , b^p =  2 , c =  1
+Polynomial frminus =  x^5 - (5 + O(5^50))*x^3 + (5 + O(5^50))*x + 6 + O(5^50)
+
+Factorisation of frm in Qr is  [
+    <x^5 + O(5^50)*x^4 - (5 + O(5^50))*x^3 + O(5^50)*x^2 + (5 + O(5^50))*x + 6 +
+        O(5^50), 1>
+]
+1 + O(5^50)
+
+
+The cluster picture of Cminus at r is :
+(1,2,3,4,5) d=[1/2]
+
+Expected depth is 1/2
+
+The conductor of Cminus at r is 6
+
+
+
+
+r =  5 , p =  7 , a =  -1 , b^p =  33 , c =  2
+Polynomial frminus =  x^5 - (4*5 + O(5^50))*x^3 + (16*5 + O(5^50))*x + 68 + 
+    O(5^50)
+
+Factorisation of frm in Qr is  [
+    <x + 11214608714540275922854037205149603 + O(5^50), 1>,
+    <x^4 - (11214608714540275922854037205149603 + O(5^50))*x^3 - 
+        (2329250553120100734669811845973661 + O(5^50))*x^2 + 
+        (48117948179721407093187323700333 + O(5^50))*x - 
+        16279746749252673643663791649667719 + O(5^50), 1>
+]
+1 + O(5^50)
+
+
+The cluster picture of Cminus at r is :
+(1,2,3,4,5) d=[1/2]
+
+Expected depth is 1/2
+
+The conductor of Cminus at r is 4
+
+
+
+
+r =  5 , p =  7 , a =  -1 , b^p =  244 , c =  3
+Polynomial frminus =  x^5 - (9*5 + O(5^50))*x^3 + (81*5 + O(5^50))*x + 98*5 + 
+    O(5^51)
+
+Factorisation of frm in Qr is  [
+    <x^5 + O(5^50)*x^4 - (9*5 + O(5^50))*x^3 + O(5^50)*x^2 + (81*5 + O(5^50))*x 
+        + 98*5 + O(5^50), 1>
+]
+1 + O(5^50)
+
+
+The cluster picture of Cminus at r is :
+(1,2,3,4,5) d=[1/2]
+
+Expected depth is 1/2
+
+The conductor of Cminus at r is 6
+
+
+
+
+r =  5 , p =  7 , a =  -1 , b^p =  3126 , c =  5
+Polynomial frminus =  x^5 - (5^3 + O(5^52))*x^3 + (5^5 + O(5^54))*x + 6254 + 
+    O(5^50)
+
+Factorisation of frm in Qr is  [
+    <x^5 + O(5^50)*x^4 - (5^3 + O(5^50))*x^3 + O(5^50)*x^2 + (5^5 + O(5^50))*x +
+        6254 + O(5^50), 1>
+]
+1 + O(5^50)
+
+
+The cluster picture of Cminus at r is :
+(1,2,3,4,5) d=[1/2]
+
+Expected depth is 1/2
+
+The conductor of Cminus at r is 6
+
+
+
+
+r =  5 , p =  7 , a =  1 , b^p =  -3126 , c =  -5
+Polynomial frminus =  x^5 - (5^3 + O(5^52))*x^3 + (5^5 + O(5^54))*x - 6254 + 
+    O(5^50)
+
+Factorisation of frm in Qr is  [
+    <x^5 + O(5^50)*x^4 - (5^3 + O(5^50))*x^3 + O(5^50)*x^2 + (5^5 + O(5^50))*x -
+        6254 + O(5^50), 1>
+]
+1 + O(5^50)
+
+
+The cluster picture of Cminus at r is :
+(1,2,3,4,5) d=[1/2]
+
+Expected depth is 1/2
+
+The conductor of Cminus at r is 6
+
+
+
+
+r =  5 , p =  7 , a =  1 , b^p =  -244 , c =  -3
+Polynomial frminus =  x^5 - (9*5 + O(5^50))*x^3 + (81*5 + O(5^50))*x - 98*5 + 
+    O(5^51)
+
+Factorisation of frm in Qr is  [
+    <x^5 + O(5^50)*x^4 - (9*5 + O(5^50))*x^3 + O(5^50)*x^2 + (81*5 + O(5^50))*x 
+        - 98*5 + O(5^50), 1>
+]
+1 + O(5^50)
+
+
+The cluster picture of Cminus at r is :
+(1,2,3,4,5) d=[1/2]
+
+Expected depth is 1/2
+
+The conductor of Cminus at r is 6
+
+
+
+
+r =  5 , p =  7 , a =  1 , b^p =  -33 , c =  -2
+Polynomial frminus =  x^5 - (4*5 + O(5^50))*x^3 + (16*5 + O(5^50))*x - 68 + 
+    O(5^50)
+
+Factorisation of frm in Qr is  [
+    <x - 11214608714540275922854037205149603 + O(5^50), 1>,
+    <x^4 + (11214608714540275922854037205149603 + O(5^50))*x^3 - 
+        (2329250553120100734669811845973661 + O(5^50))*x^2 - 
+        (48117948179721407093187323700333 + O(5^50))*x - 
+        16279746749252673643663791649667719 + O(5^50), 1>
+]
+1 + O(5^50)
+
+
+The cluster picture of Cminus at r is :
+(1,2,3,4,5) d=[1/2]
+
+Expected depth is 1/2
+
+The conductor of Cminus at r is 4
+
+
+
+
+r =  5 , p =  7 , a =  1 , b^p =  -2 , c =  -1
+Polynomial frminus =  x^5 - (5 + O(5^50))*x^3 + (5 + O(5^50))*x - 6 + O(5^50)
+
+Factorisation of frm in Qr is  [
+    <x^5 + O(5^50)*x^4 - (5 + O(5^50))*x^3 + O(5^50)*x^2 + (5 + O(5^50))*x - 6 +
+        O(5^50), 1>
+]
+1 + O(5^50)
+
+
+The cluster picture of Cminus at r is :
+(1,2,3,4,5) d=[1/2]
+
+Expected depth is 1/2
+
+The conductor of Cminus at r is 6
+
+
+
+
+r =  5 , p =  7 , a =  1 , b^p =  31 , c =  2
+Polynomial frminus =  x^5 - (4*5 + O(5^50))*x^3 + (16*5 + O(5^50))*x + 12*5 + 
+    O(5^51)
+
+Factorisation of frm in Qr is  [
+    <x^5 + O(5^50)*x^4 - (4*5 + O(5^50))*x^3 + O(5^50)*x^2 + (16*5 + O(5^50))*x 
+        + 12*5 + O(5^50), 1>
+]
+1 + O(5^50)
+
+
+The cluster picture of Cminus at r is :
+(1,2,3,4,5) d=[1/2]
+
+Expected depth is 1/2
+
+The conductor of Cminus at r is 6
+
+
+
+
+r =  5 , p =  7 , a =  1 , b^p =  242 , c =  3
+Polynomial frminus =  x^5 - (9*5 + O(5^50))*x^3 + (81*5 + O(5^50))*x + 482 + 
+    O(5^50)
+
+Factorisation of frm in Qr is  [
+    <x + 2 + O(5^50), 1>,
+    <x^4 - (2 + O(5^50))*x^3 - (41 + O(5^50))*x^2 + (82 + O(5^50))*x + 241 + 
+        O(5^50), 1>
+]
+1 + O(5^50)
+
+
+The cluster picture of Cminus at r is :
+(1,2,3,4,5) d=[1/2]
+
+Expected depth is 1/2
+
+The conductor of Cminus at r is 4
+
+
+
+
+r =  5 , p =  7 , a =  1 , b^p =  1023 , c =  4
+Polynomial frminus =  x^5 - (16*5 + O(5^50))*x^3 + (256*5 + O(5^50))*x + 2044 + 
+    O(5^50)
+
+Factorisation of frm in Qr is  [
+    <x^5 + O(5^50)*x^4 - (16*5 + O(5^50))*x^3 + O(5^50)*x^2 + (256*5 + 
+        O(5^50))*x + 2044 + O(5^50), 1>
+]
+1 + O(5^50)
+
+

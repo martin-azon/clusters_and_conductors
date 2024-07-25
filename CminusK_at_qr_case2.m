@@ -10,7 +10,7 @@ function Minpolw(r); //generates the minimal polynomial of w, the generator of K
     return MinimalPolynomial(w);
 end function;
 
-function extK(r : prec:= 50);
+function extK(r : prec:= 100);
     //returns the extension K of Qr obtained by adjoining zeta_r + 1/zeta_r
     MinPolw := Minpolw(r);
 
@@ -52,7 +52,7 @@ procedure CminusK_at_qr_case2(r, p, rge_a, rge_c);
                 depth_m := p*(r-1)*Valuation(a, r)/4 + Valuation(bp, r)/2 + 1 -r/2;
                 print "Expected depth is", depth_m;
                 print " ";
-                print "The conductor of Cminus at r is", Valuation(Conductor(HyperellipticCurve(frm)));
+                print "The conductor of Cminus at q_r is", Valuation(Conductor(HyperellipticCurve(frm)));
                 print " ";
                 print " ";
                 print " ";
@@ -62,21 +62,29 @@ procedure CminusK_at_qr_case2(r, p, rge_a, rge_c);
     end for;
 end procedure;
 
-primes_r := [5, 7];
-primes_p := [7, 11, 13];
+primes_r := [5, 7, 11];
+primes_p := [7, 11, 13, 17];
 
 print " ";
+print " ";
+print " ";
+print " ";
 print "##########################################################";
-print "We compute the cluster pictures and conductor of the curve";
+print "We compute the cluster picture and conductor of the curve";
 print "Cminus(r, p, a, c) at r when r divides a*bp.";
-print "We call w = zeta + 1/zeta";
+print "We call w = zeta + 1/zeta.";
 print "##########################################################";
+print " ";
+print " ";
+print " ";
 print " ";
 
 for r in primes_r do
     for p in primes_p do
         if p ne r then
-            CminusK_at_qr_case2(r, p, 10, 5); 
+            for i in [-3..3] do
+                CminusK_at_qr_case2(r, p, i*r, 5);
+            end for; 
             print"#############################################";
             print "CHANGING PARAMETER p !!!!";
             print"#############################################";

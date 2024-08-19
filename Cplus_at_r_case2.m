@@ -1,5 +1,5 @@
-//We are going to compute the cluster picture and conductor of the curve C^- (a.k.a. Cminus) at r when r divides a.
-//We expect Cminus the conductor to be r-1 in that case!
+//We are going to compute the cluster picture and conductor of the curve C^+ (a.k.a. Cplus) at r when r divides a.
+//We expect Cplus the conductor to be r-1 in that case!
 
 Attach("clusters.m");
 
@@ -20,7 +20,7 @@ end function;
 
 
 procedure Cplus_at_r_case2(r, p, rge_a, rge_c); 
-    //prints the cluster picture and the conductor of Cminus at r when r divides a*bp
+    //prints the cluster picture and the conductor of Cplus at r when r divides a*bp
     for a in [-rge_a..rge_a] do
         for c in [-rge_c..rge_c] do
             bp := c^r - a^p;

@@ -1,0 +1,9662 @@
+Magma V2.28-9     Tue Aug 20 2024 13:30:37 on ordi-martin [Seed = 3429815806]
+Type ? for help.  Type <Ctrl>-D to quit.
+
+Loading file "Curves_33p.m"
+
+
+
+
+##########################################################
+We compute the Kodaira type and conductor of the curve
+Cminus(3, p, a, c) at 3 when 3 divides a for p ranging
+in {5, 7, 11, 13}.
+##########################################################
+
+
+
+
+a =  -18 , bp =  1882709 , c = -19
+
+Elliptic Curve defined by y^2 = x^3 + 57*x + 7544554 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  -18 , bp =  1884655 , c = -17
+
+Elliptic Curve defined by y^2 = x^3 + 51*x + 7548446 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  I0*
+
+Conductor exponent at 3 is  2
+
+
+
+
+a =  -18 , bp =  1887371 , c = -13
+
+Elliptic Curve defined by y^2 = x^3 + 39*x + 7553878 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  -18 , bp =  1888237 , c = -11
+
+Elliptic Curve defined by y^2 = x^3 + 33*x + 7555610 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  IV
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  -18 , bp =  1889225 , c = -7
+
+Elliptic Curve defined by y^2 = x^3 + 21*x + 7557586 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  -18 , bp =  1889443 , c = -5
+
+Elliptic Curve defined by y^2 = x^3 + 15*x + 7558022 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  IV
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  -18 , bp =  1889567 , c = -1
+
+Elliptic Curve defined by y^2 = x^3 + 3*x + 7558270 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  -18 , bp =  1889569 , c = 1
+
+Elliptic Curve defined by y^2 = x^3 - 3*x + 7558274 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  I7*
+
+Conductor exponent at 3 is  2
+
+
+
+
+a =  -18 , bp =  1889693 , c = 5
+
+Elliptic Curve defined by y^2 = x^3 - 15*x + 7558522 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  -18 , bp =  1889911 , c = 7
+
+Elliptic Curve defined by y^2 = x^3 - 21*x + 7558958 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  IV
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  -18 , bp =  1890899 , c = 11
+
+Elliptic Curve defined by y^2 = x^3 - 33*x + 7560934 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  -18 , bp =  1891765 , c = 13
+
+Elliptic Curve defined by y^2 = x^3 - 39*x + 7562666 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  IV
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  -18 , bp =  1894481 , c = 17
+
+Elliptic Curve defined by y^2 = x^3 - 51*x + 7568098 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  -18 , bp =  1896427 , c = 19
+
+Elliptic Curve defined by y^2 = x^3 - 57*x + 7571990 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  I0*
+
+Conductor exponent at 3 is  2
+
+
+
+
+a =  -15 , bp =  752516 , c = -19
+
+Elliptic Curve defined by y^2 = x^3 + 57*x + 3023782 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  -15 , bp =  754462 , c = -17
+
+Elliptic Curve defined by y^2 = x^3 + 51*x + 3027674 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  I0*
+
+Conductor exponent at 3 is  2
+
+
+
+
+a =  -15 , bp =  755279 , c = -16
+
+Elliptic Curve defined by y^2 = x^3 + 48*x + 3029308 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  -15 , bp =  756631 , c = -14
+
+Elliptic Curve defined by y^2 = x^3 + 42*x + 3032012 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  IV
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  -15 , bp =  757178 , c = -13
+
+Elliptic Curve defined by y^2 = x^3 + 39*x + 3033106 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  -15 , bp =  758044 , c = -11
+
+Elliptic Curve defined by y^2 = x^3 + 33*x + 3034838 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  IV
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  -15 , bp =  758863 , c = -8
+
+Elliptic Curve defined by y^2 = x^3 + 24*x + 3036476 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  I0*
+
+Conductor exponent at 3 is  2
+
+
+
+
+a =  -15 , bp =  759032 , c = -7
+
+Elliptic Curve defined by y^2 = x^3 + 21*x + 3036814 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  -15 , bp =  759311 , c = -4
+
+Elliptic Curve defined by y^2 = x^3 + 12*x + 3037372 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  -15 , bp =  759367 , c = -2
+
+Elliptic Curve defined by y^2 = x^3 + 6*x + 3037484 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  IV
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  -15 , bp =  759374 , c = -1
+
+Elliptic Curve defined by y^2 = x^3 + 3*x + 3037498 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  -15 , bp =  759376 , c = 1
+
+Elliptic Curve defined by y^2 = x^3 - 3*x + 3037502 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  I2*
+
+Conductor exponent at 3 is  2
+
+
+
+
+a =  -15 , bp =  759383 , c = 2
+
+Elliptic Curve defined by y^2 = x^3 - 6*x + 3037516 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  -15 , bp =  759439 , c = 4
+
+Elliptic Curve defined by y^2 = x^3 - 12*x + 3037628 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  IV
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  -15 , bp =  759718 , c = 7
+
+Elliptic Curve defined by y^2 = x^3 - 21*x + 3038186 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  IV
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  -15 , bp =  759887 , c = 8
+
+Elliptic Curve defined by y^2 = x^3 - 24*x + 3038524 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  -15 , bp =  760706 , c = 11
+
+Elliptic Curve defined by y^2 = x^3 - 33*x + 3040162 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  -15 , bp =  761572 , c = 13
+
+Elliptic Curve defined by y^2 = x^3 - 39*x + 3041894 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  IV
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  -15 , bp =  762119 , c = 14
+
+Elliptic Curve defined by y^2 = x^3 - 42*x + 3042988 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  -15 , bp =  763471 , c = 16
+
+Elliptic Curve defined by y^2 = x^3 - 48*x + 3045692 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  IV
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  -15 , bp =  764288 , c = 17
+
+Elliptic Curve defined by y^2 = x^3 - 51*x + 3047326 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  -15 , bp =  766234 , c = 19
+
+Elliptic Curve defined by y^2 = x^3 - 57*x + 3051218 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  I0*
+
+Conductor exponent at 3 is  2
+
+
+
+
+a =  -12 , bp =  241973 , c = -19
+
+Elliptic Curve defined by y^2 = x^3 + 57*x + 981610 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  -12 , bp =  243919 , c = -17
+
+Elliptic Curve defined by y^2 = x^3 + 51*x + 985502 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  I0*
+
+Conductor exponent at 3 is  2
+
+
+
+
+a =  -12 , bp =  246635 , c = -13
+
+Elliptic Curve defined by y^2 = x^3 + 39*x + 990934 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  -12 , bp =  247501 , c = -11
+
+Elliptic Curve defined by y^2 = x^3 + 33*x + 992666 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  IV
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  -12 , bp =  248489 , c = -7
+
+Elliptic Curve defined by y^2 = x^3 + 21*x + 994642 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  -12 , bp =  248707 , c = -5
+
+Elliptic Curve defined by y^2 = x^3 + 15*x + 995078 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  IV
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  -12 , bp =  248831 , c = -1
+
+Elliptic Curve defined by y^2 = x^3 + 3*x + 995326 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  -12 , bp =  248833 , c = 1
+
+Elliptic Curve defined by y^2 = x^3 - 3*x + 995330 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  I2*
+
+Conductor exponent at 3 is  2
+
+
+
+
+a =  -12 , bp =  248957 , c = 5
+
+Elliptic Curve defined by y^2 = x^3 - 15*x + 995578 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  -12 , bp =  249175 , c = 7
+
+Elliptic Curve defined by y^2 = x^3 - 21*x + 996014 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  IV
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  -12 , bp =  250163 , c = 11
+
+Elliptic Curve defined by y^2 = x^3 - 33*x + 997990 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  -12 , bp =  251029 , c = 13
+
+Elliptic Curve defined by y^2 = x^3 - 39*x + 999722 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  IV
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  -12 , bp =  253745 , c = 17
+
+Elliptic Curve defined by y^2 = x^3 - 51*x + 1005154 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  -12 , bp =  255691 , c = 19
+
+Elliptic Curve defined by y^2 = x^3 - 57*x + 1009046 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  I0*
+
+Conductor exponent at 3 is  2
+
+
+
+
+a =  -9 , bp =  51049 , c = -20
+
+Elliptic Curve defined by y^2 = x^3 + 60*x + 220196 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  IV
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  -9 , bp =  52190 , c = -19
+
+Elliptic Curve defined by y^2 = x^3 + 57*x + 222478 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  -9 , bp =  54136 , c = -17
+
+Elliptic Curve defined by y^2 = x^3 + 51*x + 226370 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  I0*
+
+Conductor exponent at 3 is  2
+
+
+
+
+a =  -9 , bp =  54953 , c = -16
+
+Elliptic Curve defined by y^2 = x^3 + 48*x + 228004 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  -9 , bp =  56305 , c = -14
+
+Elliptic Curve defined by y^2 = x^3 + 42*x + 230708 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  IV
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  -9 , bp =  56852 , c = -13
+
+Elliptic Curve defined by y^2 = x^3 + 39*x + 231802 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  -9 , bp =  57718 , c = -11
+
+Elliptic Curve defined by y^2 = x^3 + 33*x + 233534 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  IV
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  -9 , bp =  58049 , c = -10
+
+Elliptic Curve defined by y^2 = x^3 + 30*x + 234196 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  -9 , bp =  58537 , c = -8
+
+Elliptic Curve defined by y^2 = x^3 + 24*x + 235172 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  I0*
+
+Conductor exponent at 3 is  2
+
+
+
+
+a =  -9 , bp =  58706 , c = -7
+
+Elliptic Curve defined by y^2 = x^3 + 21*x + 235510 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  -9 , bp =  58924 , c = -5
+
+Elliptic Curve defined by y^2 = x^3 + 15*x + 235946 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  IV
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  -9 , bp =  58985 , c = -4
+
+Elliptic Curve defined by y^2 = x^3 + 12*x + 236068 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  -9 , bp =  59041 , c = -2
+
+Elliptic Curve defined by y^2 = x^3 + 6*x + 236180 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  IV
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  -9 , bp =  59048 , c = -1
+
+Elliptic Curve defined by y^2 = x^3 + 3*x + 236194 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  -9 , bp =  59050 , c = 1
+
+Elliptic Curve defined by y^2 = x^3 - 3*x + 236198 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  I7*
+
+Conductor exponent at 3 is  2
+
+
+
+
+a =  -9 , bp =  59057 , c = 2
+
+Elliptic Curve defined by y^2 = x^3 - 6*x + 236212 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  -9 , bp =  59113 , c = 4
+
+Elliptic Curve defined by y^2 = x^3 - 12*x + 236324 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  IV
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  -9 , bp =  59174 , c = 5
+
+Elliptic Curve defined by y^2 = x^3 - 15*x + 236446 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  -9 , bp =  59392 , c = 7
+
+Elliptic Curve defined by y^2 = x^3 - 21*x + 236882 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  IV
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  -9 , bp =  59561 , c = 8
+
+Elliptic Curve defined by y^2 = x^3 - 24*x + 237220 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  -9 , bp =  60049 , c = 10
+
+Elliptic Curve defined by y^2 = x^3 - 30*x + 238196 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  I0*
+
+Conductor exponent at 3 is  2
+
+
+
+
+a =  -9 , bp =  60380 , c = 11
+
+Elliptic Curve defined by y^2 = x^3 - 33*x + 238858 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  -9 , bp =  61246 , c = 13
+
+Elliptic Curve defined by y^2 = x^3 - 39*x + 240590 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  IV
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  -9 , bp =  61793 , c = 14
+
+Elliptic Curve defined by y^2 = x^3 - 42*x + 241684 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  -9 , bp =  63145 , c = 16
+
+Elliptic Curve defined by y^2 = x^3 - 48*x + 244388 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  IV
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  -9 , bp =  63962 , c = 17
+
+Elliptic Curve defined by y^2 = x^3 - 51*x + 246022 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  -9 , bp =  65908 , c = 19
+
+Elliptic Curve defined by y^2 = x^3 - 57*x + 249914 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  I0*
+
+Conductor exponent at 3 is  2
+
+
+
+
+a =  -9 , bp =  67049 , c = 20
+
+Elliptic Curve defined by y^2 = x^3 - 60*x + 252196 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  -6 , bp =  917 , c = -19
+
+Elliptic Curve defined by y^2 = x^3 + 57*x + 17386 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  -6 , bp =  2863 , c = -17
+
+Elliptic Curve defined by y^2 = x^3 + 51*x + 21278 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  I0*
+
+Conductor exponent at 3 is  2
+
+
+
+
+a =  -6 , bp =  5579 , c = -13
+
+Elliptic Curve defined by y^2 = x^3 + 39*x + 26710 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  -6 , bp =  6445 , c = -11
+
+Elliptic Curve defined by y^2 = x^3 + 33*x + 28442 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  IV
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  -6 , bp =  7433 , c = -7
+
+Elliptic Curve defined by y^2 = x^3 + 21*x + 30418 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  -6 , bp =  7651 , c = -5
+
+Elliptic Curve defined by y^2 = x^3 + 15*x + 30854 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  IV
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  -6 , bp =  7775 , c = -1
+
+Elliptic Curve defined by y^2 = x^3 + 3*x + 31102 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  -6 , bp =  7777 , c = 1
+
+Elliptic Curve defined by y^2 = x^3 - 3*x + 31106 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  I2*
+
+Conductor exponent at 3 is  2
+
+
+
+
+a =  -6 , bp =  7901 , c = 5
+
+Elliptic Curve defined by y^2 = x^3 - 15*x + 31354 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  -6 , bp =  8119 , c = 7
+
+Elliptic Curve defined by y^2 = x^3 - 21*x + 31790 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  IV
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  -6 , bp =  9107 , c = 11
+
+Elliptic Curve defined by y^2 = x^3 - 33*x + 33766 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  -6 , bp =  9973 , c = 13
+
+Elliptic Curve defined by y^2 = x^3 - 39*x + 35498 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  IV
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  -6 , bp =  12689 , c = 17
+
+Elliptic Curve defined by y^2 = x^3 - 51*x + 40930 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  -6 , bp =  14635 , c = 19
+
+Elliptic Curve defined by y^2 = x^3 - 57*x + 44822 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  I0*
+
+Conductor exponent at 3 is  2
+
+
+
+
+a =  -3 , bp =  -7757 , c = -20
+
+Elliptic Curve defined by y^2 = x^3 + 60*x - 15028 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  IV
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  -3 , bp =  -6616 , c = -19
+
+Elliptic Curve defined by y^2 = x^3 + 57*x - 12746 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  -3 , bp =  -4670 , c = -17
+
+Elliptic Curve defined by y^2 = x^3 + 51*x - 8854 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  I0*
+
+Conductor exponent at 3 is  2
+
+
+
+
+a =  -3 , bp =  -3853 , c = -16
+
+Elliptic Curve defined by y^2 = x^3 + 48*x - 7220 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  -3 , bp =  -2501 , c = -14
+
+Elliptic Curve defined by y^2 = x^3 + 42*x - 4516 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  IV
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  -3 , bp =  -1954 , c = -13
+
+Elliptic Curve defined by y^2 = x^3 + 39*x - 3422 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  -3 , bp =  -1088 , c = -11
+
+Elliptic Curve defined by y^2 = x^3 + 33*x - 1690 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  IV
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  -3 , bp =  -757 , c = -10
+
+Elliptic Curve defined by y^2 = x^3 + 30*x - 1028 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  -3 , bp =  -269 , c = -8
+
+Elliptic Curve defined by y^2 = x^3 + 24*x - 52 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  I0*
+
+Conductor exponent at 3 is  2
+
+
+
+
+a =  -3 , bp =  -100 , c = -7
+
+Elliptic Curve defined by y^2 = x^3 + 21*x + 286 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  -3 , bp =  118 , c = -5
+
+Elliptic Curve defined by y^2 = x^3 + 15*x + 722 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  IV
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  -3 , bp =  179 , c = -4
+
+Elliptic Curve defined by y^2 = x^3 + 12*x + 844 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  -3 , bp =  235 , c = -2
+
+Elliptic Curve defined by y^2 = x^3 + 6*x + 956 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  IV
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  -3 , bp =  242 , c = -1
+
+Elliptic Curve defined by y^2 = x^3 + 3*x + 970 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  -3 , bp =  244 , c = 1
+
+Elliptic Curve defined by y^2 = x^3 - 3*x + 974 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  I2*
+
+Conductor exponent at 3 is  2
+
+
+
+
+a =  -3 , bp =  251 , c = 2
+
+Elliptic Curve defined by y^2 = x^3 - 6*x + 988 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  -3 , bp =  307 , c = 4
+
+Elliptic Curve defined by y^2 = x^3 - 12*x + 1100 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  IV
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  -3 , bp =  368 , c = 5
+
+Elliptic Curve defined by y^2 = x^3 - 15*x + 1222 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  -3 , bp =  586 , c = 7
+
+Elliptic Curve defined by y^2 = x^3 - 21*x + 1658 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  IV
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  -3 , bp =  755 , c = 8
+
+Elliptic Curve defined by y^2 = x^3 - 24*x + 1996 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  -3 , bp =  1243 , c = 10
+
+Elliptic Curve defined by y^2 = x^3 - 30*x + 2972 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  I0*
+
+Conductor exponent at 3 is  2
+
+
+
+
+a =  -3 , bp =  1574 , c = 11
+
+Elliptic Curve defined by y^2 = x^3 - 33*x + 3634 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  -3 , bp =  2440 , c = 13
+
+Elliptic Curve defined by y^2 = x^3 - 39*x + 5366 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  IV
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  -3 , bp =  2987 , c = 14
+
+Elliptic Curve defined by y^2 = x^3 - 42*x + 6460 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  -3 , bp =  4339 , c = 16
+
+Elliptic Curve defined by y^2 = x^3 - 48*x + 9164 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  IV
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  -3 , bp =  5156 , c = 17
+
+Elliptic Curve defined by y^2 = x^3 - 51*x + 10798 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  -3 , bp =  7102 , c = 19
+
+Elliptic Curve defined by y^2 = x^3 - 57*x + 14690 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  I0*
+
+Conductor exponent at 3 is  2
+
+
+
+
+a =  -3 , bp =  8243 , c = 20
+
+Elliptic Curve defined by y^2 = x^3 - 60*x + 16972 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  3 , bp =  -8243 , c = -20
+
+Elliptic Curve defined by y^2 = x^3 + 60*x - 16972 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  IV
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  3 , bp =  -7102 , c = -19
+
+Elliptic Curve defined by y^2 = x^3 + 57*x - 14690 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  3 , bp =  -5156 , c = -17
+
+Elliptic Curve defined by y^2 = x^3 + 51*x - 10798 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  I0*
+
+Conductor exponent at 3 is  2
+
+
+
+
+a =  3 , bp =  -4339 , c = -16
+
+Elliptic Curve defined by y^2 = x^3 + 48*x - 9164 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  3 , bp =  -2987 , c = -14
+
+Elliptic Curve defined by y^2 = x^3 + 42*x - 6460 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  IV
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  3 , bp =  -2440 , c = -13
+
+Elliptic Curve defined by y^2 = x^3 + 39*x - 5366 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  3 , bp =  -1574 , c = -11
+
+Elliptic Curve defined by y^2 = x^3 + 33*x - 3634 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  IV
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  3 , bp =  -1243 , c = -10
+
+Elliptic Curve defined by y^2 = x^3 + 30*x - 2972 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  3 , bp =  -755 , c = -8
+
+Elliptic Curve defined by y^2 = x^3 + 24*x - 1996 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  I0*
+
+Conductor exponent at 3 is  2
+
+
+
+
+a =  3 , bp =  -586 , c = -7
+
+Elliptic Curve defined by y^2 = x^3 + 21*x - 1658 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  3 , bp =  -368 , c = -5
+
+Elliptic Curve defined by y^2 = x^3 + 15*x - 1222 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  IV
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  3 , bp =  -307 , c = -4
+
+Elliptic Curve defined by y^2 = x^3 + 12*x - 1100 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  3 , bp =  -251 , c = -2
+
+Elliptic Curve defined by y^2 = x^3 + 6*x - 988 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  IV
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  3 , bp =  -244 , c = -1
+
+Elliptic Curve defined by y^2 = x^3 + 3*x - 974 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  3 , bp =  -242 , c = 1
+
+Elliptic Curve defined by y^2 = x^3 - 3*x - 970 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  I2*
+
+Conductor exponent at 3 is  2
+
+
+
+
+a =  3 , bp =  -235 , c = 2
+
+Elliptic Curve defined by y^2 = x^3 - 6*x - 956 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  3 , bp =  -179 , c = 4
+
+Elliptic Curve defined by y^2 = x^3 - 12*x - 844 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  IV
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  3 , bp =  -118 , c = 5
+
+Elliptic Curve defined by y^2 = x^3 - 15*x - 722 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  3 , bp =  100 , c = 7
+
+Elliptic Curve defined by y^2 = x^3 - 21*x - 286 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  IV
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  3 , bp =  269 , c = 8
+
+Elliptic Curve defined by y^2 = x^3 - 24*x + 52 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  3 , bp =  757 , c = 10
+
+Elliptic Curve defined by y^2 = x^3 - 30*x + 1028 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  I0*
+
+Conductor exponent at 3 is  2
+
+
+
+
+a =  3 , bp =  1088 , c = 11
+
+Elliptic Curve defined by y^2 = x^3 - 33*x + 1690 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  3 , bp =  1954 , c = 13
+
+Elliptic Curve defined by y^2 = x^3 - 39*x + 3422 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  IV
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  3 , bp =  2501 , c = 14
+
+Elliptic Curve defined by y^2 = x^3 - 42*x + 4516 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  3 , bp =  3853 , c = 16
+
+Elliptic Curve defined by y^2 = x^3 - 48*x + 7220 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  IV
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  3 , bp =  4670 , c = 17
+
+Elliptic Curve defined by y^2 = x^3 - 51*x + 8854 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  3 , bp =  6616 , c = 19
+
+Elliptic Curve defined by y^2 = x^3 - 57*x + 12746 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  I0*
+
+Conductor exponent at 3 is  2
+
+
+
+
+a =  3 , bp =  7757 , c = 20
+
+Elliptic Curve defined by y^2 = x^3 - 60*x + 15028 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  6 , bp =  -14635 , c = -19
+
+Elliptic Curve defined by y^2 = x^3 + 57*x - 44822 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  6 , bp =  -12689 , c = -17
+
+Elliptic Curve defined by y^2 = x^3 + 51*x - 40930 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  I0*
+
+Conductor exponent at 3 is  2
+
+
+
+
+a =  6 , bp =  -9973 , c = -13
+
+Elliptic Curve defined by y^2 = x^3 + 39*x - 35498 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  6 , bp =  -9107 , c = -11
+
+Elliptic Curve defined by y^2 = x^3 + 33*x - 33766 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  IV
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  6 , bp =  -8119 , c = -7
+
+Elliptic Curve defined by y^2 = x^3 + 21*x - 31790 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  6 , bp =  -7901 , c = -5
+
+Elliptic Curve defined by y^2 = x^3 + 15*x - 31354 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  IV
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  6 , bp =  -7777 , c = -1
+
+Elliptic Curve defined by y^2 = x^3 + 3*x - 31106 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  6 , bp =  -7775 , c = 1
+
+Elliptic Curve defined by y^2 = x^3 - 3*x - 31102 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  I2*
+
+Conductor exponent at 3 is  2
+
+
+
+
+a =  6 , bp =  -7651 , c = 5
+
+Elliptic Curve defined by y^2 = x^3 - 15*x - 30854 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  6 , bp =  -7433 , c = 7
+
+Elliptic Curve defined by y^2 = x^3 - 21*x - 30418 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  IV
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  6 , bp =  -6445 , c = 11
+
+Elliptic Curve defined by y^2 = x^3 - 33*x - 28442 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  6 , bp =  -5579 , c = 13
+
+Elliptic Curve defined by y^2 = x^3 - 39*x - 26710 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  IV
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  6 , bp =  -2863 , c = 17
+
+Elliptic Curve defined by y^2 = x^3 - 51*x - 21278 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  6 , bp =  -917 , c = 19
+
+Elliptic Curve defined by y^2 = x^3 - 57*x - 17386 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  I0*
+
+Conductor exponent at 3 is  2
+
+
+
+
+a =  9 , bp =  -67049 , c = -20
+
+Elliptic Curve defined by y^2 = x^3 + 60*x - 252196 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  IV
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  9 , bp =  -65908 , c = -19
+
+Elliptic Curve defined by y^2 = x^3 + 57*x - 249914 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  9 , bp =  -63962 , c = -17
+
+Elliptic Curve defined by y^2 = x^3 + 51*x - 246022 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  I0*
+
+Conductor exponent at 3 is  2
+
+
+
+
+a =  9 , bp =  -63145 , c = -16
+
+Elliptic Curve defined by y^2 = x^3 + 48*x - 244388 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  9 , bp =  -61793 , c = -14
+
+Elliptic Curve defined by y^2 = x^3 + 42*x - 241684 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  IV
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  9 , bp =  -61246 , c = -13
+
+Elliptic Curve defined by y^2 = x^3 + 39*x - 240590 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  9 , bp =  -60380 , c = -11
+
+Elliptic Curve defined by y^2 = x^3 + 33*x - 238858 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  IV
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  9 , bp =  -60049 , c = -10
+
+Elliptic Curve defined by y^2 = x^3 + 30*x - 238196 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  9 , bp =  -59561 , c = -8
+
+Elliptic Curve defined by y^2 = x^3 + 24*x - 237220 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  I0*
+
+Conductor exponent at 3 is  2
+
+
+
+
+a =  9 , bp =  -59392 , c = -7
+
+Elliptic Curve defined by y^2 = x^3 + 21*x - 236882 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  9 , bp =  -59174 , c = -5
+
+Elliptic Curve defined by y^2 = x^3 + 15*x - 236446 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  IV
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  9 , bp =  -59113 , c = -4
+
+Elliptic Curve defined by y^2 = x^3 + 12*x - 236324 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  9 , bp =  -59057 , c = -2
+
+Elliptic Curve defined by y^2 = x^3 + 6*x - 236212 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  IV
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  9 , bp =  -59050 , c = -1
+
+Elliptic Curve defined by y^2 = x^3 + 3*x - 236198 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  9 , bp =  -59048 , c = 1
+
+Elliptic Curve defined by y^2 = x^3 - 3*x - 236194 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  I7*
+
+Conductor exponent at 3 is  2
+
+
+
+
+a =  9 , bp =  -59041 , c = 2
+
+Elliptic Curve defined by y^2 = x^3 - 6*x - 236180 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  9 , bp =  -58985 , c = 4
+
+Elliptic Curve defined by y^2 = x^3 - 12*x - 236068 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  IV
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  9 , bp =  -58924 , c = 5
+
+Elliptic Curve defined by y^2 = x^3 - 15*x - 235946 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  9 , bp =  -58706 , c = 7
+
+Elliptic Curve defined by y^2 = x^3 - 21*x - 235510 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  IV
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  9 , bp =  -58537 , c = 8
+
+Elliptic Curve defined by y^2 = x^3 - 24*x - 235172 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  9 , bp =  -58049 , c = 10
+
+Elliptic Curve defined by y^2 = x^3 - 30*x - 234196 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  I0*
+
+Conductor exponent at 3 is  2
+
+
+
+
+a =  9 , bp =  -57718 , c = 11
+
+Elliptic Curve defined by y^2 = x^3 - 33*x - 233534 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  9 , bp =  -56852 , c = 13
+
+Elliptic Curve defined by y^2 = x^3 - 39*x - 231802 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  IV
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  9 , bp =  -56305 , c = 14
+
+Elliptic Curve defined by y^2 = x^3 - 42*x - 230708 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  9 , bp =  -54953 , c = 16
+
+Elliptic Curve defined by y^2 = x^3 - 48*x - 228004 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  IV
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  9 , bp =  -54136 , c = 17
+
+Elliptic Curve defined by y^2 = x^3 - 51*x - 226370 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  9 , bp =  -52190 , c = 19
+
+Elliptic Curve defined by y^2 = x^3 - 57*x - 222478 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  I0*
+
+Conductor exponent at 3 is  2
+
+
+
+
+a =  9 , bp =  -51049 , c = 20
+
+Elliptic Curve defined by y^2 = x^3 - 60*x - 220196 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  12 , bp =  -255691 , c = -19
+
+Elliptic Curve defined by y^2 = x^3 + 57*x - 1009046 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  12 , bp =  -253745 , c = -17
+
+Elliptic Curve defined by y^2 = x^3 + 51*x - 1005154 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  I0*
+
+Conductor exponent at 3 is  2
+
+
+
+
+a =  12 , bp =  -251029 , c = -13
+
+Elliptic Curve defined by y^2 = x^3 + 39*x - 999722 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  12 , bp =  -250163 , c = -11
+
+Elliptic Curve defined by y^2 = x^3 + 33*x - 997990 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  IV
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  12 , bp =  -249175 , c = -7
+
+Elliptic Curve defined by y^2 = x^3 + 21*x - 996014 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  12 , bp =  -248957 , c = -5
+
+Elliptic Curve defined by y^2 = x^3 + 15*x - 995578 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  IV
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  12 , bp =  -248833 , c = -1
+
+Elliptic Curve defined by y^2 = x^3 + 3*x - 995330 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  12 , bp =  -248831 , c = 1
+
+Elliptic Curve defined by y^2 = x^3 - 3*x - 995326 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  I2*
+
+Conductor exponent at 3 is  2
+
+
+
+
+a =  12 , bp =  -248707 , c = 5
+
+Elliptic Curve defined by y^2 = x^3 - 15*x - 995078 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  12 , bp =  -248489 , c = 7
+
+Elliptic Curve defined by y^2 = x^3 - 21*x - 994642 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  IV
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  12 , bp =  -247501 , c = 11
+
+Elliptic Curve defined by y^2 = x^3 - 33*x - 992666 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  12 , bp =  -246635 , c = 13
+
+Elliptic Curve defined by y^2 = x^3 - 39*x - 990934 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  IV
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  12 , bp =  -243919 , c = 17
+
+Elliptic Curve defined by y^2 = x^3 - 51*x - 985502 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  12 , bp =  -241973 , c = 19
+
+Elliptic Curve defined by y^2 = x^3 - 57*x - 981610 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  I0*
+
+Conductor exponent at 3 is  2
+
+
+
+
+a =  15 , bp =  -766234 , c = -19
+
+Elliptic Curve defined by y^2 = x^3 + 57*x - 3051218 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  15 , bp =  -764288 , c = -17
+
+Elliptic Curve defined by y^2 = x^3 + 51*x - 3047326 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  I0*
+
+Conductor exponent at 3 is  2
+
+
+
+
+a =  15 , bp =  -763471 , c = -16
+
+Elliptic Curve defined by y^2 = x^3 + 48*x - 3045692 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  15 , bp =  -762119 , c = -14
+
+Elliptic Curve defined by y^2 = x^3 + 42*x - 3042988 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  IV
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  15 , bp =  -761572 , c = -13
+
+Elliptic Curve defined by y^2 = x^3 + 39*x - 3041894 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  15 , bp =  -760706 , c = -11
+
+Elliptic Curve defined by y^2 = x^3 + 33*x - 3040162 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  IV
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  15 , bp =  -759887 , c = -8
+
+Elliptic Curve defined by y^2 = x^3 + 24*x - 3038524 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  I0*
+
+Conductor exponent at 3 is  2
+
+
+
+
+a =  15 , bp =  -759718 , c = -7
+
+Elliptic Curve defined by y^2 = x^3 + 21*x - 3038186 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  15 , bp =  -759439 , c = -4
+
+Elliptic Curve defined by y^2 = x^3 + 12*x - 3037628 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  15 , bp =  -759383 , c = -2
+
+Elliptic Curve defined by y^2 = x^3 + 6*x - 3037516 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  IV
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  15 , bp =  -759376 , c = -1
+
+Elliptic Curve defined by y^2 = x^3 + 3*x - 3037502 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  15 , bp =  -759374 , c = 1
+
+Elliptic Curve defined by y^2 = x^3 - 3*x - 3037498 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  I2*
+
+Conductor exponent at 3 is  2
+
+
+
+
+a =  15 , bp =  -759367 , c = 2
+
+Elliptic Curve defined by y^2 = x^3 - 6*x - 3037484 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  15 , bp =  -759311 , c = 4
+
+Elliptic Curve defined by y^2 = x^3 - 12*x - 3037372 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  IV
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  15 , bp =  -759032 , c = 7
+
+Elliptic Curve defined by y^2 = x^3 - 21*x - 3036814 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  IV
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  15 , bp =  -758863 , c = 8
+
+Elliptic Curve defined by y^2 = x^3 - 24*x - 3036476 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  15 , bp =  -758044 , c = 11
+
+Elliptic Curve defined by y^2 = x^3 - 33*x - 3034838 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  15 , bp =  -757178 , c = 13
+
+Elliptic Curve defined by y^2 = x^3 - 39*x - 3033106 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  IV
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  15 , bp =  -756631 , c = 14
+
+Elliptic Curve defined by y^2 = x^3 - 42*x - 3032012 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  15 , bp =  -755279 , c = 16
+
+Elliptic Curve defined by y^2 = x^3 - 48*x - 3029308 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  IV
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  15 , bp =  -754462 , c = 17
+
+Elliptic Curve defined by y^2 = x^3 - 51*x - 3027674 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  15 , bp =  -752516 , c = 19
+
+Elliptic Curve defined by y^2 = x^3 - 57*x - 3023782 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  I0*
+
+Conductor exponent at 3 is  2
+
+
+
+
+a =  18 , bp =  -1896427 , c = -19
+
+Elliptic Curve defined by y^2 = x^3 + 57*x - 7571990 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  18 , bp =  -1894481 , c = -17
+
+Elliptic Curve defined by y^2 = x^3 + 51*x - 7568098 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  I0*
+
+Conductor exponent at 3 is  2
+
+
+
+
+a =  18 , bp =  -1891765 , c = -13
+
+Elliptic Curve defined by y^2 = x^3 + 39*x - 7562666 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  18 , bp =  -1890899 , c = -11
+
+Elliptic Curve defined by y^2 = x^3 + 33*x - 7560934 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  IV
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  18 , bp =  -1889911 , c = -7
+
+Elliptic Curve defined by y^2 = x^3 + 21*x - 7558958 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  18 , bp =  -1889693 , c = -5
+
+Elliptic Curve defined by y^2 = x^3 + 15*x - 7558522 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  IV
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  18 , bp =  -1889569 , c = -1
+
+Elliptic Curve defined by y^2 = x^3 + 3*x - 7558274 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  18 , bp =  -1889567 , c = 1
+
+Elliptic Curve defined by y^2 = x^3 - 3*x - 7558270 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  I7*
+
+Conductor exponent at 3 is  2
+
+
+
+
+a =  18 , bp =  -1889443 , c = 5
+
+Elliptic Curve defined by y^2 = x^3 - 15*x - 7558022 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  18 , bp =  -1889225 , c = 7
+
+Elliptic Curve defined by y^2 = x^3 - 21*x - 7557586 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  IV
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  18 , bp =  -1888237 , c = 11
+
+Elliptic Curve defined by y^2 = x^3 - 33*x - 7555610 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  18 , bp =  -1887371 , c = 13
+
+Elliptic Curve defined by y^2 = x^3 - 39*x - 7553878 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  IV
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  18 , bp =  -1884655 , c = 17
+
+Elliptic Curve defined by y^2 = x^3 - 51*x - 7548446 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  18 , bp =  -1882709 , c = 19
+
+Elliptic Curve defined by y^2 = x^3 - 57*x - 7544554 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  I0*
+
+Conductor exponent at 3 is  2
+
+
+
+
+
+#############################################
+CHANGING PARAMETER p !!!!
+#############################################
+
+a =  -18 , bp =  612213173 , c = -19
+
+Elliptic Curve defined by y^2 = x^3 + 57*x + 2448866410 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  -18 , bp =  612215119 , c = -17
+
+Elliptic Curve defined by y^2 = x^3 + 51*x + 2448870302 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  I0*
+
+Conductor exponent at 3 is  2
+
+
+
+
+a =  -18 , bp =  612217835 , c = -13
+
+Elliptic Curve defined by y^2 = x^3 + 39*x + 2448875734 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  -18 , bp =  612218701 , c = -11
+
+Elliptic Curve defined by y^2 = x^3 + 33*x + 2448877466 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  IV
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  -18 , bp =  612219689 , c = -7
+
+Elliptic Curve defined by y^2 = x^3 + 21*x + 2448879442 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  -18 , bp =  612219907 , c = -5
+
+Elliptic Curve defined by y^2 = x^3 + 15*x + 2448879878 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  IV
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  -18 , bp =  612220031 , c = -1
+
+Elliptic Curve defined by y^2 = x^3 + 3*x + 2448880126 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  -18 , bp =  612220033 , c = 1
+
+Elliptic Curve defined by y^2 = x^3 - 3*x + 2448880130 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  I11*
+
+Conductor exponent at 3 is  2
+
+
+
+
+a =  -18 , bp =  612220157 , c = 5
+
+Elliptic Curve defined by y^2 = x^3 - 15*x + 2448880378 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  -18 , bp =  612220375 , c = 7
+
+Elliptic Curve defined by y^2 = x^3 - 21*x + 2448880814 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  IV
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  -18 , bp =  612221363 , c = 11
+
+Elliptic Curve defined by y^2 = x^3 - 33*x + 2448882790 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  -18 , bp =  612222229 , c = 13
+
+Elliptic Curve defined by y^2 = x^3 - 39*x + 2448884522 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  IV
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  -18 , bp =  612224945 , c = 17
+
+Elliptic Curve defined by y^2 = x^3 - 51*x + 2448889954 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  -18 , bp =  612226891 , c = 19
+
+Elliptic Curve defined by y^2 = x^3 - 57*x + 2448893846 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  I0*
+
+Conductor exponent at 3 is  2
+
+
+
+
+a =  -15 , bp =  170852516 , c = -19
+
+Elliptic Curve defined by y^2 = x^3 + 57*x + 683423782 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  -15 , bp =  170854462 , c = -17
+
+Elliptic Curve defined by y^2 = x^3 + 51*x + 683427674 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  I0*
+
+Conductor exponent at 3 is  2
+
+
+
+
+a =  -15 , bp =  170855279 , c = -16
+
+Elliptic Curve defined by y^2 = x^3 + 48*x + 683429308 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  -15 , bp =  170856631 , c = -14
+
+Elliptic Curve defined by y^2 = x^3 + 42*x + 683432012 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  IV
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  -15 , bp =  170857178 , c = -13
+
+Elliptic Curve defined by y^2 = x^3 + 39*x + 683433106 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  -15 , bp =  170858044 , c = -11
+
+Elliptic Curve defined by y^2 = x^3 + 33*x + 683434838 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  IV
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  -15 , bp =  170858863 , c = -8
+
+Elliptic Curve defined by y^2 = x^3 + 24*x + 683436476 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  I0*
+
+Conductor exponent at 3 is  2
+
+
+
+
+a =  -15 , bp =  170859032 , c = -7
+
+Elliptic Curve defined by y^2 = x^3 + 21*x + 683436814 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  -15 , bp =  170859311 , c = -4
+
+Elliptic Curve defined by y^2 = x^3 + 12*x + 683437372 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  -15 , bp =  170859367 , c = -2
+
+Elliptic Curve defined by y^2 = x^3 + 6*x + 683437484 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  IV
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  -15 , bp =  170859374 , c = -1
+
+Elliptic Curve defined by y^2 = x^3 + 3*x + 683437498 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  -15 , bp =  170859376 , c = 1
+
+Elliptic Curve defined by y^2 = x^3 - 3*x + 683437502 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  I4*
+
+Conductor exponent at 3 is  2
+
+
+
+
+a =  -15 , bp =  170859383 , c = 2
+
+Elliptic Curve defined by y^2 = x^3 - 6*x + 683437516 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  -15 , bp =  170859439 , c = 4
+
+Elliptic Curve defined by y^2 = x^3 - 12*x + 683437628 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  IV
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  -15 , bp =  170859718 , c = 7
+
+Elliptic Curve defined by y^2 = x^3 - 21*x + 683438186 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  IV
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  -15 , bp =  170859887 , c = 8
+
+Elliptic Curve defined by y^2 = x^3 - 24*x + 683438524 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  -15 , bp =  170860706 , c = 11
+
+Elliptic Curve defined by y^2 = x^3 - 33*x + 683440162 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  -15 , bp =  170861572 , c = 13
+
+Elliptic Curve defined by y^2 = x^3 - 39*x + 683441894 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  IV
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  -15 , bp =  170862119 , c = 14
+
+Elliptic Curve defined by y^2 = x^3 - 42*x + 683442988 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  -15 , bp =  170863471 , c = 16
+
+Elliptic Curve defined by y^2 = x^3 - 48*x + 683445692 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  IV
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  -15 , bp =  170864288 , c = 17
+
+Elliptic Curve defined by y^2 = x^3 - 51*x + 683447326 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  -15 , bp =  170866234 , c = 19
+
+Elliptic Curve defined by y^2 = x^3 - 57*x + 683451218 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  I0*
+
+Conductor exponent at 3 is  2
+
+
+
+
+a =  -12 , bp =  35824949 , c = -19
+
+Elliptic Curve defined by y^2 = x^3 + 57*x + 143313514 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  -12 , bp =  35826895 , c = -17
+
+Elliptic Curve defined by y^2 = x^3 + 51*x + 143317406 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  I0*
+
+Conductor exponent at 3 is  2
+
+
+
+
+a =  -12 , bp =  35829611 , c = -13
+
+Elliptic Curve defined by y^2 = x^3 + 39*x + 143322838 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  -12 , bp =  35830477 , c = -11
+
+Elliptic Curve defined by y^2 = x^3 + 33*x + 143324570 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  IV
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  -12 , bp =  35831465 , c = -7
+
+Elliptic Curve defined by y^2 = x^3 + 21*x + 143326546 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  -12 , bp =  35831683 , c = -5
+
+Elliptic Curve defined by y^2 = x^3 + 15*x + 143326982 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  IV
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  -12 , bp =  35831807 , c = -1
+
+Elliptic Curve defined by y^2 = x^3 + 3*x + 143327230 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  -12 , bp =  35831809 , c = 1
+
+Elliptic Curve defined by y^2 = x^3 - 3*x + 143327234 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  I4*
+
+Conductor exponent at 3 is  2
+
+
+
+
+a =  -12 , bp =  35831933 , c = 5
+
+Elliptic Curve defined by y^2 = x^3 - 15*x + 143327482 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  -12 , bp =  35832151 , c = 7
+
+Elliptic Curve defined by y^2 = x^3 - 21*x + 143327918 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  IV
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  -12 , bp =  35833139 , c = 11
+
+Elliptic Curve defined by y^2 = x^3 - 33*x + 143329894 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  -12 , bp =  35834005 , c = 13
+
+Elliptic Curve defined by y^2 = x^3 - 39*x + 143331626 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  IV
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  -12 , bp =  35836721 , c = 17
+
+Elliptic Curve defined by y^2 = x^3 - 51*x + 143337058 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  -12 , bp =  35838667 , c = 19
+
+Elliptic Curve defined by y^2 = x^3 - 57*x + 143340950 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  I0*
+
+Conductor exponent at 3 is  2
+
+
+
+
+a =  -9 , bp =  4774969 , c = -20
+
+Elliptic Curve defined by y^2 = x^3 + 60*x + 19115876 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  IV
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  -9 , bp =  4776110 , c = -19
+
+Elliptic Curve defined by y^2 = x^3 + 57*x + 19118158 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  -9 , bp =  4778056 , c = -17
+
+Elliptic Curve defined by y^2 = x^3 + 51*x + 19122050 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  I0*
+
+Conductor exponent at 3 is  2
+
+
+
+
+a =  -9 , bp =  4778873 , c = -16
+
+Elliptic Curve defined by y^2 = x^3 + 48*x + 19123684 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  -9 , bp =  4780225 , c = -14
+
+Elliptic Curve defined by y^2 = x^3 + 42*x + 19126388 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  IV
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  -9 , bp =  4780772 , c = -13
+
+Elliptic Curve defined by y^2 = x^3 + 39*x + 19127482 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  -9 , bp =  4781638 , c = -11
+
+Elliptic Curve defined by y^2 = x^3 + 33*x + 19129214 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  IV
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  -9 , bp =  4781969 , c = -10
+
+Elliptic Curve defined by y^2 = x^3 + 30*x + 19129876 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  -9 , bp =  4782457 , c = -8
+
+Elliptic Curve defined by y^2 = x^3 + 24*x + 19130852 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  I0*
+
+Conductor exponent at 3 is  2
+
+
+
+
+a =  -9 , bp =  4782626 , c = -7
+
+Elliptic Curve defined by y^2 = x^3 + 21*x + 19131190 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  -9 , bp =  4782844 , c = -5
+
+Elliptic Curve defined by y^2 = x^3 + 15*x + 19131626 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  IV
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  -9 , bp =  4782905 , c = -4
+
+Elliptic Curve defined by y^2 = x^3 + 12*x + 19131748 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  -9 , bp =  4782961 , c = -2
+
+Elliptic Curve defined by y^2 = x^3 + 6*x + 19131860 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  IV
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  -9 , bp =  4782968 , c = -1
+
+Elliptic Curve defined by y^2 = x^3 + 3*x + 19131874 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  -9 , bp =  4782970 , c = 1
+
+Elliptic Curve defined by y^2 = x^3 - 3*x + 19131878 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  I11*
+
+Conductor exponent at 3 is  2
+
+
+
+
+a =  -9 , bp =  4782977 , c = 2
+
+Elliptic Curve defined by y^2 = x^3 - 6*x + 19131892 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  -9 , bp =  4783033 , c = 4
+
+Elliptic Curve defined by y^2 = x^3 - 12*x + 19132004 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  IV
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  -9 , bp =  4783094 , c = 5
+
+Elliptic Curve defined by y^2 = x^3 - 15*x + 19132126 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  -9 , bp =  4783312 , c = 7
+
+Elliptic Curve defined by y^2 = x^3 - 21*x + 19132562 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  IV
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  -9 , bp =  4783481 , c = 8
+
+Elliptic Curve defined by y^2 = x^3 - 24*x + 19132900 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  -9 , bp =  4783969 , c = 10
+
+Elliptic Curve defined by y^2 = x^3 - 30*x + 19133876 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  I0*
+
+Conductor exponent at 3 is  2
+
+
+
+
+a =  -9 , bp =  4784300 , c = 11
+
+Elliptic Curve defined by y^2 = x^3 - 33*x + 19134538 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  -9 , bp =  4785166 , c = 13
+
+Elliptic Curve defined by y^2 = x^3 - 39*x + 19136270 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  IV
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  -9 , bp =  4785713 , c = 14
+
+Elliptic Curve defined by y^2 = x^3 - 42*x + 19137364 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  -9 , bp =  4787065 , c = 16
+
+Elliptic Curve defined by y^2 = x^3 - 48*x + 19140068 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  IV
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  -9 , bp =  4787882 , c = 17
+
+Elliptic Curve defined by y^2 = x^3 - 51*x + 19141702 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  -9 , bp =  4789828 , c = 19
+
+Elliptic Curve defined by y^2 = x^3 - 57*x + 19145594 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  I0*
+
+Conductor exponent at 3 is  2
+
+
+
+
+a =  -9 , bp =  4790969 , c = 20
+
+Elliptic Curve defined by y^2 = x^3 - 60*x + 19147876 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  -6 , bp =  273077 , c = -19
+
+Elliptic Curve defined by y^2 = x^3 + 57*x + 1106026 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  -6 , bp =  275023 , c = -17
+
+Elliptic Curve defined by y^2 = x^3 + 51*x + 1109918 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  I0*
+
+Conductor exponent at 3 is  2
+
+
+
+
+a =  -6 , bp =  277739 , c = -13
+
+Elliptic Curve defined by y^2 = x^3 + 39*x + 1115350 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  -6 , bp =  278605 , c = -11
+
+Elliptic Curve defined by y^2 = x^3 + 33*x + 1117082 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  IV
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  -6 , bp =  279593 , c = -7
+
+Elliptic Curve defined by y^2 = x^3 + 21*x + 1119058 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  -6 , bp =  279811 , c = -5
+
+Elliptic Curve defined by y^2 = x^3 + 15*x + 1119494 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  IV
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  -6 , bp =  279935 , c = -1
+
+Elliptic Curve defined by y^2 = x^3 + 3*x + 1119742 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  -6 , bp =  279937 , c = 1
+
+Elliptic Curve defined by y^2 = x^3 - 3*x + 1119746 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  I4*
+
+Conductor exponent at 3 is  2
+
+
+
+
+a =  -6 , bp =  280061 , c = 5
+
+Elliptic Curve defined by y^2 = x^3 - 15*x + 1119994 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  -6 , bp =  280279 , c = 7
+
+Elliptic Curve defined by y^2 = x^3 - 21*x + 1120430 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  IV
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  -6 , bp =  281267 , c = 11
+
+Elliptic Curve defined by y^2 = x^3 - 33*x + 1122406 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  -6 , bp =  282133 , c = 13
+
+Elliptic Curve defined by y^2 = x^3 - 39*x + 1124138 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  IV
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  -6 , bp =  284849 , c = 17
+
+Elliptic Curve defined by y^2 = x^3 - 51*x + 1129570 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  -6 , bp =  286795 , c = 19
+
+Elliptic Curve defined by y^2 = x^3 - 57*x + 1133462 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  I0*
+
+Conductor exponent at 3 is  2
+
+
+
+
+a =  -3 , bp =  -5813 , c = -20
+
+Elliptic Curve defined by y^2 = x^3 + 60*x - 7252 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  IV
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  -3 , bp =  -4672 , c = -19
+
+Elliptic Curve defined by y^2 = x^3 + 57*x - 4970 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  -3 , bp =  -2726 , c = -17
+
+Elliptic Curve defined by y^2 = x^3 + 51*x - 1078 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  I0*
+
+Conductor exponent at 3 is  2
+
+
+
+
+a =  -3 , bp =  -1909 , c = -16
+
+Elliptic Curve defined by y^2 = x^3 + 48*x + 556 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  -3 , bp =  -557 , c = -14
+
+Elliptic Curve defined by y^2 = x^3 + 42*x + 3260 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  IV
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  -3 , bp =  -10 , c = -13
+
+Elliptic Curve defined by y^2 = x^3 + 39*x + 4354 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  -3 , bp =  856 , c = -11
+
+Elliptic Curve defined by y^2 = x^3 + 33*x + 6086 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  IV
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  -3 , bp =  1187 , c = -10
+
+Elliptic Curve defined by y^2 = x^3 + 30*x + 6748 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  -3 , bp =  1675 , c = -8
+
+Elliptic Curve defined by y^2 = x^3 + 24*x + 7724 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  I0*
+
+Conductor exponent at 3 is  2
+
+
+
+
+a =  -3 , bp =  1844 , c = -7
+
+Elliptic Curve defined by y^2 = x^3 + 21*x + 8062 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  -3 , bp =  2062 , c = -5
+
+Elliptic Curve defined by y^2 = x^3 + 15*x + 8498 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  IV
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  -3 , bp =  2123 , c = -4
+
+Elliptic Curve defined by y^2 = x^3 + 12*x + 8620 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  -3 , bp =  2179 , c = -2
+
+Elliptic Curve defined by y^2 = x^3 + 6*x + 8732 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  IV
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  -3 , bp =  2186 , c = -1
+
+Elliptic Curve defined by y^2 = x^3 + 3*x + 8746 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  -3 , bp =  2188 , c = 1
+
+Elliptic Curve defined by y^2 = x^3 - 3*x + 8750 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  I4*
+
+Conductor exponent at 3 is  2
+
+
+
+
+a =  -3 , bp =  2195 , c = 2
+
+Elliptic Curve defined by y^2 = x^3 - 6*x + 8764 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  -3 , bp =  2251 , c = 4
+
+Elliptic Curve defined by y^2 = x^3 - 12*x + 8876 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  IV
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  -3 , bp =  2312 , c = 5
+
+Elliptic Curve defined by y^2 = x^3 - 15*x + 8998 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  -3 , bp =  2530 , c = 7
+
+Elliptic Curve defined by y^2 = x^3 - 21*x + 9434 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  IV
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  -3 , bp =  2699 , c = 8
+
+Elliptic Curve defined by y^2 = x^3 - 24*x + 9772 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  -3 , bp =  3187 , c = 10
+
+Elliptic Curve defined by y^2 = x^3 - 30*x + 10748 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  I0*
+
+Conductor exponent at 3 is  2
+
+
+
+
+a =  -3 , bp =  3518 , c = 11
+
+Elliptic Curve defined by y^2 = x^3 - 33*x + 11410 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  -3 , bp =  4384 , c = 13
+
+Elliptic Curve defined by y^2 = x^3 - 39*x + 13142 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  IV
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  -3 , bp =  4931 , c = 14
+
+Elliptic Curve defined by y^2 = x^3 - 42*x + 14236 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  -3 , bp =  6283 , c = 16
+
+Elliptic Curve defined by y^2 = x^3 - 48*x + 16940 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  IV
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  -3 , bp =  7100 , c = 17
+
+Elliptic Curve defined by y^2 = x^3 - 51*x + 18574 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  -3 , bp =  9046 , c = 19
+
+Elliptic Curve defined by y^2 = x^3 - 57*x + 22466 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  I0*
+
+Conductor exponent at 3 is  2
+
+
+
+
+a =  -3 , bp =  10187 , c = 20
+
+Elliptic Curve defined by y^2 = x^3 - 60*x + 24748 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  3 , bp =  -10187 , c = -20
+
+Elliptic Curve defined by y^2 = x^3 + 60*x - 24748 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  IV
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  3 , bp =  -9046 , c = -19
+
+Elliptic Curve defined by y^2 = x^3 + 57*x - 22466 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  3 , bp =  -7100 , c = -17
+
+Elliptic Curve defined by y^2 = x^3 + 51*x - 18574 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  I0*
+
+Conductor exponent at 3 is  2
+
+
+
+
+a =  3 , bp =  -6283 , c = -16
+
+Elliptic Curve defined by y^2 = x^3 + 48*x - 16940 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  3 , bp =  -4931 , c = -14
+
+Elliptic Curve defined by y^2 = x^3 + 42*x - 14236 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  IV
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  3 , bp =  -4384 , c = -13
+
+Elliptic Curve defined by y^2 = x^3 + 39*x - 13142 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  3 , bp =  -3518 , c = -11
+
+Elliptic Curve defined by y^2 = x^3 + 33*x - 11410 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  IV
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  3 , bp =  -3187 , c = -10
+
+Elliptic Curve defined by y^2 = x^3 + 30*x - 10748 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  3 , bp =  -2699 , c = -8
+
+Elliptic Curve defined by y^2 = x^3 + 24*x - 9772 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  I0*
+
+Conductor exponent at 3 is  2
+
+
+
+
+a =  3 , bp =  -2530 , c = -7
+
+Elliptic Curve defined by y^2 = x^3 + 21*x - 9434 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  3 , bp =  -2312 , c = -5
+
+Elliptic Curve defined by y^2 = x^3 + 15*x - 8998 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  IV
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  3 , bp =  -2251 , c = -4
+
+Elliptic Curve defined by y^2 = x^3 + 12*x - 8876 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  3 , bp =  -2195 , c = -2
+
+Elliptic Curve defined by y^2 = x^3 + 6*x - 8764 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  IV
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  3 , bp =  -2188 , c = -1
+
+Elliptic Curve defined by y^2 = x^3 + 3*x - 8750 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  3 , bp =  -2186 , c = 1
+
+Elliptic Curve defined by y^2 = x^3 - 3*x - 8746 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  I4*
+
+Conductor exponent at 3 is  2
+
+
+
+
+a =  3 , bp =  -2179 , c = 2
+
+Elliptic Curve defined by y^2 = x^3 - 6*x - 8732 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  3 , bp =  -2123 , c = 4
+
+Elliptic Curve defined by y^2 = x^3 - 12*x - 8620 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  IV
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  3 , bp =  -2062 , c = 5
+
+Elliptic Curve defined by y^2 = x^3 - 15*x - 8498 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  3 , bp =  -1844 , c = 7
+
+Elliptic Curve defined by y^2 = x^3 - 21*x - 8062 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  IV
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  3 , bp =  -1675 , c = 8
+
+Elliptic Curve defined by y^2 = x^3 - 24*x - 7724 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  3 , bp =  -1187 , c = 10
+
+Elliptic Curve defined by y^2 = x^3 - 30*x - 6748 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  I0*
+
+Conductor exponent at 3 is  2
+
+
+
+
+a =  3 , bp =  -856 , c = 11
+
+Elliptic Curve defined by y^2 = x^3 - 33*x - 6086 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  3 , bp =  10 , c = 13
+
+Elliptic Curve defined by y^2 = x^3 - 39*x - 4354 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  IV
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  3 , bp =  557 , c = 14
+
+Elliptic Curve defined by y^2 = x^3 - 42*x - 3260 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  3 , bp =  1909 , c = 16
+
+Elliptic Curve defined by y^2 = x^3 - 48*x - 556 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  IV
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  3 , bp =  2726 , c = 17
+
+Elliptic Curve defined by y^2 = x^3 - 51*x + 1078 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  3 , bp =  4672 , c = 19
+
+Elliptic Curve defined by y^2 = x^3 - 57*x + 4970 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  I0*
+
+Conductor exponent at 3 is  2
+
+
+
+
+a =  3 , bp =  5813 , c = 20
+
+Elliptic Curve defined by y^2 = x^3 - 60*x + 7252 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  6 , bp =  -286795 , c = -19
+
+Elliptic Curve defined by y^2 = x^3 + 57*x - 1133462 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  6 , bp =  -284849 , c = -17
+
+Elliptic Curve defined by y^2 = x^3 + 51*x - 1129570 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  I0*
+
+Conductor exponent at 3 is  2
+
+
+
+
+a =  6 , bp =  -282133 , c = -13
+
+Elliptic Curve defined by y^2 = x^3 + 39*x - 1124138 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  6 , bp =  -281267 , c = -11
+
+Elliptic Curve defined by y^2 = x^3 + 33*x - 1122406 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  IV
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  6 , bp =  -280279 , c = -7
+
+Elliptic Curve defined by y^2 = x^3 + 21*x - 1120430 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  6 , bp =  -280061 , c = -5
+
+Elliptic Curve defined by y^2 = x^3 + 15*x - 1119994 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  IV
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  6 , bp =  -279937 , c = -1
+
+Elliptic Curve defined by y^2 = x^3 + 3*x - 1119746 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  6 , bp =  -279935 , c = 1
+
+Elliptic Curve defined by y^2 = x^3 - 3*x - 1119742 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  I4*
+
+Conductor exponent at 3 is  2
+
+
+
+
+a =  6 , bp =  -279811 , c = 5
+
+Elliptic Curve defined by y^2 = x^3 - 15*x - 1119494 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  6 , bp =  -279593 , c = 7
+
+Elliptic Curve defined by y^2 = x^3 - 21*x - 1119058 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  IV
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  6 , bp =  -278605 , c = 11
+
+Elliptic Curve defined by y^2 = x^3 - 33*x - 1117082 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  6 , bp =  -277739 , c = 13
+
+Elliptic Curve defined by y^2 = x^3 - 39*x - 1115350 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  IV
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  6 , bp =  -275023 , c = 17
+
+Elliptic Curve defined by y^2 = x^3 - 51*x - 1109918 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  6 , bp =  -273077 , c = 19
+
+Elliptic Curve defined by y^2 = x^3 - 57*x - 1106026 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  I0*
+
+Conductor exponent at 3 is  2
+
+
+
+
+a =  9 , bp =  -4790969 , c = -20
+
+Elliptic Curve defined by y^2 = x^3 + 60*x - 19147876 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  IV
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  9 , bp =  -4789828 , c = -19
+
+Elliptic Curve defined by y^2 = x^3 + 57*x - 19145594 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  9 , bp =  -4787882 , c = -17
+
+Elliptic Curve defined by y^2 = x^3 + 51*x - 19141702 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  I0*
+
+Conductor exponent at 3 is  2
+
+
+
+
+a =  9 , bp =  -4787065 , c = -16
+
+Elliptic Curve defined by y^2 = x^3 + 48*x - 19140068 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  9 , bp =  -4785713 , c = -14
+
+Elliptic Curve defined by y^2 = x^3 + 42*x - 19137364 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  IV
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  9 , bp =  -4785166 , c = -13
+
+Elliptic Curve defined by y^2 = x^3 + 39*x - 19136270 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  9 , bp =  -4784300 , c = -11
+
+Elliptic Curve defined by y^2 = x^3 + 33*x - 19134538 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  IV
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  9 , bp =  -4783969 , c = -10
+
+Elliptic Curve defined by y^2 = x^3 + 30*x - 19133876 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  9 , bp =  -4783481 , c = -8
+
+Elliptic Curve defined by y^2 = x^3 + 24*x - 19132900 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  I0*
+
+Conductor exponent at 3 is  2
+
+
+
+
+a =  9 , bp =  -4783312 , c = -7
+
+Elliptic Curve defined by y^2 = x^3 + 21*x - 19132562 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  9 , bp =  -4783094 , c = -5
+
+Elliptic Curve defined by y^2 = x^3 + 15*x - 19132126 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  IV
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  9 , bp =  -4783033 , c = -4
+
+Elliptic Curve defined by y^2 = x^3 + 12*x - 19132004 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  9 , bp =  -4782977 , c = -2
+
+Elliptic Curve defined by y^2 = x^3 + 6*x - 19131892 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  IV
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  9 , bp =  -4782970 , c = -1
+
+Elliptic Curve defined by y^2 = x^3 + 3*x - 19131878 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  9 , bp =  -4782968 , c = 1
+
+Elliptic Curve defined by y^2 = x^3 - 3*x - 19131874 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  I11*
+
+Conductor exponent at 3 is  2
+
+
+
+
+a =  9 , bp =  -4782961 , c = 2
+
+Elliptic Curve defined by y^2 = x^3 - 6*x - 19131860 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  9 , bp =  -4782905 , c = 4
+
+Elliptic Curve defined by y^2 = x^3 - 12*x - 19131748 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  IV
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  9 , bp =  -4782844 , c = 5
+
+Elliptic Curve defined by y^2 = x^3 - 15*x - 19131626 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  9 , bp =  -4782626 , c = 7
+
+Elliptic Curve defined by y^2 = x^3 - 21*x - 19131190 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  IV
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  9 , bp =  -4782457 , c = 8
+
+Elliptic Curve defined by y^2 = x^3 - 24*x - 19130852 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  9 , bp =  -4781969 , c = 10
+
+Elliptic Curve defined by y^2 = x^3 - 30*x - 19129876 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  I0*
+
+Conductor exponent at 3 is  2
+
+
+
+
+a =  9 , bp =  -4781638 , c = 11
+
+Elliptic Curve defined by y^2 = x^3 - 33*x - 19129214 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  9 , bp =  -4780772 , c = 13
+
+Elliptic Curve defined by y^2 = x^3 - 39*x - 19127482 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  IV
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  9 , bp =  -4780225 , c = 14
+
+Elliptic Curve defined by y^2 = x^3 - 42*x - 19126388 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  9 , bp =  -4778873 , c = 16
+
+Elliptic Curve defined by y^2 = x^3 - 48*x - 19123684 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  IV
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  9 , bp =  -4778056 , c = 17
+
+Elliptic Curve defined by y^2 = x^3 - 51*x - 19122050 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  9 , bp =  -4776110 , c = 19
+
+Elliptic Curve defined by y^2 = x^3 - 57*x - 19118158 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  I0*
+
+Conductor exponent at 3 is  2
+
+
+
+
+a =  9 , bp =  -4774969 , c = 20
+
+Elliptic Curve defined by y^2 = x^3 - 60*x - 19115876 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  12 , bp =  -35838667 , c = -19
+
+Elliptic Curve defined by y^2 = x^3 + 57*x - 143340950 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  12 , bp =  -35836721 , c = -17
+
+Elliptic Curve defined by y^2 = x^3 + 51*x - 143337058 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  I0*
+
+Conductor exponent at 3 is  2
+
+
+
+
+a =  12 , bp =  -35834005 , c = -13
+
+Elliptic Curve defined by y^2 = x^3 + 39*x - 143331626 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  12 , bp =  -35833139 , c = -11
+
+Elliptic Curve defined by y^2 = x^3 + 33*x - 143329894 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  IV
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  12 , bp =  -35832151 , c = -7
+
+Elliptic Curve defined by y^2 = x^3 + 21*x - 143327918 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  12 , bp =  -35831933 , c = -5
+
+Elliptic Curve defined by y^2 = x^3 + 15*x - 143327482 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  IV
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  12 , bp =  -35831809 , c = -1
+
+Elliptic Curve defined by y^2 = x^3 + 3*x - 143327234 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  12 , bp =  -35831807 , c = 1
+
+Elliptic Curve defined by y^2 = x^3 - 3*x - 143327230 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  I4*
+
+Conductor exponent at 3 is  2
+
+
+
+
+a =  12 , bp =  -35831683 , c = 5
+
+Elliptic Curve defined by y^2 = x^3 - 15*x - 143326982 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  12 , bp =  -35831465 , c = 7
+
+Elliptic Curve defined by y^2 = x^3 - 21*x - 143326546 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  IV
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  12 , bp =  -35830477 , c = 11
+
+Elliptic Curve defined by y^2 = x^3 - 33*x - 143324570 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  12 , bp =  -35829611 , c = 13
+
+Elliptic Curve defined by y^2 = x^3 - 39*x - 143322838 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  IV
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  12 , bp =  -35826895 , c = 17
+
+Elliptic Curve defined by y^2 = x^3 - 51*x - 143317406 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  12 , bp =  -35824949 , c = 19
+
+Elliptic Curve defined by y^2 = x^3 - 57*x - 143313514 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  I0*
+
+Conductor exponent at 3 is  2
+
+
+
+
+a =  15 , bp =  -170866234 , c = -19
+
+Elliptic Curve defined by y^2 = x^3 + 57*x - 683451218 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  15 , bp =  -170864288 , c = -17
+
+Elliptic Curve defined by y^2 = x^3 + 51*x - 683447326 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  I0*
+
+Conductor exponent at 3 is  2
+
+
+
+
+a =  15 , bp =  -170863471 , c = -16
+
+Elliptic Curve defined by y^2 = x^3 + 48*x - 683445692 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  15 , bp =  -170862119 , c = -14
+
+Elliptic Curve defined by y^2 = x^3 + 42*x - 683442988 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  IV
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  15 , bp =  -170861572 , c = -13
+
+Elliptic Curve defined by y^2 = x^3 + 39*x - 683441894 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  15 , bp =  -170860706 , c = -11
+
+Elliptic Curve defined by y^2 = x^3 + 33*x - 683440162 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  IV
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  15 , bp =  -170859887 , c = -8
+
+Elliptic Curve defined by y^2 = x^3 + 24*x - 683438524 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  I0*
+
+Conductor exponent at 3 is  2
+
+
+
+
+a =  15 , bp =  -170859718 , c = -7
+
+Elliptic Curve defined by y^2 = x^3 + 21*x - 683438186 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  15 , bp =  -170859439 , c = -4
+
+Elliptic Curve defined by y^2 = x^3 + 12*x - 683437628 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  15 , bp =  -170859383 , c = -2
+
+Elliptic Curve defined by y^2 = x^3 + 6*x - 683437516 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  IV
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  15 , bp =  -170859376 , c = -1
+
+Elliptic Curve defined by y^2 = x^3 + 3*x - 683437502 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  15 , bp =  -170859374 , c = 1
+
+Elliptic Curve defined by y^2 = x^3 - 3*x - 683437498 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  I4*
+
+Conductor exponent at 3 is  2
+
+
+
+
+a =  15 , bp =  -170859367 , c = 2
+
+Elliptic Curve defined by y^2 = x^3 - 6*x - 683437484 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  15 , bp =  -170859311 , c = 4
+
+Elliptic Curve defined by y^2 = x^3 - 12*x - 683437372 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  IV
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  15 , bp =  -170859032 , c = 7
+
+Elliptic Curve defined by y^2 = x^3 - 21*x - 683436814 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  IV
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  15 , bp =  -170858863 , c = 8
+
+Elliptic Curve defined by y^2 = x^3 - 24*x - 683436476 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  15 , bp =  -170858044 , c = 11
+
+Elliptic Curve defined by y^2 = x^3 - 33*x - 683434838 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  15 , bp =  -170857178 , c = 13
+
+Elliptic Curve defined by y^2 = x^3 - 39*x - 683433106 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  IV
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  15 , bp =  -170856631 , c = 14
+
+Elliptic Curve defined by y^2 = x^3 - 42*x - 683432012 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  15 , bp =  -170855279 , c = 16
+
+Elliptic Curve defined by y^2 = x^3 - 48*x - 683429308 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  IV
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  15 , bp =  -170854462 , c = 17
+
+Elliptic Curve defined by y^2 = x^3 - 51*x - 683427674 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  15 , bp =  -170852516 , c = 19
+
+Elliptic Curve defined by y^2 = x^3 - 57*x - 683423782 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  I0*
+
+Conductor exponent at 3 is  2
+
+
+
+
+a =  18 , bp =  -612226891 , c = -19
+
+Elliptic Curve defined by y^2 = x^3 + 57*x - 2448893846 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  18 , bp =  -612224945 , c = -17
+
+Elliptic Curve defined by y^2 = x^3 + 51*x - 2448889954 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  I0*
+
+Conductor exponent at 3 is  2
+
+
+
+
+a =  18 , bp =  -612222229 , c = -13
+
+Elliptic Curve defined by y^2 = x^3 + 39*x - 2448884522 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  18 , bp =  -612221363 , c = -11
+
+Elliptic Curve defined by y^2 = x^3 + 33*x - 2448882790 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  IV
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  18 , bp =  -612220375 , c = -7
+
+Elliptic Curve defined by y^2 = x^3 + 21*x - 2448880814 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  18 , bp =  -612220157 , c = -5
+
+Elliptic Curve defined by y^2 = x^3 + 15*x - 2448880378 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  IV
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  18 , bp =  -612220033 , c = -1
+
+Elliptic Curve defined by y^2 = x^3 + 3*x - 2448880130 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  18 , bp =  -612220031 , c = 1
+
+Elliptic Curve defined by y^2 = x^3 - 3*x - 2448880126 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  I11*
+
+Conductor exponent at 3 is  2
+
+
+
+
+a =  18 , bp =  -612219907 , c = 5
+
+Elliptic Curve defined by y^2 = x^3 - 15*x - 2448879878 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  18 , bp =  -612219689 , c = 7
+
+Elliptic Curve defined by y^2 = x^3 - 21*x - 2448879442 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  IV
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  18 , bp =  -612218701 , c = 11
+
+Elliptic Curve defined by y^2 = x^3 - 33*x - 2448877466 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  18 , bp =  -612217835 , c = 13
+
+Elliptic Curve defined by y^2 = x^3 - 39*x - 2448875734 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  IV
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  18 , bp =  -612215119 , c = 17
+
+Elliptic Curve defined by y^2 = x^3 - 51*x - 2448870302 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  18 , bp =  -612213173 , c = 19
+
+Elliptic Curve defined by y^2 = x^3 - 57*x - 2448866410 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  I0*
+
+Conductor exponent at 3 is  2
+
+
+
+
+
+#############################################
+CHANGING PARAMETER p !!!!
+#############################################
+
+a =  -18 , bp =  64268410072373 , c = -19
+
+Elliptic Curve defined by y^2 = x^3 + 57*x + 257073640303210 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  -18 , bp =  64268410074319 , c = -17
+
+Elliptic Curve defined by y^2 = x^3 + 51*x + 257073640307102 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  I0*
+
+Conductor exponent at 3 is  2
+
+
+
+
+a =  -18 , bp =  64268410077035 , c = -13
+
+Elliptic Curve defined by y^2 = x^3 + 39*x + 257073640312534 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  -18 , bp =  64268410077901 , c = -11
+
+Elliptic Curve defined by y^2 = x^3 + 33*x + 257073640314266 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  IV
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  -18 , bp =  64268410078889 , c = -7
+
+Elliptic Curve defined by y^2 = x^3 + 21*x + 257073640316242 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  -18 , bp =  64268410079107 , c = -5
+
+Elliptic Curve defined by y^2 = x^3 + 15*x + 257073640316678 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  IV
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  -18 , bp =  64268410079231 , c = -1
+
+Elliptic Curve defined by y^2 = x^3 + 3*x + 257073640316926 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  -18 , bp =  64268410079233 , c = 1
+
+Elliptic Curve defined by y^2 = x^3 - 3*x + 257073640316930 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  I19*
+
+Conductor exponent at 3 is  2
+
+
+
+
+a =  -18 , bp =  64268410079357 , c = 5
+
+Elliptic Curve defined by y^2 = x^3 - 15*x + 257073640317178 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  -18 , bp =  64268410079575 , c = 7
+
+Elliptic Curve defined by y^2 = x^3 - 21*x + 257073640317614 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  IV
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  -18 , bp =  64268410080563 , c = 11
+
+Elliptic Curve defined by y^2 = x^3 - 33*x + 257073640319590 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  -18 , bp =  64268410081429 , c = 13
+
+Elliptic Curve defined by y^2 = x^3 - 39*x + 257073640321322 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  IV
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  -18 , bp =  64268410084145 , c = 17
+
+Elliptic Curve defined by y^2 = x^3 - 51*x + 257073640326754 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  -18 , bp =  64268410086091 , c = 19
+
+Elliptic Curve defined by y^2 = x^3 - 57*x + 257073640330646 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  I0*
+
+Conductor exponent at 3 is  2
+
+
+
+
+a =  -15 , bp =  8649755852516 , c = -19
+
+Elliptic Curve defined by y^2 = x^3 + 57*x + 34599023423782 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  -15 , bp =  8649755854462 , c = -17
+
+Elliptic Curve defined by y^2 = x^3 + 51*x + 34599023427674 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  I0*
+
+Conductor exponent at 3 is  2
+
+
+
+
+a =  -15 , bp =  8649755855279 , c = -16
+
+Elliptic Curve defined by y^2 = x^3 + 48*x + 34599023429308 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  -15 , bp =  8649755856631 , c = -14
+
+Elliptic Curve defined by y^2 = x^3 + 42*x + 34599023432012 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  IV
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  -15 , bp =  8649755857178 , c = -13
+
+Elliptic Curve defined by y^2 = x^3 + 39*x + 34599023433106 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  -15 , bp =  8649755858044 , c = -11
+
+Elliptic Curve defined by y^2 = x^3 + 33*x + 34599023434838 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  IV
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  -15 , bp =  8649755858863 , c = -8
+
+Elliptic Curve defined by y^2 = x^3 + 24*x + 34599023436476 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  I0*
+
+Conductor exponent at 3 is  2
+
+
+
+
+a =  -15 , bp =  8649755859032 , c = -7
+
+Elliptic Curve defined by y^2 = x^3 + 21*x + 34599023436814 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  -15 , bp =  8649755859311 , c = -4
+
+Elliptic Curve defined by y^2 = x^3 + 12*x + 34599023437372 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  -15 , bp =  8649755859367 , c = -2
+
+Elliptic Curve defined by y^2 = x^3 + 6*x + 34599023437484 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  IV
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  -15 , bp =  8649755859374 , c = -1
+
+Elliptic Curve defined by y^2 = x^3 + 3*x + 34599023437498 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  -15 , bp =  8649755859376 , c = 1
+
+Elliptic Curve defined by y^2 = x^3 - 3*x + 34599023437502 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  I8*
+
+Conductor exponent at 3 is  2
+
+
+
+
+a =  -15 , bp =  8649755859383 , c = 2
+
+Elliptic Curve defined by y^2 = x^3 - 6*x + 34599023437516 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  -15 , bp =  8649755859439 , c = 4
+
+Elliptic Curve defined by y^2 = x^3 - 12*x + 34599023437628 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  IV
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  -15 , bp =  8649755859718 , c = 7
+
+Elliptic Curve defined by y^2 = x^3 - 21*x + 34599023438186 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  IV
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  -15 , bp =  8649755859887 , c = 8
+
+Elliptic Curve defined by y^2 = x^3 - 24*x + 34599023438524 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  -15 , bp =  8649755860706 , c = 11
+
+Elliptic Curve defined by y^2 = x^3 - 33*x + 34599023440162 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  -15 , bp =  8649755861572 , c = 13
+
+Elliptic Curve defined by y^2 = x^3 - 39*x + 34599023441894 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  IV
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  -15 , bp =  8649755862119 , c = 14
+
+Elliptic Curve defined by y^2 = x^3 - 42*x + 34599023442988 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  -15 , bp =  8649755863471 , c = 16
+
+Elliptic Curve defined by y^2 = x^3 - 48*x + 34599023445692 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  IV
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  -15 , bp =  8649755864288 , c = 17
+
+Elliptic Curve defined by y^2 = x^3 - 51*x + 34599023447326 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  -15 , bp =  8649755866234 , c = 19
+
+Elliptic Curve defined by y^2 = x^3 - 57*x + 34599023451218 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  I0*
+
+Conductor exponent at 3 is  2
+
+
+
+
+a =  -12 , bp =  743008363829 , c = -19
+
+Elliptic Curve defined by y^2 = x^3 + 57*x + 2972033469034 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  -12 , bp =  743008365775 , c = -17
+
+Elliptic Curve defined by y^2 = x^3 + 51*x + 2972033472926 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  I0*
+
+Conductor exponent at 3 is  2
+
+
+
+
+a =  -12 , bp =  743008368491 , c = -13
+
+Elliptic Curve defined by y^2 = x^3 + 39*x + 2972033478358 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  -12 , bp =  743008369357 , c = -11
+
+Elliptic Curve defined by y^2 = x^3 + 33*x + 2972033480090 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  IV
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  -12 , bp =  743008370345 , c = -7
+
+Elliptic Curve defined by y^2 = x^3 + 21*x + 2972033482066 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  -12 , bp =  743008370563 , c = -5
+
+Elliptic Curve defined by y^2 = x^3 + 15*x + 2972033482502 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  IV
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  -12 , bp =  743008370687 , c = -1
+
+Elliptic Curve defined by y^2 = x^3 + 3*x + 2972033482750 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  -12 , bp =  743008370689 , c = 1
+
+Elliptic Curve defined by y^2 = x^3 - 3*x + 2972033482754 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  I8*
+
+Conductor exponent at 3 is  2
+
+
+
+
+a =  -12 , bp =  743008370813 , c = 5
+
+Elliptic Curve defined by y^2 = x^3 - 15*x + 2972033483002 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  -12 , bp =  743008371031 , c = 7
+
+Elliptic Curve defined by y^2 = x^3 - 21*x + 2972033483438 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  IV
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  -12 , bp =  743008372019 , c = 11
+
+Elliptic Curve defined by y^2 = x^3 - 33*x + 2972033485414 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  -12 , bp =  743008372885 , c = 13
+
+Elliptic Curve defined by y^2 = x^3 - 39*x + 2972033487146 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  IV
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  -12 , bp =  743008375601 , c = 17
+
+Elliptic Curve defined by y^2 = x^3 - 51*x + 2972033492578 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  -12 , bp =  743008377547 , c = 19
+
+Elliptic Curve defined by y^2 = x^3 - 57*x + 2972033496470 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  I0*
+
+Conductor exponent at 3 is  2
+
+
+
+
+a =  -9 , bp =  31381051609 , c = -20
+
+Elliptic Curve defined by y^2 = x^3 + 60*x + 125524222436 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  IV
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  -9 , bp =  31381052750 , c = -19
+
+Elliptic Curve defined by y^2 = x^3 + 57*x + 125524224718 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  -9 , bp =  31381054696 , c = -17
+
+Elliptic Curve defined by y^2 = x^3 + 51*x + 125524228610 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  I0*
+
+Conductor exponent at 3 is  2
+
+
+
+
+a =  -9 , bp =  31381055513 , c = -16
+
+Elliptic Curve defined by y^2 = x^3 + 48*x + 125524230244 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  -9 , bp =  31381056865 , c = -14
+
+Elliptic Curve defined by y^2 = x^3 + 42*x + 125524232948 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  IV
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  -9 , bp =  31381057412 , c = -13
+
+Elliptic Curve defined by y^2 = x^3 + 39*x + 125524234042 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  -9 , bp =  31381058278 , c = -11
+
+Elliptic Curve defined by y^2 = x^3 + 33*x + 125524235774 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  IV
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  -9 , bp =  31381058609 , c = -10
+
+Elliptic Curve defined by y^2 = x^3 + 30*x + 125524236436 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  -9 , bp =  31381059097 , c = -8
+
+Elliptic Curve defined by y^2 = x^3 + 24*x + 125524237412 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  I0*
+
+Conductor exponent at 3 is  2
+
+
+
+
+a =  -9 , bp =  31381059266 , c = -7
+
+Elliptic Curve defined by y^2 = x^3 + 21*x + 125524237750 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  -9 , bp =  31381059484 , c = -5
+
+Elliptic Curve defined by y^2 = x^3 + 15*x + 125524238186 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  IV
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  -9 , bp =  31381059545 , c = -4
+
+Elliptic Curve defined by y^2 = x^3 + 12*x + 125524238308 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  -9 , bp =  31381059601 , c = -2
+
+Elliptic Curve defined by y^2 = x^3 + 6*x + 125524238420 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  IV
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  -9 , bp =  31381059608 , c = -1
+
+Elliptic Curve defined by y^2 = x^3 + 3*x + 125524238434 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  -9 , bp =  31381059610 , c = 1
+
+Elliptic Curve defined by y^2 = x^3 - 3*x + 125524238438 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  I19*
+
+Conductor exponent at 3 is  2
+
+
+
+
+a =  -9 , bp =  31381059617 , c = 2
+
+Elliptic Curve defined by y^2 = x^3 - 6*x + 125524238452 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  -9 , bp =  31381059673 , c = 4
+
+Elliptic Curve defined by y^2 = x^3 - 12*x + 125524238564 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  IV
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  -9 , bp =  31381059734 , c = 5
+
+Elliptic Curve defined by y^2 = x^3 - 15*x + 125524238686 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  -9 , bp =  31381059952 , c = 7
+
+Elliptic Curve defined by y^2 = x^3 - 21*x + 125524239122 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  IV
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  -9 , bp =  31381060121 , c = 8
+
+Elliptic Curve defined by y^2 = x^3 - 24*x + 125524239460 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  -9 , bp =  31381060609 , c = 10
+
+Elliptic Curve defined by y^2 = x^3 - 30*x + 125524240436 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  I0*
+
+Conductor exponent at 3 is  2
+
+
+
+
+a =  -9 , bp =  31381060940 , c = 11
+
+Elliptic Curve defined by y^2 = x^3 - 33*x + 125524241098 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  -9 , bp =  31381061806 , c = 13
+
+Elliptic Curve defined by y^2 = x^3 - 39*x + 125524242830 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  IV
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  -9 , bp =  31381062353 , c = 14
+
+Elliptic Curve defined by y^2 = x^3 - 42*x + 125524243924 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  -9 , bp =  31381063705 , c = 16
+
+Elliptic Curve defined by y^2 = x^3 - 48*x + 125524246628 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  IV
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  -9 , bp =  31381064522 , c = 17
+
+Elliptic Curve defined by y^2 = x^3 - 51*x + 125524248262 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  -9 , bp =  31381066468 , c = 19
+
+Elliptic Curve defined by y^2 = x^3 - 57*x + 125524252154 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  I0*
+
+Conductor exponent at 3 is  2
+
+
+
+
+a =  -9 , bp =  31381067609 , c = 20
+
+Elliptic Curve defined by y^2 = x^3 - 60*x + 125524254436 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  -6 , bp =  362790197 , c = -19
+
+Elliptic Curve defined by y^2 = x^3 + 57*x + 1451174506 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  -6 , bp =  362792143 , c = -17
+
+Elliptic Curve defined by y^2 = x^3 + 51*x + 1451178398 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  I0*
+
+Conductor exponent at 3 is  2
+
+
+
+
+a =  -6 , bp =  362794859 , c = -13
+
+Elliptic Curve defined by y^2 = x^3 + 39*x + 1451183830 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  -6 , bp =  362795725 , c = -11
+
+Elliptic Curve defined by y^2 = x^3 + 33*x + 1451185562 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  IV
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  -6 , bp =  362796713 , c = -7
+
+Elliptic Curve defined by y^2 = x^3 + 21*x + 1451187538 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  -6 , bp =  362796931 , c = -5
+
+Elliptic Curve defined by y^2 = x^3 + 15*x + 1451187974 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  IV
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  -6 , bp =  362797055 , c = -1
+
+Elliptic Curve defined by y^2 = x^3 + 3*x + 1451188222 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  -6 , bp =  362797057 , c = 1
+
+Elliptic Curve defined by y^2 = x^3 - 3*x + 1451188226 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  I8*
+
+Conductor exponent at 3 is  2
+
+
+
+
+a =  -6 , bp =  362797181 , c = 5
+
+Elliptic Curve defined by y^2 = x^3 - 15*x + 1451188474 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  -6 , bp =  362797399 , c = 7
+
+Elliptic Curve defined by y^2 = x^3 - 21*x + 1451188910 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  IV
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  -6 , bp =  362798387 , c = 11
+
+Elliptic Curve defined by y^2 = x^3 - 33*x + 1451190886 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  -6 , bp =  362799253 , c = 13
+
+Elliptic Curve defined by y^2 = x^3 - 39*x + 1451192618 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  IV
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  -6 , bp =  362801969 , c = 17
+
+Elliptic Curve defined by y^2 = x^3 - 51*x + 1451198050 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  -6 , bp =  362803915 , c = 19
+
+Elliptic Curve defined by y^2 = x^3 - 57*x + 1451201942 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  I0*
+
+Conductor exponent at 3 is  2
+
+
+
+
+a =  -3 , bp =  169147 , c = -20
+
+Elliptic Curve defined by y^2 = x^3 + 60*x + 692588 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  IV
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  -3 , bp =  170288 , c = -19
+
+Elliptic Curve defined by y^2 = x^3 + 57*x + 694870 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  -3 , bp =  172234 , c = -17
+
+Elliptic Curve defined by y^2 = x^3 + 51*x + 698762 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  I0*
+
+Conductor exponent at 3 is  2
+
+
+
+
+a =  -3 , bp =  173051 , c = -16
+
+Elliptic Curve defined by y^2 = x^3 + 48*x + 700396 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  -3 , bp =  174403 , c = -14
+
+Elliptic Curve defined by y^2 = x^3 + 42*x + 703100 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  IV
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  -3 , bp =  174950 , c = -13
+
+Elliptic Curve defined by y^2 = x^3 + 39*x + 704194 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  -3 , bp =  175816 , c = -11
+
+Elliptic Curve defined by y^2 = x^3 + 33*x + 705926 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  IV
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  -3 , bp =  176147 , c = -10
+
+Elliptic Curve defined by y^2 = x^3 + 30*x + 706588 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  -3 , bp =  176635 , c = -8
+
+Elliptic Curve defined by y^2 = x^3 + 24*x + 707564 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  I0*
+
+Conductor exponent at 3 is  2
+
+
+
+
+a =  -3 , bp =  176804 , c = -7
+
+Elliptic Curve defined by y^2 = x^3 + 21*x + 707902 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  -3 , bp =  177022 , c = -5
+
+Elliptic Curve defined by y^2 = x^3 + 15*x + 708338 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  IV
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  -3 , bp =  177083 , c = -4
+
+Elliptic Curve defined by y^2 = x^3 + 12*x + 708460 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  -3 , bp =  177139 , c = -2
+
+Elliptic Curve defined by y^2 = x^3 + 6*x + 708572 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  IV
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  -3 , bp =  177146 , c = -1
+
+Elliptic Curve defined by y^2 = x^3 + 3*x + 708586 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  -3 , bp =  177148 , c = 1
+
+Elliptic Curve defined by y^2 = x^3 - 3*x + 708590 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  I8*
+
+Conductor exponent at 3 is  2
+
+
+
+
+a =  -3 , bp =  177155 , c = 2
+
+Elliptic Curve defined by y^2 = x^3 - 6*x + 708604 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  -3 , bp =  177211 , c = 4
+
+Elliptic Curve defined by y^2 = x^3 - 12*x + 708716 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  IV
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  -3 , bp =  177272 , c = 5
+
+Elliptic Curve defined by y^2 = x^3 - 15*x + 708838 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  -3 , bp =  177490 , c = 7
+
+Elliptic Curve defined by y^2 = x^3 - 21*x + 709274 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  IV
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  -3 , bp =  177659 , c = 8
+
+Elliptic Curve defined by y^2 = x^3 - 24*x + 709612 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  -3 , bp =  178147 , c = 10
+
+Elliptic Curve defined by y^2 = x^3 - 30*x + 710588 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  I0*
+
+Conductor exponent at 3 is  2
+
+
+
+
+a =  -3 , bp =  178478 , c = 11
+
+Elliptic Curve defined by y^2 = x^3 - 33*x + 711250 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  -3 , bp =  179344 , c = 13
+
+Elliptic Curve defined by y^2 = x^3 - 39*x + 712982 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  IV
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  -3 , bp =  179891 , c = 14
+
+Elliptic Curve defined by y^2 = x^3 - 42*x + 714076 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  -3 , bp =  181243 , c = 16
+
+Elliptic Curve defined by y^2 = x^3 - 48*x + 716780 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  IV
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  -3 , bp =  182060 , c = 17
+
+Elliptic Curve defined by y^2 = x^3 - 51*x + 718414 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  -3 , bp =  184006 , c = 19
+
+Elliptic Curve defined by y^2 = x^3 - 57*x + 722306 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  I0*
+
+Conductor exponent at 3 is  2
+
+
+
+
+a =  -3 , bp =  185147 , c = 20
+
+Elliptic Curve defined by y^2 = x^3 - 60*x + 724588 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  3 , bp =  -185147 , c = -20
+
+Elliptic Curve defined by y^2 = x^3 + 60*x - 724588 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  IV
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  3 , bp =  -184006 , c = -19
+
+Elliptic Curve defined by y^2 = x^3 + 57*x - 722306 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  3 , bp =  -182060 , c = -17
+
+Elliptic Curve defined by y^2 = x^3 + 51*x - 718414 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  I0*
+
+Conductor exponent at 3 is  2
+
+
+
+
+a =  3 , bp =  -181243 , c = -16
+
+Elliptic Curve defined by y^2 = x^3 + 48*x - 716780 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  3 , bp =  -179891 , c = -14
+
+Elliptic Curve defined by y^2 = x^3 + 42*x - 714076 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  IV
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  3 , bp =  -179344 , c = -13
+
+Elliptic Curve defined by y^2 = x^3 + 39*x - 712982 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  3 , bp =  -178478 , c = -11
+
+Elliptic Curve defined by y^2 = x^3 + 33*x - 711250 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  IV
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  3 , bp =  -178147 , c = -10
+
+Elliptic Curve defined by y^2 = x^3 + 30*x - 710588 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  3 , bp =  -177659 , c = -8
+
+Elliptic Curve defined by y^2 = x^3 + 24*x - 709612 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  I0*
+
+Conductor exponent at 3 is  2
+
+
+
+
+a =  3 , bp =  -177490 , c = -7
+
+Elliptic Curve defined by y^2 = x^3 + 21*x - 709274 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  3 , bp =  -177272 , c = -5
+
+Elliptic Curve defined by y^2 = x^3 + 15*x - 708838 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  IV
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  3 , bp =  -177211 , c = -4
+
+Elliptic Curve defined by y^2 = x^3 + 12*x - 708716 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  3 , bp =  -177155 , c = -2
+
+Elliptic Curve defined by y^2 = x^3 + 6*x - 708604 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  IV
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  3 , bp =  -177148 , c = -1
+
+Elliptic Curve defined by y^2 = x^3 + 3*x - 708590 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  3 , bp =  -177146 , c = 1
+
+Elliptic Curve defined by y^2 = x^3 - 3*x - 708586 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  I8*
+
+Conductor exponent at 3 is  2
+
+
+
+
+a =  3 , bp =  -177139 , c = 2
+
+Elliptic Curve defined by y^2 = x^3 - 6*x - 708572 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  3 , bp =  -177083 , c = 4
+
+Elliptic Curve defined by y^2 = x^3 - 12*x - 708460 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  IV
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  3 , bp =  -177022 , c = 5
+
+Elliptic Curve defined by y^2 = x^3 - 15*x - 708338 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  3 , bp =  -176804 , c = 7
+
+Elliptic Curve defined by y^2 = x^3 - 21*x - 707902 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  IV
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  3 , bp =  -176635 , c = 8
+
+Elliptic Curve defined by y^2 = x^3 - 24*x - 707564 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  3 , bp =  -176147 , c = 10
+
+Elliptic Curve defined by y^2 = x^3 - 30*x - 706588 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  I0*
+
+Conductor exponent at 3 is  2
+
+
+
+
+a =  3 , bp =  -175816 , c = 11
+
+Elliptic Curve defined by y^2 = x^3 - 33*x - 705926 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  3 , bp =  -174950 , c = 13
+
+Elliptic Curve defined by y^2 = x^3 - 39*x - 704194 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  IV
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  3 , bp =  -174403 , c = 14
+
+Elliptic Curve defined by y^2 = x^3 - 42*x - 703100 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  3 , bp =  -173051 , c = 16
+
+Elliptic Curve defined by y^2 = x^3 - 48*x - 700396 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  IV
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  3 , bp =  -172234 , c = 17
+
+Elliptic Curve defined by y^2 = x^3 - 51*x - 698762 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  3 , bp =  -170288 , c = 19
+
+Elliptic Curve defined by y^2 = x^3 - 57*x - 694870 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  I0*
+
+Conductor exponent at 3 is  2
+
+
+
+
+a =  3 , bp =  -169147 , c = 20
+
+Elliptic Curve defined by y^2 = x^3 - 60*x - 692588 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  6 , bp =  -362803915 , c = -19
+
+Elliptic Curve defined by y^2 = x^3 + 57*x - 1451201942 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  6 , bp =  -362801969 , c = -17
+
+Elliptic Curve defined by y^2 = x^3 + 51*x - 1451198050 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  I0*
+
+Conductor exponent at 3 is  2
+
+
+
+
+a =  6 , bp =  -362799253 , c = -13
+
+Elliptic Curve defined by y^2 = x^3 + 39*x - 1451192618 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  6 , bp =  -362798387 , c = -11
+
+Elliptic Curve defined by y^2 = x^3 + 33*x - 1451190886 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  IV
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  6 , bp =  -362797399 , c = -7
+
+Elliptic Curve defined by y^2 = x^3 + 21*x - 1451188910 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  6 , bp =  -362797181 , c = -5
+
+Elliptic Curve defined by y^2 = x^3 + 15*x - 1451188474 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  IV
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  6 , bp =  -362797057 , c = -1
+
+Elliptic Curve defined by y^2 = x^3 + 3*x - 1451188226 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  6 , bp =  -362797055 , c = 1
+
+Elliptic Curve defined by y^2 = x^3 - 3*x - 1451188222 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  I8*
+
+Conductor exponent at 3 is  2
+
+
+
+
+a =  6 , bp =  -362796931 , c = 5
+
+Elliptic Curve defined by y^2 = x^3 - 15*x - 1451187974 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  6 , bp =  -362796713 , c = 7
+
+Elliptic Curve defined by y^2 = x^3 - 21*x - 1451187538 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  IV
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  6 , bp =  -362795725 , c = 11
+
+Elliptic Curve defined by y^2 = x^3 - 33*x - 1451185562 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  6 , bp =  -362794859 , c = 13
+
+Elliptic Curve defined by y^2 = x^3 - 39*x - 1451183830 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  IV
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  6 , bp =  -362792143 , c = 17
+
+Elliptic Curve defined by y^2 = x^3 - 51*x - 1451178398 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  6 , bp =  -362790197 , c = 19
+
+Elliptic Curve defined by y^2 = x^3 - 57*x - 1451174506 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  I0*
+
+Conductor exponent at 3 is  2
+
+
+
+
+a =  9 , bp =  -31381067609 , c = -20
+
+Elliptic Curve defined by y^2 = x^3 + 60*x - 125524254436 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  IV
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  9 , bp =  -31381066468 , c = -19
+
+Elliptic Curve defined by y^2 = x^3 + 57*x - 125524252154 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  9 , bp =  -31381064522 , c = -17
+
+Elliptic Curve defined by y^2 = x^3 + 51*x - 125524248262 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  I0*
+
+Conductor exponent at 3 is  2
+
+
+
+
+a =  9 , bp =  -31381063705 , c = -16
+
+Elliptic Curve defined by y^2 = x^3 + 48*x - 125524246628 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  9 , bp =  -31381062353 , c = -14
+
+Elliptic Curve defined by y^2 = x^3 + 42*x - 125524243924 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  IV
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  9 , bp =  -31381061806 , c = -13
+
+Elliptic Curve defined by y^2 = x^3 + 39*x - 125524242830 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  9 , bp =  -31381060940 , c = -11
+
+Elliptic Curve defined by y^2 = x^3 + 33*x - 125524241098 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  IV
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  9 , bp =  -31381060609 , c = -10
+
+Elliptic Curve defined by y^2 = x^3 + 30*x - 125524240436 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  9 , bp =  -31381060121 , c = -8
+
+Elliptic Curve defined by y^2 = x^3 + 24*x - 125524239460 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  I0*
+
+Conductor exponent at 3 is  2
+
+
+
+
+a =  9 , bp =  -31381059952 , c = -7
+
+Elliptic Curve defined by y^2 = x^3 + 21*x - 125524239122 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  9 , bp =  -31381059734 , c = -5
+
+Elliptic Curve defined by y^2 = x^3 + 15*x - 125524238686 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  IV
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  9 , bp =  -31381059673 , c = -4
+
+Elliptic Curve defined by y^2 = x^3 + 12*x - 125524238564 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  9 , bp =  -31381059617 , c = -2
+
+Elliptic Curve defined by y^2 = x^3 + 6*x - 125524238452 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  IV
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  9 , bp =  -31381059610 , c = -1
+
+Elliptic Curve defined by y^2 = x^3 + 3*x - 125524238438 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  9 , bp =  -31381059608 , c = 1
+
+Elliptic Curve defined by y^2 = x^3 - 3*x - 125524238434 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  I19*
+
+Conductor exponent at 3 is  2
+
+
+
+
+a =  9 , bp =  -31381059601 , c = 2
+
+Elliptic Curve defined by y^2 = x^3 - 6*x - 125524238420 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  9 , bp =  -31381059545 , c = 4
+
+Elliptic Curve defined by y^2 = x^3 - 12*x - 125524238308 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  IV
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  9 , bp =  -31381059484 , c = 5
+
+Elliptic Curve defined by y^2 = x^3 - 15*x - 125524238186 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  9 , bp =  -31381059266 , c = 7
+
+Elliptic Curve defined by y^2 = x^3 - 21*x - 125524237750 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  IV
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  9 , bp =  -31381059097 , c = 8
+
+Elliptic Curve defined by y^2 = x^3 - 24*x - 125524237412 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  9 , bp =  -31381058609 , c = 10
+
+Elliptic Curve defined by y^2 = x^3 - 30*x - 125524236436 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  I0*
+
+Conductor exponent at 3 is  2
+
+
+
+
+a =  9 , bp =  -31381058278 , c = 11
+
+Elliptic Curve defined by y^2 = x^3 - 33*x - 125524235774 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  9 , bp =  -31381057412 , c = 13
+
+Elliptic Curve defined by y^2 = x^3 - 39*x - 125524234042 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  IV
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  9 , bp =  -31381056865 , c = 14
+
+Elliptic Curve defined by y^2 = x^3 - 42*x - 125524232948 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  9 , bp =  -31381055513 , c = 16
+
+Elliptic Curve defined by y^2 = x^3 - 48*x - 125524230244 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  IV
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  9 , bp =  -31381054696 , c = 17
+
+Elliptic Curve defined by y^2 = x^3 - 51*x - 125524228610 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  9 , bp =  -31381052750 , c = 19
+
+Elliptic Curve defined by y^2 = x^3 - 57*x - 125524224718 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  I0*
+
+Conductor exponent at 3 is  2
+
+
+
+
+a =  9 , bp =  -31381051609 , c = 20
+
+Elliptic Curve defined by y^2 = x^3 - 60*x - 125524222436 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  12 , bp =  -743008377547 , c = -19
+
+Elliptic Curve defined by y^2 = x^3 + 57*x - 2972033496470 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  12 , bp =  -743008375601 , c = -17
+
+Elliptic Curve defined by y^2 = x^3 + 51*x - 2972033492578 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  I0*
+
+Conductor exponent at 3 is  2
+
+
+
+
+a =  12 , bp =  -743008372885 , c = -13
+
+Elliptic Curve defined by y^2 = x^3 + 39*x - 2972033487146 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  12 , bp =  -743008372019 , c = -11
+
+Elliptic Curve defined by y^2 = x^3 + 33*x - 2972033485414 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  IV
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  12 , bp =  -743008371031 , c = -7
+
+Elliptic Curve defined by y^2 = x^3 + 21*x - 2972033483438 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  12 , bp =  -743008370813 , c = -5
+
+Elliptic Curve defined by y^2 = x^3 + 15*x - 2972033483002 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  IV
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  12 , bp =  -743008370689 , c = -1
+
+Elliptic Curve defined by y^2 = x^3 + 3*x - 2972033482754 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  12 , bp =  -743008370687 , c = 1
+
+Elliptic Curve defined by y^2 = x^3 - 3*x - 2972033482750 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  I8*
+
+Conductor exponent at 3 is  2
+
+
+
+
+a =  12 , bp =  -743008370563 , c = 5
+
+Elliptic Curve defined by y^2 = x^3 - 15*x - 2972033482502 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  12 , bp =  -743008370345 , c = 7
+
+Elliptic Curve defined by y^2 = x^3 - 21*x - 2972033482066 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  IV
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  12 , bp =  -743008369357 , c = 11
+
+Elliptic Curve defined by y^2 = x^3 - 33*x - 2972033480090 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  12 , bp =  -743008368491 , c = 13
+
+Elliptic Curve defined by y^2 = x^3 - 39*x - 2972033478358 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  IV
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  12 , bp =  -743008365775 , c = 17
+
+Elliptic Curve defined by y^2 = x^3 - 51*x - 2972033472926 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  12 , bp =  -743008363829 , c = 19
+
+Elliptic Curve defined by y^2 = x^3 - 57*x - 2972033469034 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  I0*
+
+Conductor exponent at 3 is  2
+
+
+
+
+a =  15 , bp =  -8649755866234 , c = -19
+
+Elliptic Curve defined by y^2 = x^3 + 57*x - 34599023451218 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  15 , bp =  -8649755864288 , c = -17
+
+Elliptic Curve defined by y^2 = x^3 + 51*x - 34599023447326 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  I0*
+
+Conductor exponent at 3 is  2
+
+
+
+
+a =  15 , bp =  -8649755863471 , c = -16
+
+Elliptic Curve defined by y^2 = x^3 + 48*x - 34599023445692 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  15 , bp =  -8649755862119 , c = -14
+
+Elliptic Curve defined by y^2 = x^3 + 42*x - 34599023442988 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  IV
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  15 , bp =  -8649755861572 , c = -13
+
+Elliptic Curve defined by y^2 = x^3 + 39*x - 34599023441894 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  15 , bp =  -8649755860706 , c = -11
+
+Elliptic Curve defined by y^2 = x^3 + 33*x - 34599023440162 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  IV
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  15 , bp =  -8649755859887 , c = -8
+
+Elliptic Curve defined by y^2 = x^3 + 24*x - 34599023438524 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  I0*
+
+Conductor exponent at 3 is  2
+
+
+
+
+a =  15 , bp =  -8649755859718 , c = -7
+
+Elliptic Curve defined by y^2 = x^3 + 21*x - 34599023438186 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  15 , bp =  -8649755859439 , c = -4
+
+Elliptic Curve defined by y^2 = x^3 + 12*x - 34599023437628 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  15 , bp =  -8649755859383 , c = -2
+
+Elliptic Curve defined by y^2 = x^3 + 6*x - 34599023437516 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  IV
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  15 , bp =  -8649755859376 , c = -1
+
+Elliptic Curve defined by y^2 = x^3 + 3*x - 34599023437502 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  15 , bp =  -8649755859374 , c = 1
+
+Elliptic Curve defined by y^2 = x^3 - 3*x - 34599023437498 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  I8*
+
+Conductor exponent at 3 is  2
+
+
+
+
+a =  15 , bp =  -8649755859367 , c = 2
+
+Elliptic Curve defined by y^2 = x^3 - 6*x - 34599023437484 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  15 , bp =  -8649755859311 , c = 4
+
+Elliptic Curve defined by y^2 = x^3 - 12*x - 34599023437372 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  IV
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  15 , bp =  -8649755859032 , c = 7
+
+Elliptic Curve defined by y^2 = x^3 - 21*x - 34599023436814 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  IV
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  15 , bp =  -8649755858863 , c = 8
+
+Elliptic Curve defined by y^2 = x^3 - 24*x - 34599023436476 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  15 , bp =  -8649755858044 , c = 11
+
+Elliptic Curve defined by y^2 = x^3 - 33*x - 34599023434838 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  15 , bp =  -8649755857178 , c = 13
+
+Elliptic Curve defined by y^2 = x^3 - 39*x - 34599023433106 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  IV
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  15 , bp =  -8649755856631 , c = 14
+
+Elliptic Curve defined by y^2 = x^3 - 42*x - 34599023432012 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  15 , bp =  -8649755855279 , c = 16
+
+Elliptic Curve defined by y^2 = x^3 - 48*x - 34599023429308 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  IV
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  15 , bp =  -8649755854462 , c = 17
+
+Elliptic Curve defined by y^2 = x^3 - 51*x - 34599023427674 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  15 , bp =  -8649755852516 , c = 19
+
+Elliptic Curve defined by y^2 = x^3 - 57*x - 34599023423782 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  I0*
+
+Conductor exponent at 3 is  2
+
+
+
+
+a =  18 , bp =  -64268410086091 , c = -19
+
+Elliptic Curve defined by y^2 = x^3 + 57*x - 257073640330646 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  18 , bp =  -64268410084145 , c = -17
+
+Elliptic Curve defined by y^2 = x^3 + 51*x - 257073640326754 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  I0*
+
+Conductor exponent at 3 is  2
+
+
+
+
+a =  18 , bp =  -64268410081429 , c = -13
+
+Elliptic Curve defined by y^2 = x^3 + 39*x - 257073640321322 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  18 , bp =  -64268410080563 , c = -11
+
+Elliptic Curve defined by y^2 = x^3 + 33*x - 257073640319590 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  IV
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  18 , bp =  -64268410079575 , c = -7
+
+Elliptic Curve defined by y^2 = x^3 + 21*x - 257073640317614 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  18 , bp =  -64268410079357 , c = -5
+
+Elliptic Curve defined by y^2 = x^3 + 15*x - 257073640317178 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  IV
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  18 , bp =  -64268410079233 , c = -1
+
+Elliptic Curve defined by y^2 = x^3 + 3*x - 257073640316930 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  18 , bp =  -64268410079231 , c = 1
+
+Elliptic Curve defined by y^2 = x^3 - 3*x - 257073640316926 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  I19*
+
+Conductor exponent at 3 is  2
+
+
+
+
+a =  18 , bp =  -64268410079107 , c = 5
+
+Elliptic Curve defined by y^2 = x^3 - 15*x - 257073640316678 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  18 , bp =  -64268410078889 , c = 7
+
+Elliptic Curve defined by y^2 = x^3 - 21*x - 257073640316242 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  IV
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  18 , bp =  -64268410077901 , c = 11
+
+Elliptic Curve defined by y^2 = x^3 - 33*x - 257073640314266 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  18 , bp =  -64268410077035 , c = 13
+
+Elliptic Curve defined by y^2 = x^3 - 39*x - 257073640312534 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  IV
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  18 , bp =  -64268410074319 , c = 17
+
+Elliptic Curve defined by y^2 = x^3 - 51*x - 257073640307102 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  18 , bp =  -64268410072373 , c = 19
+
+Elliptic Curve defined by y^2 = x^3 - 57*x - 257073640303210 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  I0*
+
+Conductor exponent at 3 is  2
+
+
+
+
+
+#############################################
+CHANGING PARAMETER p !!!!
+#############################################
+
+a =  -18 , bp =  20822964865664309 , c = -19
+
+Elliptic Curve defined by y^2 = x^3 + 57*x + 83291859462670954 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  -18 , bp =  20822964865666255 , c = -17
+
+Elliptic Curve defined by y^2 = x^3 + 51*x + 83291859462674846 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  I0*
+
+Conductor exponent at 3 is  2
+
+
+
+
+a =  -18 , bp =  20822964865668971 , c = -13
+
+Elliptic Curve defined by y^2 = x^3 + 39*x + 83291859462680278 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  -18 , bp =  20822964865669837 , c = -11
+
+Elliptic Curve defined by y^2 = x^3 + 33*x + 83291859462682010 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  IV
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  -18 , bp =  20822964865670825 , c = -7
+
+Elliptic Curve defined by y^2 = x^3 + 21*x + 83291859462683986 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  -18 , bp =  20822964865671043 , c = -5
+
+Elliptic Curve defined by y^2 = x^3 + 15*x + 83291859462684422 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  IV
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  -18 , bp =  20822964865671167 , c = -1
+
+Elliptic Curve defined by y^2 = x^3 + 3*x + 83291859462684670 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  -18 , bp =  20822964865671169 , c = 1
+
+Elliptic Curve defined by y^2 = x^3 - 3*x + 83291859462684674 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  I23*
+
+Conductor exponent at 3 is  2
+
+
+
+
+a =  -18 , bp =  20822964865671293 , c = 5
+
+Elliptic Curve defined by y^2 = x^3 - 15*x + 83291859462684922 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  -18 , bp =  20822964865671511 , c = 7
+
+Elliptic Curve defined by y^2 = x^3 - 21*x + 83291859462685358 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  IV
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  -18 , bp =  20822964865672499 , c = 11
+
+Elliptic Curve defined by y^2 = x^3 - 33*x + 83291859462687334 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  -18 , bp =  20822964865673365 , c = 13
+
+Elliptic Curve defined by y^2 = x^3 - 39*x + 83291859462689066 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  IV
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  -18 , bp =  20822964865676081 , c = 17
+
+Elliptic Curve defined by y^2 = x^3 - 51*x + 83291859462694498 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  -18 , bp =  20822964865678027 , c = 19
+
+Elliptic Curve defined by y^2 = x^3 - 57*x + 83291859462698390 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  I0*
+
+Conductor exponent at 3 is  2
+
+
+
+
+a =  -15 , bp =  1946195068352516 , c = -19
+
+Elliptic Curve defined by y^2 = x^3 + 57*x + 7784780273423782 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  -15 , bp =  1946195068354462 , c = -17
+
+Elliptic Curve defined by y^2 = x^3 + 51*x + 7784780273427674 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  I0*
+
+Conductor exponent at 3 is  2
+
+
+
+
+a =  -15 , bp =  1946195068355279 , c = -16
+
+Elliptic Curve defined by y^2 = x^3 + 48*x + 7784780273429308 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  -15 , bp =  1946195068356631 , c = -14
+
+Elliptic Curve defined by y^2 = x^3 + 42*x + 7784780273432012 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  IV
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  -15 , bp =  1946195068357178 , c = -13
+
+Elliptic Curve defined by y^2 = x^3 + 39*x + 7784780273433106 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  -15 , bp =  1946195068358044 , c = -11
+
+Elliptic Curve defined by y^2 = x^3 + 33*x + 7784780273434838 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  IV
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  -15 , bp =  1946195068358863 , c = -8
+
+Elliptic Curve defined by y^2 = x^3 + 24*x + 7784780273436476 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  I0*
+
+Conductor exponent at 3 is  2
+
+
+
+
+a =  -15 , bp =  1946195068359032 , c = -7
+
+Elliptic Curve defined by y^2 = x^3 + 21*x + 7784780273436814 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  -15 , bp =  1946195068359311 , c = -4
+
+Elliptic Curve defined by y^2 = x^3 + 12*x + 7784780273437372 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  -15 , bp =  1946195068359367 , c = -2
+
+Elliptic Curve defined by y^2 = x^3 + 6*x + 7784780273437484 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  IV
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  -15 , bp =  1946195068359374 , c = -1
+
+Elliptic Curve defined by y^2 = x^3 + 3*x + 7784780273437498 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  -15 , bp =  1946195068359376 , c = 1
+
+Elliptic Curve defined by y^2 = x^3 - 3*x + 7784780273437502 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  I10*
+
+Conductor exponent at 3 is  2
+
+
+
+
+a =  -15 , bp =  1946195068359383 , c = 2
+
+Elliptic Curve defined by y^2 = x^3 - 6*x + 7784780273437516 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  -15 , bp =  1946195068359439 , c = 4
+
+Elliptic Curve defined by y^2 = x^3 - 12*x + 7784780273437628 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  IV
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  -15 , bp =  1946195068359718 , c = 7
+
+Elliptic Curve defined by y^2 = x^3 - 21*x + 7784780273438186 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  IV
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  -15 , bp =  1946195068359887 , c = 8
+
+Elliptic Curve defined by y^2 = x^3 - 24*x + 7784780273438524 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  -15 , bp =  1946195068360706 , c = 11
+
+Elliptic Curve defined by y^2 = x^3 - 33*x + 7784780273440162 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  -15 , bp =  1946195068361572 , c = 13
+
+Elliptic Curve defined by y^2 = x^3 - 39*x + 7784780273441894 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  IV
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  -15 , bp =  1946195068362119 , c = 14
+
+Elliptic Curve defined by y^2 = x^3 - 42*x + 7784780273442988 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  -15 , bp =  1946195068363471 , c = 16
+
+Elliptic Curve defined by y^2 = x^3 - 48*x + 7784780273445692 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  IV
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  -15 , bp =  1946195068364288 , c = 17
+
+Elliptic Curve defined by y^2 = x^3 - 51*x + 7784780273447326 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  -15 , bp =  1946195068366234 , c = 19
+
+Elliptic Curve defined by y^2 = x^3 - 57*x + 7784780273451218 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  I0*
+
+Conductor exponent at 3 is  2
+
+
+
+
+a =  -12 , bp =  106993205372213 , c = -19
+
+Elliptic Curve defined by y^2 = x^3 + 57*x + 427972821502570 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  -12 , bp =  106993205374159 , c = -17
+
+Elliptic Curve defined by y^2 = x^3 + 51*x + 427972821506462 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  I0*
+
+Conductor exponent at 3 is  2
+
+
+
+
+a =  -12 , bp =  106993205376875 , c = -13
+
+Elliptic Curve defined by y^2 = x^3 + 39*x + 427972821511894 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  -12 , bp =  106993205377741 , c = -11
+
+Elliptic Curve defined by y^2 = x^3 + 33*x + 427972821513626 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  IV
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  -12 , bp =  106993205378729 , c = -7
+
+Elliptic Curve defined by y^2 = x^3 + 21*x + 427972821515602 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  -12 , bp =  106993205378947 , c = -5
+
+Elliptic Curve defined by y^2 = x^3 + 15*x + 427972821516038 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  IV
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  -12 , bp =  106993205379071 , c = -1
+
+Elliptic Curve defined by y^2 = x^3 + 3*x + 427972821516286 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  -12 , bp =  106993205379073 , c = 1
+
+Elliptic Curve defined by y^2 = x^3 - 3*x + 427972821516290 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  I10*
+
+Conductor exponent at 3 is  2
+
+
+
+
+a =  -12 , bp =  106993205379197 , c = 5
+
+Elliptic Curve defined by y^2 = x^3 - 15*x + 427972821516538 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  -12 , bp =  106993205379415 , c = 7
+
+Elliptic Curve defined by y^2 = x^3 - 21*x + 427972821516974 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  IV
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  -12 , bp =  106993205380403 , c = 11
+
+Elliptic Curve defined by y^2 = x^3 - 33*x + 427972821518950 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  -12 , bp =  106993205381269 , c = 13
+
+Elliptic Curve defined by y^2 = x^3 - 39*x + 427972821520682 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  IV
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  -12 , bp =  106993205383985 , c = 17
+
+Elliptic Curve defined by y^2 = x^3 - 51*x + 427972821526114 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  -12 , bp =  106993205385931 , c = 19
+
+Elliptic Curve defined by y^2 = x^3 - 57*x + 427972821530006 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  I0*
+
+Conductor exponent at 3 is  2
+
+
+
+
+a =  -9 , bp =  2541865820329 , c = -20
+
+Elliptic Curve defined by y^2 = x^3 + 60*x + 10167463297316 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  IV
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  -9 , bp =  2541865821470 , c = -19
+
+Elliptic Curve defined by y^2 = x^3 + 57*x + 10167463299598 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  -9 , bp =  2541865823416 , c = -17
+
+Elliptic Curve defined by y^2 = x^3 + 51*x + 10167463303490 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  I0*
+
+Conductor exponent at 3 is  2
+
+
+
+
+a =  -9 , bp =  2541865824233 , c = -16
+
+Elliptic Curve defined by y^2 = x^3 + 48*x + 10167463305124 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  -9 , bp =  2541865825585 , c = -14
+
+Elliptic Curve defined by y^2 = x^3 + 42*x + 10167463307828 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  IV
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  -9 , bp =  2541865826132 , c = -13
+
+Elliptic Curve defined by y^2 = x^3 + 39*x + 10167463308922 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  -9 , bp =  2541865826998 , c = -11
+
+Elliptic Curve defined by y^2 = x^3 + 33*x + 10167463310654 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  IV
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  -9 , bp =  2541865827329 , c = -10
+
+Elliptic Curve defined by y^2 = x^3 + 30*x + 10167463311316 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  -9 , bp =  2541865827817 , c = -8
+
+Elliptic Curve defined by y^2 = x^3 + 24*x + 10167463312292 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  I0*
+
+Conductor exponent at 3 is  2
+
+
+
+
+a =  -9 , bp =  2541865827986 , c = -7
+
+Elliptic Curve defined by y^2 = x^3 + 21*x + 10167463312630 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  -9 , bp =  2541865828204 , c = -5
+
+Elliptic Curve defined by y^2 = x^3 + 15*x + 10167463313066 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  IV
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  -9 , bp =  2541865828265 , c = -4
+
+Elliptic Curve defined by y^2 = x^3 + 12*x + 10167463313188 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  -9 , bp =  2541865828321 , c = -2
+
+Elliptic Curve defined by y^2 = x^3 + 6*x + 10167463313300 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  IV
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  -9 , bp =  2541865828328 , c = -1
+
+Elliptic Curve defined by y^2 = x^3 + 3*x + 10167463313314 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  -9 , bp =  2541865828330 , c = 1
+
+Elliptic Curve defined by y^2 = x^3 - 3*x + 10167463313318 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  I23*
+
+Conductor exponent at 3 is  2
+
+
+
+
+a =  -9 , bp =  2541865828337 , c = 2
+
+Elliptic Curve defined by y^2 = x^3 - 6*x + 10167463313332 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  -9 , bp =  2541865828393 , c = 4
+
+Elliptic Curve defined by y^2 = x^3 - 12*x + 10167463313444 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  IV
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  -9 , bp =  2541865828454 , c = 5
+
+Elliptic Curve defined by y^2 = x^3 - 15*x + 10167463313566 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  -9 , bp =  2541865828672 , c = 7
+
+Elliptic Curve defined by y^2 = x^3 - 21*x + 10167463314002 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  IV
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  -9 , bp =  2541865828841 , c = 8
+
+Elliptic Curve defined by y^2 = x^3 - 24*x + 10167463314340 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  -9 , bp =  2541865829329 , c = 10
+
+Elliptic Curve defined by y^2 = x^3 - 30*x + 10167463315316 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  I0*
+
+Conductor exponent at 3 is  2
+
+
+
+
+a =  -9 , bp =  2541865829660 , c = 11
+
+Elliptic Curve defined by y^2 = x^3 - 33*x + 10167463315978 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  -9 , bp =  2541865830526 , c = 13
+
+Elliptic Curve defined by y^2 = x^3 - 39*x + 10167463317710 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  IV
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  -9 , bp =  2541865831073 , c = 14
+
+Elliptic Curve defined by y^2 = x^3 - 42*x + 10167463318804 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  -9 , bp =  2541865832425 , c = 16
+
+Elliptic Curve defined by y^2 = x^3 - 48*x + 10167463321508 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  IV
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  -9 , bp =  2541865833242 , c = 17
+
+Elliptic Curve defined by y^2 = x^3 - 51*x + 10167463323142 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  -9 , bp =  2541865835188 , c = 19
+
+Elliptic Curve defined by y^2 = x^3 - 57*x + 10167463327034 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  I0*
+
+Conductor exponent at 3 is  2
+
+
+
+
+a =  -9 , bp =  2541865836329 , c = 20
+
+Elliptic Curve defined by y^2 = x^3 - 60*x + 10167463329316 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  -6 , bp =  13060687157 , c = -19
+
+Elliptic Curve defined by y^2 = x^3 + 57*x + 52242762346 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  -6 , bp =  13060689103 , c = -17
+
+Elliptic Curve defined by y^2 = x^3 + 51*x + 52242766238 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  I0*
+
+Conductor exponent at 3 is  2
+
+
+
+
+a =  -6 , bp =  13060691819 , c = -13
+
+Elliptic Curve defined by y^2 = x^3 + 39*x + 52242771670 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  -6 , bp =  13060692685 , c = -11
+
+Elliptic Curve defined by y^2 = x^3 + 33*x + 52242773402 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  IV
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  -6 , bp =  13060693673 , c = -7
+
+Elliptic Curve defined by y^2 = x^3 + 21*x + 52242775378 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  -6 , bp =  13060693891 , c = -5
+
+Elliptic Curve defined by y^2 = x^3 + 15*x + 52242775814 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  IV
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  -6 , bp =  13060694015 , c = -1
+
+Elliptic Curve defined by y^2 = x^3 + 3*x + 52242776062 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  -6 , bp =  13060694017 , c = 1
+
+Elliptic Curve defined by y^2 = x^3 - 3*x + 52242776066 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  I10*
+
+Conductor exponent at 3 is  2
+
+
+
+
+a =  -6 , bp =  13060694141 , c = 5
+
+Elliptic Curve defined by y^2 = x^3 - 15*x + 52242776314 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  -6 , bp =  13060694359 , c = 7
+
+Elliptic Curve defined by y^2 = x^3 - 21*x + 52242776750 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  IV
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  -6 , bp =  13060695347 , c = 11
+
+Elliptic Curve defined by y^2 = x^3 - 33*x + 52242778726 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  -6 , bp =  13060696213 , c = 13
+
+Elliptic Curve defined by y^2 = x^3 - 39*x + 52242780458 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  IV
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  -6 , bp =  13060698929 , c = 17
+
+Elliptic Curve defined by y^2 = x^3 - 51*x + 52242785890 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  -6 , bp =  13060700875 , c = 19
+
+Elliptic Curve defined by y^2 = x^3 - 57*x + 52242789782 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  I0*
+
+Conductor exponent at 3 is  2
+
+
+
+
+a =  -3 , bp =  1586323 , c = -20
+
+Elliptic Curve defined by y^2 = x^3 + 60*x + 6361292 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  IV
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  -3 , bp =  1587464 , c = -19
+
+Elliptic Curve defined by y^2 = x^3 + 57*x + 6363574 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  -3 , bp =  1589410 , c = -17
+
+Elliptic Curve defined by y^2 = x^3 + 51*x + 6367466 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  I0*
+
+Conductor exponent at 3 is  2
+
+
+
+
+a =  -3 , bp =  1590227 , c = -16
+
+Elliptic Curve defined by y^2 = x^3 + 48*x + 6369100 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  -3 , bp =  1591579 , c = -14
+
+Elliptic Curve defined by y^2 = x^3 + 42*x + 6371804 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  IV
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  -3 , bp =  1592126 , c = -13
+
+Elliptic Curve defined by y^2 = x^3 + 39*x + 6372898 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  -3 , bp =  1592992 , c = -11
+
+Elliptic Curve defined by y^2 = x^3 + 33*x + 6374630 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  IV
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  -3 , bp =  1593323 , c = -10
+
+Elliptic Curve defined by y^2 = x^3 + 30*x + 6375292 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  -3 , bp =  1593811 , c = -8
+
+Elliptic Curve defined by y^2 = x^3 + 24*x + 6376268 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  I0*
+
+Conductor exponent at 3 is  2
+
+
+
+
+a =  -3 , bp =  1593980 , c = -7
+
+Elliptic Curve defined by y^2 = x^3 + 21*x + 6376606 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  -3 , bp =  1594198 , c = -5
+
+Elliptic Curve defined by y^2 = x^3 + 15*x + 6377042 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  IV
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  -3 , bp =  1594259 , c = -4
+
+Elliptic Curve defined by y^2 = x^3 + 12*x + 6377164 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  -3 , bp =  1594315 , c = -2
+
+Elliptic Curve defined by y^2 = x^3 + 6*x + 6377276 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  IV
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  -3 , bp =  1594322 , c = -1
+
+Elliptic Curve defined by y^2 = x^3 + 3*x + 6377290 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  -3 , bp =  1594324 , c = 1
+
+Elliptic Curve defined by y^2 = x^3 - 3*x + 6377294 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  I10*
+
+Conductor exponent at 3 is  2
+
+
+
+
+a =  -3 , bp =  1594331 , c = 2
+
+Elliptic Curve defined by y^2 = x^3 - 6*x + 6377308 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  -3 , bp =  1594387 , c = 4
+
+Elliptic Curve defined by y^2 = x^3 - 12*x + 6377420 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  IV
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  -3 , bp =  1594448 , c = 5
+
+Elliptic Curve defined by y^2 = x^3 - 15*x + 6377542 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  -3 , bp =  1594666 , c = 7
+
+Elliptic Curve defined by y^2 = x^3 - 21*x + 6377978 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  IV
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  -3 , bp =  1594835 , c = 8
+
+Elliptic Curve defined by y^2 = x^3 - 24*x + 6378316 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  -3 , bp =  1595323 , c = 10
+
+Elliptic Curve defined by y^2 = x^3 - 30*x + 6379292 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  I0*
+
+Conductor exponent at 3 is  2
+
+
+
+
+a =  -3 , bp =  1595654 , c = 11
+
+Elliptic Curve defined by y^2 = x^3 - 33*x + 6379954 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  -3 , bp =  1596520 , c = 13
+
+Elliptic Curve defined by y^2 = x^3 - 39*x + 6381686 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  IV
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  -3 , bp =  1597067 , c = 14
+
+Elliptic Curve defined by y^2 = x^3 - 42*x + 6382780 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  -3 , bp =  1598419 , c = 16
+
+Elliptic Curve defined by y^2 = x^3 - 48*x + 6385484 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  IV
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  -3 , bp =  1599236 , c = 17
+
+Elliptic Curve defined by y^2 = x^3 - 51*x + 6387118 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  -3 , bp =  1601182 , c = 19
+
+Elliptic Curve defined by y^2 = x^3 - 57*x + 6391010 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  I0*
+
+Conductor exponent at 3 is  2
+
+
+
+
+a =  -3 , bp =  1602323 , c = 20
+
+Elliptic Curve defined by y^2 = x^3 - 60*x + 6393292 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  3 , bp =  -1602323 , c = -20
+
+Elliptic Curve defined by y^2 = x^3 + 60*x - 6393292 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  IV
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  3 , bp =  -1601182 , c = -19
+
+Elliptic Curve defined by y^2 = x^3 + 57*x - 6391010 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  3 , bp =  -1599236 , c = -17
+
+Elliptic Curve defined by y^2 = x^3 + 51*x - 6387118 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  I0*
+
+Conductor exponent at 3 is  2
+
+
+
+
+a =  3 , bp =  -1598419 , c = -16
+
+Elliptic Curve defined by y^2 = x^3 + 48*x - 6385484 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  3 , bp =  -1597067 , c = -14
+
+Elliptic Curve defined by y^2 = x^3 + 42*x - 6382780 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  IV
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  3 , bp =  -1596520 , c = -13
+
+Elliptic Curve defined by y^2 = x^3 + 39*x - 6381686 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  3 , bp =  -1595654 , c = -11
+
+Elliptic Curve defined by y^2 = x^3 + 33*x - 6379954 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  IV
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  3 , bp =  -1595323 , c = -10
+
+Elliptic Curve defined by y^2 = x^3 + 30*x - 6379292 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  3 , bp =  -1594835 , c = -8
+
+Elliptic Curve defined by y^2 = x^3 + 24*x - 6378316 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  I0*
+
+Conductor exponent at 3 is  2
+
+
+
+
+a =  3 , bp =  -1594666 , c = -7
+
+Elliptic Curve defined by y^2 = x^3 + 21*x - 6377978 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  3 , bp =  -1594448 , c = -5
+
+Elliptic Curve defined by y^2 = x^3 + 15*x - 6377542 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  IV
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  3 , bp =  -1594387 , c = -4
+
+Elliptic Curve defined by y^2 = x^3 + 12*x - 6377420 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  3 , bp =  -1594331 , c = -2
+
+Elliptic Curve defined by y^2 = x^3 + 6*x - 6377308 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  IV
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  3 , bp =  -1594324 , c = -1
+
+Elliptic Curve defined by y^2 = x^3 + 3*x - 6377294 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  3 , bp =  -1594322 , c = 1
+
+Elliptic Curve defined by y^2 = x^3 - 3*x - 6377290 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  I10*
+
+Conductor exponent at 3 is  2
+
+
+
+
+a =  3 , bp =  -1594315 , c = 2
+
+Elliptic Curve defined by y^2 = x^3 - 6*x - 6377276 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  3 , bp =  -1594259 , c = 4
+
+Elliptic Curve defined by y^2 = x^3 - 12*x - 6377164 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  IV
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  3 , bp =  -1594198 , c = 5
+
+Elliptic Curve defined by y^2 = x^3 - 15*x - 6377042 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  3 , bp =  -1593980 , c = 7
+
+Elliptic Curve defined by y^2 = x^3 - 21*x - 6376606 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  IV
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  3 , bp =  -1593811 , c = 8
+
+Elliptic Curve defined by y^2 = x^3 - 24*x - 6376268 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  3 , bp =  -1593323 , c = 10
+
+Elliptic Curve defined by y^2 = x^3 - 30*x - 6375292 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  I0*
+
+Conductor exponent at 3 is  2
+
+
+
+
+a =  3 , bp =  -1592992 , c = 11
+
+Elliptic Curve defined by y^2 = x^3 - 33*x - 6374630 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  3 , bp =  -1592126 , c = 13
+
+Elliptic Curve defined by y^2 = x^3 - 39*x - 6372898 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  IV
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  3 , bp =  -1591579 , c = 14
+
+Elliptic Curve defined by y^2 = x^3 - 42*x - 6371804 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  3 , bp =  -1590227 , c = 16
+
+Elliptic Curve defined by y^2 = x^3 - 48*x - 6369100 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  IV
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  3 , bp =  -1589410 , c = 17
+
+Elliptic Curve defined by y^2 = x^3 - 51*x - 6367466 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  3 , bp =  -1587464 , c = 19
+
+Elliptic Curve defined by y^2 = x^3 - 57*x - 6363574 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  I0*
+
+Conductor exponent at 3 is  2
+
+
+
+
+a =  3 , bp =  -1586323 , c = 20
+
+Elliptic Curve defined by y^2 = x^3 - 60*x - 6361292 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  6 , bp =  -13060700875 , c = -19
+
+Elliptic Curve defined by y^2 = x^3 + 57*x - 52242789782 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  6 , bp =  -13060698929 , c = -17
+
+Elliptic Curve defined by y^2 = x^3 + 51*x - 52242785890 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  I0*
+
+Conductor exponent at 3 is  2
+
+
+
+
+a =  6 , bp =  -13060696213 , c = -13
+
+Elliptic Curve defined by y^2 = x^3 + 39*x - 52242780458 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  6 , bp =  -13060695347 , c = -11
+
+Elliptic Curve defined by y^2 = x^3 + 33*x - 52242778726 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  IV
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  6 , bp =  -13060694359 , c = -7
+
+Elliptic Curve defined by y^2 = x^3 + 21*x - 52242776750 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  6 , bp =  -13060694141 , c = -5
+
+Elliptic Curve defined by y^2 = x^3 + 15*x - 52242776314 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  IV
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  6 , bp =  -13060694017 , c = -1
+
+Elliptic Curve defined by y^2 = x^3 + 3*x - 52242776066 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  6 , bp =  -13060694015 , c = 1
+
+Elliptic Curve defined by y^2 = x^3 - 3*x - 52242776062 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  I10*
+
+Conductor exponent at 3 is  2
+
+
+
+
+a =  6 , bp =  -13060693891 , c = 5
+
+Elliptic Curve defined by y^2 = x^3 - 15*x - 52242775814 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  6 , bp =  -13060693673 , c = 7
+
+Elliptic Curve defined by y^2 = x^3 - 21*x - 52242775378 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  IV
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  6 , bp =  -13060692685 , c = 11
+
+Elliptic Curve defined by y^2 = x^3 - 33*x - 52242773402 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  6 , bp =  -13060691819 , c = 13
+
+Elliptic Curve defined by y^2 = x^3 - 39*x - 52242771670 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  IV
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  6 , bp =  -13060689103 , c = 17
+
+Elliptic Curve defined by y^2 = x^3 - 51*x - 52242766238 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  6 , bp =  -13060687157 , c = 19
+
+Elliptic Curve defined by y^2 = x^3 - 57*x - 52242762346 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  I0*
+
+Conductor exponent at 3 is  2
+
+
+
+
+a =  9 , bp =  -2541865836329 , c = -20
+
+Elliptic Curve defined by y^2 = x^3 + 60*x - 10167463329316 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  IV
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  9 , bp =  -2541865835188 , c = -19
+
+Elliptic Curve defined by y^2 = x^3 + 57*x - 10167463327034 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  9 , bp =  -2541865833242 , c = -17
+
+Elliptic Curve defined by y^2 = x^3 + 51*x - 10167463323142 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  I0*
+
+Conductor exponent at 3 is  2
+
+
+
+
+a =  9 , bp =  -2541865832425 , c = -16
+
+Elliptic Curve defined by y^2 = x^3 + 48*x - 10167463321508 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  9 , bp =  -2541865831073 , c = -14
+
+Elliptic Curve defined by y^2 = x^3 + 42*x - 10167463318804 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  IV
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  9 , bp =  -2541865830526 , c = -13
+
+Elliptic Curve defined by y^2 = x^3 + 39*x - 10167463317710 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  9 , bp =  -2541865829660 , c = -11
+
+Elliptic Curve defined by y^2 = x^3 + 33*x - 10167463315978 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  IV
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  9 , bp =  -2541865829329 , c = -10
+
+Elliptic Curve defined by y^2 = x^3 + 30*x - 10167463315316 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  9 , bp =  -2541865828841 , c = -8
+
+Elliptic Curve defined by y^2 = x^3 + 24*x - 10167463314340 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  I0*
+
+Conductor exponent at 3 is  2
+
+
+
+
+a =  9 , bp =  -2541865828672 , c = -7
+
+Elliptic Curve defined by y^2 = x^3 + 21*x - 10167463314002 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  9 , bp =  -2541865828454 , c = -5
+
+Elliptic Curve defined by y^2 = x^3 + 15*x - 10167463313566 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  IV
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  9 , bp =  -2541865828393 , c = -4
+
+Elliptic Curve defined by y^2 = x^3 + 12*x - 10167463313444 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  9 , bp =  -2541865828337 , c = -2
+
+Elliptic Curve defined by y^2 = x^3 + 6*x - 10167463313332 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  IV
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  9 , bp =  -2541865828330 , c = -1
+
+Elliptic Curve defined by y^2 = x^3 + 3*x - 10167463313318 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  9 , bp =  -2541865828328 , c = 1
+
+Elliptic Curve defined by y^2 = x^3 - 3*x - 10167463313314 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  I23*
+
+Conductor exponent at 3 is  2
+
+
+
+
+a =  9 , bp =  -2541865828321 , c = 2
+
+Elliptic Curve defined by y^2 = x^3 - 6*x - 10167463313300 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  9 , bp =  -2541865828265 , c = 4
+
+Elliptic Curve defined by y^2 = x^3 - 12*x - 10167463313188 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  IV
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  9 , bp =  -2541865828204 , c = 5
+
+Elliptic Curve defined by y^2 = x^3 - 15*x - 10167463313066 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  9 , bp =  -2541865827986 , c = 7
+
+Elliptic Curve defined by y^2 = x^3 - 21*x - 10167463312630 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  IV
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  9 , bp =  -2541865827817 , c = 8
+
+Elliptic Curve defined by y^2 = x^3 - 24*x - 10167463312292 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  9 , bp =  -2541865827329 , c = 10
+
+Elliptic Curve defined by y^2 = x^3 - 30*x - 10167463311316 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  I0*
+
+Conductor exponent at 3 is  2
+
+
+
+
+a =  9 , bp =  -2541865826998 , c = 11
+
+Elliptic Curve defined by y^2 = x^3 - 33*x - 10167463310654 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  9 , bp =  -2541865826132 , c = 13
+
+Elliptic Curve defined by y^2 = x^3 - 39*x - 10167463308922 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  IV
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  9 , bp =  -2541865825585 , c = 14
+
+Elliptic Curve defined by y^2 = x^3 - 42*x - 10167463307828 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  9 , bp =  -2541865824233 , c = 16
+
+Elliptic Curve defined by y^2 = x^3 - 48*x - 10167463305124 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  IV
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  9 , bp =  -2541865823416 , c = 17
+
+Elliptic Curve defined by y^2 = x^3 - 51*x - 10167463303490 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  9 , bp =  -2541865821470 , c = 19
+
+Elliptic Curve defined by y^2 = x^3 - 57*x - 10167463299598 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  I0*
+
+Conductor exponent at 3 is  2
+
+
+
+
+a =  9 , bp =  -2541865820329 , c = 20
+
+Elliptic Curve defined by y^2 = x^3 - 60*x - 10167463297316 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  12 , bp =  -106993205385931 , c = -19
+
+Elliptic Curve defined by y^2 = x^3 + 57*x - 427972821530006 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  12 , bp =  -106993205383985 , c = -17
+
+Elliptic Curve defined by y^2 = x^3 + 51*x - 427972821526114 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  I0*
+
+Conductor exponent at 3 is  2
+
+
+
+
+a =  12 , bp =  -106993205381269 , c = -13
+
+Elliptic Curve defined by y^2 = x^3 + 39*x - 427972821520682 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  12 , bp =  -106993205380403 , c = -11
+
+Elliptic Curve defined by y^2 = x^3 + 33*x - 427972821518950 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  IV
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  12 , bp =  -106993205379415 , c = -7
+
+Elliptic Curve defined by y^2 = x^3 + 21*x - 427972821516974 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  12 , bp =  -106993205379197 , c = -5
+
+Elliptic Curve defined by y^2 = x^3 + 15*x - 427972821516538 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  IV
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  12 , bp =  -106993205379073 , c = -1
+
+Elliptic Curve defined by y^2 = x^3 + 3*x - 427972821516290 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  12 , bp =  -106993205379071 , c = 1
+
+Elliptic Curve defined by y^2 = x^3 - 3*x - 427972821516286 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  I10*
+
+Conductor exponent at 3 is  2
+
+
+
+
+a =  12 , bp =  -106993205378947 , c = 5
+
+Elliptic Curve defined by y^2 = x^3 - 15*x - 427972821516038 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  12 , bp =  -106993205378729 , c = 7
+
+Elliptic Curve defined by y^2 = x^3 - 21*x - 427972821515602 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  IV
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  12 , bp =  -106993205377741 , c = 11
+
+Elliptic Curve defined by y^2 = x^3 - 33*x - 427972821513626 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  12 , bp =  -106993205376875 , c = 13
+
+Elliptic Curve defined by y^2 = x^3 - 39*x - 427972821511894 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  IV
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  12 , bp =  -106993205374159 , c = 17
+
+Elliptic Curve defined by y^2 = x^3 - 51*x - 427972821506462 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  12 , bp =  -106993205372213 , c = 19
+
+Elliptic Curve defined by y^2 = x^3 - 57*x - 427972821502570 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  I0*
+
+Conductor exponent at 3 is  2
+
+
+
+
+a =  15 , bp =  -1946195068366234 , c = -19
+
+Elliptic Curve defined by y^2 = x^3 + 57*x - 7784780273451218 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  15 , bp =  -1946195068364288 , c = -17
+
+Elliptic Curve defined by y^2 = x^3 + 51*x - 7784780273447326 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  I0*
+
+Conductor exponent at 3 is  2
+
+
+
+
+a =  15 , bp =  -1946195068363471 , c = -16
+
+Elliptic Curve defined by y^2 = x^3 + 48*x - 7784780273445692 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  15 , bp =  -1946195068362119 , c = -14
+
+Elliptic Curve defined by y^2 = x^3 + 42*x - 7784780273442988 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  IV
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  15 , bp =  -1946195068361572 , c = -13
+
+Elliptic Curve defined by y^2 = x^3 + 39*x - 7784780273441894 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  15 , bp =  -1946195068360706 , c = -11
+
+Elliptic Curve defined by y^2 = x^3 + 33*x - 7784780273440162 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  IV
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  15 , bp =  -1946195068359887 , c = -8
+
+Elliptic Curve defined by y^2 = x^3 + 24*x - 7784780273438524 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  I0*
+
+Conductor exponent at 3 is  2
+
+
+
+
+a =  15 , bp =  -1946195068359718 , c = -7
+
+Elliptic Curve defined by y^2 = x^3 + 21*x - 7784780273438186 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  15 , bp =  -1946195068359439 , c = -4
+
+Elliptic Curve defined by y^2 = x^3 + 12*x - 7784780273437628 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  15 , bp =  -1946195068359383 , c = -2
+
+Elliptic Curve defined by y^2 = x^3 + 6*x - 7784780273437516 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  IV
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  15 , bp =  -1946195068359376 , c = -1
+
+Elliptic Curve defined by y^2 = x^3 + 3*x - 7784780273437502 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  15 , bp =  -1946195068359374 , c = 1
+
+Elliptic Curve defined by y^2 = x^3 - 3*x - 7784780273437498 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  I10*
+
+Conductor exponent at 3 is  2
+
+
+
+
+a =  15 , bp =  -1946195068359367 , c = 2
+
+Elliptic Curve defined by y^2 = x^3 - 6*x - 7784780273437484 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  15 , bp =  -1946195068359311 , c = 4
+
+Elliptic Curve defined by y^2 = x^3 - 12*x - 7784780273437372 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  IV
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  15 , bp =  -1946195068359032 , c = 7
+
+Elliptic Curve defined by y^2 = x^3 - 21*x - 7784780273436814 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  IV
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  15 , bp =  -1946195068358863 , c = 8
+
+Elliptic Curve defined by y^2 = x^3 - 24*x - 7784780273436476 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  15 , bp =  -1946195068358044 , c = 11
+
+Elliptic Curve defined by y^2 = x^3 - 33*x - 7784780273434838 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  15 , bp =  -1946195068357178 , c = 13
+
+Elliptic Curve defined by y^2 = x^3 - 39*x - 7784780273433106 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  IV
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  15 , bp =  -1946195068356631 , c = 14
+
+Elliptic Curve defined by y^2 = x^3 - 42*x - 7784780273432012 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  15 , bp =  -1946195068355279 , c = 16
+
+Elliptic Curve defined by y^2 = x^3 - 48*x - 7784780273429308 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  IV
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  15 , bp =  -1946195068354462 , c = 17
+
+Elliptic Curve defined by y^2 = x^3 - 51*x - 7784780273427674 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  15 , bp =  -1946195068352516 , c = 19
+
+Elliptic Curve defined by y^2 = x^3 - 57*x - 7784780273423782 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  I0*
+
+Conductor exponent at 3 is  2
+
+
+
+
+a =  18 , bp =  -20822964865678027 , c = -19
+
+Elliptic Curve defined by y^2 = x^3 + 57*x - 83291859462698390 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  18 , bp =  -20822964865676081 , c = -17
+
+Elliptic Curve defined by y^2 = x^3 + 51*x - 83291859462694498 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  I0*
+
+Conductor exponent at 3 is  2
+
+
+
+
+a =  18 , bp =  -20822964865673365 , c = -13
+
+Elliptic Curve defined by y^2 = x^3 + 39*x - 83291859462689066 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  18 , bp =  -20822964865672499 , c = -11
+
+Elliptic Curve defined by y^2 = x^3 + 33*x - 83291859462687334 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  IV
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  18 , bp =  -20822964865671511 , c = -7
+
+Elliptic Curve defined by y^2 = x^3 + 21*x - 83291859462685358 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  18 , bp =  -20822964865671293 , c = -5
+
+Elliptic Curve defined by y^2 = x^3 + 15*x - 83291859462684922 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  IV
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  18 , bp =  -20822964865671169 , c = -1
+
+Elliptic Curve defined by y^2 = x^3 + 3*x - 83291859462684674 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  18 , bp =  -20822964865671167 , c = 1
+
+Elliptic Curve defined by y^2 = x^3 - 3*x - 83291859462684670 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  I23*
+
+Conductor exponent at 3 is  2
+
+
+
+
+a =  18 , bp =  -20822964865671043 , c = 5
+
+Elliptic Curve defined by y^2 = x^3 - 15*x - 83291859462684422 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  18 , bp =  -20822964865670825 , c = 7
+
+Elliptic Curve defined by y^2 = x^3 - 21*x - 83291859462683986 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  IV
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  18 , bp =  -20822964865669837 , c = 11
+
+Elliptic Curve defined by y^2 = x^3 - 33*x - 83291859462682010 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  18 , bp =  -20822964865668971 , c = 13
+
+Elliptic Curve defined by y^2 = x^3 - 39*x - 83291859462680278 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  IV
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  18 , bp =  -20822964865666255 , c = 17
+
+Elliptic Curve defined by y^2 = x^3 - 51*x - 83291859462674846 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  II
+
+Conductor exponent at 3 is  3
+
+
+
+
+a =  18 , bp =  -20822964865664309 , c = 19
+
+Elliptic Curve defined by y^2 = x^3 - 57*x - 83291859462670954 over Rational Field
+Kodaira Symbol of E at 3 when 3|a:  I0*
+
+Conductor exponent at 3 is  2
+
+
+
+
+
+
+When p = 5 the conductor exponents are:
+[ 3, 2, 3, 3, 3, 3, 3, 2, 3, 3, 3, 3, 3, 2, 3, 2, 3, 3, 3, 3, 2, 3, 3, 3, 3, 2, 3, 3, 3, 3, 3, 3, 3, 3, 3, 2, 3, 2, 3, 3, 3, 3, 3, 2, 3, 3, 3, 3, 3, 2, 3, 3, 2, 3, 3, 3,
+3, 3, 2, 3, 3, 3, 3, 3, 2, 3, 3, 3, 3, 3, 2, 3, 3, 3, 3, 3, 2, 3, 3, 2, 3, 3, 3, 3, 3, 2, 3, 3, 3, 3, 3, 2, 3, 3, 2, 3, 3, 3, 3, 3, 2, 3, 3, 3, 3, 3, 2, 3, 3, 3, 3, 3, 
+2, 3, 3, 3, 3, 3, 2, 3, 3, 3, 2, 3, 3, 3, 3, 3, 2, 3, 3, 3, 3, 3, 2, 3, 3, 3, 3, 3, 2, 3, 3, 3, 3, 3, 2, 3, 3, 2, 3, 3, 3, 3, 3, 2, 3, 3, 3, 3, 3, 2, 3, 3, 2, 3, 3, 3, 
+3, 3, 2, 3, 3, 3, 3, 3, 2, 3, 3, 3, 3, 3, 2, 3, 3, 3, 3, 3, 2, 3, 3, 2, 3, 3, 3, 3, 3, 2, 3, 3, 3, 3, 3, 2, 3, 2, 3, 3, 3, 3, 2, 3, 3, 3, 3, 2, 3, 3, 3, 3, 3, 3, 3, 3, 
+3, 2, 3, 2, 3, 3, 3, 3, 3, 2, 3, 3, 3, 3, 3, 2 ]
+
+When p = 7 the conductor exponents are:
+[ 3, 2, 3, 3, 3, 3, 3, 2, 3, 3, 3, 3, 3, 2, 3, 2, 3, 3, 3, 3, 2, 3, 3, 3, 3, 2, 3, 3, 3, 3, 3, 3, 3, 3, 3, 2, 3, 2, 3, 3, 3, 3, 3, 2, 3, 3, 3, 3, 3, 2, 3, 3, 2, 3, 3, 3,
+3, 3, 2, 3, 3, 3, 3, 3, 2, 3, 3, 3, 3, 3, 2, 3, 3, 3, 3, 3, 2, 3, 3, 2, 3, 3, 3, 3, 3, 2, 3, 3, 3, 3, 3, 2, 3, 3, 2, 3, 3, 3, 3, 3, 2, 3, 3, 3, 3, 3, 2, 3, 3, 3, 3, 3, 
+2, 3, 3, 3, 3, 3, 2, 3, 3, 3, 2, 3, 3, 3, 3, 3, 2, 3, 3, 3, 3, 3, 2, 3, 3, 3, 3, 3, 2, 3, 3, 3, 3, 3, 2, 3, 3, 2, 3, 3, 3, 3, 3, 2, 3, 3, 3, 3, 3, 2, 3, 3, 2, 3, 3, 3, 
+3, 3, 2, 3, 3, 3, 3, 3, 2, 3, 3, 3, 3, 3, 2, 3, 3, 3, 3, 3, 2, 3, 3, 2, 3, 3, 3, 3, 3, 2, 3, 3, 3, 3, 3, 2, 3, 2, 3, 3, 3, 3, 2, 3, 3, 3, 3, 2, 3, 3, 3, 3, 3, 3, 3, 3, 
+3, 2, 3, 2, 3, 3, 3, 3, 3, 2, 3, 3, 3, 3, 3, 2 ]
+
+When p = 11 the conductor exponents are:
+[ 3, 2, 3, 3, 3, 3, 3, 2, 3, 3, 3, 3, 3, 2, 3, 2, 3, 3, 3, 3, 2, 3, 3, 3, 3, 2, 3, 3, 3, 3, 3, 3, 3, 3, 3, 2, 3, 2, 3, 3, 3, 3, 3, 2, 3, 3, 3, 3, 3, 2, 3, 3, 2, 3, 3, 3,
+3, 3, 2, 3, 3, 3, 3, 3, 2, 3, 3, 3, 3, 3, 2, 3, 3, 3, 3, 3, 2, 3, 3, 2, 3, 3, 3, 3, 3, 2, 3, 3, 3, 3, 3, 2, 3, 3, 2, 3, 3, 3, 3, 3, 2, 3, 3, 3, 3, 3, 2, 3, 3, 3, 3, 3, 
+2, 3, 3, 3, 3, 3, 2, 3, 3, 3, 2, 3, 3, 3, 3, 3, 2, 3, 3, 3, 3, 3, 2, 3, 3, 3, 3, 3, 2, 3, 3, 3, 3, 3, 2, 3, 3, 2, 3, 3, 3, 3, 3, 2, 3, 3, 3, 3, 3, 2, 3, 3, 2, 3, 3, 3, 
+3, 3, 2, 3, 3, 3, 3, 3, 2, 3, 3, 3, 3, 3, 2, 3, 3, 3, 3, 3, 2, 3, 3, 2, 3, 3, 3, 3, 3, 2, 3, 3, 3, 3, 3, 2, 3, 2, 3, 3, 3, 3, 2, 3, 3, 3, 3, 2, 3, 3, 3, 3, 3, 3, 3, 3, 
+3, 2, 3, 2, 3, 3, 3, 3, 3, 2, 3, 3, 3, 3, 3, 2 ]
+
+When p = 13 the conductor exponents are:
+[ 3, 2, 3, 3, 3, 3, 3, 2, 3, 3, 3, 3, 3, 2, 3, 2, 3, 3, 3, 3, 2, 3, 3, 3, 3, 2, 3, 3, 3, 3, 3, 3, 3, 3, 3, 2, 3, 2, 3, 3, 3, 3, 3, 2, 3, 3, 3, 3, 3, 2, 3, 3, 2, 3, 3, 3,
+3, 3, 2, 3, 3, 3, 3, 3, 2, 3, 3, 3, 3, 3, 2, 3, 3, 3, 3, 3, 2, 3, 3, 2, 3, 3, 3, 3, 3, 2, 3, 3, 3, 3, 3, 2, 3, 3, 2, 3, 3, 3, 3, 3, 2, 3, 3, 3, 3, 3, 2, 3, 3, 3, 3, 3, 
+2, 3, 3, 3, 3, 3, 2, 3, 3, 3, 2, 3, 3, 3, 3, 3, 2, 3, 3, 3, 3, 3, 2, 3, 3, 3, 3, 3, 2, 3, 3, 3, 3, 3, 2, 3, 3, 2, 3, 3, 3, 3, 3, 2, 3, 3, 3, 3, 3, 2, 3, 3, 2, 3, 3, 3, 
+3, 3, 2, 3, 3, 3, 3, 3, 2, 3, 3, 3, 3, 3, 2, 3, 3, 3, 3, 3, 2, 3, 3, 2, 3, 3, 3, 3, 3, 2, 3, 3, 3, 3, 3, 2, 3, 2, 3, 3, 3, 3, 2, 3, 3, 3, 3, 2, 3, 3, 3, 3, 3, 3, 3, 3, 
+3, 2, 3, 2, 3, 3, 3, 3, 3, 2, 3, 3, 3, 3, 3, 2 ]
+

@@ -1,6 +1,5 @@
 //We compute the cluster picture and conductor of the base change of the curve C^- (a.k.a. Cminus) to 
 //K = Q(zeta)^+ at the place qr in K which lies above r, when r divides ab.
-//We expect Cminus to be semistable at such places!
 
 Attach("clusters.m");
 

@@ -33,7 +33,7 @@ function Cminus_r_cs2(r, p, rge, counter);
         c := Random(-rge, rge);
         if not ([a, c] in tested_pmts) then
             bp := c^r - a^p;
-            if (Gcd(Gcd(a, bp), c) eq 1) and (a*bp*c ne 0) and (a mod r ne 0) then //assuming that the solution to the dioph. eq. is nontrivial
+            if (Gcd(Gcd(a, bp), c) eq 1) and (a*bp*c ne 0) and (a*bp mod r ne 0) then //assuming that the solution to the dioph. eq. is nontrivial
                 gm := grminus_a(a, c, r, p);
                 Gm := Evaluate(gm, X);
                 if not IsIrreducible(Gm) then

@@ -21,7 +21,7 @@ function grminus_a(a, c, r, p);
     return (c)^(r)*Evaluate(f, x/c) -2*(2*a^p - c^r);
 end function;
 
-function Cminus_r_cs1(r, p, rge, counter);
+function Cminus_r_cs2(r, p, rge, counter);
     Qr := pAdicField(r, 200);
     RQr<X> := PolynomialRing(Qr);
     
@@ -67,25 +67,25 @@ print "\n\n########################################";
 print "Computing 10 iterations for r = 5, p = 7";
 print "########################################\n\n";
 
-res_5_7 := Cminus_r_cs1(5, 7, 5000, 10);
+res_5_7 := Cminus_r_cs2(5, 7, 5000, 10);
 
 print "\n\n########################################";
 print "Computing 10 iterations for r = 5, p = 11";
 print "########################################\n\n";
 
-res_5_11 := Cminus_r_cs1(5, 11, 5000, 10);
+res_5_11 := Cminus_r_cs2(5, 11, 5000, 10);
 
 print "\n\n########################################";
 print "Computing 10 iterations for r = 7, p = 5";
 print "########################################\n\n";
 
-res_7_5 := Cminus_r_cs1(7, 5, 5000, 10);
+res_7_5 := Cminus_r_cs2(7, 5, 5000, 10);
 
 print "\n\n########################################";
 print "Computing 10 iterations for r = 7, p = 11";
 print "########################################\n\n";
 
-res_7_11 := Cminus_r_cs1(7, 11, 5000, 10);
+res_7_11 := Cminus_r_cs2(7, 11, 5000, 10);
 
 
 print "When r = 5, p = 7, we expect the conductor exponent at r to be 4. We find:\n";

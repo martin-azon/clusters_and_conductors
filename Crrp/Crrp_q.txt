@@ -1,0 +1,1670 @@
+Magma V2.28-9     Thu Oct 24 2024 17:43:27 on ordi-martin [Seed = 4219926453]
+Type ? for help.  Type <Ctrl>-D to quit.
+
+Loading file "Crrp_q.m"
+
+
+
+
+##########################################################
+We compute the cluster pictures and conductor of the curve
+Crrp(r, a, b) at q when q divides a^r+b^r, q ne 2, r.
+##########################################################
+
+
+
+
+########################################
+Computing 10 iterations for r = 5
+########################################
+
+
+Iteration nº 1 
+
+r =  5 , a =  -1371 , b =  4709 , c^p =  2310649080374286698 
+
+Polynomial frrp = x^5 - 32280195*x^3 + 208402197847605*x + 2320336704266398400
+Bad primes dividing a^r+b^r, not 2, 5 are: [ 31, 1669, 33311, 670344881 ]
+
+
+
+The cluster picture of Crrp at 31 is:
+(1,(2,3),(4,5)) d=[1,1,0]
+
+Expected depth of the twins: 1 
+
+The conductor of Crrp at 31 is 2 
+
+
+The cluster picture of Crrp at 1669 is:
+(3,(1,2),(4,5)) d=[1,1,0]
+
+Expected depth of the twins: 1 
+
+The conductor of Crrp at 1669 is 2 
+
+
+The cluster picture of Crrp at 33311 is:
+(1,(2,3),(4,5)) d=[1,1,0]
+
+Expected depth of the twins: 1 
+
+The conductor of Crrp at 33311 is 2 
+
+
+The cluster picture of Crrp at 670344881 is:
+(1,(2,3),(4,5)) d=[1,1,0]
+
+Expected depth of the twins: 1 
+
+The conductor of Crrp at 670344881 is 2 
+
+
+
+
+
+
+
+Iteration nº 2 
+
+r =  5 , a =  -1741 , b =  -3451 , c^p =  -505463908830766952 
+
+Polynomial frrp = x^5 + 30040955*x^3 + 180491795462405*x - 473473200867317550
+Bad primes dividing a^r+b^r, not 2, 5 are: [ 11, 59, 97354373811781 ]
+
+
+
+The cluster picture of Crrp at 11 is:
+(5,(1,2),(3,4)) d=[1,1,0]
+
+Expected depth of the twins: 1 
+
+The conductor of Crrp at 11 is 2 
+
+
+The cluster picture of Crrp at 59 is:
+(1,(2,3),(4,5)) d=[1,1,0]
+
+Expected depth of the twins: 1 
+
+The conductor of Crrp at 59 is 2 
+
+
+The cluster picture of Crrp at 97354373811781 is:
+(3,(1,2),(4,5)) d=[1,1,0]
+
+Expected depth of the twins: 1 
+
+The conductor of Crrp at 97354373811781 is 2 
+
+
+
+
+
+
+
+Iteration nº 3 
+
+r =  5 , a =  2420 , b =  -1929 , c^p =  56290542850619351 
+
+Polynomial frrp = x^5 - 23340900*x^3 + 108959522562000*x - 109708974595780649
+Bad primes dividing a^r+b^r, not 2, 5 are: [ 491, 9491, 12079305671 ]
+
+
+
+The cluster picture of Crrp at 491 is:
+(3,(1,2),(4,5)) d=[1,1,0]
+
+Expected depth of the twins: 1 
+
+The conductor of Crrp at 491 is 2 
+
+
+The cluster picture of Crrp at 9491 is:
+(1,(2,3),(4,5)) d=[1,1,0]
+
+Expected depth of the twins: 1 
+
+The conductor of Crrp at 9491 is 2 
+
+
+The cluster picture of Crrp at 12079305671 is:
+(5,(1,2),(3,4)) d=[1,1,0]
+
+Expected depth of the twins: 1 
+
+The conductor of Crrp at 12079305671 is 2 
+
+
+
+
+
+
+
+Iteration nº 4 
+
+r =  5 , a =  385 , b =  -4941 , c^p =  -2944916748768610076 
+
+Polynomial frrp = x^5 - 9511425*x^3 + 18093441106125*x - 2944933666169591326
+Bad primes dividing a^r+b^r, not 2, 5 are: [ 17, 67, 661, 977885141161 ]
+
+
+
+The cluster picture of Crrp at 17 is:
+(5,(1,2),(3,4)) F[[6,7]] d=[1,1,0]
+
+Expected depth of the twins: 1 
+
+The conductor of Crrp at 17 is 2 
+
+
+The cluster picture of Crrp at 67 is:
+(1,(2,3),(4,5)) F[[6,7]] d=[1,1,0]
+
+Expected depth of the twins: 1 
+
+The conductor of Crrp at 67 is 2 
+
+
+The cluster picture of Crrp at 661 is:
+(1,(2,3),(4,5)) d=[1,1,0]
+
+Expected depth of the twins: 1 
+
+The conductor of Crrp at 661 is 2 
+
+
+The cluster picture of Crrp at 977885141161 is:
+(5,(1,2),(3,4)) d=[1,1,0]
+
+Expected depth of the twins: 1 
+
+The conductor of Crrp at 977885141161 is 2 
+
+
+
+
+
+
+
+Iteration nº 5 
+
+r =  5 , a =  -946 , b =  535 , c^p =  -713797674530601 
+
+Polynomial frrp = x^5 - 2530550*x^3 + 1280736660500*x + 801457157699351
+Bad primes dividing a^r+b^r, not 2, 5 are: [ 3, 31, 137, 56023677461 ]
+
+
+
+The cluster picture of Crrp at 3 is:
+(1,(2,3),(4,5)) F[[6,7]] d=[1,1,0]
+
+Expected depth of the twins: 1 
+
+The conductor of Crrp at 3 is 2 
+
+
+The cluster picture of Crrp at 31 is:
+(1,(2,3),(4,5)) d=[1,1,0]
+
+Expected depth of the twins: 1 
+
+The conductor of Crrp at 31 is 2 
+
+
+The cluster picture of Crrp at 137 is:
+(3,(1,2),(4,5)) F[[6,7]] d=[1,1,0]
+
+Expected depth of the twins: 1 
+
+The conductor of Crrp at 137 is 2 
+
+
+The cluster picture of Crrp at 56023677461 is:
+(3,(1,2),(4,5)) d=[1,1,0]
+
+Expected depth of the twins: 1 
+
+The conductor of Crrp at 56023677461 is 2 
+
+
+
+
+
+
+
+Iteration nº 6 
+
+r =  5 , a =  -4101 , b =  4460 , c^p =  604738267619479499 
+
+Polynomial frrp = x^5 - 91452300*x^3 + 1672704635058000*x + 2924689427375720501
+Bad primes dividing a^r+b^r, not 2, 5 are: [ 11, 359, 153137064476951 ]
+
+
+
+The cluster picture of Crrp at 11 is:
+(5,(1,2),(3,4)) d=[1,1,0]
+
+Expected depth of the twins: 1 
+
+The conductor of Crrp at 11 is 2 
+
+
+The cluster picture of Crrp at 359 is:
+(5,(1,2),(3,4)) d=[1,1,0]
+
+Expected depth of the twins: 1 
+
+The conductor of Crrp at 359 is 2 
+
+
+The cluster picture of Crrp at 153137064476951 is:
+(1,(2,3),(4,5)) d=[1,1,0]
+
+Expected depth of the twins: 1 
+
+The conductor of Crrp at 153137064476951 is 2 
+
+
+
+
+
+
+
+Iteration nº 7 
+
+r =  5 , a =  -1350 , b =  -3259 , c^p =  -372123224919800299 
+
+Polynomial frrp = x^5 + 21998250*x^3 + 96784600612500*x - 363155158044800299
+Bad primes dividing a^r+b^r, not 2, 5 are: [ 11, 419, 751, 12071, 8906291 ]
+
+
+
+The cluster picture of Crrp at 11 is:
+(5,(1,2),(3,4)) d=[1,1,0]
+
+Expected depth of the twins: 1 
+
+The conductor of Crrp at 11 is 2 
+
+
+The cluster picture of Crrp at 419 is:
+(5,(1,2),(3,4)) d=[1,1,0]
+
+Expected depth of the twins: 1 
+
+The conductor of Crrp at 419 is 2 
+
+
+The cluster picture of Crrp at 751 is:
+(5,(1,2),(3,4)) d=[1,1,0]
+
+Expected depth of the twins: 1 
+
+The conductor of Crrp at 751 is 2 
+
+
+The cluster picture of Crrp at 12071 is:
+(5,(1,2),(3,4)) d=[1,1,0]
+
+Expected depth of the twins: 1 
+
+The conductor of Crrp at 12071 is 2 
+
+
+The cluster picture of Crrp at 8906291 is:
+(3,(1,2),(4,5)) d=[1,1,0]
+
+Expected depth of the twins: 1 
+
+The conductor of Crrp at 8906291 is 2 
+
+
+
+
+
+
+
+Iteration nº 8 
+
+r =  5 , a =  4081 , b =  -885 , c^p =  1131422039341651276 
+
+Polynomial frrp = x^5 - 18058425*x^3 + 65221342696125*x - 1132507830620757526
+Bad primes dividing a^r+b^r, not 2, 5 are: [ 17, 41, 47, 15541, 555590801 ]
+
+
+
+The cluster picture of Crrp at 17 is:
+(5,(1,2),(3,4)) F[[6,7]] d=[1,1,0]
+
+Expected depth of the twins: 1 
+
+The conductor of Crrp at 17 is 2 
+
+
+The cluster picture of Crrp at 41 is:
+(3,(1,2),(4,5)) d=[1,1,0]
+
+Expected depth of the twins: 1 
+
+The conductor of Crrp at 41 is 2 
+
+
+The cluster picture of Crrp at 47 is:
+(1,(2,3),(4,5)) F[[6,7]] d=[1,1,0]
+
+Expected depth of the twins: 1 
+
+The conductor of Crrp at 47 is 2 
+
+
+The cluster picture of Crrp at 15541 is:
+(5,(1,2),(3,4)) d=[1,1,0]
+
+Expected depth of the twins: 1 
+
+The conductor of Crrp at 15541 is 2 
+
+
+The cluster picture of Crrp at 555590801 is:
+(3,(1,2),(4,5)) d=[1,1,0]
+
+Expected depth of the twins: 1 
+
+The conductor of Crrp at 555590801 is 2 
+
+
+
+
+
+
+
+Iteration nº 9 
+
+r =  5 , a =  -2547 , b =  -1265 , c^p =  -110426954776898132 
+
+Polynomial frrp = x^5 + 16109775*x^3 + 51904970110125*x + 103948333048816882
+Bad primes dividing a^r+b^r, not 2, 5 are: [ 461, 953, 62837844401 ]
+
+
+
+The cluster picture of Crrp at 461 is:
+(3,(1,2),(4,5)) d=[1,1,0]
+
+Expected depth of the twins: 1 
+
+The conductor of Crrp at 461 is 2 
+
+
+The cluster picture of Crrp at 953 is:
+(5,(1,2),(3,4)) F[[6,7]] d=[1,1,0]
+
+Expected depth of the twins: 1 
+
+The conductor of Crrp at 953 is 2 
+
+
+The cluster picture of Crrp at 62837844401 is:
+(1,(2,3),(4,5)) d=[1,1,0]
+
+Expected depth of the twins: 1 
+
+The conductor of Crrp at 62837844401 is 2 
+
+
+
+
+
+
+
+Iteration nº 10 
+
+r =  5 , a =  4785 , b =  3293 , c^p =  2895695393931140318 
+
+Polynomial frrp = x^5 + 78785025*x^3 + 1241416032850125*x - 2121253837297340932
+Bad primes dividing a^r+b^r, not 2, 5 are: [ 7, 577, 5312221, 67479661 ]
+
+
+
+The cluster picture of Crrp at 7 is:
+(1,(2,3),(4,5)) F[[6,7]] d=[1,1,0]
+
+Expected depth of the twins: 1 
+
+The conductor of Crrp at 7 is 2 
+
+
+The cluster picture of Crrp at 577 is:
+(5,(1,2),(3,4)) F[[6,7]] d=[1,1,0]
+
+Expected depth of the twins: 1 
+
+The conductor of Crrp at 577 is 2 
+
+
+The cluster picture of Crrp at 5312221 is:
+(5,(1,2),(3,4)) d=[1,1,0]
+
+Expected depth of the twins: 1 
+
+The conductor of Crrp at 5312221 is 2 
+
+
+The cluster picture of Crrp at 67479661 is:
+(3,(1,2),(4,5)) d=[1,1,0]
+
+Expected depth of the twins: 1 
+
+The conductor of Crrp at 67479661 is 2 
+
+
+
+
+
+
+
+
+
+########################################
+Computing 10 iterations for r = 7
+########################################
+
+
+Iteration nº 1 
+
+r =  7 , a =  -2931 , b =  -1891 , c^p =  -1944743257968810634140742 
+
+Polynomial frrp = x^7 + 38797647*x^5 + 430073546496174*x^3 + 
+    1191845831499760407327*x + 1771813116173699586756080
+Bad primes dividing a^r+b^r, not 2, 7 are: [ 113, 1289, 2411, 4552213, 608248621
+]
+
+
+
+The cluster picture of Crrp at 113 is:
+(3,(1,2),(4,5),(6,7)) d=[1,1,1,0]
+
+Expected depth of the twins: 1 
+
+The conductor of Crrp at 113 is 3 
+
+
+The cluster picture of Crrp at 1289 is:
+(7,(1,2),(3,4),(5,6)) d=[1,1,1,0]
+
+Expected depth of the twins: 1 
+
+The conductor of Crrp at 1289 is 3 
+
+
+The cluster picture of Crrp at 2411 is:
+(1,(2,3),(4,5),(6,7)) F[[8,9],[9,10]] d=[1,1,1,0]
+
+Expected depth of the twins: 1 
+
+The conductor of Crrp at 2411 is 3 
+
+
+The cluster picture of Crrp at 4552213 is:
+(3,(1,2),(4,5),(6,7)) d=[1,1,1,0]
+
+Expected depth of the twins: 1 
+
+The conductor of Crrp at 4552213 is 3 
+
+
+The cluster picture of Crrp at 608248621 is:
+(1,(2,3),(4,5),(6,7)) d=[1,1,1,0]
+
+Expected depth of the twins: 1 
+
+The conductor of Crrp at 608248621 is 3 
+
+
+
+
+
+
+
+Iteration nº 2 
+
+r =  7 , a =  1365 , b =  3431 , c^p =  5605696857222422525810036 
+
+Polynomial frrp = x^7 + 32783205*x^5 + 307068151449150*x^3 + 
+    719048439852037966125*x + 5588038164264071948153786
+Bad primes dividing a^r+b^r, not 2, 7 are: [ 11, 109, 127, 21589, 
+426298875180697 ]
+
+
+
+The cluster picture of Crrp at 11 is:
+(1,(2,3),(4,5),(6,7)) F[[8,9],[9,10]] d=[1,1,1,0]
+
+Expected depth of the twins: 1 
+
+The conductor of Crrp at 11 is 3 
+
+
+The cluster picture of Crrp at 109 is:
+(1,(2,3),(4,5),(6,7)) F[[8,9],[9,10]] d=[1,1,1,0]
+
+Expected depth of the twins: 1 
+
+The conductor of Crrp at 109 is 3 
+
+
+The cluster picture of Crrp at 127 is:
+(5,(1,2),(3,4),(6,7)) d=[1,1,1,0]
+
+Expected depth of the twins: 1 
+
+The conductor of Crrp at 127 is 3 
+
+
+The cluster picture of Crrp at 21589 is:
+(5,(1,2),(3,4),(6,7)) d=[1,1,1,0]
+
+Expected depth of the twins: 1 
+
+The conductor of Crrp at 21589 is 3 
+
+
+The cluster picture of Crrp at 426298875180697 is:
+(5,(1,2),(3,4),(6,7)) d=[1,1,1,0]
+
+Expected depth of the twins: 1 
+
+The conductor of Crrp at 426298875180697 is 3 
+
+
+
+
+
+
+
+Iteration nº 3 
+
+r =  7 , a =  -3955 , b =  2764 , c^p =  -13904056865579977295065371 
+
+Polynomial frrp = x^7 - 76521340*x^5 + 1673004421541600*x^3 - 
+    9144324297306292696000*x + 16368939621681386241028379
+Bad primes dividing a^r+b^r, not 2, 7 are: [ 3, 397, 463, 25214408396994697987 ]
+
+
+
+The cluster picture of Crrp at 3 is:
+(1,(2,3),(4,5),(6,7)) F[[8,9],[9,10]] d=[1,1,1,0]
+
+Expected depth of the twins: 1 
+
+The conductor of Crrp at 3 is 3 
+
+
+The cluster picture of Crrp at 397 is:
+(1,(2,3),(4,5),(6,7)) F[[8,9],[9,10]] d=[1,1,1,0]
+
+Expected depth of the twins: 1 
+
+The conductor of Crrp at 397 is 3 
+
+
+The cluster picture of Crrp at 463 is:
+(1,(2,3),(4,5),(6,7)) d=[1,1,1,0]
+
+Expected depth of the twins: 1 
+
+The conductor of Crrp at 463 is 3 
+
+
+The cluster picture of Crrp at 25214408396994697987 is:
+(1,(2,3),(4,5),(6,7)) d=[1,1,1,0]
+
+Expected depth of the twins: 1 
+
+The conductor of Crrp at 25214408396994697987 is 3 
+
+
+
+
+
+
+
+Iteration nº 4 
+
+r =  7 , a =  -4166 , b =  -1877 , c^p =  -21860928138236538614588509 
+
+Polynomial frrp = x^7 + 54737074*x^5 + 856042077166136*x^3 + 
+    3346945608925464037576*x + 21696763390363855665252003
+Bad primes dividing a^r+b^r, not 2, 7 are: [ 6043, 3617562160886403874663 ]
+
+
+
+The cluster picture of Crrp at 6043 is:
+(1,(2,3),(4,5),(6,7)) F[[8,9],[9,10]] d=[1,1,1,0]
+
+Expected depth of the twins: 1 
+
+The conductor of Crrp at 6043 is 3 
+
+
+The cluster picture of Crrp at 3617562160886403874663 is:
+(5,(1,2),(3,4),(6,7)) d=[1,1,1,0]
+
+Expected depth of the twins: 1 
+
+The conductor of Crrp at 3617562160886403874663 is 3 
+
+
+
+
+
+
+
+Iteration nº 5 
+
+r =  7 , a =  3074 , b =  -1861 , c^p =  2516435567245386810144403 
+
+Polynomial frrp = x^7 - 40044998*x^5 + 458171961377144*x^3 - 
+    1310535376928843480408*x - 2671051629168732209793645
+Bad primes dividing a^r+b^r, not 2, 7 are: [ 547, 1213, 3792605649710987173 ]
+
+
+
+The cluster picture of Crrp at 547 is:
+(5,(1,2),(3,4),(6,7)) d=[1,1,1,0]
+
+Expected depth of the twins: 1 
+
+The conductor of Crrp at 547 is 3 
+
+
+The cluster picture of Crrp at 1213 is:
+(1,(2,3),(4,5),(6,7)) F[[8,9],[9,10]] d=[1,1,1,0]
+
+Expected depth of the twins: 1 
+
+The conductor of Crrp at 1213 is 3 
+
+
+The cluster picture of Crrp at 3792605649710987173 is:
+(5,(1,2),(3,4),(6,7)) d=[1,1,1,0]
+
+Expected depth of the twins: 1 
+
+The conductor of Crrp at 3792605649710987173 is 3 
+
+
+
+
+
+
+
+Iteration nº 6 
+
+r =  7 , a =  -33 , b =  -713 , c^p =  -93675648681242525594 
+
+Polynomial frrp = x^7 + 164703*x^5 + 7750593774*x^3 + 91181860454223*x - 
+    93675648596005639640
+Bad primes dividing a^r+b^r, not 2, 7 are: [ 373, 327862543, 382997623 ]
+
+
+
+The cluster picture of Crrp at 373 is:
+(1,(2,3),(4,5),(6,7)) F[[8,9],[9,10]] d=[1,1,1,0]
+
+Expected depth of the twins: 1 
+
+The conductor of Crrp at 373 is 3 
+
+
+The cluster picture of Crrp at 327862543 is:
+(3,(1,2),(4,5),(6,7)) d=[1,1,1,0]
+
+Expected depth of the twins: 1 
+
+The conductor of Crrp at 327862543 is 3 
+
+
+The cluster picture of Crrp at 382997623 is:
+(3,(1,2),(4,5),(6,7)) d=[1,1,1,0]
+
+Expected depth of the twins: 1 
+
+The conductor of Crrp at 382997623 is 3 
+
+
+
+
+
+
+
+Iteration nº 7 
+
+r =  7 , a =  -4163 , b =  4561 , c^p =  19390847849724498536990054 
+
+Polynomial frrp = x^7 - 132912101*x^5 + 5047321883495486*x^3 - 
+    47917868282761590591149*x + 62729447251819378283924988
+Bad primes dividing a^r+b^r, not 2, 7 are: [ 199, 32971, 1477684123639374463 ]
+
+
+
+The cluster picture of Crrp at 199 is:
+(1,(2,3),(4,5),(6,7)) F[[8,9],[9,10]] d=[1,1,1,0]
+
+Expected depth of the twins: 1 
+
+The conductor of Crrp at 199 is 3 
+
+
+The cluster picture of Crrp at 32971 is:
+(1,(2,3),(4,5),(6,7)) d=[1,1,1,0]
+
+Expected depth of the twins: 1 
+
+The conductor of Crrp at 32971 is 3 
+
+
+The cluster picture of Crrp at 1477684123639374463 is:
+(3,(1,2),(4,5),(6,7)) d=[1,1,1,0]
+
+Expected depth of the twins: 1 
+
+The conductor of Crrp at 1477684123639374463 is 3 
+
+
+
+
+
+
+
+Iteration nº 8 
+
+r =  7 , a =  -4887 , b =  1223 , c^p =  -66568638518053996869657136 
+
+Polynomial frrp = x^7 - 41837607*x^5 + 500110102710414*x^3 - 
+    1494529280994852552807*x + 66576823452301472066883230
+Bad primes dividing a^r+b^r, not 2, 7 are: [ 229, 18168296538770195652199 ]
+
+
+
+The cluster picture of Crrp at 229 is:
+(1,(2,3),(4,5),(6,7)) F[[8,9],[9,10]] d=[1,1,1,0]
+
+Expected depth of the twins: 1 
+
+The conductor of Crrp at 229 is 3 
+
+
+The cluster picture of Crrp at 18168296538770195652199 is:
+(3,(1,2),(4,5),(6,7)) d=[1,1,1,0]
+
+Expected depth of the twins: 1 
+
+The conductor of Crrp at 18168296538770195652199 is 3 
+
+
+
+
+
+
+
+Iteration nº 9 
+
+r =  7 , a =  3957 , b =  3593 , c^p =  22920534381800327229572150 
+
+Polynomial frrp = x^7 + 99522507*x^5 + 2829922685590014*x^3 + 
+    20117214306149354817507*x - 7459785862551931767949636
+Bad primes dividing a^r+b^r, not 2, 7 are: [ 5, 151, 43933, 191969, 376097, 
+957097 ]
+
+
+
+The cluster picture of Crrp at 5 is:
+(7,(1,2),(3,4),(5,6)) F[[8,9],[9,10]] d=[2,2,2,0]
+
+Expected depth of the twins: 2 
+
+The conductor of Crrp at 5 is 3 
+
+
+The cluster picture of Crrp at 151 is:
+(1,(2,3),(4,5),(6,7)) F[[8,9],[9,10]] d=[1,1,1,0]
+
+Expected depth of the twins: 1 
+
+The conductor of Crrp at 151 is 3 
+
+
+The cluster picture of Crrp at 43933 is:
+(3,(1,2),(4,5),(6,7)) d=[1,1,1,0]
+
+Expected depth of the twins: 1 
+
+The conductor of Crrp at 43933 is 3 
+
+
+The cluster picture of Crrp at 191969 is:
+(5,(1,2),(3,4),(6,7)) d=[1,1,1,0]
+
+Expected depth of the twins: 1 
+
+The conductor of Crrp at 191969 is 3 
+
+
+The cluster picture of Crrp at 376097 is:
+(5,(1,2),(3,4),(6,7)) d=[1,1,1,0]
+
+Expected depth of the twins: 1 
+
+The conductor of Crrp at 376097 is 3 
+
+
+The cluster picture of Crrp at 957097 is:
+(7,(1,2),(3,4),(5,6)) d=[1,1,1,0]
+
+Expected depth of the twins: 1 
+
+The conductor of Crrp at 957097 is 3 
+
+
+
+
+
+
+
+Iteration nº 10 
+
+r =  7 , a =  2791 , b =  -3767 , c^p =  -9444667296310168672111792 
+
+Polynomial frrp = x^7 - 73595879*x^5 + 1547529544509326*x^3 - 
+    8135128364759533619111*x - 12083117190598432880313054
+Bad primes dividing a^r+b^r, not 2, 7 are: [ 61, 25747, 375846242802367261 ]
+
+
+
+The cluster picture of Crrp at 61 is:
+(7,(1,2),(3,4),(5,6)) F[[8,9],[9,10]] d=[1,1,1,0]
+
+Expected depth of the twins: 1 
+
+The conductor of Crrp at 61 is 3 
+
+
+The cluster picture of Crrp at 25747 is:
+(3,(1,2),(4,5),(6,7)) d=[1,1,1,0]
+
+Expected depth of the twins: 1 
+
+The conductor of Crrp at 25747 is 3 
+
+
+The cluster picture of Crrp at 375846242802367261 is:
+(5,(1,2),(3,4),(6,7)) d=[1,1,1,0]
+
+Expected depth of the twins: 1 
+
+The conductor of Crrp at 375846242802367261 is 3 
+
+
+
+
+
+
+
+
+
+########################################
+Computing 10 iterations for r = 11
+########################################
+
+
+Iteration nº 1 
+
+r =  11 , a =  -1579 , b =  333 , c^p =  -152125988815625509192417047142236862 
+
+Polynomial frrp = x^11 - 5783877*x^9 + 12164812054956*x^7 - 
+    11193600831315436611*x^5 + 4204052623079625555800055*x^3 - 
+    442104059516725734923711903877*x + 152125999982112498297944791559753896
+Bad primes dividing a^r+b^r, not 2, 11 are: [ 7, 23, 89, 331, 
+16037236805551363121206781669 ]
+
+
+
+The cluster picture of Crrp at 7 is:
+(9,(1,2),(3,4),(5,6),(7,8),(10,11)) F[[12,13],[13,14],[14,15],[15,16]] d=[1,1,1,1,1,0]
+
+Expected depth of the twins: 1 
+
+The conductor of Crrp at 7 is 5 
+
+
+The cluster picture of Crrp at 23 is:
+(3,(1,2),(4,5),(6,7),(8,9),(10,11)) d=[1,1,1,1,1,0]
+
+Expected depth of the twins: 1 
+
+The conductor of Crrp at 23 is 5 
+
+
+The cluster picture of Crrp at 89 is:
+(11,(1,2),(3,4),(5,6),(7,8),(9,10)) d=[1,1,1,1,1,0]
+
+Expected depth of the twins: 1 
+
+The conductor of Crrp at 89 is 5 
+
+
+The cluster picture of Crrp at 331 is:
+(5,(1,2),(3,4),(6,7),(8,9),(10,11)) d=[1,1,1,1,1,0]
+
+Expected depth of the twins: 1 
+
+The conductor of Crrp at 331 is 5 
+
+
+The cluster picture of Crrp at 16037236805551363121206781669 is:
+(7,(1,2),(3,4),(5,6),(8,9),(10,11)) d=[1,1,1,1,1,0]
+
+Expected depth of the twins: 1 
+
+The conductor of Crrp at 16037236805551363121206781669 is 5 
+
+
+
+
+
+
+
+Iteration nº 2 
+
+r =  11 , a =  3049 , b =  -1005 , c^p =  
+211704213082664634759597106342688317924 
+
+Polynomial frrp = x^11 - 33706695*x^9 + 413142286481100*x^7 - 
+    2215446074866986971625*x^5 + 4849049684057707494905034375*x^3 - 
+    2971735249825081980545055411684375*x - 
+    211706325874330036748788727651379724174
+Bad primes dividing a^r+b^r, not 2, 11 are: [ 7, 23, 73, 59467, 8229002238403, 
+9202324915784177 ]
+
+
+
+The cluster picture of Crrp at 7 is:
+(1,(2,3),(4,5),(6,7),(8,9),(10,11)) F[[12,13],[13,14],[14,15],[15,16]] d=[1,1,1,1,1,0]
+
+Expected depth of the twins: 1 
+
+The conductor of Crrp at 7 is 5 
+
+
+The cluster picture of Crrp at 23 is:
+(1,(2,3),(4,5),(6,7),(8,9),(10,11)) d=[1,1,1,1,1,0]
+
+Expected depth of the twins: 1 
+
+The conductor of Crrp at 23 is 5 
+
+
+The cluster picture of Crrp at 73 is:
+(1,(2,3),(4,5),(6,7),(8,9),(10,11)) F[[12,13],[13,14],[14,15],[15,16]] d=[1,1,1,1,1,0]
+
+Expected depth of the twins: 1 
+
+The conductor of Crrp at 73 is 5 
+
+
+The cluster picture of Crrp at 59467 is:
+(9,(1,2),(3,4),(5,6),(7,8),(10,11)) d=[1,1,1,1,1,0]
+
+Expected depth of the twins: 1 
+
+The conductor of Crrp at 59467 is 5 
+
+
+The cluster picture of Crrp at 8229002238403 is:
+(11,(1,2),(3,4),(5,6),(7,8),(9,10)) d=[1,1,1,1,1,0]
+
+Expected depth of the twins: 1 
+
+The conductor of Crrp at 8229002238403 is 5 
+
+
+The cluster picture of Crrp at 9202324915784177 is:
+(3,(1,2),(4,5),(6,7),(8,9),(10,11)) d=[1,1,1,1,1,0]
+
+Expected depth of the twins: 1 
+
+The conductor of Crrp at 9202324915784177 is 5 
+
+
+
+
+
+
+
+Iteration nº 3 
+
+r =  11 , a =  1214 , b =  -3011 , c^p =  
+-184415929653503265369734697027344850747 
+
+Polynomial frrp = x^11 - 40208894*x^9 + 587910966073904*x^7 - 
+    3760789727593691243528*x^5 + 9819298409941792615567892080*x^3 - 
+    7178602343994874280897311317239264*x - 
+    184432812106521079857152673337392156475
+Bad primes dividing a^r+b^r, not 2, 11 are: [ 3, 199, 599, 1606748023, 
+342246699257, 937800016759 ]
+
+
+
+The cluster picture of Crrp at 3 is:
+(1,(2,3),(4,5),(6,7),(8,9),(10,11)) F[[12,13],[13,14],[14,15],[15,16]] d=[1,1,1,1,1,0]
+
+Expected depth of the twins: 1 
+
+The conductor of Crrp at 3 is 5 
+
+
+The cluster picture of Crrp at 199 is:
+(1,(2,3),(4,5),(6,7),(8,9),(10,11)) d=[1,1,1,1,1,0]
+
+Expected depth of the twins: 1 
+
+The conductor of Crrp at 199 is 5 
+
+
+The cluster picture of Crrp at 599 is:
+(1,(2,3),(4,5),(6,7),(8,9),(10,11)) F[[12,13],[13,14],[14,15],[15,16]] d=[1,1,1,1,1,0]
+
+Expected depth of the twins: 1 
+
+The conductor of Crrp at 599 is 5 
+
+
+The cluster picture of Crrp at 1606748023 is:
+(3,(1,2),(4,5),(6,7),(8,9),(10,11)) d=[1,1,1,1,1,0]
+
+Expected depth of the twins: 1 
+
+The conductor of Crrp at 1606748023 is 5 
+
+
+The cluster picture of Crrp at 342246699257 is:
+(5,(1,2),(3,4),(6,7),(8,9),(10,11)) d=[1,1,1,1,1,0]
+
+Expected depth of the twins: 1 
+
+The conductor of Crrp at 342246699257 is 5 
+
+
+The cluster picture of Crrp at 937800016759 is:
+(11,(1,2),(3,4),(5,6),(7,8),(9,10)) d=[1,1,1,1,1,0]
+
+Expected depth of the twins: 1 
+
+The conductor of Crrp at 937800016759 is 5 
+
+
+
+
+
+
+
+Iteration nº 4 
+
+r =  11 , a =  4643 , b =  -146 , c^p =  
+21616507122356220626966195449109294866011 
+
+Polynomial frrp = x^11 - 7456658*x^9 + 20218817646896*x^7 - 
+    23985310420474491704*x^5 + 11613653040864576776660080*x^3 - 
+    1574527979207039515241756342048*x - 216165071223562219119906995371106603782\
+    03
+Bad primes dividing a^r+b^r, not 2, 11 are: [ 3, 67, 1013, 1499, 25411, 
+2787126165733400576811611623 ]
+
+
+
+The cluster picture of Crrp at 3 is:
+(1,(2,3),(4,5),(6,7),(8,9),(10,11)) F[[12,13],[13,14],[14,15],[15,16]] d=[1,1,1,1,1,0]
+
+Expected depth of the twins: 1 
+
+The conductor of Crrp at 3 is 5 
+
+
+The cluster picture of Crrp at 67 is:
+(7,(1,2),(3,4),(5,6),(8,9),(10,11)) d=[1,1,1,1,1,0]
+
+Expected depth of the twins: 1 
+
+The conductor of Crrp at 67 is 5 
+
+
+The cluster picture of Crrp at 1013 is:
+(1,(2,3),(4,5),(6,7),(8,9),(10,11)) d=[1,1,1,1,1,0]
+
+Expected depth of the twins: 1 
+
+The conductor of Crrp at 1013 is 5 
+
+
+The cluster picture of Crrp at 1499 is:
+(1,(2,3),(4,5),(6,7),(8,9),(10,11)) F[[12,13],[13,14],[14,15],[15,16]] d=[1,1,1,1,1,0]
+
+Expected depth of the twins: 1 
+
+The conductor of Crrp at 1499 is 5 
+
+
+The cluster picture of Crrp at 25411 is:
+(9,(1,2),(3,4),(5,6),(7,8),(10,11)) d=[1,1,1,1,1,0]
+
+Expected depth of the twins: 1 
+
+The conductor of Crrp at 25411 is 5 
+
+
+The cluster picture of Crrp at 2787126165733400576811611623 is:
+(11,(1,2),(3,4),(5,6),(7,8),(9,10)) d=[1,1,1,1,1,0]
+
+Expected depth of the twins: 1 
+
+The conductor of Crrp at 2787126165733400576811611623 is 5 
+
+
+
+
+
+
+
+Iteration nº 5 
+
+r =  11 , a =  -1620 , b =  -503 , c^p =  -201681602259425892095458766591196647 
+
+Polynomial frrp = x^11 + 8963460*x^9 + 29215860062400*x^7 + 
+    41661962528282712000*x^5 + 24249047704140321928800000*x^3 + 
+    3951915802439156545380393600000*x + 201680559274981268892598833408803353
+Bad primes dividing a^r+b^r, not 2, 11 are: [ 193, 519706903, 
+16617478220299510117433 ]
+
+
+
+The cluster picture of Crrp at 193 is:
+(1,(2,3),(4,5),(6,7),(8,9),(10,11)) F[[12,13],[13,14],[14,15],[15,16]] d=[1,1,1,1,1,0]
+
+Expected depth of the twins: 1 
+
+The conductor of Crrp at 193 is 5 
+
+
+The cluster picture of Crrp at 519706903 is:
+(5,(1,2),(3,4),(6,7),(8,9),(10,11)) d=[1,1,1,1,1,0]
+
+Expected depth of the twins: 1 
+
+The conductor of Crrp at 519706903 is 5 
+
+
+The cluster picture of Crrp at 16617478220299510117433 is:
+(7,(1,2),(3,4),(5,6),(8,9),(10,11)) d=[1,1,1,1,1,0]
+
+Expected depth of the twins: 1 
+
+The conductor of Crrp at 16617478220299510117433 is 5 
+
+
+
+
+
+
+
+Iteration nº 6 
+
+r =  11 , a =  1693 , b =  -4946 , c^p =  
+-43330325319474202912433186440640203789339 
+
+Polynomial frrp = x^11 - 92109358*x^9 + 3085139574971696*x^7 - 
+    45208899525846602434504*x^5 + 270400176052742529657363668080*x^3 - 
+    452843393078274337200649589806798048*x - 
+    43330980342451734547881201264724448148453
+Bad primes dividing a^r+b^r, not 2, 11 are: [ 3253, 532093, 4700323, 
+5325895461872032641519817 ]
+
+
+
+The cluster picture of Crrp at 3253 is:
+(1,(2,3),(4,5),(6,7),(8,9),(10,11)) F[[12,13],[13,14],[14,15],[15,16]] d=[1,1,1,1,1,0]
+
+Expected depth of the twins: 1 
+
+The conductor of Crrp at 3253 is 5 
+
+
+The cluster picture of Crrp at 532093 is:
+(9,(1,2),(3,4),(5,6),(7,8),(10,11)) d=[1,1,1,1,1,0]
+
+Expected depth of the twins: 1 
+
+The conductor of Crrp at 532093 is 5 
+
+
+The cluster picture of Crrp at 4700323 is:
+(5,(1,2),(3,4),(6,7),(8,9),(10,11)) d=[1,1,1,1,1,0]
+
+Expected depth of the twins: 1 
+
+The conductor of Crrp at 4700323 is 5 
+
+
+The cluster picture of Crrp at 5325895461872032641519817 is:
+(7,(1,2),(3,4),(5,6),(8,9),(10,11)) d=[1,1,1,1,1,0]
+
+Expected depth of the twins: 1 
+
+The conductor of Crrp at 5325895461872032641519817 is 5 
+
+
+
+
+
+
+
+Iteration nº 7 
+
+r =  11 , a =  3395 , b =  4654 , c^p =  
+22877187585022289602576115559440184603579 
+
+Polynomial frrp = x^11 + 173803630*x^9 + 10984618836791600*x^7 + 
+    303731054454665987149000*x^5 + 3427893494022637597664256550000*x^3 + 
+    10832369682082140302700496538932300000*x + 
+    21495952630304043328633394011053563509829
+Bad primes dividing a^r+b^r, not 2, 11 are: [ 3, 23, 2069, 2683, 4621, 
+12925174367395825026866792573 ]
+
+
+
+The cluster picture of Crrp at 3 is:
+(1,(2,3),(4,5),(6,7),(8,9),(10,11)) F[[12,13],[13,14],[14,15],[15,16]] d=[1,1,1,1,1,0]
+
+Expected depth of the twins: 1 
+
+The conductor of Crrp at 3 is 5 
+
+
+The cluster picture of Crrp at 23 is:
+(11,(1,2),(3,4),(5,6),(7,8),(9,10)) d=[1,1,1,1,1,0]
+
+Expected depth of the twins: 1 
+
+The conductor of Crrp at 23 is 5 
+
+
+The cluster picture of Crrp at 2069 is:
+(1,(2,3),(4,5),(6,7),(8,9),(10,11)) d=[1,1,1,1,1,0]
+
+Expected depth of the twins: 1 
+
+The conductor of Crrp at 2069 is 5 
+
+
+The cluster picture of Crrp at 2683 is:
+(9,(1,2),(3,4),(5,6),(7,8),(10,11)) d=[1,1,1,1,1,0]
+
+Expected depth of the twins: 1 
+
+The conductor of Crrp at 2683 is 5 
+
+
+The cluster picture of Crrp at 4621 is:
+(7,(1,2),(3,4),(5,6),(8,9),(10,11)) d=[1,1,1,1,1,0]
+
+Expected depth of the twins: 1 
+
+The conductor of Crrp at 4621 is 5 
+
+
+The cluster picture of Crrp at 12925174367395825026866792573 is:
+(1,(2,3),(4,5),(6,7),(8,9),(10,11)) d=[1,1,1,1,1,0]
+
+Expected depth of the twins: 1 
+
+The conductor of Crrp at 12925174367395825026866792573 is 5 
+
+
+
+
+
+
+
+Iteration nº 8 
+
+r =  11 , a =  2974 , b =  -3589 , c^p =  
+-1111675146314872213687987824225043308765 
+
+Polynomial frrp = x^11 - 117410546*x^9 + 5012813204370224*x^7 - 
+    93634089710177797769912*x^5 + 713872051758763441119672096880*x^3 - 
+    1523929224929757743758173677011739936*x - 
+    1433619343543976737320057281822952149213
+Bad primes dividing a^r+b^r, not 2, 11 are: [ 3, 5, 41, 89, 919183, 48094041953,
+459430171229230301 ]
+
+
+
+The cluster picture of Crrp at 3 is:
+(9,(1,2),(3,4),(5,6),(7,8),(10,11)) F[[12,13],[13,14],[14,15],[15,16]] d=[1,1,1,1,1,0]
+
+Expected depth of the twins: 1 
+
+The conductor of Crrp at 3 is 5 
+
+
+The cluster picture of Crrp at 5 is:
+(7,(1,2),(3,4),(5,6),(8,9),(10,11)) F[[12,13],[13,14],[14,15],[15,16]] d=[1,1,1,1,1,0]
+
+Expected depth of the twins: 1 
+
+The conductor of Crrp at 5 is 5 
+
+
+The cluster picture of Crrp at 41 is:
+(1,(2,3),(4,5),(6,7),(8,9),(10,11)) F[[12,13],[13,14],[14,15],[15,16]] d=[1,1,1,1,1,0]
+
+Expected depth of the twins: 1 
+
+The conductor of Crrp at 41 is 5 
+
+
+The cluster picture of Crrp at 89 is:
+(9,(1,2),(3,4),(5,6),(7,8),(10,11)) d=[1,1,1,1,1,0]
+
+Expected depth of the twins: 1 
+
+The conductor of Crrp at 89 is 5 
+
+
+The cluster picture of Crrp at 919183 is:
+(9,(1,2),(3,4),(5,6),(7,8),(10,11)) d=[1,1,1,1,1,0]
+
+Expected depth of the twins: 1 
+
+The conductor of Crrp at 919183 is 5 
+
+
+The cluster picture of Crrp at 48094041953 is:
+(7,(1,2),(3,4),(5,6),(8,9),(10,11)) d=[1,1,1,1,1,0]
+
+Expected depth of the twins: 1 
+
+The conductor of Crrp at 48094041953 is 5 
+
+
+The cluster picture of Crrp at 459430171229230301 is:
+(3,(1,2),(4,5),(6,7),(8,9),(10,11)) d=[1,1,1,1,1,0]
+
+Expected depth of the twins: 1 
+
+The conductor of Crrp at 459430171229230301 is 5 
+
+
+
+
+
+
+
+Iteration nº 9 
+
+r =  11 , a =  -1772 , b =  3329 , c^p =  
+555941921572531641572711221748829228801 
+
+Polynomial frrp = x^11 - 64888868*x^9 + 1531114614662336*x^7 - 
+    15806046792406052202944*x^5 + 66599771682744137908957300480*x^3 - 
+    78574250791849495319056841608782848*x + 
+    557023681498138315306493406716581875457
+Bad primes dividing a^r+b^r, not 2, 11 are: [ 3, 173, 199, 32077, 
+55936332828465116059500193991 ]
+
+
+
+The cluster picture of Crrp at 3 is:
+(9,(1,2),(3,4),(5,6),(7,8),(10,11)) F[[12,13],[13,14],[14,15],[15,16]] d=[2,2,2,2,2,0]
+
+Expected depth of the twins: 2 
+
+The conductor of Crrp at 3 is 5 
+
+
+The cluster picture of Crrp at 173 is:
+(1,(2,3),(4,5),(6,7),(8,9),(10,11)) F[[12,13],[13,14],[14,15],[15,16]] d=[1,1,1,1,1,0]
+
+Expected depth of the twins: 1 
+
+The conductor of Crrp at 173 is 5 
+
+
+The cluster picture of Crrp at 199 is:
+(3,(1,2),(4,5),(6,7),(8,9),(10,11)) d=[1,1,1,1,1,0]
+
+Expected depth of the twins: 1 
+
+The conductor of Crrp at 199 is 5 
+
+
+The cluster picture of Crrp at 32077 is:
+(7,(1,2),(3,4),(5,6),(8,9),(10,11)) d=[1,1,1,1,1,0]
+
+Expected depth of the twins: 1 
+
+The conductor of Crrp at 32077 is 5 
+
+
+The cluster picture of Crrp at 55936332828465116059500193991 is:
+(3,(1,2),(4,5),(6,7),(8,9),(10,11)) d=[1,1,1,1,1,0]
+
+Expected depth of the twins: 1 
+
+The conductor of Crrp at 55936332828465116059500193991 is 5 
+
+
+
+
+
+
+
+Iteration nº 10 
+
+r =  11 , a =  -3443 , b =  -2461 , c^p =  
+-826003657625255366740515514023406840368 
+
+Polynomial frrp = x^11 + 93205453*x^9 + 3159002352340076*x^7 + 
+    46842129930578562623659*x^5 + 283502723354833342949805559255*x^3 + 
+    480436359218562208529836062041465773*x + 
+    785893188042946120586198166253076230246
+Bad primes dividing a^r+b^r, not 2, 11 are: [ 3, 41, 2227912940683, 
+62796784386499906786649 ]
+
+
+
+The cluster picture of Crrp at 3 is:
+(9,(1,2),(3,4),(5,6),(7,8),(10,11)) F[[12,13],[13,14],[14,15],[15,16]] d=[2,2,2,2,2,0]
+
+Expected depth of the twins: 2 
+
+The conductor of Crrp at 3 is 5 
+
+
+The cluster picture of Crrp at 41 is:
+(1,(2,3),(4,5),(6,7),(8,9),(10,11)) F[[12,13],[13,14],[14,15],[15,16]] d=[1,1,1,1,1,0]
+
+Expected depth of the twins: 1 
+
+The conductor of Crrp at 41 is 5 
+
+
+The cluster picture of Crrp at 2227912940683 is:
+(9,(1,2),(3,4),(5,6),(7,8),(10,11)) d=[1,1,1,1,1,0]
+
+Expected depth of the twins: 1 
+
+The conductor of Crrp at 2227912940683 is 5 
+
+
+The cluster picture of Crrp at 62796784386499906786649 is:
+(5,(1,2),(3,4),(6,7),(8,9),(10,11)) d=[1,1,1,1,1,0]
+
+Expected depth of the twins: 1 
+
+The conductor of Crrp at 62796784386499906786649 is 5 
+
+
+
+
+
+
+
+When r = 5, we expect the conductor exponent at primes dividing a^r+b^r to be 2.
+We find the following (1st entry is the place q, second entry is the conductor 
+exponent at q):
+
+[
+    [ 31, 2 ],
+    [ 1669, 2 ],
+    [ 33311, 2 ],
+    [ 670344881, 2 ],
+    [ 11, 2 ],
+    [ 59, 2 ],
+    [ 97354373811781, 2 ],
+    [ 491, 2 ],
+    [ 9491, 2 ],
+    [ 12079305671, 2 ],
+    [ 17, 2 ],
+    [ 67, 2 ],
+    [ 661, 2 ],
+    [ 977885141161, 2 ],
+    [ 3, 2 ],
+    [ 31, 2 ],
+    [ 137, 2 ],
+    [ 56023677461, 2 ],
+    [ 11, 2 ],
+    [ 359, 2 ],
+    [ 153137064476951, 2 ],
+    [ 11, 2 ],
+    [ 419, 2 ],
+    [ 751, 2 ],
+    [ 12071, 2 ],
+    [ 8906291, 2 ],
+    [ 17, 2 ],
+    [ 41, 2 ],
+    [ 47, 2 ],
+    [ 15541, 2 ],
+    [ 555590801, 2 ],
+    [ 461, 2 ],
+    [ 953, 2 ],
+    [ 62837844401, 2 ],
+    [ 7, 2 ],
+    [ 577, 2 ],
+    [ 5312221, 2 ],
+    [ 67479661, 2 ]
+]
+
+When r = 7, we expect the conductor exponent at primes dividing a^r+b^r to be 3.
+We find the following (1st entry is the place q, second entry is the conductor 
+exponent at q):
+
+[
+    [ 113, 3 ],
+    [ 1289, 3 ],
+    [ 2411, 3 ],
+    [ 4552213, 3 ],
+    [ 608248621, 3 ],
+    [ 11, 3 ],
+    [ 109, 3 ],
+    [ 127, 3 ],
+    [ 21589, 3 ],
+    [ 426298875180697, 3 ],
+    [ 3, 3 ],
+    [ 397, 3 ],
+    [ 463, 3 ],
+    [ 25214408396994697987, 3 ],
+    [ 6043, 3 ],
+    [ 3617562160886403874663, 3 ],
+    [ 547, 3 ],
+    [ 1213, 3 ],
+    [ 3792605649710987173, 3 ],
+    [ 373, 3 ],
+    [ 327862543, 3 ],
+    [ 382997623, 3 ],
+    [ 199, 3 ],
+    [ 32971, 3 ],
+    [ 1477684123639374463, 3 ],
+    [ 229, 3 ],
+    [ 18168296538770195652199, 3 ],
+    [ 5, 3 ],
+    [ 151, 3 ],
+    [ 43933, 3 ],
+    [ 191969, 3 ],
+    [ 376097, 3 ],
+    [ 957097, 3 ],
+    [ 61, 3 ],
+    [ 25747, 3 ],
+    [ 375846242802367261, 3 ]
+]
+
+When r = 11, we expect the conductor exponent at primes dividing a^r+b^r to be 
+5. We find the following (1st entry is the place q, second entry is the 
+conductor exponent at q):
+
+[
+    [ 7, 5 ],
+    [ 23, 5 ],
+    [ 89, 5 ],
+    [ 331, 5 ],
+    [ 16037236805551363121206781669, 5 ],
+    [ 7, 5 ],
+    [ 23, 5 ],
+    [ 73, 5 ],
+    [ 59467, 5 ],
+    [ 8229002238403, 5 ],
+    [ 9202324915784177, 5 ],
+    [ 3, 5 ],
+    [ 199, 5 ],
+    [ 599, 5 ],
+    [ 1606748023, 5 ],
+    [ 342246699257, 5 ],
+    [ 937800016759, 5 ],
+    [ 3, 5 ],
+    [ 67, 5 ],
+    [ 1013, 5 ],
+    [ 1499, 5 ],
+    [ 25411, 5 ],
+    [ 2787126165733400576811611623, 5 ],
+    [ 193, 5 ],
+    [ 519706903, 5 ],
+    [ 16617478220299510117433, 5 ],
+    [ 3253, 5 ],
+    [ 532093, 5 ],
+    [ 4700323, 5 ],
+    [ 5325895461872032641519817, 5 ],
+    [ 3, 5 ],
+    [ 23, 5 ],
+    [ 2069, 5 ],
+    [ 2683, 5 ],
+    [ 4621, 5 ],
+    [ 12925174367395825026866792573, 5 ],
+    [ 3, 5 ],
+    [ 5, 5 ],
+    [ 41, 5 ],
+    [ 89, 5 ],
+    [ 919183, 5 ],
+    [ 48094041953, 5 ],
+    [ 459430171229230301, 5 ],
+    [ 3, 5 ],
+    [ 173, 5 ],
+    [ 199, 5 ],
+    [ 32077, 5 ],
+    [ 55936332828465116059500193991, 5 ],
+    [ 3, 5 ],
+    [ 41, 5 ],
+    [ 2227912940683, 5 ],
+    [ 62796784386499906786649, 5 ]
+]
+
+Total time: 35.100 seconds, Total memory usage: 65.12MB

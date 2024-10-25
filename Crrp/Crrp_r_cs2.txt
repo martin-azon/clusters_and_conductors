@@ -1,0 +1,541 @@
+Magma V2.28-9     Thu Oct 24 2024 18:41:00 on ordi-martin [Seed = 1913613769]
+Type ? for help.  Type <Ctrl>-D to quit.
+
+Loading file "Crrp_r_cs2.m"
+
+
+
+
+##########################################################
+We compute the cluster pictures and conductor of the curve
+Crrp(r, a, b) at r when r divides a^r+b^r.
+##########################################################
+
+
+
+
+########################################
+Computing 10 iterations for r = 5
+########################################
+
+
+Iteration nº 1 
+
+r =  5 , a =  3939 , b =  -4999 , c^p =  -2173610850637801300 
+
+Polynomial frrp = x^5 - 98455305*x^3 + 1938689416528605*x - 4070141648862248698
+The cluster picture of Crrp at 5 is:
+(1,(2,3),(4,5)) d=[5/4,5/4,1/2]
+
+Expected outer depth: 1/2 expected depth of the twins: 5/4 
+
+The conductor of Crrp at 5 is 4
+
+
+
+
+Iteration nº 2 
+
+r =  5 , a =  1456 , b =  2409 , c^p =  87673922814994825 
+
+Polynomial frrp = x^5 + 17537520*x^3 + 61512921550080*x + 74587020203387273
+The cluster picture of Crrp at 5 is:
+(1,(2,3),(4,5)) d=[5/4,5/4,1/2]
+
+Expected outer depth: 1/2 expected depth of the twins: 5/4 
+
+The conductor of Crrp at 5 is 4
+
+
+
+
+Iteration nº 3 
+
+r =  5 , a =  -713 , b =  3863 , c^p =  860063473729860750 
+
+Polynomial frrp = x^5 - 13771595*x^3 + 37931365768805*x + 860432007801130336
+The cluster picture of Crrp at 5 is:
+(1,(2,3),(4,5)) d=[9/4,9/4,1/2]
+
+Expected outer depth: 1/2 expected depth of the twins: 9/4 
+
+The conductor of Crrp at 5 is 4
+
+
+
+
+Iteration nº 4 
+
+r =  5 , a =  -2697 , b =  392 , c^p =  -142684421853834025 
+
+Polynomial frrp = x^5 - 5286120*x^3 + 5588612930880*x + 142702934151752489
+The cluster picture of Crrp at 5 is:
+(1,(2,3),(4,5)) d=[5/4,5/4,1/2]
+
+Expected outer depth: 1/2 expected depth of the twins: 5/4 
+
+The conductor of Crrp at 5 is 4
+
+
+
+
+Iteration nº 5 
+
+r =  5 , a =  2546 , b =  -4791 , c^p =  -2417263830041641975 
+
+Polynomial frrp = x^5 - 60989430*x^3 + 743942114344980*x - 2631218609389967927
+The cluster picture of Crrp at 5 is:
+(1,(2,3),(4,5)) d=[5/4,5/4,1/2]
+
+Expected outer depth: 1/2 expected depth of the twins: 5/4 
+
+The conductor of Crrp at 5 is 4
+
+
+
+
+Iteration nº 6 
+
+r =  5 , a =  1296 , b =  -451 , c^p =  3637499683035725 
+
+Polynomial frrp = x^5 - 2922480*x^3 + 1708177870080*x - 3674817197090227
+The cluster picture of Crrp at 5 is:
+(1,(2,3),(4,5)) d=[5/4,5/4,1/2]
+
+Expected outer depth: 1/2 expected depth of the twins: 5/4 
+
+The conductor of Crrp at 5 is 4
+
+
+
+
+Iteration nº 7 
+
+r =  5 , a =  -3821 , b =  -1889 , c^p =  -838541410487451550 
+
+Polynomial frrp = x^5 + 36089345*x^3 + 260488164505805*x + 790436458527794652
+The cluster picture of Crrp at 5 is:
+(1,(2,3),(4,5)) d=[5/4,5/4,1/2]
+
+Expected outer depth: 1/2 expected depth of the twins: 5/4 
+
+The conductor of Crrp at 5 is 4
+
+
+
+
+Iteration nº 8 
+
+r =  5 , a =  -529 , b =  -176 , c^p =  -41595385427025 
+
+Polynomial frrp = x^5 + 465520*x^3 + 43341774080*x + 41257637000273
+The cluster picture of Crrp at 5 is:
+(1,(2,3),(4,5)) d=[5/4,5/4,1/2]
+
+Expected outer depth: 1/2 expected depth of the twins: 5/4 
+
+The conductor of Crrp at 5 is 4
+
+
+
+
+Iteration nº 9 
+
+r =  5 , a =  1449 , b =  -3464 , c^p =  -492369811976331575 
+
+Polynomial frrp = x^5 - 25096680*x^3 + 125968669404480*x - 505145135969296073
+The cluster picture of Crrp at 5 is:
+(1,(2,3),(4,5)) d=[5/4,5/4,1/2]
+
+Expected outer depth: 1/2 expected depth of the twins: 5/4 
+
+The conductor of Crrp at 5 is 4
+
+
+
+
+Iteration nº 10 
+
+r =  5 , a =  -1773 , b =  4598 , c^p =  2037635809428147875 
+
+Polynomial frrp = x^5 - 40761270*x^3 + 332296226402580*x + 2072676582066988061
+The cluster picture of Crrp at 5 is:
+(1,(2,3),(4,5)) d=[9/4,9/4,1/2]
+
+Expected outer depth: 1/2 expected depth of the twins: 9/4 
+
+The conductor of Crrp at 5 is 4
+
+
+
+
+
+
+########################################
+Computing 10 iterations for r = 7
+########################################
+
+
+Iteration nº 1 
+
+r =  7 , a =  -1509 , b =  -2327 , c^p =  -387282767560292429019572 
+
+Polynomial frrp = x^7 + 24580101*x^5 + 172623247191486*x^3 + 
+    303078346493906587149*x - 351649579977789878692634
+The cluster picture of Crrp at 7 is:
+(1,(2,3),(4,5),(6,7)) d=[7/6,7/6,7/6,1/3]
+
+Expected outer depth: 1/3 expected depth of the twins: 7/6 
+
+The conductor of Crrp at 7 is 6
+
+
+
+
+Iteration nº 2 
+
+r =  7 , a =  -1329 , b =  -3767 , c^p =  -10771215004567575591319832 
+
+Polynomial frrp = x^7 + 35044401*x^5 + 350888583271086*x^3 + 
+    878334301319559249249*x - 10756569482341025961105014
+The cluster picture of Crrp at 7 is:
+(1,(2,3),(4,5),(6,7)) d=[13/6,13/6,13/6,1/3]
+
+Expected outer depth: 1/3 expected depth of the twins: 13/6 
+
+The conductor of Crrp at 7 is 6
+
+
+
+
+Iteration nº 3 
+
+r =  7 , a =  -4783 , b =  898 , c^p =  -57266296150390964425016655 
+
+Polynomial frrp = x^7 - 30065938*x^5 + 258274465091384*x^3 - 
+    554661718172908262728*x + 57267237962678683817182799
+The cluster picture of Crrp at 7 is:
+(1,(2,3),(4,5),(6,7)) d=[7/6,7/6,7/6,1/3]
+
+Expected outer depth: 1/3 expected depth of the twins: 7/6 
+
+The conductor of Crrp at 7 is 6
+
+
+
+
+Iteration nº 4 
+
+r =  7 , a =  2738 , b =  3527 , c^p =  7943050490357082775443895 
+
+Polynomial frrp = x^7 + 67598482*x^5 + 1305587076772664*x^3 + 
+    6303978893474967535432*x + 5635962798582360650723511
+The cluster picture of Crrp at 7 is:
+(1,(2,3),(4,5),(6,7)) d=[7/6,7/6,7/6,1/3]
+
+Expected outer depth: 1/3 expected depth of the twins: 7/6 
+
+The conductor of Crrp at 7 is 6
+
+
+
+
+Iteration nº 5 
+
+r =  7 , a =  1507 , b =  2630 , c^p =  887994549751993661888043 
+
+Polynomial frrp = x^7 + 27743870*x^5 + 219920663593400*x^3 + 
+    435817878646358747000*x + 852690643445041678111957
+The cluster picture of Crrp at 7 is:
+(1,(2,3),(4,5),(6,7)) d=[7/6,7/6,7/6,1/3]
+
+Expected outer depth: 1/3 expected depth of the twins: 7/6 
+
+The conductor of Crrp at 7 is 6
+
+
+
+
+Iteration nº 6 
+
+r =  7 , a =  -1796 , b =  -2173 , c^p =  -289056001472917886330613 
+
+Polynomial frrp = x^7 + 27318956*x^5 + 213235816265696*x^3 + 
+    416098563013330952384*x - 168504028644835689064181
+The cluster picture of Crrp at 7 is:
+(1,(2,3),(4,5),(6,7)) d=[13/6,13/6,13/6,1/3]
+
+Expected outer depth: 1/3 expected depth of the twins: 13/6 
+
+The conductor of Crrp at 7 is 6
+
+
+
+
+Iteration nº 7 
+
+r =  7 , a =  -4336 , b =  -3987 , c^p =  -44830295945642033551421179 
+
+Polynomial frrp = x^7 + 121013424*x^5 + 4184071082343936*x^3 + 
+    36166340566701831499776*x + 12800538836177992271614213
+The cluster picture of Crrp at 7 is:
+(1,(2,3),(4,5),(6,7)) d=[7/6,7/6,7/6,1/3]
+
+Expected outer depth: 1/3 expected depth of the twins: 7/6 
+
+The conductor of Crrp at 7 is 6
+
+
+
+
+Iteration nº 8 
+
+r =  7 , a =  2580 , b =  -4967 , c^p =  -73825391523839960915472023 
+
+Polynomial frrp = x^7 - 89704020*x^5 + 2299088915474400*x^3 - 
+    14731251289678134792000*x - 75347227818216943955472023
+The cluster picture of Crrp at 7 is:
+(1,(2,3),(4,5),(6,7)) d=[7/6,7/6,7/6,1/3]
+
+Expected outer depth: 1/3 expected depth of the twins: 7/6 
+
+The conductor of Crrp at 7 is 6
+
+
+
+
+Iteration nº 9 
+
+r =  7 , a =  -984 , b =  -4315 , c^p =  -27853484140447085948498419 
+
+Polynomial frrp = x^7 + 29721720*x^5 + 252394468502400*x^3 + 
+    535828408741225152000*x - 27851697670623371796345331
+The cluster picture of Crrp at 7 is:
+(1,(2,3),(4,5),(6,7)) d=[7/6,7/6,7/6,1/3]
+
+Expected outer depth: 1/3 expected depth of the twins: 7/6 
+
+The conductor of Crrp at 7 is 6
+
+
+
+
+Iteration nº 10 
+
+r =  7 , a =  162 , b =  -1933 , c^p =  -100837707955498216525669 
+
+Polynomial frrp = x^7 - 2192022*x^5 + 1372845842424*x^3 - 214950592085852952*x -
+    100837713811957084995685
+The cluster picture of Crrp at 7 is:
+(1,(2,3),(4,5),(6,7)) d=[7/6,7/6,7/6,1/3]
+
+Expected outer depth: 1/3 expected depth of the twins: 7/6 
+
+The conductor of Crrp at 7 is 6
+
+
+
+
+
+
+########################################
+Computing 10 iterations for r = 11
+########################################
+
+
+Iteration nº 1 
+
+r =  11 , a =  1855 , b =  -2218 , c^p =  -5496202214526571282325759837013870657
+
+Polynomial frrp = x^11 - 45258290*x^9 + 744841023172400*x^7 - 
+    5362991300328008963000*x^5 + 15761026982968969140912550000*x^3 - 
+    12969402361691539388735837318900000*x - 
+    7286037431809334333621460869338089407
+The cluster picture of Crrp at 11 is:
+(1,(2,3),(4,5),(6,7),(8,9),(10,11)) d=[21/10,21/10,21/10,21/10,21/10,1/5]
+
+Expected outer depth: 1/5 expected depth of the twins: 21/10 
+
+The conductor of Crrp at 11 is 10
+
+
+
+
+Iteration nº 2 
+
+r =  11 , a =  -2884 , b =  -4189 , c^p =  
+-7084499625434628607899552692358279905573 
+
+Polynomial frrp = x^11 + 132891836*x^9 + 6421905481982144*x^7 + 
+    135771174337125096537152*x^5 + 1171615625554327080551907239680*x^3 + 
+    2830875483021873517801142661504859136*x - 
+    6854896491193660112791870633337753485605
+The cluster picture of Crrp at 11 is:
+(1,(2,3),(4,5),(6,7),(8,9),(10,11)) d=[11/10,11/10,11/10,11/10,11/10,1/5]
+
+Expected outer depth: 1/5 expected depth of the twins: 11/10 
+
+The conductor of Crrp at 11 is 10
+
+
+
+
+Iteration nº 3 
+
+r =  11 , a =  4176 , b =  -403 , c^p =  
+6735430976675256400188796462444022009429 
+
+Polynomial frrp = x^11 - 18512208*x^9 + 124618852740096*x^7 - 
+    367017974057322491904*x^5 + 441189160745958304753582080*x^3 - 
+    148497918383174823580467276546048*x - 6735430976766328532121878247951282794\
+    923
+The cluster picture of Crrp at 11 is:
+(1,(2,3),(4,5),(6,7),(8,9),(10,11)) d=[11/10,11/10,11/10,11/10,11/10,1/5]
+
+Expected outer depth: 1/5 expected depth of the twins: 11/10 
+
+The conductor of Crrp at 11 is 10
+
+
+
+
+Iteration nº 4 
+
+r =  11 , a =  3022 , b =  3853 , c^p =  
+2970336236404540321198337389145984643125 
+
+Polynomial frrp = x^11 + 128081426*x^9 + 5965400613161264*x^7 + 
+    121554525462835986990392*x^5 + 1010966036235931377782263354480*x^3 + 
+    2354290391975741150990854689988034336*x + 
+    2586391201553447645407733054231067836469
+The cluster picture of Crrp at 11 is:
+(1,(2,3),(4,5),(6,7),(8,9),(10,11)) d=[11/10,11/10,11/10,11/10,11/10,1/5]
+
+Expected outer depth: 1/5 expected depth of the twins: 11/10 
+
+The conductor of Crrp at 11 is 10
+
+
+
+
+Iteration nº 5 
+
+r =  11 , a =  -911 , b =  3837 , c^p =  
+2654053863200670351709653241706944678102 
+
+Polynomial frrp = x^11 - 38450577*x^9 + 537617044230156*x^7 - 
+    3288677247495184840911*x^5 + 8211138813828679341213062055*x^3 - 
+    5740418640341969087593129380937377*x + 
+    2654054580552387728199534276786013219124
+The cluster picture of Crrp at 11 is:
+(1,(2,3),(4,5),(6,7),(8,9),(10,11)) d=[11/10,11/10,11/10,11/10,11/10,1/5]
+
+Expected outer depth: 1/5 expected depth of the twins: 11/10 
+
+The conductor of Crrp at 11 is 10
+
+
+
+
+Iteration nº 6 
+
+r =  11 , a =  -1521 , b =  839 , c^p =  -100645902753894121009084917709247482 
+
+Polynomial frrp = x^11 - 14037309*x^9 + 71653106895084*x^7 - 
+    160016309456233473243*x^5 + 145857037719270859743845655*x^3 - 
+    37226187423455642053091314682589*x + 100935911813315847122717802119969960
+The cluster picture of Crrp at 11 is:
+(1,(2,3),(4,5),(6,7),(8,9),(10,11)) d=[11/10,11/10,11/10,11/10,11/10,1/5]
+
+Expected outer depth: 1/5 expected depth of the twins: 11/10 
+
+The conductor of Crrp at 11 is 10
+
+
+
+
+Iteration nº 7 
+
+r =  11 , a =  -1211 , b =  -1660 , c^p =  -271962458509603947405249355163603811
+
+Polynomial frrp = x^11 + 22112860*x^9 + 177810391774400*x^7 + 
+    625528956794709352000*x^5 + 898197029061523158536800000*x^3 + 
+    361121911928243508936037513600000*x - 255533290523596011129713844836396189
+The cluster picture of Crrp at 11 is:
+(1,(2,3),(4,5),(6,7),(8,9),(10,11)) d=[11/10,11/10,11/10,11/10,11/10,1/5]
+
+Expected outer depth: 1/5 expected depth of the twins: 11/10 
+
+The conductor of Crrp at 11 is 10
+
+
+
+
+Iteration nº 8 
+
+r =  11 , a =  -4123 , b =  845 , c^p =  
+-5852570732740180825337619935847116930702 
+
+Polynomial frrp = x^11 - 38323285*x^9 + 534063335705900*x^7 - 
+    3256123408094435753875*x^5 + 8102944504128205734411784375*x^3 - 
+    5646026392197980089063583999303125*x + 
+    5852571046396321250616438798871433336952
+The cluster picture of Crrp at 11 is:
+(1,(2,3),(4,5),(6,7),(8,9),(10,11)) d=[11/10,11/10,11/10,11/10,11/10,1/5]
+
+Expected outer depth: 1/5 expected depth of the twins: 11/10 
+
+The conductor of Crrp at 11 is 10
+
+
+
+
+Iteration nº 9 
+
+r =  11 , a =  3140 , b =  -4229 , c^p =  
+-7445179664668143376009453628832058792029 
+
+Polynomial frrp = x^11 - 146069660*x^9 + 7758671117278400*x^7 - 
+    180298753751562093032000*x^5 + 1710141406423012947926792800000*x^3 - 
+    4541814068875114863259351439753600000*x - 
+    8030314729536264369606931721632058792029
+The cluster picture of Crrp at 11 is:
+(1,(2,3),(4,5),(6,7),(8,9),(10,11)) d=[21/10,21/10,21/10,21/10,21/10,1/5]
+
+Expected outer depth: 1/5 expected depth of the twins: 21/10 
+
+The conductor of Crrp at 11 is 10
+
+
+
+
+Iteration nº 10 
+
+r =  11 , a =  -271 , b =  -2259 , c^p =  -7817691711580103413652254692169954330
+
+Polynomial frrp = x^11 + 6734079*x^9 + 16490116355724*x^7 + 
+    17666368722965059713*x^5 + 7725111858673754957601255*x^3 + 
+    945845700729925474747790939439*x - 7817691710422147045984637844513139388
+The cluster picture of Crrp at 11 is:
+(1,(2,3),(4,5),(6,7),(8,9),(10,11)) d=[11/10,11/10,11/10,11/10,11/10,1/5]
+
+Expected outer depth: 1/5 expected depth of the twins: 11/10 
+
+The conductor of Crrp at 11 is 10
+
+
+
+
+When r = 5, we expect the conductor exponent at r be 4. We find:
+
+[ 4, 4, 4, 4, 4, 4, 4, 4, 4, 4 ]
+
+When r = 7, we expect the conductor exponent at r to be 6. We find:
+
+[ 6, 6, 6, 6, 6, 6, 6, 6, 6, 6 ]
+
+When r = 11, we expect the conductor exponent at r to be 10. We find:
+
+[ 10, 10, 10, 10, 10, 10, 10, 10, 10, 10 ]
+
+Total time: 210.349 seconds, Total memory usage: 65.12MB

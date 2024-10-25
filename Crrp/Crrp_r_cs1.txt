@@ -1,0 +1,540 @@
+Magma V2.28-9     Thu Oct 24 2024 18:33:58 on ordi-martin [Seed = 4270059345]
+Type ? for help.  Type <Ctrl>-D to quit.
+
+Loading file "Crrp_r_cs1.m"
+
+
+
+
+##########################################################
+We compute the cluster pictures and conductor of the curve
+Crrp(r, a, b) at r when r does not divide a^r+b^r.
+##########################################################
+
+
+
+
+########################################
+Computing 10 iterations for r = 5
+########################################
+
+
+Iteration nº 1 
+
+r =  5 , a =  2103 , b =  -4529 , c^p =  -1864378062275282906 
+
+Polynomial frrp = x^5 - 47622435*x^3 + 453579263065845*x - 1946645194638384392
+The cluster picture of Crrp at 5 is:
+(1,2,3,4,5) d=[1/4]
+
+Expected outer depth: 1/4 
+
+The conductor of Crrp at 5 is 4
+
+
+
+
+Iteration nº 2 
+
+r =  5 , a =  3637 , b =  46 , c^p =  636379975279004933 
+
+Polynomial frrp = x^5 + 836510*x^3 + 139949796020*x - 636379974867078981
+The cluster picture of Crrp at 5 is:
+(1,2,3,4,5) d=[1/4]
+
+Expected outer depth: 1/4 
+
+The conductor of Crrp at 5 is 4
+
+
+
+
+Iteration nº 3 
+
+r =  5 , a =  -93 , b =  -64 , c^p =  -8030625517 
+
+Polynomial frrp = x^5 + 29760*x^3 + 177131520*x + 5883141869
+The cluster picture of Crrp at 5 is:
+(1,2,3,4,5) d=[1/4]
+
+Expected outer depth: 1/4 
+
+The conductor of Crrp at 5 is 4
+
+
+
+
+Iteration nº 4 
+
+r =  5 , a =  -4735 , b =  -2074 , c^p =  -2418500416699475999 
+
+Polynomial frrp = x^5 + 49101950*x^3 + 482200298760500*x + 2341751234609942751
+The cluster picture of Crrp at 5 is:
+(1,2,3,4,5) d=[1/4]
+
+Expected outer depth: 1/4 
+
+The conductor of Crrp at 5 is 4
+
+
+
+
+Iteration nº 5 
+
+r =  5 , a =  4907 , b =  4469 , c^p =  4627578285746234656 
+
+Polynomial frrp = x^5 + 109646915*x^3 + 2404489193803445*x - 1062395762100047958
+The cluster picture of Crrp at 5 is:
+(1,2,3,4,5) d=[1/4]
+
+Expected outer depth: 1/4 
+
+The conductor of Crrp at 5 is 4
+
+
+
+
+Iteration nº 6 
+
+r =  5 , a =  -3345 , b =  1694 , c^p =  -404825098658732401 
+
+Polynomial frrp = x^5 - 28332150*x^3 + 160542144724500*x + 432724637555948849
+The cluster picture of Crrp at 5 is:
+(1,2,3,4,5) d=[1/4]
+
+Expected outer depth: 1/4 
+
+The conductor of Crrp at 5 is 4
+
+
+
+
+Iteration nº 7 
+
+r =  5 , a =  -2052 , b =  4001 , c^p =  988898622343655969 
+
+Polynomial frrp = x^5 - 41050260*x^3 + 337024769213520*x + 1061662657976384033
+The cluster picture of Crrp at 5 is:
+(1,2,3,4,5) d=[1/4]
+
+Expected outer depth: 1/4 
+
+The conductor of Crrp at 5 is 4
+
+
+
+
+Iteration nº 8 
+
+r =  5 , a =  2378 , b =  -4065 , c^p =  -1033905296531672257 
+
+Polynomial frrp = x^5 - 48332850*x^3 + 467212877824500*x - 1185991299813908993
+The cluster picture of Crrp at 5 is:
+(1,2,3,4,5) d=[1/4]
+
+Expected outer depth: 1/4 
+
+The conductor of Crrp at 5 is 4
+
+
+
+
+Iteration nº 9 
+
+r =  5 , a =  -2857 , b =  -2102 , c^p =  -231385125789874089 
+
+Polynomial frrp = x^5 + 30027070*x^3 + 180324986556980*x + 149313402203938025
+The cluster picture of Crrp at 5 is:
+(1,2,3,4,5) d=[1/4]
+
+Expected outer depth: 1/4 
+
+The conductor of Crrp at 5 is 4
+
+
+
+
+Iteration nº 10 
+
+r =  5 , a =  4845 , b =  -673 , c^p =  2669601559430533532 
+
+Polynomial frrp = x^5 - 16303425*x^3 + 53160333346125*x - 2669877684168522718
+The cluster picture of Crrp at 5 is:
+(1,2,3,4,5) d=[1/4]
+
+Expected outer depth: 1/4 
+
+The conductor of Crrp at 5 is 4
+
+
+
+
+
+
+########################################
+Computing 10 iterations for r = 7
+########################################
+
+
+Iteration nº 1 
+
+r =  7 , a =  -753 , b =  -4132 , c^p =  -20564828344298571759049105 
+
+Polynomial frrp = x^7 + 21779772*x^5 + 135530990963424*x^3 + 
+    210845291579816789952*x - 20564553811125900541765231
+The cluster picture of Crrp at 7 is:
+(1,2,3,4,5,6,7) d=[1/6]
+
+Expected outer depth: 1/6 
+
+The conductor of Crrp at 7 is 6
+
+
+
+
+Iteration nº 2 
+
+r =  7 , a =  4699 , b =  1317 , c^p =  50593777957710023423289472 
+
+Polynomial frrp = x^7 + 43320081*x^5 + 536179833670446*x^3 + 
+    1659096701797874859009*x - 50580033411036416258996326
+The cluster picture of Crrp at 7 is:
+(1,2,3,4,5,6,7) d=[1/6]
+
+Expected outer depth: 1/6 
+
+The conductor of Crrp at 7 is 6
+
+
+
+
+Iteration nº 3 
+
+r =  7 , a =  2423 , b =  -109 , c^p =  490313553947727984958978 
+
+Polynomial frrp = x^7 - 1848749*x^5 + 976535104286*x^3 - 128954878393831301*x - 
+    490313554313335809122316
+The cluster picture of Crrp at 7 is:
+(1,2,3,4,5,6,7) d=[1/6]
+
+Expected outer depth: 1/6 
+
+The conductor of Crrp at 7 is 6
+
+
+
+
+Iteration nº 4 
+
+r =  7 , a =  4684 , b =  1031 , c^p =  49468538056196363470712055 
+
+Polynomial frrp = x^7 + 33804428*x^5 + 326496957830624*x^3 + 
+    788360207371740371648*x - 49466061542964989051949833
+The cluster picture of Crrp at 7 is:
+(1,2,3,4,5,6,7) d=[1/6]
+
+Expected outer depth: 1/6 
+
+The conductor of Crrp at 7 is 6
+
+
+
+
+Iteration nº 5 
+
+r =  7 , a =  -1200 , b =  -2317 , c^p =  -362077465678706684329573 
+
+Polynomial frrp = x^7 + 19462800*x^5 + 108228738240000*x^3 + 
+    150459591901248000000*x - 354911104078706684329573
+The cluster picture of Crrp at 7 is:
+(1,2,3,4,5,6,7) d=[1/6]
+
+Expected outer depth: 1/6 
+
+The conductor of Crrp at 7 is 6
+
+
+
+
+Iteration nº 6 
+
+r =  7 , a =  1999 , b =  -1825 , c^p =  60124701963369515623374 
+
+Polynomial frrp = x^7 - 25537225*x^5 + 186328531628750*x^3 - 
+    339879545437357515625*x - 194980640917190316404624
+The cluster picture of Crrp at 7 is:
+(1,2,3,4,5,6,7) d=[1/6]
+
+Expected outer depth: 1/6 
+
+The conductor of Crrp at 7 is 6
+
+
+
+
+Iteration nº 7 
+
+r =  7 , a =  579 , b =  4988 , c^p =  76821934105324690646667851 
+
+Polynomial frrp = x^7 + 20216364*x^5 + 116771820965856*x^3 + 
+    168621545542041176256*x + 76821890475854244700548533
+The cluster picture of Crrp at 7 is:
+(1,2,3,4,5,6,7) d=[1/6]
+
+Expected outer depth: 1/6 
+
+The conductor of Crrp at 7 is 6
+
+
+
+
+Iteration nº 8 
+
+r =  7 , a =  -4451 , b =  2609 , c^p =  -33787278391236493528459482 
+
+Polynomial frrp = x^7 - 81288613*x^5 + 1887953886703934*x^3 - 
+    10962082347008709750253*x + 35432970358661455594557820
+The cluster picture of Crrp at 7 is:
+(1,2,3,4,5,6,7) d=[1/6]
+
+Expected outer depth: 1/6 
+
+The conductor of Crrp at 7 is 6
+
+
+
+
+Iteration nº 9 
+
+r =  7 , a =  -3466 , b =  2733 , c^p =  -4870089668649557678414779 
+
+Polynomial frrp = x^7 - 66308046*x^5 + 1256216275525176*x^3 - 
+    5949803327390860311864*x + 7147846813022927043268933
+The cluster picture of Crrp at 7 is:
+(1,2,3,4,5,6,7) d=[1/6]
+
+Expected outer depth: 1/6 
+
+The conductor of Crrp at 7 is 6
+
+
+
+
+Iteration nº 10 
+
+r =  7 , a =  2004 , b =  3497 , c^p =  6525228021942941704468697 
+
+Polynomial frrp = x^7 + 49055916*x^5 + 687566541314016*x^3 + 
+    2409229035365064179904*x + 6265622446119409557747929
+The cluster picture of Crrp at 7 is:
+(1,2,3,4,5,6,7) d=[1/6]
+
+Expected outer depth: 1/6 
+
+The conductor of Crrp at 7 is 6
+
+
+
+
+
+
+########################################
+Computing 10 iterations for r = 11
+########################################
+
+
+Iteration nº 1 
+
+r =  11 , a =  -1966 , b =  4819 , c^p =  
+32546445073273493335834653157517502551403 
+
+Polynomial frrp = x^11 - 104215694*x^9 + 3949422136691504*x^7 - 
+    65480508684542628928328*x^5 + 443123159482638775737024596080*x^3 - 
+    839643410781016017540806905009943264*x + 
+    32549837017043496200436544869204696630635
+The cluster picture of Crrp at 11 is:
+(1,2,3,4,5,6,7,8,9,10,11) d=[1/10]
+
+Expected outer depth: 1/10 
+
+The conductor of Crrp at 11 is 10
+
+
+
+
+Iteration nº 2 
+
+r =  11 , a =  -4586 , b =  453 , c^p =  
+-18870115323213323265440761680796837408739 
+
+Polynomial frrp = x^11 - 22852038*x^9 + 189896596637616*x^7 - 
+    690378856750779805224*x^5 + 1024452199276972509000743280*x^3 - 
+    425651283401108150920733226596448*x + 1887011532354301663852298788052595742\
+    3133
+The cluster picture of Crrp at 11 is:
+(1,2,3,4,5,6,7,8,9,10,11) d=[1/10]
+
+Expected outer depth: 1/10 
+
+The conductor of Crrp at 11 is 10
+
+
+
+
+Iteration nº 3 
+
+r =  11 , a =  -536 , b =  -725 , c^p =  -30137371879909151771359801213261 
+
+Polynomial frrp = x^11 + 4274600*x^9 + 6644438240000*x^7 + 
+    4518550225112000000*x^5 + 1254220441056088000000000*x^3 + 
+    97478012678879159360000000000*x - 28039192173177267334169983942989
+The cluster picture of Crrp at 11 is:
+(1,2,3,4,5,6,7,8,9,10,11) d=[1/10]
+
+Expected outer depth: 1/10 
+
+The conductor of Crrp at 11 is 10
+
+
+
+
+Iteration nº 4 
+
+r =  11 , a =  2628 , b =  3107 , c^p =  301760887331314689235934955323369165915
+
+Polynomial frrp = x^11 + 89817156*x^9 + 2933498731610304*x^7 + 
+    41917036191361673614272*x^5 + 244472011601115408534685198080*x^3 + 
+    399232378247476225861155488124404736*x + 
+    219174405540725279888737015676387169371
+The cluster picture of Crrp at 11 is:
+(1,2,3,4,5,6,7,8,9,10,11) d=[1/10]
+
+Expected outer depth: 1/10 
+
+The conductor of Crrp at 11 is 10
+
+
+
+
+Iteration nº 5 
+
+r =  11 , a =  -107 , b =  -2842 , c^p =  
+-97693306645297071028634631568742798451 
+
+Polynomial frrp = x^11 + 3345034*x^9 + 4068819076784*x^7 + 
+    2165281069587218968*x^5 + 470320701125039832039280*x^3 + 
+    28604340657583572536830562464*x - 97693306645297028931595585572044897165
+The cluster picture of Crrp at 11 is:
+(1,2,3,4,5,6,7,8,9,10,11) d=[1/10]
+
+Expected outer depth: 1/10 
+
+The conductor of Crrp at 11 is 10
+
+
+
+
+Iteration nº 6 
+
+r =  11 , a =  1083 , b =  3683 , c^p =  
+1691295622001918198439837013902619591934 
+
+Polynomial frrp = x^11 + 43875579*x^9 + 700024157303724*x^7 + 
+    4886312647950358761213*x^5 + 13921415363886048954931371255*x^3 + 
+    11105639265272656143999251255946939*x + 
+    1691290814239275921868472925323342041400
+The cluster picture of Crrp at 11 is:
+(1,2,3,4,5,6,7,8,9,10,11) d=[1/10]
+
+Expected outer depth: 1/10 
+
+The conductor of Crrp at 11 is 10
+
+
+
+
+Iteration nº 7 
+
+r =  11 , a =  -1626 , b =  2855 , c^p =  
+102512840568841239924915169768936778999 
+
+Polynomial frrp = x^11 - 51064530*x^9 + 948213172407600*x^7 - 
+    7703191361855032659000*x^5 + 25542847168388777328992550000*x^3 - 
+    23715154282101886755993817077300000*x + 
+    102932943730007504903781062728231189751
+The cluster picture of Crrp at 11 is:
+(1,2,3,4,5,6,7,8,9,10,11) d=[1/10]
+
+Expected outer depth: 1/10 
+
+The conductor of Crrp at 11 is 10
+
+
+
+
+Iteration nº 8 
+
+r =  11 , a =  -571 , b =  750 , c^p =  40131371200884281040454150579229 
+
+Polynomial frrp = x^11 - 4710750*x^9 + 8069514750000*x^7 - 
+    6047596960453125000*x^5 + 1849916713081464843750000*x^3 - 
+    158445366475427463867187500000*x + 44338900863324703334545849420771
+The cluster picture of Crrp at 11 is:
+(1,2,3,4,5,6,7,8,9,10,11) d=[1/10]
+
+Expected outer depth: 1/10 
+
+The conductor of Crrp at 11 is 10
+
+
+
+
+Iteration nº 9 
+
+r =  11 , a =  3245 , b =  -3402 , c^p =  
+-286334712892786173079906339965557196523 
+
+Polynomial frrp = x^11 - 121434390*x^9 + 5362294936244400*x^7 - 
+    103594752320011209873000*x^5 + 816880880206600393772060550000*x^3 - 
+    1803589661646392596208544944223900000*x - 
+    1126552184663011216143514972255498602773
+The cluster picture of Crrp at 11 is:
+(1,2,3,4,5,6,7,8,9,10,11) d=[1/10]
+
+Expected outer depth: 1/10 
+
+The conductor of Crrp at 11 is 10
+
+
+
+
+Iteration nº 10 
+
+r =  11 , a =  1075 , b =  824 , c^p =  2334513713422604957819024095074699 
+
+Polynomial frrp = x^11 + 9743800*x^9 + 34524232160000*x^7 + 
+    53517738482824000000*x^5 + 33861437677203928000000000*x^3 + 
+    5998892298893447884480000000000*x - 2096704145231525534391364088519051
+The cluster picture of Crrp at 11 is:
+(1,2,3,4,5,6,7,8,9,10,11) d=[1/10]
+
+Expected outer depth: 1/10 
+
+The conductor of Crrp at 11 is 10
+
+
+
+
+When r = 5, we expect the conductor exponent at r be 4. We find:
+
+[ 4, 4, 4, 4, 4, 4, 4, 4, 4, 4 ]
+
+When r = 7, we expect the conductor exponent at r to be 6. We find:
+
+[ 6, 6, 6, 6, 6, 6, 6, 6, 6, 6 ]
+
+When r = 11, we expect the conductor exponent at r to be 10. We find:
+
+[ 10, 10, 10, 10, 10, 10, 10, 10, 10, 10 ]
+
+Total time: 133.920 seconds, Total memory usage: 65.12MB

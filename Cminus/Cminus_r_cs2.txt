@@ -1,0 +1,790 @@
+Magma V2.28-9     Fri Oct 25 2024 08:27:05 on ordi-martin [Seed = 1679309094]
+Type ? for help.  Type <Ctrl>-D to quit.
+
+Loading file "Cminus_r_cs2.m"
+
+
+
+
+###########################################################################
+We compute the cluster pictures and conductor of the curve
+Cminus(r, p, a, c) at r when r does not divide a*b and gminus is reducible.
+###########################################################################
+
+
+
+
+########################################
+Computing 10 iterations for r = 5, p = 7
+########################################
+
+
+Iteration nº 1 
+
+r =  5 , p =  7 , a =  -4366 , b^p =  30240301517149744001713281 , c =  -2815 
+
+Polynomial gminus = x^5 - 39621125*x^3 + 313966709253125*x + 120961206422125490625871874
+
+The cluster picture of Cminus at 5 is:
+(1,2,3,4,5) d=[1/4]
+
+Expected outer depth: 1/4 
+
+The conductor of Cminus at 5 is 4
+
+
+
+
+
+Iteration nº 2 
+
+r =  5 , p =  7 , a =  3754 , b^p =  -10506543761619851065587541 , c =  2523 
+
+Polynomial gminus = x^5 - 31827645*x^3 + 202599797249205*x - 
+    42026175250943119646247850
+
+The cluster picture of Cminus at 5 is:
+(1,2,3,4,5) d=[1/4]
+
+Expected outer depth: 1/4 
+
+The conductor of Cminus at 5 is 4
+
+
+
+
+
+Iteration nº 3 
+
+r =  5 , p =  7 , a =  549 , b^p =  -14988615963378884717 , c =  2122 
+
+Polynomial gminus = x^5 - 22514420*x^3 + 101379821587280*x - 
+    60040515046078822132
+
+The cluster picture of Cminus at 5 is:
+(1,2,3,4,5) d=[1/4]
+
+Expected outer depth: 1/4 
+
+The conductor of Cminus at 5 is 4
+
+
+
+
+
+Iteration nº 4 
+
+r =  5 , p =  7 , a =  1632 , b^p =  -30834796100422882504369 , c =  -241 
+
+Polynomial gminus = x^5 - 290405*x^3 + 16867012805*x - 123339184400065549983074
+
+The cluster picture of Cminus at 5 is:
+(1,2,3,4,5) d=[1/4]
+
+Expected outer depth: 1/4 
+
+The conductor of Cminus at 5 is 4
+
+
+
+
+
+Iteration nº 5 
+
+r =  5 , p =  7 , a =  -4297 , b^p =  27049390037540836666698937 , c =  1944 
+
+Polynomial gminus = x^5 - 18895680*x^3 + 71409344532480*x + 
+    108197560094635440358339300
+
+The cluster picture of Cminus at 5 is:
+(1,2,3,4,5) d=[1/4]
+
+Expected outer depth: 1/4 
+
+The conductor of Cminus at 5 is 4
+
+
+
+
+
+Iteration nº 6 
+
+r =  5 , p =  7 , a =  -4726 , b^p =  52656988756798136879066125 , c =  -2691 
+
+Polynomial gminus = x^5 - 36207405*x^3 + 262195235366805*x + 
+    210627955309419498865093402
+
+The cluster picture of Cminus at 5 is:
+(1,(2,3),(4,5)) d=[3/4,3/4,1/2]
+
+Expected outer depth: 1/4 
+
+The conductor of Cminus at 5 is 4
+
+
+
+
+
+Iteration nº 7 
+
+r =  5 , p =  7 , a =  2447 , b^p =  -525336966728662584482287 , c =  -2924 
+
+Polynomial gminus = x^5 - 42748880*x^3 + 365493348250880*x - 
+    2101347439433630223699900
+
+The cluster picture of Cminus at 5 is:
+(1,2,3,4,5) d=[1/4]
+
+Expected outer depth: 1/4 
+
+The conductor of Cminus at 5 is 4
+
+
+
+
+
+Iteration nº 8 
+
+r =  5 , p =  7 , a =  1491 , b^p =  -16381158519016340197531 , c =  -2110 
+
+Polynomial gminus = x^5 - 22260500*x^3 + 99105972050000*x - 
+    65524550430624950590124
+
+The cluster picture of Cminus at 5 is:
+(1,2,3,4,5) d=[1/4]
+
+Expected outer depth: 1/4 
+
+The conductor of Cminus at 5 is 4
+
+
+
+
+
+Iteration nº 9 
+
+r =  5 , p =  7 , a =  3176 , b^p =  -3259593584636493884242233 , c =  1703 
+
+Polynomial gminus = x^5 - 14501045*x^3 + 42056061218405*x - 
+    13038374367194564438946418
+
+The cluster picture of Cminus at 5 is:
+(1,2,3,4,5) d=[1/4]
+
+Expected outer depth: 1/4 
+
+The conductor of Cminus at 5 is 4
+
+
+
+
+
+Iteration nº 10 
+
+r =  5 , p =  7 , a =  -3376 , b^p =  4998239883146309651073233 , c =  3217 
+
+Polynomial gminus = x^5 - 51745445*x^3 + 535518215649605*x + 
+    19992958843480398706381218
+
+The cluster picture of Cminus at 5 is:
+(1,2,3,4,5) d=[1/4]
+
+Expected outer depth: 1/4 
+
+The conductor of Cminus at 5 is 4
+
+
+
+
+
+
+
+########################################
+Computing 10 iterations for r = 5, p = 11
+########################################
+
+
+Iteration nº 1 
+
+r =  5 , p =  11 , a =  -3608 , b^p =  1348751117641702779005664972449673761867 
+, c =  -4485 
+
+Polynomial gminus = x^5 - 100576125*x^3 + 2023111384003125*x + 
+    5395004470566811116026289351621596653718
+
+The cluster picture of Cminus at 5 is:
+(1,2,3,4,5) d=[1/4]
+
+Expected outer depth: 1/4 
+
+The conductor of Cminus at 5 is 4
+
+
+
+
+
+Iteration nº 2 
+
+r =  5 , p =  11 , a =  4216 , b^p =  -7480086571619994191360782312654292667859 
+, c =  -2403 
+
+Polynomial gminus = x^5 - 28872045*x^3 + 166718996496405*x - 
+    29920346286479976765442969000317738326950
+
+The cluster picture of Cminus at 5 is:
+(1,2,3,4,5) d=[1/4]
+
+Expected outer depth: 1/4 
+
+The conductor of Cminus at 5 is 4
+
+
+
+
+
+Iteration nº 3 
+
+r =  5 , p =  11 , a =  2808 , b^p =  -85579183384850937531949924961730315749 , 
+c =  4363 
+
+Polynomial gminus = x^5 - 95178845*x^3 + 1811802507106805*x - 
+    342316733539403750130961657582324059082
+
+The cluster picture of Cminus at 5 is:
+(1,2,3,4,5) d=[1/4]
+
+Expected outer depth: 1/4 
+
+The conductor of Cminus at 5 is 4
+
+
+
+
+
+Iteration nº 4 
+
+r =  5 , p =  11 , a =  1601 , b^p =  -177135109901496245841882896740361633 , c 
+=  -4302 
+
+Polynomial gminus = x^5 - 92536020*x^3 + 1712582999488080*x - 
+    708540439605984980420518761442358468
+
+The cluster picture of Cminus at 5 is:
+(1,2,3,4,5) d=[1/4]
+
+Expected outer depth: 1/4 
+
+The conductor of Cminus at 5 is 4
+
+
+
+
+
+Iteration nº 5 
+
+r =  5 , p =  11 , a =  -1638 , b^p =  227747108413162303012123963806455063 , c 
+=  2231 
+
+Polynomial gminus = x^5 - 24886805*x^3 + 123870612621605*x + 
+    910988433652649211937953720522299950
+
+The cluster picture of Cminus at 5 is:
+(1,2,3,4,5) d=[1/4]
+
+Expected outer depth: 1/4 
+
+The conductor of Cminus at 5 is 4
+
+
+
+
+
+Iteration nº 6 
+
+r =  5 , p =  11 , a =  -3987 , b^p =  4046770657073311081890191427941740501112 
+, c =  -2371 
+
+Polynomial gminus = x^5 - 28108205*x^3 + 158014237664405*x + 
+    16187082628293244327560915572469962926150
+
+The cluster picture of Cminus at 5 is:
+(1,2,3,4,5) d=[1/4]
+
+Expected outer depth: 1/4 
+
+The conductor of Cminus at 5 is 4
+
+
+
+
+
+Iteration nº 7 
+
+r =  5 , p =  11 , a =  4407 , b^p =  -1217793230643322870536566016308490533971\
+9 , c =  3974 
+
+Polynomial gminus = x^5 - 78963380*x^3 + 1247043076204880*x - 
+    48711729225732914821464622952013556636124
+
+The cluster picture of Cminus at 5 is:
+(1,2,3,4,5) d=[1/4]
+
+Expected outer depth: 1/4 
+
+The conductor of Cminus at 5 is 4
+
+
+
+
+
+Iteration nº 8 
+
+r =  5 , p =  11 , a =  -94 , b^p =  5062954945299711237169 , c =  -1935 
+
+Polynomial gminus = x^5 - 18721125*x^3 + 70096104253125*x + 
+    20251874035583536867426
+
+The cluster picture of Cminus at 5 is:
+(1,2,3,4,5) d=[1/4]
+
+Expected outer depth: 1/4 
+
+The conductor of Cminus at 5 is 4
+
+
+
+
+
+Iteration nº 9 
+
+r =  5 , p =  11 , a =  -3843 , b^p =  2700065061158957090809160052271983999806 
+, c =  2579 
+
+Polynomial gminus = x^5 - 33256205*x^3 + 221195034200405*x + 
+    10800260244635828363236412024290654861426
+
+The cluster picture of Cminus at 5 is:
+(1,2,3,4,5) d=[1/4]
+
+Expected outer depth: 1/4 
+
+The conductor of Cminus at 5 is 4
+
+
+
+
+
+Iteration nº 10 
+
+r =  5 , p =  11 , a =  38 , b^p =  -245696893120983913 , c =  -1481 
+
+Polynomial gminus = x^5 - 10966805*x^3 + 24054162381605*x - 968537886689072850
+
+The cluster picture of Cminus at 5 is:
+(1,2,3,4,5) d=[1/4]
+
+Expected outer depth: 1/4 
+
+The conductor of Cminus at 5 is 4
+
+
+
+
+
+
+
+########################################
+Computing 10 iterations for r = 7, p = 5
+########################################
+
+
+Iteration nº 1 
+
+r =  7 , p =  5 , a =  -3634 , b^p =  -4198963015971241161154933 , c =  -3293 
+
+Polynomial gminus = x^7 - 75906943*x^5 + 1646246855887214*x^3 - 
+    8925826160982854823343*x - 8397924764423095806543018
+
+The cluster picture of Cminus at 7 is:
+(1,2,3,4,5,6,7) d=[1/6]
+
+Expected outer depth: 1/6 
+
+The conductor of Cminus at 7 is 6
+
+
+
+
+
+Iteration nº 2 
+
+r =  7 , p =  5 , a =  -2575 , b^p =  5489075824767765199 , c =  474 
+
+Polynomial gminus = x^7 - 1572732*x^5 + 706710269664*x^3 - 79390418273514432*x +
+    11204572367172249148
+
+The cluster picture of Cminus at 7 is:
+(1,2,3,4,5,6,7) d=[1/6]
+
+Expected outer depth: 1/6 
+
+The conductor of Cminus at 7 is 6
+
+
+
+
+
+Iteration nº 3 
+
+r =  7 , p =  5 , a =  3296 , b^p =  389941534260803372642649 , c =  2345 
+
+Polynomial gminus = x^7 - 38493175*x^5 + 423349863308750*x^3 - 
+    1164005741040699484375*x + 779882290545944836039346
+
+The cluster picture of Cminus at 7 is:
+(1,2,3,4,5,6,7) d=[1/6]
+
+Expected outer depth: 1/6 
+
+The conductor of Cminus at 7 is 6
+
+
+
+
+
+Iteration nº 4 
+
+r =  7 , p =  5 , a =  332 , b^p =  23558097446908680052234685 , c =  4213 
+
+Polynomial gminus = x^7 - 124245583*x^5 + 4410561398574254*x^3 - 
+    39142340880225254072863*x + 47116194893809292949232506
+
+The cluster picture of Cminus at 7 is:
+(1,2,3,4,5,6,7) d=[1/6]
+
+Expected outer depth: 1/6 
+
+The conductor of Cminus at 7 is 6
+
+
+
+
+
+Iteration nº 5 
+
+r =  7 , p =  5 , a =  -2178 , b^p =  1076233838519242933042439 , c =  2711 
+
+Polynomial gminus = x^7 - 51446647*x^5 + 756216425012174*x^3 - 
+    2778914248085949034327*x + 2152467775059540923009614
+
+The cluster picture of Cminus at 7 is:
+(1,2,3,4,5,6,7) d=[1/6]
+
+Expected outer depth: 1/6 
+
+The conductor of Cminus at 7 is 6
+
+
+
+
+
+Iteration nº 6 
+
+r =  7 , p =  5 , a =  -2589 , b^p =  -8083490762810636883866707 , c =  -3616 
+
+Polynomial gminus = x^7 - 91528192*x^5 + 2393545694511104*x^3 - 
+    15648350706284690931712*x - 16166981292978135418589516
+
+The cluster picture of Cminus at 7 is:
+(1,2,3,4,5,6,7) d=[1/6]
+
+Expected outer depth: 1/6 
+
+The conductor of Cminus at 7 is 6
+
+
+
+
+
+Iteration nº 7 
+
+r =  7 , p =  5 , a =  195 , b^p =  27918514644347440540294 , c =  1609 
+
+Polynomial gminus = x^7 - 18122167*x^5 + 93832267650254*x^3 - 
+    121460287453328612887*x + 55837029288130979836838
+
+The cluster picture of Cminus at 7 is:
+(1,(2,3),(4,5),(6,7)) d=[2/3,2/3,2/3,1/3]
+
+Expected outer depth: 1/6 
+
+The conductor of Cminus at 7 is 6
+
+
+
+
+
+Iteration nº 8 
+
+r =  7 , p =  5 , a =  -4547 , b^p =  -28537455343212338840332493 , c =  -4330 
+
+Polynomial gminus = x^7 - 131242300*x^5 + 4921297516940000*x^3 - 
+    46134457507678183000000*x - 57074906799064631821329972
+
+The cluster picture of Cminus at 7 is:
+(1,2,3,4,5,6,7) d=[1/6]
+
+Expected outer depth: 1/6 
+
+The conductor of Cminus at 7 is 6
+
+
+
+
+
+Iteration nº 9 
+
+r =  7 , p =  5 , a =  4265 , b^p =  -1524237112806859322 , c =  -273 
+
+Polynomial gminus = x^7 - 521703*x^5 + 77764005774*x^3 - 2897836793165223*x - 
+    5870917181360549894
+
+The cluster picture of Cminus at 7 is:
+(1,2,3,4,5,6,7) d=[1/6]
+
+Expected outer depth: 1/6 
+
+The conductor of Cminus at 7 is 6
+
+
+
+
+
+Iteration nº 10 
+
+r =  7 , p =  5 , a =  3867 , b^p =  -864710748375108482 , c =  25 
+
+Polynomial gminus = x^7 - 4375*x^5 + 5468750*x^3 - 1708984375*x - 
+    3458843005707465178
+
+The cluster picture of Cminus at 7 is:
+(1,2,3,4,5,6,7) d=[1/6]
+
+Expected outer depth: 1/6 
+
+The conductor of Cminus at 7 is 6
+
+
+
+
+
+
+
+########################################
+Computing 10 iterations for r = 7, p = 11
+########################################
+
+
+Iteration nº 1 
+
+r =  7 , p =  11 , a =  2323 , b^p =  -10630196873036849554925331119645754930 , 
+c =  -4727 
+
+Polynomial gminus = x^7 - 156411703*x^5 + 6989891667245774*x^3 - 
+    78092918532815773635223*x - 42520787492041928155157147289447677114
+
+The cluster picture of Cminus at 7 is:
+(1,2,3,4,5,6,7) d=[1/6]
+
+Expected outer depth: 1/6 
+
+The conductor of Cminus at 7 is 6
+
+
+
+
+
+Iteration nº 2 
+
+r =  7 , p =  11 , a =  -1417 , b^p =  46245380056714288281109029129675350 , c =
+4213 
+
+Polynomial gminus = x^7 - 124245583*x^5 + 4410561398574254*x^3 - 
+    39142340880225254072863*x + 184981520179740958230610689258995166
+
+The cluster picture of Cminus at 7 is:
+(1,2,3,4,5,6,7) d=[1/6]
+
+Expected outer depth: 1/6 
+
+The conductor of Cminus at 7 is 6
+
+
+
+
+
+Iteration nº 3 
+
+r =  7 , p =  11 , a =  106 , b^p =  54780277794090104896663281 , c =  4753 
+
+Polynomial gminus = x^7 - 158137063*x^5 + 7144951626933134*x^3 - 
+    80705833254305536296103*x + 109522589617013501296545250
+
+The cluster picture of Cminus at 7 is:
+(1,2,3,4,5,6,7) d=[1/6]
+
+Expected outer depth: 1/6 
+
+The conductor of Cminus at 7 is 6
+
+
+
+
+
+Iteration nº 4 
+
+r =  7 , p =  11 , a =  -2801 , b^p =  83261493556993956974404229585107995018 , 
+c =  3913 
+
+Polynomial gminus = x^7 - 107180983*x^5 + 3282218033384654*x^3 - 
+    25127953945606716631063*x + 333045974227947734845105730031238451638
+
+The cluster picture of Cminus at 7 is:
+(1,2,3,4,5,6,7) d=[1/6]
+
+Expected outer depth: 1/6 
+
+The conductor of Cminus at 7 is 6
+
+
+
+
+
+Iteration nº 5 
+
+r =  7 , p =  11 , a =  -421 , b^p =  73644070012971263185665088957 , c =  3456 
+
+Polynomial gminus = x^7 - 83607552*x^5 + 1997206500409344*x^3 - 
+    11927253309836589268992*x + 294564502741188254099085031156
+
+The cluster picture of Cminus at 7 is:
+(1,2,3,4,5,6,7) d=[1/6]
+
+Expected outer depth: 1/6 
+
+The conductor of Cminus at 7 is 6
+
+
+
+
+
+Iteration nº 6 
+
+r =  7 , p =  11 , a =  -3433 , b^p =  780569967384968996902922109014529551804 ,
+c =  3403 
+
+Polynomial gminus = x^7 - 81062863*x^5 + 1877482216501934*x^3 - 
+    10871005978659472505503*x + 3122279869539865417887875470862422142442
+
+The cluster picture of Cminus at 7 is:
+(1,2,3,4,5,6,7) d=[1/6]
+
+Expected outer depth: 1/6 
+
+The conductor of Cminus at 7 is 6
+
+
+
+
+
+Iteration nº 7 
+
+r =  7 , p =  11 , a =  4566 , b^p =  -1798435963878132159048084646818008811286\
+3 , c =  4577 
+
+Polynomial gminus = x^7 - 146642503*x^5 + 6144006767458574*x^3 - 
+    64355180773504588583623*x - 71937438555125370520112643110006623092158
+
+The cluster picture of Cminus at 7 is:
+(1,2,3,4,5,6,7) d=[1/6]
+
+Expected outer depth: 1/6 
+
+The conductor of Cminus at 7 is 6
+
+
+
+
+
+Iteration nº 8 
+
+r =  7 , p =  11 , a =  -2182 , b^p =  5338290563604138923333055379703342319 , c
+=  4751 
+
+Polynomial gminus = x^7 - 158004007*x^5 + 7132933208016014*x^3 - 
+    80502287752135338012007*x + 21353162254307279587872108664271927774
+
+The cluster picture of Cminus at 7 is:
+(1,2,3,4,5,6,7) d=[1/6]
+
+Expected outer depth: 1/6 
+
+The conductor of Cminus at 7 is 6
+
+
+
+
+
+Iteration nº 9 
+
+r =  7 , p =  11 , a =  3631 , b^p =  -1446401082101607454143121601418275227440 
+, c =  3871 
+
+Polynomial gminus = x^7 - 104892487*x^5 + 3143552522584334*x^3 - 
+    23552503007785318607047*x - 5785604328406455865640813016235480303742
+
+The cluster picture of Cminus at 7 is:
+(1,2,3,4,5,6,7) d=[1/6]
+
+Expected outer depth: 1/6 
+
+The conductor of Cminus at 7 is 6
+
+
+
+
+
+Iteration nº 10 
+
+r =  7 , p =  11 , a =  -3704 , b^p =  1800448727085292293057171939950496541507 
+, c =  -373 
+
+Polynomial gminus = x^7 - 973903*x^5 + 270996300974*x^3 - 18851722179105823*x + 
+    7201794908341169172230696814765645158022
+
+The cluster picture of Cminus at 7 is:
+(1,2,3,4,5,6,7) d=[1/6]
+
+Expected outer depth: 1/6 
+
+The conductor of Cminus at 7 is 6
+
+
+
+
+
+When r = 5, p = 7, we expect the conductor exponent at r to be 4. We find:
+
+[ 4, 4, 4, 4, 4, 4, 4, 4, 4, 4 ]
+
+When r = 5, p = 11, we expect the conductor exponent at r to be 4. We find:
+
+[ 4, 4, 4, 4, 4, 4, 4, 4, 4, 4 ]
+
+When r = 7, p = 5, we expect the conductor exponent at r to be 6. We find:
+
+[ 6, 6, 6, 6, 6, 6, 6, 6, 6, 6 ]
+
+When r = 7, p = 11, we expect the conductor exponent at r to be 6. We find:
+
+[ 6, 6, 6, 6, 6, 6, 6, 6, 6, 6 ]

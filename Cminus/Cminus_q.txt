@@ -1,0 +1,1287 @@
+Magma V2.28-9     Thu Oct 24 2024 17:45:44 on ordi-martin [Seed = 1512527522]
+Type ? for help.  Type <Ctrl>-D to quit.
+
+Loading file "Cminus_q.m"
+
+
+
+
+##########################################################
+We compute the cluster pictures and conductor of the curve
+Cminus(r, p, a, c) at q when q divides a, q ne 2, r.
+##########################################################
+
+
+
+
+########################################
+Computing 10 iterations for r = 5, p = 7
+########################################
+
+
+Iteration nº 1 
+
+r =  5 , p =  7 , a =  -1490 , b^p =  16304460525083759453451 , c =  2491 
+
+Polynomial frminus = x^5 - 31025405*x^3 + 192515151082805*x + 65217650278238498906902
+Bad primes dividing a, not 2, 5 are: [ 149 ]
+
+
+
+The cluster picture of Cminus at 149 is:
+(5,(1,2),(3,4)) d=[7/2,7/2,0]
+
+Expected depth of the twins: 7/2 
+
+The conductor of Cminus at 149 is 2 
+
+
+
+
+
+
+
+Iteration nº 2 
+
+r =  5 , p =  7 , a =  -2899 , b^p =  1720828714454108423043931 , c =  3522 
+
+Polynomial frminus = x^5 - 62022420*x^3 + 769356116531280*x + 
+    6883313773947536722908460
+Bad primes dividing a, not 2, 5 are: [ 13, 223 ]
+
+
+
+The cluster picture of Cminus at 13 is:
+(1,(2,3),(4,5)) F[[6,7]] d=[7/2,7/2,0]
+
+Expected depth of the twins: 7/2 
+
+The conductor of Cminus at 13 is 2 
+
+
+The cluster picture of Cminus at 223 is:
+(3,(1,2),(4,5)) F[[6,7]] d=[7/2,7/2,0]
+
+Expected depth of the twins: 7/2 
+
+The conductor of Cminus at 223 is 2 
+
+
+
+
+
+
+
+Iteration nº 3 
+
+r =  5 , p =  7 , a =  -3171 , b^p =  3223841612147012547175966 , c =  1795 
+
+Polynomial frminus = x^5 - 16110125*x^3 + 51907225503125*x + 
+    12895366411318662277460114
+Bad primes dividing a, not 2, 5 are: [ 3, 7, 151 ]
+
+
+
+The cluster picture of Cminus at 3 is:
+(1,(2,3),(4,5)) F[[6,7]] d=[7/2,7/2,0]
+
+Expected depth of the twins: 7/2 
+
+The conductor of Cminus at 3 is 2 
+
+
+The cluster picture of Cminus at 7 is:
+(1,(2,3),(4,5)) F[[6,7]] d=[7/2,7/2,0]
+
+Expected depth of the twins: 7/2 
+
+The conductor of Cminus at 7 is 2 
+
+
+The cluster picture of Cminus at 151 is:
+(5,(1,2),(3,4)) d=[7/2,7/2,0]
+
+Expected depth of the twins: 7/2 
+
+The conductor of Cminus at 151 is 2 
+
+
+
+
+
+
+
+Iteration nº 4 
+
+r =  5 , p =  7 , a =  4883 , b^p =  -66192238750009308432706584 , c =  -1357 
+
+Polynomial frminus = x^5 - 9207245*x^3 + 16954672098005*x - 
+    264768954990834237716029222
+Bad primes dividing a, not 2, 5 are: [ 19, 257 ]
+
+
+
+The cluster picture of Cminus at 19 is:
+(1,(2,3),(4,5)) d=[7/2,7/2,0]
+
+Expected depth of the twins: 7/2 
+
+The conductor of Cminus at 19 is 2 
+
+
+The cluster picture of Cminus at 257 is:
+(5,(1,2),(3,4)) F[[6,7]] d=[7/2,7/2,0]
+
+Expected depth of the twins: 7/2 
+
+The conductor of Cminus at 257 is 2 
+
+
+
+
+
+
+
+Iteration nº 5 
+
+r =  5 , p =  7 , a =  4033 , b^p =  -17353918520232067597141270 , c =  987 
+
+Polynomial frminus = x^5 - 4870845*x^3 + 4745026202805*x - 
+    69415674082801606733432494
+Bad primes dividing a, not 2, 5 are: [ 37, 109 ]
+
+
+
+The cluster picture of Cminus at 37 is:
+(5,(1,2),(3,4)) F[[6,7]] d=[7/2,7/2,0]
+
+Expected depth of the twins: 7/2 
+
+The conductor of Cminus at 37 is 2 
+
+
+The cluster picture of Cminus at 109 is:
+(1,(2,3),(4,5)) d=[7/2,7/2,0]
+
+Expected depth of the twins: 7/2 
+
+The conductor of Cminus at 109 is 2 
+
+
+
+
+
+
+
+Iteration nº 6 
+
+r =  5 , p =  7 , a =  -3353 , b^p =  4764692491841268163382505 , c =  2008 
+
+Polynomial frminus = x^5 - 20160320*x^3 + 81287700500480*x + 
+    19058769902074791611544484
+Bad primes dividing a, not 2, 5 are: [ 7, 479 ]
+
+
+
+The cluster picture of Cminus at 7 is:
+(3,(1,2),(4,5)) F[[6,7]] d=[7/2,7/2,0]
+
+Expected depth of the twins: 7/2 
+
+The conductor of Cminus at 7 is 2 
+
+
+The cluster picture of Cminus at 479 is:
+(5,(1,2),(3,4)) d=[7/2,7/2,0]
+
+Expected depth of the twins: 7/2 
+
+The conductor of Cminus at 479 is 2 
+
+
+
+
+
+
+
+Iteration nº 7 
+
+r =  5 , p =  7 , a =  4929 , b^p =  -70682470731106898327776609 , c =  3830 
+
+Polynomial frminus = x^5 - 73344500*x^3 + 1075883136050000*x - 
+    282729884572680557739706436
+Bad primes dividing a, not 2, 5 are: [ 3, 31, 53 ]
+
+
+
+The cluster picture of Cminus at 3 is:
+(1,(2,3),(4,5)) F[[6,7]] d=[7/2,7/2,0]
+
+Expected depth of the twins: 7/2 
+
+The conductor of Cminus at 3 is 2 
+
+
+The cluster picture of Cminus at 31 is:
+(3,(1,2),(4,5)) d=[7/2,7/2,0]
+
+Expected depth of the twins: 7/2 
+
+The conductor of Cminus at 31 is 2 
+
+
+The cluster picture of Cminus at 53 is:
+(5,(1,2),(3,4)) F[[6,7]] d=[7/2,7/2,0]
+
+Expected depth of the twins: 7/2 
+
+The conductor of Cminus at 53 is 2 
+
+
+
+
+
+
+
+Iteration nº 8 
+
+r =  5 , p =  7 , a =  866 , b^p =  -365204838416490207807 , c =  2369 
+
+Polynomial frminus = x^5 - 28060805*x^3 + 157481755449605*x - 
+    1460968583377424876926
+Bad primes dividing a, not 2, 5 are: [ 433 ]
+
+
+
+The cluster picture of Cminus at 433 is:
+(1,(2,3),(4,5)) F[[6,7]] d=[7/2,7/2,0]
+
+Expected depth of the twins: 7/2 
+
+The conductor of Cminus at 433 is 2 
+
+
+
+
+
+
+
+Iteration nº 9 
+
+r =  5 , p =  7 , a =  -4934 , b^p =  71185907306058805719789295 , c =  4271 
+
+Polynomial frminus = x^5 - 91207205*x^3 + 1663750848782405*x + 
+    284743626381883272819296478
+Bad primes dividing a, not 2, 5 are: [ 2467 ]
+
+
+
+The cluster picture of Cminus at 2467 is:
+(1,(2,3),(4,5)) F[[6,7]] d=[7/2,7/2,0]
+
+Expected depth of the twins: 7/2 
+
+The conductor of Cminus at 2467 is 2 
+
+
+
+
+
+
+
+Iteration nº 10 
+
+r =  5 , p =  7 , a =  413 , b^p =  -2163162203944590374 , c =  -2577 
+
+Polynomial frminus = x^5 - 33204645*x^3 + 220509689915205*x - 
+    8425347427413768182
+Bad primes dividing a, not 2, 5 are: [ 7, 59 ]
+
+
+
+The cluster picture of Cminus at 7 is:
+(3,(1,2),(4,5)) F[[6,7]] d=[7/2,7/2,0]
+
+Expected depth of the twins: 7/2 
+
+The conductor of Cminus at 7 is 2 
+
+
+The cluster picture of Cminus at 59 is:
+(1,(2,3),(4,5)) d=[7/2,7/2,0]
+
+Expected depth of the twins: 7/2 
+
+The conductor of Cminus at 59 is 2 
+
+
+
+
+
+
+
+
+
+########################################
+Computing 10 iterations for r = 5, p = 11
+########################################
+
+
+Iteration nº 1 
+
+r =  5 , p =  11 , a =  3734 , b^p =  -1967512271416719919970957103212833529283 
+, c =  -1939 
+
+Polynomial frminus = x^5 - 18798605*x^3 + 70677509989205*x - 
+    7870049085666879679883773595374586489734
+Bad primes dividing a, not 2, 5 are: [ 1867 ]
+
+
+
+The cluster picture of Cminus at 1867 is:
+(1,(2,3),(4,5)) F[[6,7]] d=[11/2,11/2,0]
+
+Expected depth of the twins: 11/2 
+
+The conductor of Cminus at 1867 is 2 
+
+
+
+
+
+
+
+Iteration nº 2 
+
+r =  5 , p =  11 , a =  311 , b^p =  -2632475144182048632142600786 , c =  2725 
+
+Polynomial frminus = x^5 - 37128125*x^3 + 275699533203125*x - 
+    10529900577028707019761809394
+Bad primes dividing a, not 2, 5 are: [ 311 ]
+
+
+
+The cluster picture of Cminus at 311 is:
+(5,(1,2),(3,4)) d=[11/2,11/2,0]
+
+Expected depth of the twins: 11/2 
+
+The conductor of Cminus at 311 is 2 
+
+
+
+
+
+
+
+Iteration nº 3 
+
+r =  5 , p =  11 , a =  -4655 , b^p =  2223906573218449046269978498113113187211\
+8 , c =  2503 
+
+Polynomial frminus = x^5 - 31325045*x^3 + 196251688850405*x + 
+    88956262928737961850798943437333650462986
+Bad primes dividing a, not 2, 5 are: [ 7, 19 ]
+
+
+
+The cluster picture of Cminus at 7 is:
+(3,(1,2),(4,5)) F[[6,7]] d=[11,11,0]
+
+Expected depth of the twins: 11 
+
+The conductor of Cminus at 7 is 2 
+
+
+The cluster picture of Cminus at 19 is:
+(5,(1,2),(3,4)) d=[11/2,11/2,0]
+
+Expected depth of the twins: 11/2 
+
+The conductor of Cminus at 19 is 2 
+
+
+
+
+
+
+
+Iteration nº 4 
+
+r =  5 , p =  11 , a =  -3929 , b^p =  3444310669044165818693356626858982688104 
+, c =  -3745 
+
+Polynomial frminus = x^5 - 70125125*x^3 + 983506631253125*x + 
+    13777242676176663274774899800369547933666
+Bad primes dividing a, not 2, 5 are: [ 3929 ]
+
+
+
+The cluster picture of Cminus at 3929 is:
+(5,(1,2),(3,4)) d=[11/2,11/2,0]
+
+Expected depth of the twins: 11/2 
+
+The conductor of Cminus at 3929 is 2 
+
+
+
+
+
+
+
+Iteration nº 5 
+
+r =  5 , p =  11 , a =  2554 , b^p =  -30159894789796136809023977477229492003 , 
+c =  -4979 
+
+Polynomial frminus = x^5 - 123952205*x^3 + 3072829824872405*x - 
+    120639579159184547229976062029702086214
+Bad primes dividing a, not 2, 5 are: [ 1277 ]
+
+
+
+The cluster picture of Cminus at 1277 is:
+(1,(2,3),(4,5)) F[[6,7]] d=[11/2,11/2,0]
+
+Expected depth of the twins: 11/2 
+
+The conductor of Cminus at 1277 is 2 
+
+
+
+
+
+
+
+Iteration nº 6 
+
+r =  5 , p =  11 , a =  4121 , b^p =  -5821417669810460255847287836103798007145 
+, c =  -3914 
+
+Polynomial frminus = x^5 - 76596980*x^3 + 1173419469024080*x - 
+    23285670679241841023387314238894487928932
+Bad primes dividing a, not 2, 5 are: [ 13, 317 ]
+
+
+
+The cluster picture of Cminus at 13 is:
+(1,(2,3),(4,5)) F[[6,7]] d=[11/2,11/2,0]
+
+Expected depth of the twins: 11/2 
+
+The conductor of Cminus at 13 is 2 
+
+
+The cluster picture of Cminus at 317 is:
+(1,(2,3),(4,5)) F[[6,7]] d=[11/2,11/2,0]
+
+Expected depth of the twins: 11/2 
+
+The conductor of Cminus at 317 is 2 
+
+
+
+
+
+
+
+Iteration nº 7 
+
+r =  5 , p =  11 , a =  1146 , b^p =  -4477450507176405470428353442646897 , c = 
+-3761 
+
+Polynomial frminus = x^5 - 70725605*x^3 + 1000422240523205*x - 
+    17909802028705620376678195127477986
+Bad primes dividing a, not 2, 5 are: [ 3, 191 ]
+
+
+
+The cluster picture of Cminus at 3 is:
+(1,(2,3),(4,5)) F[[6,7]] d=[11/2,11/2,0]
+
+Expected depth of the twins: 11/2 
+
+The conductor of Cminus at 3 is 2 
+
+
+The cluster picture of Cminus at 191 is:
+(3,(1,2),(4,5)) d=[11/2,11/2,0]
+
+Expected depth of the twins: 11/2 
+
+The conductor of Cminus at 191 is 2 
+
+
+
+
+
+
+
+Iteration nº 8 
+
+r =  5 , p =  11 , a =  4741 , b^p =  -2720003785844340552771919732463036346463\
+4 , c =  -3853 
+
+Polynomial frminus = x^5 - 74228045*x^3 + 1101960532904405*x - 
+    108800151433773622110875090956948141589550
+Bad primes dividing a, not 2, 5 are: [ 11, 431 ]
+
+
+
+The cluster picture of Cminus at 11 is:
+(5,(1,2),(3,4)) d=[11/2,11/2,0]
+
+Expected depth of the twins: 11/2 
+
+The conductor of Cminus at 11 is 2 
+
+
+The cluster picture of Cminus at 431 is:
+(5,(1,2),(3,4)) d=[11/2,11/2,0]
+
+Expected depth of the twins: 11/2 
+
+The conductor of Cminus at 431 is 2 
+
+
+
+
+
+
+
+Iteration nº 9 
+
+r =  5 , p =  11 , a =  3216 , b^p =  -380606710280635527572413438370600986609 ,
+c =  -2353 
+
+Polynomial frminus = x^5 - 27683045*x^3 + 153270196094405*x - 
+    1522426841122542110289509495573839892450
+Bad primes dividing a, not 2, 5 are: [ 3, 67 ]
+
+
+
+The cluster picture of Cminus at 3 is:
+(1,(2,3),(4,5)) F[[6,7]] d=[11/2,11/2,0]
+
+Expected depth of the twins: 11/2 
+
+The conductor of Cminus at 3 is 2 
+
+
+The cluster picture of Cminus at 67 is:
+(1,(2,3),(4,5)) F[[6,7]] d=[11/2,11/2,0]
+
+Expected depth of the twins: 11/2 
+
+The conductor of Cminus at 67 is 2 
+
+
+
+
+
+
+
+Iteration nº 10 
+
+r =  5 , p =  11 , a =  1031 , b^p =  -1399088922845815098432139652715831 , c = 
+3350 
+
+Polynomial frminus = x^5 - 56112500*x^3 + 629722531250000*x - 
+    5596355691383261237556750485863324
+Bad primes dividing a, not 2, 5 are: [ 1031 ]
+
+
+
+The cluster picture of Cminus at 1031 is:
+(1,(2,3),(4,5)) d=[11/2,11/2,0]
+
+Expected depth of the twins: 11/2 
+
+The conductor of Cminus at 1031 is 2 
+
+
+
+
+
+
+
+
+
+########################################
+Computing 10 iterations for r = 7, p = 5
+########################################
+
+
+Iteration nº 1 
+
+r =  7 , p =  5 , a =  2060 , b^p =  -34039645136384533 , c =  163 
+
+Polynomial frminus = x^7 - 185983*x^5 + 9882764654*x^3 - 131287587046063*x - 
+    142272831027969066
+Bad primes dividing a, not 2, 7 are: [ 5, 103 ]
+
+
+
+The cluster picture of Cminus at 5 is:
+(7,(1,2),(3,4),(5,6)) F[[8,9],[9,10]] d=[5/2,5/2,5/2,0]
+
+Expected depth of the twins: 5/2 
+
+The conductor of Cminus at 5 is 3 
+
+
+The cluster picture of Cminus at 103 is:
+(1,(2,3),(4,5),(6,7)) F[[8,9],[9,10]] d=[5/2,5/2,5/2,0]
+
+Expected depth of the twins: 5/2 
+
+The conductor of Cminus at 103 is 3 
+
+
+
+
+
+
+
+Iteration nº 2 
+
+r =  7 , p =  5 , a =  3156 , b^p =  -17166144622429115280277 , c =  -1501 
+
+Polynomial frminus = x^7 - 15771007*x^5 + 71064189084014*x^3 - 
+    80053844535236313007*x - 34332915447605116600106
+Bad primes dividing a, not 2, 7 are: [ 3, 263 ]
+
+
+
+The cluster picture of Cminus at 3 is:
+(5,(1,2),(3,4),(6,7)) F[[8,9],[9,10]] d=[5/2,5/2,5/2,0]
+
+Expected depth of the twins: 5/2 
+
+The conductor of Cminus at 3 is 3 
+
+
+The cluster picture of Cminus at 263 is:
+(1,(2,3),(4,5),(6,7)) F[[8,9],[9,10]] d=[5/2,5/2,5/2,0]
+
+Expected depth of the twins: 5/2 
+
+The conductor of Cminus at 263 is 3 
+
+
+
+
+
+
+
+Iteration nº 3 
+
+r =  7 , p =  5 , a =  4477 , b^p =  22748296673140316584530291 , c =  4192 
+
+Polynomial frminus = x^7 - 123010048*x^5 + 4323277688274944*x^3 - 
+    37986185425144992759808*x + 45496589749073320724088268
+Bad primes dividing a, not 2, 7 are: [ 11, 37 ]
+
+
+
+The cluster picture of Cminus at 11 is:
+(1,(2,3),(4,5),(6,7)) F[[8,9],[9,10]] d=[5,5,5,0]
+
+Expected depth of the twins: 5 
+
+The conductor of Cminus at 11 is 3 
+
+
+The cluster picture of Cminus at 37 is:
+(1,(2,3),(4,5),(6,7)) F[[8,9],[9,10]] d=[5/2,5/2,5/2,0]
+
+Expected depth of the twins: 5/2 
+
+The conductor of Cminus at 37 is 3 
+
+
+
+
+
+
+
+Iteration nº 4 
+
+r =  7 , p =  5 , a =  -2525 , b^p =  2019286998080313438463981 , c =  2966 
+
+Polynomial frminus = x^7 - 61580092*x^5 + 1083459351636704*x^3 - 
+    4765680468003470206912*x + 4038574201436027287084212
+Bad primes dividing a, not 2, 7 are: [ 5, 101 ]
+
+
+
+The cluster picture of Cminus at 5 is:
+(7,(1,2),(3,4),(5,6)) F[[8,9],[9,10]] d=[5,5,5,0]
+
+Expected depth of the twins: 5 
+
+The conductor of Cminus at 5 is 3 
+
+
+The cluster picture of Cminus at 101 is:
+(1,(2,3),(4,5),(6,7)) F[[8,9],[9,10]] d=[5/2,5/2,5/2,0]
+
+Expected depth of the twins: 5/2 
+
+The conductor of Cminus at 101 is 3 
+
+
+
+
+
+
+
+Iteration nº 5 
+
+r =  7 , p =  5 , a =  -4191 , b^p =  -54426365624151857057 , c =  -662 
+
+Polynomial frminus = x^7 - 3067708*x^5 + 2688809249504*x^3 - 
+    589177260369815488*x - 106266792106659470212
+Bad primes dividing a, not 2, 7 are: [ 3, 11, 127 ]
+
+
+
+The cluster picture of Cminus at 3 is:
+(1,(2,3),(4,5),(6,7)) F[[8,9],[9,10]] d=[5/2,5/2,5/2,0]
+
+Expected depth of the twins: 5/2 
+
+The conductor of Cminus at 3 is 3 
+
+
+The cluster picture of Cminus at 11 is:
+(1,(2,3),(4,5),(6,7)) F[[8,9],[9,10]] d=[5/2,5/2,5/2,0]
+
+Expected depth of the twins: 5/2 
+
+The conductor of Cminus at 11 is 3 
+
+
+The cluster picture of Cminus at 127 is:
+(5,(1,2),(3,4),(6,7)) d=[5/2,5/2,5/2,0]
+
+Expected depth of the twins: 5/2 
+
+The conductor of Cminus at 127 is 3 
+
+
+
+
+
+
+
+Iteration nº 6 
+
+r =  7 , p =  5 , a =  1015 , b^p =  4814651339847078371969577 , c =  3358 
+
+Polynomial frminus = x^7 - 78933148*x^5 + 1780126243768544*x^3 - 
+    10036497732719040092608*x + 9629302677539588736170404
+Bad primes dividing a, not 2, 7 are: [ 5, 29 ]
+
+
+
+The cluster picture of Cminus at 5 is:
+(7,(1,2),(3,4),(5,6)) F[[8,9],[9,10]] d=[5/2,5/2,5/2,0]
+
+Expected depth of the twins: 5/2 
+
+The conductor of Cminus at 5 is 3 
+
+
+The cluster picture of Cminus at 29 is:
+(1,(2,3),(4,5),(6,7)) d=[5/2,5/2,5/2,0]
+
+Expected depth of the twins: 5/2 
+
+The conductor of Cminus at 29 is 3 
+
+
+
+
+
+
+
+Iteration nº 7 
+
+r =  7 , p =  5 , a =  465 , b^p =  365279431531960690031 , c =  866 
+
+Polynomial frminus = x^7 - 5249692*x^5 + 7874076027104*x^3 - 
+    2952605280491403712*x + 730558819583398298812
+Bad primes dividing a, not 2, 7 are: [ 3, 5, 31 ]
+
+
+
+The cluster picture of Cminus at 3 is:
+(5,(1,2),(3,4),(6,7)) F[[8,9],[9,10]] d=[5/2,5/2,5/2,0]
+
+Expected depth of the twins: 5/2 
+
+The conductor of Cminus at 3 is 3 
+
+
+The cluster picture of Cminus at 5 is:
+(7,(1,2),(3,4),(5,6)) F[[8,9],[9,10]] d=[5/2,5/2,5/2,0]
+
+Expected depth of the twins: 5/2 
+
+The conductor of Cminus at 5 is 3 
+
+
+The cluster picture of Cminus at 31 is:
+(5,(1,2),(3,4),(6,7)) F[[8,9],[9,10]] d=[5/2,5/2,5/2,0]
+
+Expected depth of the twins: 5/2 
+
+The conductor of Cminus at 31 is 3 
+
+
+
+
+
+
+
+Iteration nº 8 
+
+r =  7 , p =  5 , a =  -4612 , b^p =  14963792298585535465 , c =  537 
+
+Polynomial frminus = x^7 - 2018583*x^5 + 1164193522254*x^3 - 
+    167858660909431863*x + 34100854649095024594
+Bad primes dividing a, not 2, 7 are: [ 1153 ]
+
+
+
+The cluster picture of Cminus at 1153 is:
+(1,(2,3),(4,5),(6,7)) F[[8,9],[9,10]] d=[5/2,5/2,5/2,0]
+
+Expected depth of the twins: 5/2 
+
+The conductor of Cminus at 1153 is 3 
+
+
+
+
+
+
+
+Iteration nº 9 
+
+r =  7 , p =  5 , a =  -1055 , b^p =  -21852139887818555933397857 , c =  -4168 
+
+Polynomial frminus = x^7 - 121605568*x^5 + 4225118333886464*x^3 - 
+    36699851061391221587968*x - 43704279773023191853976964
+Bad primes dividing a, not 2, 7 are: [ 5, 211 ]
+
+
+
+The cluster picture of Cminus at 5 is:
+(1,(2,3),(4,5),(6,7)) F[[8,9],[9,10]] d=[5/2,5/2,5/2,0]
+
+Expected depth of the twins: 5/2 
+
+The conductor of Cminus at 5 is 3 
+
+
+The cluster picture of Cminus at 211 is:
+(3,(1,2),(4,5),(6,7)) d=[5/2,5/2,5/2,0]
+
+Expected depth of the twins: 5/2 
+
+The conductor of Cminus at 211 is 3 
+
+
+
+
+
+
+
+Iteration nº 10 
+
+r =  7 , p =  5 , a =  4874 , b^p =  -2828781658316172843 , c =  -259 
+
+Polynomial frminus = x^7 - 469567*x^5 + 62998047854*x^3 - 2112986024047087*x - 
+    11158765667485206934
+Bad primes dividing a, not 2, 7 are: [ 2437 ]
+
+
+
+The cluster picture of Cminus at 2437 is:
+(1,(2,3),(4,5),(6,7)) d=[5/2,5/2,5/2,0]
+
+Expected depth of the twins: 5/2 
+
+The conductor of Cminus at 2437 is 3 
+
+
+
+
+
+
+
+
+
+########################################
+Computing 10 iterations for r = 7, p = 11
+########################################
+
+
+Iteration nº 1 
+
+r =  7 , p =  11 , a =  3614 , b^p =  -1373629567477172308112322167860695050103 
+, c =  2681 
+
+Polynomial frminus = x^7 - 50314327*x^5 + 723294714703694*x^3 - 
+    2599434770926669144567*x - 5494518269908691223616323201271344938734
+Bad primes dividing a, not 2, 7 are: [ 13, 139 ]
+
+
+
+The cluster picture of Cminus at 13 is:
+(7,(1,2),(3,4),(5,6)) d=[11/2,11/2,11/2,0]
+
+Expected depth of the twins: 11/2 
+
+The conductor of Cminus at 13 is 3 
+
+
+The cluster picture of Cminus at 139 is:
+(1,(2,3),(4,5),(6,7)) d=[11/2,11/2,11/2,0]
+
+Expected depth of the twins: 11/2 
+
+The conductor of Cminus at 139 is 3 
+
+
+
+
+
+
+
+Iteration nº 2 
+
+r =  7 , p =  11 , a =  -3656 , b^p =  1559796917264914533923329886007528235655 
+, c =  4599 
+
+Polynomial frminus = x^7 - 148055607*x^5 + 6262989361182414*x^3 - 
+    66233620821743181606807*x + 6239187669059571104715559773489481598222
+Bad primes dividing a, not 2, 7 are: [ 457 ]
+
+
+
+The cluster picture of Cminus at 457 is:
+(1,(2,3),(4,5),(6,7)) F[[8,9],[9,10]] d=[11/2,11/2,11/2,0]
+
+Expected depth of the twins: 11/2 
+
+The conductor of Cminus at 457 is 3 
+
+
+
+
+
+
+
+Iteration nº 3 
+
+r =  7 , p =  11 , a =  1243 , b^p =  -10944159531129744046857120667694040 , c =
+163 
+
+Polynomial frminus = x^7 - 185983*x^5 + 9882764654*x^3 - 131287587046063*x - 
+    43776638124518976193542733153207094
+Bad primes dividing a, not 2, 7 are: [ 11, 113 ]
+
+
+
+The cluster picture of Cminus at 11 is:
+(1,(2,3),(4,5),(6,7)) F[[8,9],[9,10]] d=[11/2,11/2,11/2,0]
+
+Expected depth of the twins: 11/2 
+
+The conductor of Cminus at 11 is 3 
+
+
+The cluster picture of Cminus at 113 is:
+(3,(1,2),(4,5),(6,7)) d=[11/2,11/2,11/2,0]
+
+Expected depth of the twins: 11/2 
+
+The conductor of Cminus at 113 is 3 
+
+
+
+
+
+
+
+Iteration nº 4 
+
+r =  7 , p =  11 , a =  4337 , b^p =  -1021136132107396357434731332133618886088\
+1 , c =  -2082 
+
+Polynomial frminus = x^7 - 30343068*x^5 + 263057650186464*x^3 - 
+    570141154823434987968*x - 40845445284295853958236714901804285457988
+Bad primes dividing a, not 2, 7 are: [ 4337 ]
+
+
+
+The cluster picture of Cminus at 4337 is:
+(1,(2,3),(4,5),(6,7)) F[[8,9],[9,10]] d=[11/2,11/2,11/2,0]
+
+Expected depth of the twins: 11/2 
+
+The conductor of Cminus at 4337 is 3 
+
+
+
+
+
+
+
+Iteration nº 5 
+
+r =  7 , p =  11 , a =  -3934 , b^p =  3492833722649860498096807910161723158095 
+, c =  3631 
+
+Polynomial frminus = x^7 - 92289127*x^5 + 2433509417834894*x^3 - 
+    16041889979875756956967*x + 13971334890599425350072226803825889561758
+Bad primes dividing a, not 2, 7 are: [ 281 ]
+
+
+
+The cluster picture of Cminus at 281 is:
+(3,(1,2),(4,5),(6,7)) d=[11/2,11/2,11/2,0]
+
+Expected depth of the twins: 11/2 
+
+The conductor of Cminus at 281 is 3 
+
+
+
+
+
+
+
+Iteration nº 6 
+
+r =  7 , p =  11 , a =  -503 , b^p =  521568185887299752205311196647 , c =  4980
+
+Polynomial frminus = x^7 - 173602800*x^5 + 8610837762240000*x^3 - 
+    106776110419328448000000*x + 2086120816397802364343804786588
+Bad primes dividing a, not 2, 7 are: [ 503 ]
+
+
+
+The cluster picture of Cminus at 503 is:
+(7,(1,2),(3,4),(5,6)) d=[11/2,11/2,11/2,0]
+
+Expected depth of the twins: 11/2 
+
+The conductor of Cminus at 503 is 3 
+
+
+
+
+
+
+
+Iteration nº 7 
+
+r =  7 , p =  11 , a =  -3169 , b^p =  323701439782697615691660389313894679585 ,
+c =  -204 
+
+Polynomial frminus = x^7 - 291312*x^5 + 24246480384*x^3 - 504520763830272*x + 
+    1294805759130790462766670963608670539908
+Bad primes dividing a, not 2, 7 are: [ 3169 ]
+
+
+
+The cluster picture of Cminus at 3169 is:
+(1,(2,3),(4,5),(6,7)) F[[8,9],[9,10]] d=[11/2,11/2,11/2,0]
+
+Expected depth of the twins: 11/2 
+
+The conductor of Cminus at 3169 is 3 
+
+
+
+
+
+
+
+Iteration nº 8 
+
+r =  7 , p =  11 , a =  -1571 , b^p =  143859330702685857572748695528571483 , c 
+=  -2072 
+
+Polynomial frminus = x^7 - 30052288*x^5 + 258040004009984*x^3 - 
+    553906608287799574528*x + 575437322811071343003101159462406508
+Bad primes dividing a, not 2, 7 are: [ 1571 ]
+
+
+
+The cluster picture of Cminus at 1571 is:
+(1,(2,3),(4,5),(6,7)) F[[8,9],[9,10]] d=[11/2,11/2,11/2,0]
+
+Expected depth of the twins: 11/2 
+
+The conductor of Cminus at 1571 is 3 
+
+
+
+
+
+
+
+Iteration nº 9 
+
+r =  7 , p =  11 , a =  -1073 , b^p =  2170685731849580306029226530327106 , c = 
+4689 
+
+Polynomial frminus = x^7 - 153907047*x^5 + 6767822604645774*x^3 - 
+    74401113692919968383527*x + 8682742827722086336659268478348966
+Bad primes dividing a, not 2, 7 are: [ 29, 37 ]
+
+
+
+The cluster picture of Cminus at 29 is:
+(1,(2,3),(4,5),(6,7)) d=[11/2,11/2,11/2,0]
+
+Expected depth of the twins: 11/2 
+
+The conductor of Cminus at 29 is 3 
+
+
+The cluster picture of Cminus at 37 is:
+(3,(1,2),(4,5),(6,7)) F[[8,9],[9,10]] d=[11/2,11/2,11/2,0]
+
+Expected depth of the twins: 11/2 
+
+The conductor of Cminus at 37 is 3 
+
+
+
+
+
+
+
+Iteration nº 10 
+
+r =  7 , p =  11 , a =  -4099 , b^p =  5488543384759040682750436193965867095406 
+, c =  4443 
+
+Polynomial frminus = x^7 - 138181743*x^5 + 5455484028148014*x^3 - 
+    53846306565582402607743*x + 21954173539036094376961724523687815181010
+Bad primes dividing a, not 2, 7 are: [ 4099 ]
+
+
+
+The cluster picture of Cminus at 4099 is:
+(1,(2,3),(4,5),(6,7)) F[[8,9],[9,10]] d=[11/2,11/2,11/2,0]
+
+Expected depth of the twins: 11/2 
+
+The conductor of Cminus at 4099 is 3 
+
+
+
+
+
+
+
+When r = 5, p = 7, we expect the conductor exponent at primes dividing a to be 
+2. We find:
+
+[
+    [ 149, 2 ],
+    [ 13, 2 ],
+    [ 223, 2 ],
+    [ 3, 2 ],
+    [ 7, 2 ],
+    [ 151, 2 ],
+    [ 19, 2 ],
+    [ 257, 2 ],
+    [ 37, 2 ],
+    [ 109, 2 ],
+    [ 7, 2 ],
+    [ 479, 2 ],
+    [ 3, 2 ],
+    [ 31, 2 ],
+    [ 53, 2 ],
+    [ 433, 2 ],
+    [ 2467, 2 ],
+    [ 7, 2 ],
+    [ 59, 2 ]
+]
+
+When r = 5, p = 11, we expect the conductor exponent at primes dividing a to be 
+2. We find:
+
+[
+    [ 1867, 2 ],
+    [ 311, 2 ],
+    [ 7, 2 ],
+    [ 19, 2 ],
+    [ 3929, 2 ],
+    [ 1277, 2 ],
+    [ 13, 2 ],
+    [ 317, 2 ],
+    [ 3, 2 ],
+    [ 191, 2 ],
+    [ 11, 2 ],
+    [ 431, 2 ],
+    [ 3, 2 ],
+    [ 67, 2 ],
+    [ 1031, 2 ]
+]
+
+When r = 7, p = 5, we expect the conductor exponent at primes dividing a to be 
+3. We find:
+
+[
+    [ 5, 3 ],
+    [ 103, 3 ],
+    [ 3, 3 ],
+    [ 263, 3 ],
+    [ 11, 3 ],
+    [ 37, 3 ],
+    [ 5, 3 ],
+    [ 101, 3 ],
+    [ 3, 3 ],
+    [ 11, 3 ],
+    [ 127, 3 ],
+    [ 5, 3 ],
+    [ 29, 3 ],
+    [ 3, 3 ],
+    [ 5, 3 ],
+    [ 31, 3 ],
+    [ 1153, 3 ],
+    [ 5, 3 ],
+    [ 211, 3 ],
+    [ 2437, 3 ]
+]
+
+When r = 7, p = 11, we expect the conductor exponent at primes dividing a to be 
+3. We find:
+
+[
+    [ 13, 3 ],
+    [ 139, 3 ],
+    [ 457, 3 ],
+    [ 11, 3 ],
+    [ 113, 3 ],
+    [ 4337, 3 ],
+    [ 281, 3 ],
+    [ 503, 3 ],
+    [ 3169, 3 ],
+    [ 1571, 3 ],
+    [ 29, 3 ],
+    [ 37, 3 ],
+    [ 4099, 3 ]
+]
+
+Total time: 65.859 seconds, Total memory usage: 65.12MB

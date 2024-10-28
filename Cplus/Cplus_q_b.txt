@@ -1,4 +1,4 @@
-Magma V2.28-9     Thu Oct 24 2024 18:00:45 on ordi-martin [Seed = 693379418]
+Magma V2.28-9     Mon Oct 28 2024 09:45:31 on ordi-martin [Seed = 676331599]
 Type ? for help.  Type <Ctrl>-D to quit.
 
 Loading file "Cplus_q_b.m"
@@ -21,19 +21,20 @@ Computing 10 iterations for r = 5, p = 7
 
 Iteration nº 1 
 
-r =  5 , p =  7 , a^p =  -26961383874590912992720599 , b =  4295 , c =  -2794 
+r =  5 , p =  7 , a^p =  30095148519454281463121016 , b =  -4363 , c =  389 
 
-Polynomial frplus = x^6 - 5588*x^5 - 39032180*x^4 + 218111821840*x^3 + 304702215110480*x^2 + 107845533455152478326047708*x - 602640850461945414158734789424
-Bad primes dividing b, not 2, 5 are: [ 859 ]
+Polynomial gplus = x^6 + 778*x^5 - 756605*x^4 - 588638690*x^3 + 114490225205*x^2
+    - 120380594077710237778232676*x - 93656102192527864092938005148
+Bad primes dividing b, not 2, 5 are: [ 4363 ]
 
 
 
-The cluster picture of Cplus at 859 is:
-(1,6,(2,3),(4,5)) d=[7/2,7/2,0]
+The cluster picture of Cplus at 4363 is:
+(1,2,(3,4),(5,6)) F[[7,8]] d=[7/2,7/2,0]
 
 Expected depth of the twins: 7/2 
 
-The conductor of Cplus at 859 is 2 
+The conductor of Cplus at 4363 is 2 
 
 
 
@@ -43,21 +44,20 @@ The conductor of Cplus at 859 is 2
 
 Iteration nº 2 
 
-r =  5 , p =  7 , a^p =  -21982433564237220053082 , b =  1555 , c =  4513 
+r =  5 , p =  7 , a^p =  -1595305786639405090740 , b =  1069 , c =  -431 
 
-Polynomial frplus = x^6 + 9026*x^5 - 101835845*x^4 - 919170336970*x^3 + 
-    2074107865372805*x^2 + 87952199334060306137844*x + 
-    793687576367555214530423764
-Bad primes dividing b, not 2, 5 are: [ 311 ]
-
+Polynomial gplus = x^6 - 862*x^5 - 928805*x^4 + 800629910*x^3 + 172535745605*x^2
+    + 6381222968086645109148*x - 5500614326692338641407196
+Bad primes dividing b, not 2, 5 are: [ 1069 ]
 
 
-The cluster picture of Cplus at 311 is:
-(5,6,(1,2),(3,4)) d=[7/2,7/2,0]
+
+The cluster picture of Cplus at 1069 is:
+(3,6,(1,2),(4,5)) d=[7/2,7/2,0]
 
 Expected depth of the twins: 7/2 
 
-The conductor of Cplus at 311 is 2 
+The conductor of Cplus at 1069 is 2 
 
 
 
@@ -67,21 +67,100 @@ The conductor of Cplus at 311 is 2
 
 Iteration nº 3 
 
-r =  5 , p =  7 , a^p =  -7091563289331789133684142 , b =  3549 , c =  2887 
+r =  5 , p =  7 , a^p =  -17025284820895883977810513 , b =  4022 , c =  4975 
 
-Polynomial frplus = x^6 + 5774*x^5 - 41673845*x^4 - 240624781030*x^3 + 
-    347341871416805*x^2 + 28366255563989515207495052*x + 
-    163786748046418411660986858068
-Bad primes dividing b, not 2, 5 are: [ 3, 7, 13 ]
+Polynomial gplus = x^6 + 9950*x^5 - 123753125*x^4 - 1231343593750*x^3 + 
+    3062967189453125*x^2 + 68101175855411777981554552*x + 
+    677606396519938017083459979900
+Bad primes dividing b, not 2, 5 are: [ 2011 ]
 
 
 
-The cluster picture of Cplus at 3 is:
-(1,2,(3,4),(5,6)) F[[7,8]] d=[7/2,7/2,0]
+The cluster picture of Cplus at 2011 is:
+(1,6,(2,3),(4,5)) d=[7/2,7/2,0]
 
 Expected depth of the twins: 7/2 
 
-The conductor of Cplus at 3 is 2 
+The conductor of Cplus at 2011 is 2 
+
+
+
+
+
+
+
+Iteration nº 4 
+
+r =  5 , p =  7 , a^p =  28722507328179997584691119 , b =  -4334 , c =  1135 
+
+Polynomial gplus = x^6 + 2270*x^5 - 6441125*x^4 - 14621353750*x^3 + 
+    8297618253125*x^2 - 114890029290117278217251976*x - 
+    260800366531323018649689798020
+Bad primes dividing b, not 2, 5 are: [ 11, 197 ]
+
+
+
+The cluster picture of Cplus at 11 is:
+(1,2,(3,4),(5,6)) d=[7/2,7/2,0]
+
+Expected depth of the twins: 7/2 
+
+The conductor of Cplus at 11 is 2 
+
+
+The cluster picture of Cplus at 197 is:
+(5,6,(1,2),(3,4)) F[[7,8]] d=[7/2,7/2,0]
+
+Expected depth of the twins: 7/2 
+
+The conductor of Cplus at 197 is 2 
+
+
+
+
+
+
+
+Iteration nº 5 
+
+r =  5 , p =  7 , a^p =  -3732058041716821081136 , b =  1207 , c =  1847 
+
+Polynomial gplus = x^6 + 3694*x^5 - 17057045*x^4 - 63008724230*x^3 + 
+    58188556826405*x^2 + 14928490105101984412628*x + 55145048428380911982429252
+Bad primes dividing b, not 2, 5 are: [ 17, 71 ]
+
+
+
+The cluster picture of Cplus at 17 is:
+(5,6,(1,2),(3,4)) F[[7,8]] d=[7/2,7/2,0]
+
+Expected depth of the twins: 7/2 
+
+The conductor of Cplus at 17 is 2 
+
+
+The cluster picture of Cplus at 71 is:
+(1,6,(2,3),(4,5)) d=[7/2,7/2,0]
+
+Expected depth of the twins: 7/2 
+
+The conductor of Cplus at 71 is 2 
+
+
+
+
+
+
+
+Iteration nº 6 
+
+r =  5 , p =  7 , a^p =  52036197685647447630325539 , b =  -4718 , c =  -2573 
+
+Polynomial gplus = x^6 - 5146*x^5 - 33101645*x^4 + 170341065170*x^3 + 
+    219143780341205*x^2 - 208144792095846462884311272*x + 
+    1071113094322010201352628379932
+Bad primes dividing b, not 2, 5 are: [ 7, 337 ]
+
 
 
 The cluster picture of Cplus at 7 is:
@@ -92,44 +171,68 @@ Expected depth of the twins: 7/2
 The conductor of Cplus at 7 is 2 
 
 
-The cluster picture of Cplus at 13 is:
-(1,2,(3,4),(5,6)) F[[7,8]] d=[7,7,0]
-
-Expected depth of the twins: 7 
-
-The conductor of Cplus at 13 is 2 
-
-
-
-
-
-
-
-Iteration nº 4 
-
-r =  5 , p =  7 , a^p =  12111140851819957620982418 , b =  -3831 , c =  -3013 
-
-Polynomial frplus = x^6 - 6026*x^5 - 45390845*x^4 + 273525231970*x^3 + 
-    412065761962805*x^2 - 48444566387009768389365188*x + 
-    291926942084910359465852606708
-Bad primes dividing b, not 2, 5 are: [ 3, 1277 ]
-
-
-
-The cluster picture of Cplus at 3 is:
+The cluster picture of Cplus at 337 is:
 (1,6,(2,3),(4,5)) F[[7,8]] d=[7/2,7/2,0]
 
 Expected depth of the twins: 7/2 
 
-The conductor of Cplus at 3 is 2 
+The conductor of Cplus at 337 is 2 
 
 
-The cluster picture of Cplus at 1277 is:
+
+
+
+
+
+Iteration nº 7 
+
+r =  5 , p =  7 , a^p =  5688859698178249141020655 , b =  -3439 , c =  -2514 
+
+Polynomial gplus = x^6 - 5028*x^5 - 31600980*x^4 + 158889727440*x^3 + 
+    199724387392080*x^2 - 22755439997770060332936508*x + 
+    114414347259598766162506971504
+Bad primes dividing b, not 2, 5 are: [ 19, 181 ]
+
+
+
+The cluster picture of Cplus at 19 is:
+(1,6,(2,3),(4,5)) d=[7/2,7/2,0]
+
+Expected depth of the twins: 7/2 
+
+The conductor of Cplus at 19 is 2 
+
+
+The cluster picture of Cplus at 181 is:
+(1,6,(2,3),(4,5)) d=[7/2,7/2,0]
+
+Expected depth of the twins: 7/2 
+
+The conductor of Cplus at 181 is 2 
+
+
+
+
+
+
+
+Iteration nº 8 
+
+r =  5 , p =  7 , a^p =  -1359444180236846303482644 , b =  2803 , c =  3943 
+
+Polynomial gplus = x^6 + 7886*x^5 - 77736245*x^4 - 613028028070*x^3 + 
+    1208584757340005*x^2 + 5437788158026660873865892*x + 
+    42882322253525607772764839332
+Bad primes dividing b, not 2, 5 are: [ 2803 ]
+
+
+
+The cluster picture of Cplus at 2803 is:
 (1,2,(3,4),(5,6)) F[[7,8]] d=[7/2,7/2,0]
 
 Expected depth of the twins: 7/2 
 
-The conductor of Cplus at 1277 is 2 
+The conductor of Cplus at 2803 is 2 
 
 
 
@@ -137,37 +240,13 @@ The conductor of Cplus at 1277 is 2
 
 
 
-Iteration nº 5 
+Iteration nº 9 
 
-r =  5 , p =  7 , a^p =  26789167581980954025 , b =  -601 , c =  -4336 
+r =  5 , p =  7 , a^p =  -79514276561551307337 , b =  697 , c =  3316 
 
-Polynomial frplus = x^6 - 8672*x^5 - 94004480*x^4 + 815206850560*x^3 + 
-    1767368452014080*x^2 - 125548613386963138212*x + 955845133451753500111744
-Bad primes dividing b, not 2, 5 are: [ 601 ]
-
-
-
-The cluster picture of Cplus at 601 is:
-(1,4,(2,3),(5,6)) d=[7/2,7/2,0]
-
-Expected depth of the twins: 7/2 
-
-The conductor of Cplus at 601 is 2 
-
-
-
-
-
-
-
-Iteration nº 6 
-
-r =  5 , p =  7 , a^p =  -33155494688470215167248 , b =  1649 , c =  -3839 
-
-Polynomial frplus = x^6 - 7678*x^5 - 73689605*x^4 + 565788787190*x^3 + 
-    1086031577011205*x^2 + 132611972493342910230604*x - 
-    1018258748194228850972196732
-Bad primes dividing b, not 2, 5 are: [ 17, 97 ]
+Polynomial gplus = x^6 + 6632*x^5 - 54979280*x^4 - 364622584960*x^3 + 
+    604544245863680*x^2 + 322868311172486740260*x + 2114672713803349577764000
+Bad primes dividing b, not 2, 5 are: [ 17, 41 ]
 
 
 
@@ -179,12 +258,12 @@ Expected depth of the twins: 7/2
 The conductor of Cplus at 17 is 2 
 
 
-The cluster picture of Cplus at 97 is:
-(1,4,(2,3),(5,6)) F[[7,8]] d=[7/2,7/2,0]
+The cluster picture of Cplus at 41 is:
+(3,6,(1,2),(4,5)) d=[7/2,7/2,0]
 
 Expected depth of the twins: 7/2 
 
-The conductor of Cplus at 97 is 2 
+The conductor of Cplus at 41 is 2 
 
 
 
@@ -192,37 +271,14 @@ The conductor of Cplus at 97 is 2
 
 
 
-Iteration nº 7 
+Iteration nº 10 
 
-r =  5 , p =  7 , a^p =  39025181112422382027028413 , b =  -4528 , c =  -19 
+r =  5 , p =  7 , a^p =  -22559047794744038667617907 , b =  4187 , c =  -4564 
 
-Polynomial frplus = x^6 - 38*x^5 - 1805*x^4 + 68590*x^3 + 651605*x^2 - 
-    156100724449689528137826840*x + 5931827529088202068296502300
-Bad primes dividing b, not 2, 5 are: [ 283 ]
-
-
-
-The cluster picture of Cplus at 283 is:
-(1,6,(2,3),(4,5)) F[[7,8]] d=[7/2,7/2,0]
-
-Expected depth of the twins: 7/2 
-
-The conductor of Cplus at 283 is 2 
-
-
-
-
-
-
-
-Iteration nº 8 
-
-r =  5 , p =  7 , a^p =  31877021386382697360964656 , b =  -4399 , c =  -1183 
-
-Polynomial frplus = x^6 - 2366*x^5 - 6997445*x^4 + 16555954870*x^3 + 
-    9792847305605*x^2 - 127508085573334641513932340*x + 
-    301684130411689833490468573060
-Bad primes dividing b, not 2, 5 are: [ 53, 83 ]
+Polynomial gplus = x^6 - 9128*x^5 - 104150480*x^4 + 950685581440*x^3 + 
+    2169464496846080*x^2 + 90236167415529842017249740*x - 
+    823675916929571349515630121440
+Bad primes dividing b, not 2, 5 are: [ 53, 79 ]
 
 
 
@@ -234,71 +290,8 @@ Expected depth of the twins: 7/2
 The conductor of Cplus at 53 is 2 
 
 
-The cluster picture of Cplus at 83 is:
-(5,6,(1,2),(3,4)) F[[7,8]] d=[7/2,7/2,0]
-
-Expected depth of the twins: 7/2 
-
-The conductor of Cplus at 83 is 2 
-
-
-
-
-
-
-
-Iteration nº 9 
-
-r =  5 , p =  7 , a^p =  -81768309540639953 , b =  -111 , c =  -2414 
-
-Polynomial frplus = x^6 - 4828*x^5 - 29136980*x^4 + 140673339440*x^3 + 
-    169792720704080*x^2 - 656637868508598076*x - 787550056680780391792
-Bad primes dividing b, not 2, 5 are: [ 3, 37 ]
-
-
-
-The cluster picture of Cplus at 3 is:
-(1,2,(3,4),(5,6)) F[[7,8]] d=[7/2,7/2,0]
-
-Expected depth of the twins: 7/2 
-
-The conductor of Cplus at 3 is 2 
-
-
-The cluster picture of Cplus at 37 is:
-(1,6,(2,3),(4,5)) F[[7,8]] d=[7/2,7/2,0]
-
-Expected depth of the twins: 7/2 
-
-The conductor of Cplus at 37 is 2 
-
-
-
-
-
-
-
-Iteration nº 10 
-
-r =  5 , p =  7 , a^p =  5219979868409805323420237 , b =  -3397 , c =  -506 
-
-Polynomial frplus = x^6 - 1012*x^5 - 1280180*x^4 + 1295542160*x^3 + 
-    327772166480*x^2 - 20879919474037267812654260*x + 
-    21130478507390029128738618000
-Bad primes dividing b, not 2, 5 are: [ 43, 79 ]
-
-
-
-The cluster picture of Cplus at 43 is:
-(3,4,(1,2),(5,6)) F[[7,8]] d=[7/2,7/2,0]
-
-Expected depth of the twins: 7/2 
-
-The conductor of Cplus at 43 is 2 
-
-
 The cluster picture of Cplus at 79 is:
-(3,4,(1,2),(5,6)) d=[7/2,7/2,0]
+(1,6,(2,3),(4,5)) d=[7/2,7/2,0]
 
 Expected depth of the twins: 7/2 
 
@@ -312,37 +305,37 @@ The conductor of Cplus at 79 is 2
 
 
 
-########################################
+#########################################
 Computing 10 iterations for r = 5, p = 11
-########################################
+#########################################
 
 
 Iteration nº 1 
 
-r =  5 , p =  11 , a^p =  5459157240288132828933737853340727440896 , b =  -4097 
-, c =  3583 
+r =  5 , p =  11 , a^p =  -1340524882212239152321936964258672 , b =  1027 , c = 
+-2629 
 
-Polynomial frplus = x^6 + 7166*x^5 - 64189445*x^4 - 459981562870*x^3 + 
-    824056969881605*x^2 - 21836628961152531315727865182667503865868*x - 
-    156481283135619039408548198506631398255337468
-Bad primes dividing b, not 2, 5 are: [ 17, 241 ]
+Polynomial gplus = x^6 - 5258*x^5 - 34558205*x^4 + 181707041890*x^3 + 
+    238853906564405*x^2 + 5362099528848955102215138998264900*x - 
+    28193919322687812530937015335719798620
+Bad primes dividing b, not 2, 5 are: [ 13, 79 ]
 
 
 
-The cluster picture of Cplus at 17 is:
-(3,4,(1,2),(5,6)) F[[7,8]] d=[11/2,11/2,0]
+The cluster picture of Cplus at 13 is:
+(1,6,(2,3),(4,5)) F[[7,8]] d=[11/2,11/2,0]
 
 Expected depth of the twins: 11/2 
 
-The conductor of Cplus at 17 is 2 
+The conductor of Cplus at 13 is 2 
 
 
-The cluster picture of Cplus at 241 is:
+The cluster picture of Cplus at 79 is:
 (1,6,(2,3),(4,5)) d=[11/2,11/2,0]
 
 Expected depth of the twins: 11/2 
 
-The conductor of Cplus at 241 is 2 
+The conductor of Cplus at 79 is 2 
 
 
 
@@ -352,22 +345,21 @@ The conductor of Cplus at 241 is 2
 
 Iteration nº 2 
 
-r =  5 , p =  11 , a^p =  -362772705078264308466463162033981431597 , b =  3202 ,
-c =  -1949 
+r =  5 , p =  11 , a^p =  -64569383062185209320973155767 , b =  416 , c =  809 
 
-Polynomial frplus = x^6 - 3898*x^5 - 18993005*x^4 + 74034733490*x^3 + 
-    72146847786005*x^2 + 1451090820313057233865515174040721909400*x - 
-    5656352017580297097608874376763321068357220
-Bad primes dividing b, not 2, 5 are: [ 1601 ]
-
+Polynomial gplus = x^6 + 1618*x^5 - 3272405*x^4 - 5294751290*x^3 + 
+    2141726896805*x^2 + 258277532248744995660835459656*x + 
+    417893047178463796100987182390588
+Bad primes dividing b, not 2, 5 are: [ 13 ]
 
 
-The cluster picture of Cplus at 1601 is:
-(1,4,(2,3),(5,6)) d=[11/2,11/2,0]
+
+The cluster picture of Cplus at 13 is:
+(5,6,(1,2),(3,4)) F[[7,8]] d=[11/2,11/2,0]
 
 Expected depth of the twins: 11/2 
 
-The conductor of Cplus at 1601 is 2 
+The conductor of Cplus at 13 is 2 
 
 
 
@@ -377,22 +369,22 @@ The conductor of Cplus at 1601 is 2
 
 Iteration nº 3 
 
-r =  5 , p =  11 , a^p =  -2762540825500018901223106510783025555650 , b =  3851 
-, c =  2641 
+r =  5 , p =  11 , a^p =  -1204171521877310150863547800897138604747 , b =  3571 
+, c =  1604 
 
-Polynomial frplus = x^6 + 5282*x^5 - 34874405*x^4 - 184206607210*x^3 + 
-    243244824820805*x^2 + 11050163302000075604893967826129746413012*x + 
-    58366962561164399345043151642789356708732564
-Bad primes dividing b, not 2, 5 are: [ 3851 ]
+Polynomial gplus = x^6 + 3208*x^5 - 12864080*x^4 - 41267968640*x^3 + 
+    33096910849280*x^2 + 4816686087509240603454318613456559807276*x + 
+    15451928968729643855881113502921509457051488
+Bad primes dividing b, not 2, 5 are: [ 3571 ]
 
 
 
-The cluster picture of Cplus at 3851 is:
-(5,6,(1,2),(3,4)) d=[11/2,11/2,0]
+The cluster picture of Cplus at 3571 is:
+(1,6,(2,3),(4,5)) d=[11/2,11/2,0]
 
 Expected depth of the twins: 11/2 
 
-The conductor of Cplus at 3851 is 2 
+The conductor of Cplus at 3571 is 2 
 
 
 
@@ -402,22 +394,30 @@ The conductor of Cplus at 3851 is 2
 
 Iteration nº 4 
 
-r =  5 , p =  11 , a^p =  -596338539575039145913037931252474298151 , b =  3350 ,
-c =  2169 
+r =  5 , p =  11 , a^p =  196920988269911230843695687241710833772 , b =  -3029 ,
+c =  -2657 
 
-Polynomial frplus = x^6 + 4338*x^5 - 23522805*x^4 - 102041928090*x^3 + 
-    110664471013605*x^2 + 2385354158300156583652727799980205614792*x + 
-    10347666338706079259883450685296467010758076
-Bad primes dividing b, not 2, 5 are: [ 67 ]
+Polynomial gplus = x^6 - 5314*x^5 - 35298245*x^4 + 187574873930*x^3 + 
+    249193220016005*x^2 - 787683953079644923376371804292241395772*x + 
+    4185752526665233122815002901342999698403428
+Bad primes dividing b, not 2, 5 are: [ 13, 233 ]
 
 
 
-The cluster picture of Cplus at 67 is:
-(1,6,(2,3),(4,5)) F[[7,8]] d=[11/2,11/2,0]
+The cluster picture of Cplus at 13 is:
+(3,4,(1,2),(5,6)) F[[7,8]] d=[11/2,11/2,0]
 
 Expected depth of the twins: 11/2 
 
-The conductor of Cplus at 67 is 2 
+The conductor of Cplus at 13 is 2 
+
+
+The cluster picture of Cplus at 233 is:
+(1,4,(2,3),(5,6)) F[[7,8]] d=[11/2,11/2,0]
+
+Expected depth of the twins: 11/2 
+
+The conductor of Cplus at 233 is 2 
 
 
 
@@ -427,30 +427,22 @@ The conductor of Cplus at 67 is 2
 
 Iteration nº 5 
 
-r =  5 , p =  11 , a^p =  -2425544001141029440417318777424636182 , b =  2031 , c
-=  3929 
+r =  5 , p =  11 , a^p =  8024229648546646146812715052449966177614 , b =  -4243 
+, c =  1267 
 
-Polynomial frplus = x^6 + 7858*x^5 - 77185205*x^4 - 606521340890*x^3 + 
-    1191511174178405*x^2 + 9702176004564117772904748877731232516*x + 
-    76239699043864837385911889290211307912308
-Bad primes dividing b, not 2, 5 are: [ 3, 677 ]
-
-
-
-The cluster picture of Cplus at 3 is:
-(1,6,(2,3),(4,5)) F[[7,8]] d=[11/2,11/2,0]
-
-Expected depth of the twins: 11/2 
-
-The conductor of Cplus at 3 is 2 
+Polynomial gplus = x^6 + 2534*x^5 - 8026445*x^4 - 20339011630*x^3 + 
+    12884763867605*x^2 - 32096918594186584587250821029809896097172*x - 
+    81333591717668805344093663224617093765285228
+Bad primes dividing b, not 2, 5 are: [ 4243 ]
 
 
-The cluster picture of Cplus at 677 is:
-(1,6,(2,3),(4,5)) F[[7,8]] d=[11/2,11/2,0]
+
+The cluster picture of Cplus at 4243 is:
+(1,2,(3,4),(5,6)) F[[7,8]] d=[11/2,11/2,0]
 
 Expected depth of the twins: 11/2 
 
-The conductor of Cplus at 677 is 2 
+The conductor of Cplus at 4243 is 2 
 
 
 
@@ -460,30 +452,38 @@ The conductor of Cplus at 677 is 2
 
 Iteration nº 6 
 
-r =  5 , p =  11 , a^p =  34293114374583656355503612575153179 , b =  -1379 , c =
--3380 
+r =  5 , p =  11 , a^p =  19176812578959549416649393570720820900 , b =  -2451 , 
+c =  -1511 
 
-Polynomial frplus = x^6 - 6760*x^5 - 57122000*x^4 + 386144720000*x^3 + 
-    652584576800000*x^2 - 137172457498334630715780537302212716*x + 
-    927285812688742073817127475387277960160
-Bad primes dividing b, not 2, 5 are: [ 7, 197 ]
-
-
-
-The cluster picture of Cplus at 7 is:
-(3,6,(1,2),(4,5)) F[[7,8]] d=[11/2,11/2,0]
-
-Expected depth of the twins: 11/2 
-
-The conductor of Cplus at 7 is 2 
+Polynomial gplus = x^6 - 3022*x^5 - 11415605*x^4 + 34497958310*x^3 + 
+    26063207503205*x^2 - 76707250315838197666692089898572906212*x + 
+    231809310454463033348505473847975622961444
+Bad primes dividing b, not 2, 5 are: [ 3, 19, 43 ]
 
 
-The cluster picture of Cplus at 197 is:
-(1,6,(2,3),(4,5)) F[[7,8]] d=[11/2,11/2,0]
+
+The cluster picture of Cplus at 3 is:
+(1,2,(3,4),(5,6)) F[[7,8]] d=[11/2,11/2,0]
 
 Expected depth of the twins: 11/2 
 
-The conductor of Cplus at 197 is 2 
+The conductor of Cplus at 3 is 2 
+
+
+The cluster picture of Cplus at 19 is:
+(1,2,(3,4),(5,6)) d=[11/2,11/2,0]
+
+Expected depth of the twins: 11/2 
+
+The conductor of Cplus at 19 is 2 
+
+
+The cluster picture of Cplus at 43 is:
+(1,2,(3,4),(5,6)) F[[7,8]] d=[11/2,11/2,0]
+
+Expected depth of the twins: 11/2 
+
+The conductor of Cplus at 43 is 2 
 
 
 
@@ -493,38 +493,30 @@ The conductor of Cplus at 197 is 2
 
 Iteration nº 7 
 
-r =  5 , p =  11 , a^p =  -15008883077619874082875571273719190002 , b =  2397 , 
-c =  1091 
+r =  5 , p =  11 , a^p =  695105965286449154613644783350716203677 , b =  -3397 ,
+c =  -4056 
 
-Polynomial frplus = x^6 + 2182*x^5 - 5951405*x^4 - 12985965710*x^3 + 
-    7083844294805*x^2 + 60035532310479496331520833432778277420*x + 
-    130997531501466260995344731489237942169620
-Bad primes dividing b, not 2, 5 are: [ 3, 17, 47 ]
-
-
-
-The cluster picture of Cplus at 3 is:
-(1,6,(2,3),(4,5)) F[[7,8]] d=[11/2,11/2,0]
-
-Expected depth of the twins: 11/2 
-
-The conductor of Cplus at 3 is 2 
+Polynomial gplus = x^6 - 8112*x^5 - 82255680*x^4 + 667258076160*x^3 + 
+    1353199378452480*x^2 - 2780423861145796618467751717432472636020*x + 
+    22554798361614702168921355263772069151325120
+Bad primes dividing b, not 2, 5 are: [ 43, 79 ]
 
 
-The cluster picture of Cplus at 17 is:
-(1,6,(2,3),(4,5)) F[[7,8]] d=[11/2,11/2,0]
+
+The cluster picture of Cplus at 43 is:
+(1,2,(3,4),(5,6)) F[[7,8]] d=[11/2,11/2,0]
 
 Expected depth of the twins: 11/2 
 
-The conductor of Cplus at 17 is 2 
+The conductor of Cplus at 43 is 2 
 
 
-The cluster picture of Cplus at 47 is:
-(1,4,(2,3),(5,6)) F[[7,8]] d=[11/2,11/2,0]
+The cluster picture of Cplus at 79 is:
+(1,2,(3,4),(5,6)) d=[11/2,11/2,0]
 
 Expected depth of the twins: 11/2 
 
-The conductor of Cplus at 47 is 2 
+The conductor of Cplus at 79 is 2 
 
 
 
@@ -534,21 +526,30 @@ The conductor of Cplus at 47 is 2
 
 Iteration nº 8 
 
-r =  5 , p =  11 , a^p =  -1472455490589877760757553718 , b =  295 , c =  -2623 
+r =  5 , p =  11 , a^p =  -894917608641381525594412690313764799 , b =  1855 , c 
+=  2216 
 
-Polynomial frplus = x^6 - 5246*x^5 - 34400645*x^4 + 180465783670*x^3 + 
-    236680875283205*x^2 + 5889821960869557596947382756*x - 
-    30898006013235278968711417671756
-Bad primes dividing b, not 2, 5 are: [ 59 ]
+Polynomial gplus = x^6 + 4432*x^5 - 24553280*x^4 - 108820136960*x^3 + 
+    120572711751680*x^2 + 3579670434565526103018904671435194108*x + 
+    15865099365994411686211421062202148678336
+Bad primes dividing b, not 2, 5 are: [ 7, 53 ]
 
 
 
-The cluster picture of Cplus at 59 is:
-(1,6,(2,3),(4,5)) d=[11/2,11/2,0]
+The cluster picture of Cplus at 7 is:
+(1,4,(2,3),(5,6)) F[[7,8]] d=[11/2,11/2,0]
 
 Expected depth of the twins: 11/2 
 
-The conductor of Cplus at 59 is 2 
+The conductor of Cplus at 7 is 2 
+
+
+The cluster picture of Cplus at 53 is:
+(3,4,(1,2),(5,6)) F[[7,8]] d=[11/2,11/2,0]
+
+Expected depth of the twins: 11/2 
+
+The conductor of Cplus at 53 is 2 
 
 
 
@@ -558,22 +559,22 @@ The conductor of Cplus at 59 is 2
 
 Iteration nº 9 
 
-r =  5 , p =  11 , a^p =  3349098326797719790842645397283980236143 , b =  -3919 
-, c =  -4196 
+r =  5 , p =  11 , a^p =  38610453141115178262815249529338931081 , b =  -2612 , 
+c =  -4247 
 
-Polynomial frplus = x^6 - 8392*x^5 - 88032080*x^4 + 738765215360*x^3 + 
-    1549929421825280*x^2 - 13396393307190879163386189998385470244284*x + 
-    112422532633945857939027751657765684854045408
-Bad primes dividing b, not 2, 5 are: [ 3919 ]
+Polynomial gplus = x^6 - 8494*x^5 - 90185045*x^4 + 766031772230*x^3 + 
+    1626668468330405*x^2 - 154441812564460713067841304481353876408*x + 
+    1311828755922529296680883105051452906374972
+Bad primes dividing b, not 2, 5 are: [ 653 ]
 
 
 
-The cluster picture of Cplus at 3919 is:
-(1,6,(2,3),(4,5)) d=[11/2,11/2,0]
+The cluster picture of Cplus at 653 is:
+(1,6,(2,3),(4,5)) F[[7,8]] d=[11/2,11/2,0]
 
 Expected depth of the twins: 11/2 
 
-The conductor of Cplus at 3919 is 2 
+The conductor of Cplus at 653 is 2 
 
 
 
@@ -583,22 +584,22 @@ The conductor of Cplus at 3919 is 2
 
 Iteration nº 10 
 
-r =  5 , p =  11 , a^p =  -8367462852474048935605326998841217302 , b =  2273 , c
-=  3515 
+r =  5 , p =  11 , a^p =  -2399399242268704481613560119872572436 , b =  2029 , c
+=  4033 
 
-Polynomial frplus = x^6 + 7030*x^5 - 61776125*x^4 - 434286158750*x^3 + 
-    763257924003125*x^2 + 33469851409896195748860151842255231708*x + 
-    235293055411570256076765973914688238594740
-Bad primes dividing b, not 2, 5 are: [ 2273 ]
+Polynomial gplus = x^6 + 8066*x^5 - 81325445*x^4 - 655971039370*x^3 + 
+    1322765600889605*x^2 + 9597596969074817939257553283620954460*x + 
+    77414217152557481411991823887255000674980
+Bad primes dividing b, not 2, 5 are: [ 2029 ]
 
 
 
-The cluster picture of Cplus at 2273 is:
-(1,2,(3,4),(5,6)) F[[7,8]] d=[11/2,11/2,0]
+The cluster picture of Cplus at 2029 is:
+(1,6,(2,3),(4,5)) d=[11/2,11/2,0]
 
 Expected depth of the twins: 11/2 
 
-The conductor of Cplus at 2273 is 2 
+The conductor of Cplus at 2029 is 2 
 
 
 
@@ -615,86 +616,22 @@ Computing 10 iterations for r = 7, p = 5
 
 Iteration nº 1 
 
-r =  7 , p =  5 , a^p =  20263622031477411677665 , b =  -702 , c =  1537 
+r =  7 , p =  5 , a^p =  -6045470718691921027327482 , b =  3173 , c =  -3469 
 
-Polynomial frplus = x^8 + 3074*x^7 - 16536583*x^6 - 50833456142*x^5 + 
-    78131022090254*x^4 + 240174761905440796*x^3 - 92287152262165625863*x^2 - 
-    324217950457821475770256*x - 124580749297663426900369156
-Bad primes dividing b, not 2, 7 are: [ 3, 13 ]
-
-
-
-The cluster picture of Cplus at 3 is:
-(1,6,(2,3),(4,5),(7,8)) F[[9,10],[10,11]] d=[15/2,15/2,15/2,0]
-
-Expected depth of the twins: 15/2 
-
-The conductor of Cplus at 3 is 3 
+Polynomial gplus = x^8 - 6938*x^7 - 84237727*x^6 + 584441349926*x^5 + 
+    2027427042893294*x^4 - 14066288823593673772*x^3 - 
+    12198988982261613578767*x^2 + 96727527639565748403154596*x - 
+    83886956155443364005276562700
+Bad primes dividing b, not 2, 7 are: [ 19, 167 ]
 
 
-The cluster picture of Cplus at 13 is:
-(5,8,(1,2),(3,4),(6,7)) d=[5/2,5/2,5/2,0]
+
+The cluster picture of Cplus at 19 is:
+(1,6,(2,3),(4,5),(7,8)) F[[9,10],[10,11]] d=[5/2,5/2,5/2,0]
 
 Expected depth of the twins: 5/2 
 
-The conductor of Cplus at 13 is 3 
-
-
-
-
-
-
-
-Iteration nº 2 
-
-r =  7 , p =  5 , a^p =  -17903407917448687053181627 , b =  2856 , c =  -4051 
-
-Polynomial frplus = x^8 - 8102*x^7 - 114874207*x^6 + 930710825114*x^5 + 
-    3770309552536814*x^4 - 30547047994653267028*x^3 - 
-    30936522856585096182607*x^2 + 286454524398982561873996720*x - 
-    290106824973363772305574958212
-Bad primes dividing b, not 2, 7 are: [ 3, 17 ]
-
-
-
-The cluster picture of Cplus at 3 is:
-(1,4,(2,3),(5,6),(7,8)) F[[9,10],[10,11]] d=[5/2,5/2,5/2,0]
-
-Expected depth of the twins: 5/2 
-
-The conductor of Cplus at 3 is 3 
-
-
-The cluster picture of Cplus at 17 is:
-(3,6,(1,2),(4,5),(7,8)) F[[9,10],[10,11]] d=[5/2,5/2,5/2,0]
-
-Expected depth of the twins: 5/2 
-
-The conductor of Cplus at 17 is 3 
-
-
-
-
-
-
-
-Iteration nº 3 
-
-r =  7 , p =  5 , a^p =  -163405114596466099233940 , b =  4509 , c =  -2071 
-
-Polynomial frplus = x^8 - 4142*x^7 - 30023287*x^6 + 124356454754*x^5 + 
-    257542217795534*x^4 - 1066739866109101828*x^3 - 552304565677987471447*x^2 + 
-    2614459467847199345564452*x - 1353663409102775439237910876
-Bad primes dividing b, not 2, 7 are: [ 3, 167 ]
-
-
-
-The cluster picture of Cplus at 3 is:
-(1,4,(2,3),(5,6),(7,8)) F[[9,10],[10,11]] d=[15/2,15/2,15/2,0]
-
-Expected depth of the twins: 15/2 
-
-The conductor of Cplus at 3 is 3 
+The conductor of Cplus at 19 is 3 
 
 
 The cluster picture of Cplus at 167 is:
@@ -710,24 +647,89 @@ The conductor of Cplus at 167 is 3
 
 
 
-Iteration nº 4 
+Iteration nº 2 
 
-r =  7 , p =  5 , a^p =  6550640216348462977082493 , b =  -4804 , c =  3509 
+r =  7 , p =  5 , a^p =  5339456911503326142306659 , b =  2893 , c =  3408 
 
-Polynomial frplus = x^8 + 7018*x^7 - 86191567*x^6 - 604892417206*x^5 + 
-    2122567491975854*x^4 + 14896178658686543372*x^3 - 
-    13067672728332770173087*x^2 - 104810212757484749972379600*x - 
-    91944821990218398923743028612
-Bad primes dividing b, not 2, 7 are: [ 1201 ]
+Polynomial gplus = x^8 + 6816*x^7 - 81301248*x^6 - 554149306368*x^5 + 
+    1888540836102144*x^4 + 12872294338872213504*x^3 - 
+    10967194776719125905408*x^2 - 85431313015828357858878860*x - 
+    72787473855116783406803824512
+Bad primes dividing b, not 2, 7 are: [ 11, 263 ]
 
 
 
-The cluster picture of Cplus at 1201 is:
+The cluster picture of Cplus at 11 is:
+(3,4,(1,2),(5,6),(7,8)) F[[9,10],[10,11]] d=[5/2,5/2,5/2,0]
+
+Expected depth of the twins: 5/2 
+
+The conductor of Cplus at 11 is 3 
+
+
+The cluster picture of Cplus at 263 is:
 (1,2,(3,4),(5,6),(7,8)) F[[9,10],[10,11]] d=[5/2,5/2,5/2,0]
 
 Expected depth of the twins: 5/2 
 
-The conductor of Cplus at 1201 is 3 
+The conductor of Cplus at 263 is 3 
+
+
+
+
+
+
+
+Iteration nº 3 
+
+r =  7 , p =  5 , a^p =  3310218101946970625095834 , b =  -4027 , c =  3183 
+
+Polynomial gplus = x^8 + 6366*x^7 - 70920423*x^6 - 451479412818*x^5 + 
+    1437058970999694*x^4 + 9148317409384052004*x^3 - 7279773578517359382183*x^2 
+    - 52963476922794890923506460*x - 42145710357555224060506682412
+Bad primes dividing b, not 2, 7 are: [ 4027 ]
+
+
+
+The cluster picture of Cplus at 4027 is:
+(1,2,(3,4),(5,6),(7,8)) F[[9,10],[10,11]] d=[5/2,5/2,5/2,0]
+
+Expected depth of the twins: 5/2 
+
+The conductor of Cplus at 4027 is 3 
+
+
+
+
+
+
+
+Iteration nº 4 
+
+r =  7 , p =  5 , a^p =  -77362583133365565431896456 , b =  999 , c =  -4993 
+
+Polynomial gplus = x^8 - 9986*x^7 - 174510343*x^6 + 1742660285198*x^5 + 
+    8701102803993614*x^4 - 86889212600680229404*x^3 - 
+    108459459628799096353543*x^2 + 1237801330121908927030283308*x - 
+    1545085510359449412326215859260
+Bad primes dividing b, not 2, 7 are: [ 3, 37 ]
+
+
+
+The cluster picture of Cplus at 3 is:
+(1,4,(2,3),(5,6),(7,8)) F[[9,10],[10,11]] d=[15/2,15/2,15/2,0]
+
+Expected depth of the twins: 15/2 
+
+The conductor of Cplus at 3 is 3 
+
+
+The cluster picture of Cplus at 37 is:
+(1,6,(2,3),(4,5),(7,8)) F[[9,10],[10,11]] d=[5/2,5/2,5/2,0]
+
+Expected depth of the twins: 5/2 
+
+The conductor of Cplus at 37 is 3 
 
 
 
@@ -737,13 +739,37 @@ The conductor of Cplus at 1201 is 3
 
 Iteration nº 5 
 
-r =  7 , p =  5 , a^p =  -23558096806146347843833885 , b =  -3642 , c =  -4213 
+r =  7 , p =  5 , a^p =  -1192433436974042315340950 , b =  2039 , c =  -2751 
 
-Polynomial frplus = x^8 - 8426*x^7 - 124245583*x^6 + 1046893282358*x^5 + 
-    4410561398574254*x^4 - 37163390344386664204*x^3 - 
-    39142340880225254072863*x^2 + 376929556587537954933572944*x - 
-    397001036578983457638292532356
-Bad primes dividing b, not 2, 7 are: [ 3, 607 ]
+Polynomial gplus = x^8 - 5502*x^7 - 52976007*x^6 + 291473990514*x^5 + 
+    801844947904014*x^4 - 4411750903367885028*x^3 - 3034181683791262928007*x^2 +
+    19078934568655765229844812*x - 13121537928288173772926539596
+Bad primes dividing b, not 2, 7 are: [ 2039 ]
+
+
+
+The cluster picture of Cplus at 2039 is:
+(1,2,(3,4),(5,6),(7,8)) F[[9,10],[10,11]] d=[5/2,5/2,5/2,0]
+
+Expected depth of the twins: 5/2 
+
+The conductor of Cplus at 2039 is 3 
+
+
+
+
+
+
+
+Iteration nº 6 
+
+r =  7 , p =  5 , a^p =  -24513718759553554851334858 , b =  -4875 , c =  -4237 
+
+Polynomial gplus = x^8 - 8474*x^7 - 125665183*x^6 + 1064886760742*x^5 + 
+    4511925205263854*x^4 - 38234054189405898796*x^3 - 
+    40499421900128198299663*x^2 + 392219533193945378597920228*x - 
+    415458458871882988074524735884
+Bad primes dividing b, not 2, 7 are: [ 3, 5, 13 ]
 
 
 
@@ -755,45 +781,20 @@ Expected depth of the twins: 5/2
 The conductor of Cplus at 3 is 3 
 
 
-The cluster picture of Cplus at 607 is:
-(1,2,(3,4),(5,6),(7,8)) F[[9,10],[10,11]] d=[5/2,5/2,5/2,0]
-
-Expected depth of the twins: 5/2 
-
-The conductor of Cplus at 607 is 3 
-
-
-
-
-
-
-
-Iteration nº 6 
-
-r =  7 , p =  5 , a^p =  -78015690368122092078234999 , b =  -2980 , c =  -4999 
-
-Polynomial frplus = x^8 - 9998*x^7 - 174930007*x^6 + 1748950209986*x^5 + 
-    8743002099720014*x^4 - 87412534993000699972*x^3 - 
-    109243815607502624790007*x^2 + 1248251048710040862013359984*x - 
-    1560001739901763734389974240004
-Bad primes dividing b, not 2, 7 are: [ 5, 149 ]
-
-
-
 The cluster picture of Cplus at 5 is:
-(3,4,(1,2),(5,6),(7,8)) F[[9,10],[10,11]] d=[5/2,5/2,5/2,0]
+(1,2,(3,4),(5,6),(7,8)) F[[9,10],[10,11]] d=[15/2,15/2,15/2,0]
 
-Expected depth of the twins: 5/2 
+Expected depth of the twins: 15/2 
 
 The conductor of Cplus at 5 is 3 
 
 
-The cluster picture of Cplus at 149 is:
-(1,2,(3,4),(5,6),(7,8)) F[[9,10],[10,11]] d=[5/2,5/2,5/2,0]
+The cluster picture of Cplus at 13 is:
+(1,4,(2,3),(5,6),(7,8)) d=[5/2,5/2,5/2,0]
 
 Expected depth of the twins: 5/2 
 
-The conductor of Cplus at 149 is 3 
+The conductor of Cplus at 13 is 3 
 
 
 
@@ -803,21 +804,30 @@ The conductor of Cplus at 149 is 3
 
 Iteration nº 7 
 
-r =  7 , p =  5 , a^p =  -184353661100745412024536 , b =  1493 , c =  -2107 
+r =  7 , p =  5 , a^p =  -69387801203054726299876131 , b =  3955 , c =  -4916 
 
-Polynomial frplus = x^8 - 4214*x^7 - 31076143*x^6 + 130954866602*x^5 + 
-    275921903930414*x^4 - 1162734903162764596*x^3 - 612470610240986250943*x^2 + 
-    2949658488593423986504260*x - 1553732718277743996078350012
-Bad primes dividing b, not 2, 7 are: [ 1493 ]
+Polynomial gplus = x^8 - 9832*x^7 - 169169392*x^6 + 1663273462144*x^5 + 
+    8176652339899904*x^4 - 80392845805895856128*x^3 - 
+    98802807495446007181312*x^2 + 1110204807636697598862355596*x - 
+    1364441741885357189906003189984
+Bad primes dividing b, not 2, 7 are: [ 5, 113 ]
 
 
 
-The cluster picture of Cplus at 1493 is:
-(1,2,(3,4),(5,6),(7,8)) F[[9,10],[10,11]] d=[5/2,5/2,5/2,0]
+The cluster picture of Cplus at 5 is:
+(1,8,(2,3),(4,5),(6,7)) F[[9,10],[10,11]] d=[5/2,5/2,5/2,0]
 
 Expected depth of the twins: 5/2 
 
-The conductor of Cplus at 1493 is 3 
+The conductor of Cplus at 5 is 3 
+
+
+The cluster picture of Cplus at 113 is:
+(1,6,(2,3),(4,5),(7,8)) d=[5/2,5/2,5/2,0]
+
+Expected depth of the twins: 5/2 
+
+The conductor of Cplus at 113 is 3 
 
 
 
@@ -827,295 +837,27 @@ The conductor of Cplus at 1493 is 3
 
 Iteration nº 8 
 
-r =  7 , p =  5 , a^p =  -9087729852900077665339028 , b =  -1665 , c =  -3677 
+r =  7 , p =  5 , a^p =  -120371323596460860930 , b =  1271 , c =  -739 
 
-Polynomial frplus = x^8 - 7354*x^7 - 94642303*x^6 + 695999496262*x^5 + 
-    2559190147755374*x^4 - 18820284346593020396*x^3 - 
-    17300546385605633999023*x^2 + 145403677799952167028911948*x - 
-    133662330488252092649111911324
-Bad primes dividing b, not 2, 7 are: [ 3, 5, 37 ]
+Polynomial gplus = x^8 - 1478*x^7 - 3822847*x^6 + 5650167866*x^5 + 
+    4175474052974*x^4 - 6171350650295572*x^3 - 1140157032642106927*x^2 + 
+    1925901375167301190668*x - 355827437203110851486636
+Bad primes dividing b, not 2, 7 are: [ 31, 41 ]
 
-
-
-The cluster picture of Cplus at 3 is:
-(1,6,(2,3),(4,5),(7,8)) F[[9,10],[10,11]] d=[5,5,5,0]
-
-Expected depth of the twins: 5 
-
-The conductor of Cplus at 3 is 3 
-
-
-The cluster picture of Cplus at 5 is:
-(1,2,(3,4),(5,6),(7,8)) F[[9,10],[10,11]] d=[5/2,5/2,5/2,0]
-
-Expected depth of the twins: 5/2 
-
-The conductor of Cplus at 5 is 3 
-
-
-The cluster picture of Cplus at 37 is:
-(3,8,(1,2),(4,5),(6,7)) F[[9,10],[10,11]] d=[5/2,5/2,5/2,0]
-
-Expected depth of the twins: 5/2 
-
-The conductor of Cplus at 37 is 3 
-
-
-
-
-
-
-
-Iteration nº 9 
-
-r =  7 , p =  5 , a^p =  -166430415864861335604 , b =  4327 , c =  -773 
-
-Polynomial frplus = x^8 - 1546*x^7 - 4182703*x^6 + 6466458838*x^5 + 
-    4998572681774*x^4 - 7727793366022604*x^3 - 1493396067983868223*x^2 + 
-    2644684795833497004780*x - 519292857933255187706012
-Bad primes dividing b, not 2, 7 are: [ 4327 ]
-
-
-
-The cluster picture of Cplus at 4327 is:
-(1,4,(2,3),(5,6),(7,8)) d=[5/2,5/2,5/2,0]
-
-Expected depth of the twins: 5/2 
-
-The conductor of Cplus at 4327 is 3 
-
-
-
-
-
-
-
-Iteration nº 10 
-
-r =  7 , p =  5 , a^p =  -8045863995743088544363 , b =  -1550 , c =  -1347 
-
-Polynomial frplus = x^8 - 2694*x^7 - 12700863*x^6 + 34216124922*x^5 + 
-    46089120269934*x^4 - 124164090007202196*x^3 - 41812257309925339503*x^2 + 
-    128733931291205666709808*x - 43351067004730764827027844
-Bad primes dividing b, not 2, 7 are: [ 5, 31 ]
-
-
-
-The cluster picture of Cplus at 5 is:
-(1,2,(3,4),(5,6),(7,8)) F[[9,10],[10,11]] d=[5,5,5,0]
-
-Expected depth of the twins: 5 
-
-The conductor of Cplus at 5 is 3 
 
 
 The cluster picture of Cplus at 31 is:
-(1,6,(2,3),(4,5),(7,8)) F[[9,10],[10,11]] d=[5/2,5/2,5/2,0]
+(3,8,(1,2),(4,5),(6,7)) F[[9,10],[10,11]] d=[5/2,5/2,5/2,0]
 
 Expected depth of the twins: 5/2 
 
 The conductor of Cplus at 31 is 3 
 
 
-
-
-
-
-
-
-
-########################################
-Computing 10 iterations for r = 7, p = 11
-########################################
-
-
-Iteration nº 1 
-
-r =  7 , p =  11 , a^p =  -6969698058314144336410730161675605574565 , b =  4189 
-, c =  1574 
-
-Polynomial frplus = x^8 + 3148*x^7 - 17342332*x^6 - 54593661136*x^5 + 
-    85930422628064*x^4 + 270508970433145472*x^3 - 106445279865442743232*x^2 + 
-    27878792233256577058423142632633488845972*x + 
-    87762437950291705634778557727200725812889584
-Bad primes dividing b, not 2, 7 are: [ 59, 71 ]
-
-
-
-The cluster picture of Cplus at 59 is:
-(1,6,(2,3),(4,5),(7,8)) F[[9,10],[10,11]] d=[11/2,11/2,11/2,0]
-
-Expected depth of the twins: 11/2 
-
-The conductor of Cplus at 59 is 3 
-
-
-The cluster picture of Cplus at 71 is:
-(1,4,(2,3),(5,6),(7,8)) d=[11/2,11/2,11/2,0]
-
-Expected depth of the twins: 11/2 
-
-The conductor of Cplus at 71 is 3 
-
-
-
-
-
-
-
-Iteration nº 2 
-
-r =  7 , p =  11 , a^p =  867189762382898888151096412385189827991 , b =  -3466 ,
-c =  3175 
-
-Polynomial frplus = x^8 + 6350*x^7 - 70564375*x^6 - 448083781250*x^5 + 
-    1422666005468750*x^4 + 9033929134726562500*x^3 - 7170681250689208984375*x^2 
-    - 3468759049531634581598050115092517124464*x - 
-    22026619964525590453352887315208211279408900
-Bad primes dividing b, not 2, 7 are: [ 1733 ]
-
-
-
-The cluster picture of Cplus at 1733 is:
-(1,2,(3,4),(5,6),(7,8)) F[[9,10],[10,11]] d=[11/2,11/2,11/2,0]
-
-Expected depth of the twins: 11/2 
-
-The conductor of Cplus at 1733 is 3 
-
-
-
-
-
-
-
-Iteration nº 3 
-
-r =  7 , p =  11 , a^p =  94343572958676731251197535622482356017 , b =  -2833 , 
-c =  -4790 
-
-Polynomial frplus = x^8 - 9580*x^7 - 160608700*x^6 + 1538631346000*x^5 + 
-    7370044147340000*x^4 - 70605022931517200000*x^3 - 
-    84549514960491847000000*x^2 - 377374291834012652701943132294849424068*x + 
-    3615245715777600862989435291331668282571440
-Bad primes dividing b, not 2, 7 are: [ 2833 ]
-
-
-
-The cluster picture of Cplus at 2833 is:
-(1,2,(3,4),(5,6),(7,8)) F[[9,10],[10,11]] d=[11/2,11/2,11/2,0]
-
-Expected depth of the twins: 11/2 
-
-The conductor of Cplus at 2833 is 3 
-
-
-
-
-
-
-
-Iteration nº 4 
-
-r =  7 , p =  11 , a^p =  -47959696429418065360989486057457216939 , b =  2664 , 
-c =  -2275 
-
-Polynomial frplus = x^8 - 4550*x^7 - 36229375*x^6 + 164843656250*x^5 + 
-    375019317968750*x^4 - 1706337896757812500*x^3 - 970479678781005859375*x^2 + 
-    191838785717676046314705190152680430256*x - 
-    872866475015405919376358651420892246727300
-Bad primes dividing b, not 2, 7 are: [ 3, 37 ]
-
-
-
-The cluster picture of Cplus at 3 is:
-(1,4,(2,3),(5,6),(7,8)) F[[9,10],[10,11]] d=[11,11,11,0]
-
-Expected depth of the twins: 11 
-
-The conductor of Cplus at 3 is 3 
-
-
-The cluster picture of Cplus at 37 is:
-(1,6,(2,3),(4,5),(7,8)) F[[9,10],[10,11]] d=[11/2,11/2,11/2,0]
-
-Expected depth of the twins: 11/2 
-
-The conductor of Cplus at 37 is 3 
-
-
-
-
-
-
-
-Iteration nº 5 
-
-r =  7 , p =  11 , a^p =  25575080213564066323680707199605216509 , b =  -2516 , 
-c =  2357 
-
-Polynomial frplus = x^8 + 4714*x^7 - 38888143*x^6 - 183318706102*x^5 + 
-    432082190282414*x^4 + 2036835444991299596*x^3 - 1200205285961123286943*x^2 -
-    102300320854261114809909703714284851152*x - 
-    482243712506960224496891593563525491520900
-Bad primes dividing b, not 2, 7 are: [ 17, 37 ]
-
-
-
-The cluster picture of Cplus at 17 is:
-(3,8,(1,2),(4,5),(6,7)) F[[9,10],[10,11]] d=[11/2,11/2,11/2,0]
-
-Expected depth of the twins: 11/2 
-
-The conductor of Cplus at 17 is 3 
-
-
-The cluster picture of Cplus at 37 is:
-(1,6,(2,3),(4,5),(7,8)) F[[9,10],[10,11]] d=[11/2,11/2,11/2,0]
-
-Expected depth of the twins: 11/2 
-
-The conductor of Cplus at 37 is 3 
-
-
-
-
-
-
-
-Iteration nº 6 
-
-r =  7 , p =  11 , a^p =  -23258183284186479731877375664628211610477 , b =  4674
-, c =  -1477 
-
-Polynomial frplus = x^8 - 2954*x^7 - 15270703*x^6 + 45109656662*x^5 + 
-    66626962889774*x^4 - 196816048376392396*x^3 - 72674325862982892223*x^2 + 
-    93032733136745919111520895743585529550544*x - 
-    274818693685947444421268128324362830738911108
-Bad primes dividing b, not 2, 7 are: [ 3, 19, 41 ]
-
-
-
-The cluster picture of Cplus at 3 is:
-(1,4,(2,3),(5,6),(7,8)) F[[9,10],[10,11]] d=[11/2,11/2,11/2,0]
-
-Expected depth of the twins: 11/2 
-
-The conductor of Cplus at 3 is 3 
-
-
-The cluster picture of Cplus at 19 is:
-(5,8,(1,2),(3,4),(6,7)) F[[9,10],[10,11]] d=[11/2,11/2,11/2,0]
-
-Expected depth of the twins: 11/2 
-
-The conductor of Cplus at 19 is 3 
-
-
 The cluster picture of Cplus at 41 is:
-(5,8,(1,2),(3,4),(6,7)) d=[11/2,11/2,11/2,0]
+(5,8,(1,2),(3,4),(6,7)) d=[5/2,5/2,5/2,0]
 
-Expected depth of the twins: 11/2 
+Expected depth of the twins: 5/2 
 
 The conductor of Cplus at 41 is 3 
 
@@ -1125,14 +867,231 @@ The conductor of Cplus at 41 is 3
 
 
 
-Iteration nº 7 
+Iteration nº 9 
 
-r =  7 , p =  11 , a^p =  -34540179034140759043555283164 , b =  393 , c =  -2443
+r =  7 , p =  5 , a^p =  -79069735978604524373872 , b =  1629 , c =  -1867 
 
-Polynomial frplus = x^8 - 4886*x^7 - 41777743*x^6 + 204126052298*x^5 + 
-    498679945764014*x^4 - 2436550215002972404*x^3 - 1488123043813065395743*x^2 +
-    138166948395870525292098504340*x - 675048183906750929442252981149212
-Bad primes dividing b, not 2, 7 are: [ 3, 131 ]
+Polynomial gplus = x^8 - 3734*x^7 - 24399823*x^6 + 91108939082*x^5 + 
+    170100389266094*x^4 - 635154853519594996*x^3 - 296458527880270964383*x^2 + 
+    1265115638004359624072164*x - 590492873954463566008600828
+Bad primes dividing b, not 2, 7 are: [ 3, 181 ]
+
+
+
+The cluster picture of Cplus at 3 is:
+(1,4,(2,3),(5,6),(7,8)) F[[9,10],[10,11]] d=[5,5,5,0]
+
+Expected depth of the twins: 5 
+
+The conductor of Cplus at 3 is 3 
+
+
+The cluster picture of Cplus at 181 is:
+(1,4,(2,3),(5,6),(7,8)) d=[5/2,5/2,5/2,0]
+
+Expected depth of the twins: 5/2 
+
+The conductor of Cplus at 181 is 3 
+
+
+
+
+
+
+
+Iteration nº 10 
+
+r =  7 , p =  5 , a^p =  -26961383716590230481217626 , b =  1651 , c =  -4295 
+
+Polynomial gplus = x^8 - 8590*x^7 - 129129175*x^6 + 1109219613250*x^5 + 
+    4764098238908750*x^4 - 40923603872226162500*x^3 - 
+    43941719657802841984375*x^2 + 431382139318240704192683004*x - 
+    463196572461765764387886066860
+Bad primes dividing b, not 2, 7 are: [ 13, 127 ]
+
+
+
+The cluster picture of Cplus at 13 is:
+(5,8,(1,2),(3,4),(6,7)) d=[5/2,5/2,5/2,0]
+
+Expected depth of the twins: 5/2 
+
+The conductor of Cplus at 13 is 3 
+
+
+The cluster picture of Cplus at 127 is:
+(1,6,(2,3),(4,5),(7,8)) d=[5/2,5/2,5/2,0]
+
+Expected depth of the twins: 5/2 
+
+The conductor of Cplus at 127 is 3 
+
+
+
+
+
+
+
+
+
+#########################################
+Computing 10 iterations for r = 7, p = 11
+#########################################
+
+
+Iteration nº 1 
+
+r =  7 , p =  11 , a^p =  4888159701486546908928382980 , b =  -329 , c =  -1949 
+
+Polynomial gplus = x^8 - 3898*x^7 - 26590207*x^6 + 103648626886*x^5 + 
+    202011173800814*x^4 - 787439555475572972*x^3 - 383679923405472930607*x^2 - 
+    19551356876510672321299098132*x + 76217018892401512519942591241764
+Bad primes dividing b, not 2, 7 are: [ 47 ]
+
+
+
+The cluster picture of Cplus at 47 is:
+(5,8,(1,2),(3,4),(6,7)) F[[9,10],[10,11]] d=[11/2,11/2,11/2,0]
+
+Expected depth of the twins: 11/2 
+
+The conductor of Cplus at 47 is 3 
+
+
+
+
+
+
+
+Iteration nº 2 
+
+r =  7 , p =  11 , a^p =  103916489978378764557867288434957345117 , b =  -2858 ,
+c =  3285 
+
+Polynomial gplus = x^8 + 6570*x^7 - 75538575*x^6 - 496288437750*x^5 + 
+    1630307518008750*x^4 + 10711120393317487500*x^3 - 8796507623011986609375*x^2
+    - 415665959913564595135826172670135317968*x - 
+    2730925356631739689670481404341994028112260
+Bad primes dividing b, not 2, 7 are: [ 1429 ]
+
+
+
+The cluster picture of Cplus at 1429 is:
+(3,6,(1,2),(4,5),(7,8)) d=[11/2,11/2,11/2,0]
+
+Expected depth of the twins: 11/2 
+
+The conductor of Cplus at 1429 is 3 
+
+
+
+
+
+
+
+Iteration nº 3 
+
+r =  7 , p =  11 , a^p =  -741472019213240371000403476793122102592 , b =  3417 ,
+c =  -4679 
+
+Polynomial gplus = x^8 - 9358*x^7 - 153251287*x^6 + 1434125543746*x^5 + 
+    6710273419187534*x^4 - 62794738656756943172*x^3 - 
+    73454145543741434275447*x^2 + 2965888076853550670196469620608445238676*x - 
+    27754780623189094633218526315597865877672700
+Bad primes dividing b, not 2, 7 are: [ 3, 17, 67 ]
+
+
+
+The cluster picture of Cplus at 3 is:
+(1,6,(2,3),(4,5),(7,8)) F[[9,10],[10,11]] d=[11/2,11/2,11/2,0]
+
+Expected depth of the twins: 11/2 
+
+The conductor of Cplus at 3 is 3 
+
+
+The cluster picture of Cplus at 17 is:
+(1,6,(2,3),(4,5),(7,8)) F[[9,10],[10,11]] d=[11/2,11/2,11/2,0]
+
+Expected depth of the twins: 11/2 
+
+The conductor of Cplus at 17 is 3 
+
+
+The cluster picture of Cplus at 67 is:
+(1,6,(2,3),(4,5),(7,8)) F[[9,10],[10,11]] d=[11/2,11/2,11/2,0]
+
+Expected depth of the twins: 11/2 
+
+The conductor of Cplus at 67 is 3 
+
+
+
+
+
+
+
+Iteration nº 4 
+
+r =  7 , p =  11 , a^p =  -4115455848611981769664400510162784158 , b =  2131 , c
+=  -283 
+
+Polynomial gplus = x^8 - 566*x^7 - 560623*x^6 + 317312618*x^5 + 89799470894*x^4 
+    - 50826500526004*x^3 - 3595974912214783*x^2 + 
+    16461823394447927080402163583777051356*x - 
+    9317392041257526726355632449440332044748
+Bad primes dividing b, not 2, 7 are: [ 2131 ]
+
+
+
+The cluster picture of Cplus at 2131 is:
+(1,2,(3,4),(5,6),(7,8)) F[[9,10],[10,11]] d=[11/2,11/2,11/2,0]
+
+Expected depth of the twins: 11/2 
+
+The conductor of Cplus at 2131 is 3 
+
+
+
+
+
+
+
+Iteration nº 5 
+
+r =  7 , p =  11 , a^p =  915436856662479574155032878424669 , b =  -992 , c =  
+981 
+
+Polynomial gplus = x^8 + 1962*x^7 - 6736527*x^6 - 13217065974*x^5 + 
+    12965941720494*x^4 + 25439177655609228*x^3 - 6238958320038163167*x^2 - 
+    3661747426660410441954915693241808*x - 7184348451083708766444223603166198148
+Bad primes dividing b, not 2, 7 are: [ 31 ]
+
+
+
+The cluster picture of Cplus at 31 is:
+(3,8,(1,2),(4,5),(6,7)) F[[9,10],[10,11]] d=[11/2,11/2,11/2,0]
+
+Expected depth of the twins: 11/2 
+
+The conductor of Cplus at 31 is 3 
+
+
+
+
+
+
+
+Iteration nº 6 
+
+r =  7 , p =  11 , a^p =  1329756514528503731987342082217843451 , b =  -1923 , c
+=  -1726 
+
+Polynomial gplus = x^8 - 3452*x^7 - 20853532*x^6 + 71986392464*x^5 + 
+    124248513392864*x^4 - 428905868232166528*x^3 - 185072882142179856832*x^2 - 
+    5319026058113467323730092781843558892*x + 
+    18361277952609894586242042669320651884112
+Bad primes dividing b, not 2, 7 are: [ 3, 641 ]
 
 
 
@@ -1144,12 +1103,37 @@ Expected depth of the twins: 11/2
 The conductor of Cplus at 3 is 3 
 
 
-The cluster picture of Cplus at 131 is:
+The cluster picture of Cplus at 641 is:
 (1,2,(3,4),(5,6),(7,8)) F[[9,10],[10,11]] d=[11/2,11/2,11/2,0]
 
 Expected depth of the twins: 11/2 
 
-The conductor of Cplus at 131 is 3 
+The conductor of Cplus at 641 is 3 
+
+
+
+
+
+
+
+Iteration nº 7 
+
+r =  7 , p =  11 , a^p =  -439569689870395101312484727710097 , b =  928 , c =  
+1295 
+
+Polynomial gplus = x^8 + 2590*x^7 - 11739175*x^6 - 30404463250*x^5 + 
+    39373779908750*x^4 + 101978089963662500*x^3 - 33015406625735734375*x^2 + 
+    1758278759408286202540805580527888*x + 4553941987088931913766784333328167420
+Bad primes dividing b, not 2, 7 are: [ 29 ]
+
+
+
+The cluster picture of Cplus at 29 is:
+(1,8,(2,3),(4,5),(6,7)) d=[11/2,11/2,11/2,0]
+
+Expected depth of the twins: 11/2 
+
+The conductor of Cplus at 29 is 3 
 
 
 
@@ -1159,23 +1143,31 @@ The conductor of Cplus at 131 is 3
 
 Iteration nº 8 
 
-r =  7 , p =  11 , a^p =  2083314118807388154076807051237269 , b =  -1069 , c = 
--2620 
+r =  7 , p =  11 , a^p =  47554420407808046499893508678276960174301 , b =  -4988
+, c =  -2731 
 
-Polynomial frplus = x^8 - 5240*x^7 - 48050800*x^6 + 251786192000*x^5 + 
-    659679823040000*x^4 - 3456722272729600000*x^3 - 2264153088637888000000*x^2 -
-    8333256465060270743910771244949076*x + 
-    43666263939084028544676114872333158240
-Bad primes dividing b, not 2, 7 are: [ 1069 ]
+Polynomial gplus = x^8 - 5462*x^7 - 52208527*x^6 + 285162974474*x^5 + 
+    778780083288494*x^4 - 4253696814921754228*x^3 - 2904211500387827699167*x^2 -
+    190217681631232172402885564611695075397072*x + 
+    1038968977069790212307192114885314446566348412
+Bad primes dividing b, not 2, 7 are: [ 29, 43 ]
 
 
 
-The cluster picture of Cplus at 1069 is:
-(1,2,(3,4),(5,6),(7,8)) F[[9,10],[10,11]] d=[11/2,11/2,11/2,0]
+The cluster picture of Cplus at 29 is:
+(1,8,(2,3),(4,5),(6,7)) d=[11/2,11/2,11/2,0]
 
 Expected depth of the twins: 11/2 
 
-The conductor of Cplus at 1069 is 3 
+The conductor of Cplus at 29 is 3 
+
+
+The cluster picture of Cplus at 43 is:
+(1,6,(2,3),(4,5),(7,8)) d=[11/2,11/2,11/2,0]
+
+Expected depth of the twins: 11/2 
+
+The conductor of Cplus at 43 is 3 
 
 
 
@@ -1185,23 +1177,22 @@ The conductor of Cplus at 1069 is 3
 
 Iteration nº 9 
 
-r =  7 , p =  11 , a^p =  62522868136575971441722225412512112378 , b =  -2729 , 
-c =  2049 
+r =  7 , p =  11 , a^p =  150810995420956862231049029313181 , b =  -842 , c =  
+917 
 
-Polynomial frplus = x^8 + 4098*x^7 - 29388807*x^6 - 120435331086*x^5 + 
-    246771993395214*x^4 + 1011271628933586972*x^3 - 518023891921229926407*x^2 - 
-    250091472546305705362810981535967091700*x - 
-    1024874854494752081088695938399816113485772
-Bad primes dividing b, not 2, 7 are: [ 2729 ]
-
+Polynomial gplus = x^8 + 1834*x^7 - 5886223*x^6 - 10795332982*x^5 + 
+    9899320344494*x^4 + 18155353511801996*x^3 - 4162114792580607583*x^2 - 
+    603243981690370293378132832373200*x - 1106349462406139611872222356453003652
+Bad primes dividing b, not 2, 7 are: [ 421 ]
 
 
-The cluster picture of Cplus at 2729 is:
-(5,6,(1,2),(3,4),(7,8)) d=[11/2,11/2,11/2,0]
+
+The cluster picture of Cplus at 421 is:
+(1,8,(2,3),(4,5),(6,7)) d=[11/2,11/2,11/2,0]
 
 Expected depth of the twins: 11/2 
 
-The conductor of Cplus at 2729 is 3 
+The conductor of Cplus at 421 is 3 
 
 
 
@@ -1211,23 +1202,23 @@ The conductor of Cplus at 2729 is 3
 
 Iteration nº 10 
 
-r =  7 , p =  11 , a^p =  -431642993833412021648239331091683463021 , b =  3253 ,
-c =  -4874 
+r =  7 , p =  11 , a^p =  -5756130429098929781455288763492542804 , b =  2197 , c
+=  -951 
 
-Polynomial frplus = x^8 - 9748*x^7 - 166291132*x^6 + 1621005954736*x^5 + 
-    7900783023383264*x^4 - 77016832911940057472*x^3 - 
-    93845010903198960029632*x^2 + 1726571975334432201878343938763050011572*x - 
-    16830623615551127622141156545071039936333328
-Bad primes dividing b, not 2, 7 are: [ 3253 ]
+Polynomial gplus = x^8 - 1902*x^7 - 6330807*x^6 + 12041194914*x^5 + 
+    11451176363214*x^4 - 21780137442833028*x^3 - 5178227677033552407*x^2 + 
+    23024521716395727567811762240670181028*x - 
+    43792640304584655101200814434467362542428
+Bad primes dividing b, not 2, 7 are: [ 13 ]
 
 
 
-The cluster picture of Cplus at 3253 is:
-(1,2,(3,4),(5,6),(7,8)) F[[9,10],[10,11]] d=[11/2,11/2,11/2,0]
+The cluster picture of Cplus at 13 is:
+(1,6,(2,3),(4,5),(7,8)) d=[33/2,33/2,33/2,0]
 
-Expected depth of the twins: 11/2 
+Expected depth of the twins: 33/2 
 
-The conductor of Cplus at 3253 is 3 
+The conductor of Cplus at 13 is 3 
 
 
 
@@ -1239,22 +1230,21 @@ When r = 5, p = 7, we expect the conductor exponent at primes dividing b to be
 2. We find:
 
 [
-    [ 859, 2 ],
-    [ 311, 2 ],
-    [ 3, 2 ],
-    [ 7, 2 ],
-    [ 13, 2 ],
-    [ 3, 2 ],
-    [ 1277, 2 ],
-    [ 601, 2 ],
+    [ 4363, 2 ],
+    [ 1069, 2 ],
+    [ 2011, 2 ],
+    [ 11, 2 ],
+    [ 197, 2 ],
     [ 17, 2 ],
-    [ 97, 2 ],
-    [ 283, 2 ],
+    [ 71, 2 ],
+    [ 7, 2 ],
+    [ 337, 2 ],
+    [ 19, 2 ],
+    [ 181, 2 ],
+    [ 2803, 2 ],
+    [ 17, 2 ],
+    [ 41, 2 ],
     [ 53, 2 ],
-    [ 83, 2 ],
-    [ 3, 2 ],
-    [ 37, 2 ],
-    [ 43, 2 ],
     [ 79, 2 ]
 ]
 
@@ -1262,67 +1252,65 @@ When r = 5, p = 11, we expect the conductor exponent at primes dividing b to be
 2. We find:
 
 [
-    [ 17, 2 ],
-    [ 241, 2 ],
-    [ 1601, 2 ],
-    [ 3851, 2 ],
-    [ 67, 2 ],
+    [ 13, 2 ],
+    [ 79, 2 ],
+    [ 13, 2 ],
+    [ 3571, 2 ],
+    [ 13, 2 ],
+    [ 233, 2 ],
+    [ 4243, 2 ],
     [ 3, 2 ],
-    [ 677, 2 ],
+    [ 19, 2 ],
+    [ 43, 2 ],
+    [ 43, 2 ],
+    [ 79, 2 ],
     [ 7, 2 ],
-    [ 197, 2 ],
-    [ 3, 2 ],
-    [ 17, 2 ],
-    [ 47, 2 ],
-    [ 59, 2 ],
-    [ 3919, 2 ],
-    [ 2273, 2 ]
+    [ 53, 2 ],
+    [ 653, 2 ],
+    [ 2029, 2 ]
 ]
 
 When r = 7, p = 5, we expect the conductor exponent at primes dividing b to be 
 3. We find:
 
 [
-    [ 3, 3 ],
-    [ 13, 3 ],
-    [ 3, 3 ],
-    [ 17, 3 ],
-    [ 3, 3 ],
+    [ 19, 3 ],
     [ 167, 3 ],
-    [ 1201, 3 ],
+    [ 11, 3 ],
+    [ 263, 3 ],
+    [ 4027, 3 ],
     [ 3, 3 ],
-    [ 607, 3 ],
-    [ 5, 3 ],
-    [ 149, 3 ],
-    [ 1493, 3 ],
-    [ 3, 3 ],
-    [ 5, 3 ],
     [ 37, 3 ],
-    [ 4327, 3 ],
+    [ 2039, 3 ],
+    [ 3, 3 ],
     [ 5, 3 ],
-    [ 31, 3 ]
+    [ 13, 3 ],
+    [ 5, 3 ],
+    [ 113, 3 ],
+    [ 31, 3 ],
+    [ 41, 3 ],
+    [ 3, 3 ],
+    [ 181, 3 ],
+    [ 13, 3 ],
+    [ 127, 3 ]
 ]
 
 When r = 7, p = 11, we expect the conductor exponent at primes dividing b to be 
 3. We find:
 
 [
-    [ 59, 3 ],
-    [ 71, 3 ],
-    [ 1733, 3 ],
-    [ 2833, 3 ],
+    [ 47, 3 ],
+    [ 1429, 3 ],
     [ 3, 3 ],
-    [ 37, 3 ],
     [ 17, 3 ],
-    [ 37, 3 ],
+    [ 67, 3 ],
+    [ 2131, 3 ],
+    [ 31, 3 ],
     [ 3, 3 ],
-    [ 19, 3 ],
-    [ 41, 3 ],
-    [ 3, 3 ],
-    [ 131, 3 ],
-    [ 1069, 3 ],
-    [ 2729, 3 ],
-    [ 3253, 3 ]
+    [ 641, 3 ],
+    [ 29, 3 ],
+    [ 29, 3 ],
+    [ 43, 3 ],
+    [ 421, 3 ],
+    [ 13, 3 ]
 ]
-
-Total time: 82.150 seconds, Total memory usage: 65.12MB

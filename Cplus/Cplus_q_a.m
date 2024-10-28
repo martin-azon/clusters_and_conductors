@@ -1,4 +1,4 @@
-//We compute the cluster picture and conductor of the curve C^+ (a.k.a. Cplus) at any 
+//We compute the cluster picture and conductor of the curve Cplus at any 
 //prime q dividing a, q ne 2, r. We expect Cplus to be semistable at such places.
 
 //Note that, given two integers a, c, then bp := c^r - a^p is an integer, but its p-th power is not.
@@ -18,7 +18,7 @@ function Minpolw(r);
     return MinimalPolynomial(w);
 end function;
 
-function frplus_a(a, c, r, p); 
+function gplus_a(a, c, r, p); 
     //constructs the polynomial in Q[x] defining the curve Cminus associated to a & c
     h := Minpolw(r);
     f := (-1)^(Numerator((r-1)/2))*x*Evaluate(h, -x^2 + 2);
@@ -37,17 +37,17 @@ function Cplus_q(r, p, rge, counter);
             if (Gcd(Gcd(a, bp), c) eq 1) and (a*bp*c ne 0) then //assuming that the solution to the dioph. eq. is nontrivial
                 ctr := ctr + 1;
                 print "Iteration nº", ctr, "\n";
-                frp := frplus_a(a, c, r, p);
+                gpl := gplus_a(a, c, r, p);
                 print "r = ", r, ", p = ", p, ", a = ", a, ", b^p = ", bp, ", c = ", c, "\n";
-                print "Polynomial frplus =", frp;
-                BadPrimes:=Factorization(Integers()!Discriminant(frp)); 
+                print "Polynomial gplus =", gpl;
+                BadPrimes:=Factorization(Integers()!Discriminant(gpl)); 
                 BadPrimes_a := [fact[1] : fact in BadPrimes | ((a mod fact[1]) eq 0) and (fact[1] ne 2) and (fact[1] ne r)];
                 print "Bad primes dividing a, not 2,", r, "are:", BadPrimes_a, "\n\n";
                 for q in BadPrimes_a do 
                     print "The cluster picture of Cplus at", q, "is:";
-                    print ClusterPicture(frp, q);
+                    print ClusterPicture(gpl, q);
                     print "\nExpected depth of the twins:", p*Valuation(a, q)/2, ", and ", p*Valuation(a, q), "\n"; //expected (absolute) depth, recall that a, bp are coprime and q divides a
-                    cond_exp := Conductor(HyperellipticCurve(frp), q);
+                    cond_exp := Conductor(HyperellipticCurve(gpl), q);
                     print "The conductor of Cplus at", q, "is", cond_exp, "\n\n";
                     results := Append(results, [q, cond_exp]);
                 end for;

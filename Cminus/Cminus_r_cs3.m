@@ -1,5 +1,5 @@
-//We compute the cluster picture and conductor of the curve Crrp at r when r mid ab
-//We expect Crrp the conductor exponent at r to be r-1.
+//We compute the cluster picture and conductor of the curve Cminus at r when r mid ab
+//We expect Cminus the conductor exponent at r to be r-1.
 
 
 Attach("clusters.m");

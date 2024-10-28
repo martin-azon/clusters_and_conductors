@@ -1,4 +1,4 @@
-//We compute the cluster picture and conductor of the curve C^- (a.k.a. Cminus) at any 
+//We compute the cluster picture and conductor of the curve Cminus at any 
 //prime q dividing a, q ne 2, r. We expect Cminus to be semistable at such places.
 
 //Note that, given two integers a, c, then bp := c^r - a^p is an integer, but its p-th power is not.

@@ -2,7 +2,7 @@
 //prime q dividing a, q ne 2, r. We expect Cplus to be semistable at such places.
 
 //Note that, given two integers a, c, then bp := c^r - a^p is an integer, but its p-th power is not.
-//That's why, if the curve Cminus is constructed with a, c as input, we focus on prime numbers dividing a, 
+//That's why, if the curve Cplus is constructed with a, c as input, we focus on prime numbers dividing a, 
 //and we forget about those dividing bp. 
 
 

@@ -34,6 +34,7 @@ function Cplus_r_cs1(r, p, rge, counter);
         if not ([a, c] in tested_pmts) then
             bp := c^r - a^p;
             if (Gcd(Gcd(a, bp), c) eq 1) and (a*bp*c ne 0) and (a*bp mod r ne 0) then //assuming that the solution to the dioph. eq. is nontrivial
+                tested_pmts := Append(tested_pmts, [a, c]);
                 gm := gminus_a(a, c, r, p);
                 Gm := Evaluate(gm, X);
                 gpl := Evaluate(gm, x)*(x+2*c);

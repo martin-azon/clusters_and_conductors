@@ -1,21 +1,37 @@
 # clusters_and_conductors
-Numerical tests to compute the conductor of some hyperelliptic Frey curves using cluster pictures.
 
-I am naming files by the name of the curve, the place we work at and the case we deal with.
-By now, different cases appear only when we look at the prime r or the place qr in Q(zeta)^+.
-  case1 means r does not divide ab,
-  case2 means r divides ab.
+This is a repository containing numerical verifications for the computations done in the preprint
 
-Recall that we are manipulating a, a^p, c, c^r, and b^p, but we cannot access directly b (which is not an integer).
-Thus, whenever we are in case 2, I assume that r divides a and not bp, because this leads to pathological cases, computations take much longer and this would not occur in our setting. 
+Conductor exponents for families of hyperelliptic curves, 
+by Martin Azon, Mar Curcó-Iranzo, Maleeha Khawaja, Céline Maistret and Diana Mocanu.
 
-All outputs are placed in the outputs folder. They have the same name as the magma file they come from, with .m replaced by .txt, e.g. your_favorite_file.m ----> your_favorite_file.txt .
+All numerical tests were performed using Tim Dokchitser's package "clusters.m". The authors acknowledge him for sharing it wiht us and allowing us to use it.
 
-Tim's package on clusters is called "clusters.m". I'm also putting it as an attached file for you to download it and use it as you want.
-Here you have the link to download the redlib package: 
+Files are stored in three different folders, one for each of the families of curves studied in the article:
+Crrp, which corresponds to the family of curves C_r associated to the equation of signature (r, r, p),
+Cminus, which corresponds to the family of curves C_r^- associated to the equation of signature (p, p, r),
+Cplus, which corresponds to the family of curves C_r^+ associated to the equation of signature (p, p, r).
 
-https://people.maths.bris.ac.uk/~matyd/redlib/redlib.html
+In each folder one will find different magma files ( .m ), with the corresponding output in text format ( .txt ).
 
-BEWARE: none of the packages is finished, so we better be cautious while using them!
+In each file appear the computions of the cluster pictures and conductor exponents of the corresponding curve in a specific case. The different cases are listed below:
 
-Feel free to modify, add and manipulate anything you want! Just add comments so that everyone can keep track of the changes we make :D
+Crrp_q ---> Computes clusters and conductors of Crrp at places dividing ab, different from 2, r.
+Crrp_r_cs1 ---> Computes clusters and conductors of Crrp at r when r does not divide ab.
+Crrp_r_cs2 ---> Computes clusters and conductors of Crrp at r when r divides ab.
+
+Cminus_q ---> Computes clusters and conductors of Cminus at places dividing a, different from 2, r.
+Cminus_r_cs1 ---> Computes clusters and conductors of Cminus at r when r does not divide ab and the defining polynomial gminus is reducible.
+Cminus_r_cs2 ---> Computes clusters and conductors of Cminus at r when r does not divide ab and the defining polynomial gminus is irreducible.
+Cminus_r_cs3 ---> Computes clusters and conductors of Cminus at r when r divides ab.
+
+Cplus_q_a ---> Computes clusters and conductors of Cplus at places dividing a, different from 2, r.
+Cplus_q_b ---> Computes clusters and conductors of Cplus at places dividing b, different from 2, r.
+Cplus_r_cs1 ---> Computes clusters and conductors of Cplus at r when r does not divide ab and the polynomial gminus is reducible.
+Cplus_r_cs2 ---> Computes clusters and conductors of Cplus at r when r does not divide ab and the polynomial gminus is irreducible.
+Cplus_r_cs3 ---> Computes clusters and conductors of Cplus at r when r divides a.
+Cplus_r_cs4 ---> Computes clusters and conductors of Cplus at r when r divides b.
+
+Note that the triple (a, b, c), assumed to be a solution to the diophantine equation, in general does not exists. That is why, we consider two integers among a, b, c and work only with the r-th or p-th power of the remaining one. For example, for the curve Crrp, we take a, b as input and consider only cp := a^r + b^r, which is an integer, but its p-th root is not. Similarly, when working with Cminus, we take a, c as input and consider only bp := c^r - a^p. 
+
+

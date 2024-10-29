@@ -19,7 +19,7 @@ function Minpolw(r);
 end function;
 
 function gplus_a(a, c, r, p); 
-    //constructs the polynomial in Q[x] defining the curve Cminus associated to a & c
+    //constructs the polynomial in Q[x] defining the curve Cplus associated to a & c
     h := Minpolw(r);
     f := (-1)^(Numerator((r-1)/2))*x*Evaluate(h, -x^2 + 2);
     return (x + 2*c)*((c)^(r)*Evaluate(f, x/c) -2*(2*a^p - c^r));

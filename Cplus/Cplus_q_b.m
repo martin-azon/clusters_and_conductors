@@ -35,6 +35,7 @@ function Cplus_q(r, p, rge, counter);
         if not ([b, c] in tested_pmts) then
             ap := c^r - b^p;
             if (Gcd(Gcd(ap, b), c) eq 1) and (ap*b*c ne 0) then //assuming that the solution to the dioph. eq. is nontrivial
+                tested_pmts := Append(tested_pmts, [b, c]);
                 ctr := ctr + 1;
                 print "Iteration nº", ctr, "\n";
                 gpl := gplus_b(b, c, r, p);

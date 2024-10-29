@@ -14,7 +14,7 @@ function Minpolw(r);
     return MinimalPolynomial(w);
 end function;
 
-function gplus_a(a, c, r, p); 
+function gminus_a(a, c, r, p); 
     //constructs the polynomial in Q[x] defining the curve Cplus associated to a & c
     h := Minpolw(r);
     f := (-1)^(Numerator((r-1)/2))*x*Evaluate(h, -x^2 + 2);
@@ -34,16 +34,18 @@ function Cplus_r_cs1(r, p, rge, counter);
         if not ([a, c] in tested_pmts) then
             bp := c^r - a^p;
             if (Gcd(Gcd(a, bp), c) eq 1) and (a*bp*c ne 0) and (a*bp mod r ne 0) then //assuming that the solution to the dioph. eq. is nontrivial
-                gpl := gplus_a(a, c, r, p);
-                Gpl := Evaluate(gpl, X);
-                if not IsIrreducible(Gpl) then
+                gm := gminus_a(a, c, r, p);
+                Gm := Evaluate(gm, X);
+                gpl := Evaluate(gm, x)*(x+2*c);
+                if not IsIrreducible(Gm) then
+                    //checking whether gminus is irreduccible over Q_r or not
                     ctr := ctr + 1;
                     print "Iteration nº", ctr, "\n";
                     print "r = ", r, ", p = ", p, ", a = ", a, ", b^p = ", bp, ", c = ", c, "\n";
                     print "Polynomial gplus =", gpl, " ";
                     print "The cluster picture of Cplus at", r, "is:";
                     print ClusterPicture(gpl, r);
-                    print "\nExpected outer depth:", 1/(r-1), "\n";
+                    print "\nExpected depths:", 1/(r-1), ", 0, \n";
                     cond_exp := Conductor(HyperellipticCurve(gpl), r);
                     print "The conductor of Cplus at", r, "is", cond_exp;
                     results := Append(results, cond_exp);

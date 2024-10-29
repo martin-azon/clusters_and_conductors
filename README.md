@@ -35,6 +35,9 @@ Cplus_r_cs2 ---> Computes clusters and conductors of Cplus at r when r does not 
 Cplus_r_cs3 ---> Computes clusters and conductors of Cplus at r when r divides a.
 Cplus_r_cs4 ---> Computes clusters and conductors of Cplus at r when r divides b.
 
-Note that the triple (a, b, c), assumed to be a solution to the diophantine equation, in general does not exists. That is why, we consider two integers among a, b, c and work only with the r-th or p-th power of the remaining one. For example, for the curve Crrp, we take a, b as input and consider only cp := a^r + b^r, which is an integer, but its p-th root is not. Similarly, when working with Cminus, we take a, c as input and consider only bp := c^r - a^p. 
+Note that the triple (a, b, c), assumed to be a solution to the diophantine equation, in general does not exists. 
+That is why, we consider two integers among a, b, c and work only with the r-th or p-th power of the remaining one. 
+For example, for the curve Crrp, we take a, b as input and consider only cp := a^r + b^r, which is an integer, but its p-th root is not.
+Similarly, when working with Cminus, we take a, c as input and consider only bp := c^r - a^p. 
 
 </pre>

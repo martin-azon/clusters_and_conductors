@@ -1,11 +1,3 @@
-Magma V2.28-9     Thu Oct 24 2024 17:43:27 on ordi-martin [Seed = 4219926453]
-Type ? for help.  Type <Ctrl>-D to quit.
-
-Loading file "Crrp_q.m"
-
-
-
-
 ##########################################################
 We compute the cluster pictures and conductor of the curve
 Crrp(r, a, b) at q when q divides a^r+b^r, q ne 2, r.

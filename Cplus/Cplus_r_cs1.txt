@@ -1,11 +1,3 @@
-Magma V2.28-9     Tue Oct 29 2024 08:27:28 on ordi-martin [Seed = 4290254450]
-Type ? for help.  Type <Ctrl>-D to quit.
-
-Loading file "Cplus_r_cs1.m"
-
-
-
-
 #############################################################################
 We compute the cluster pictures and conductor of the curve
 Cplus(r, p, a, c) at r when r does not divide a*b and gminus is reducible.

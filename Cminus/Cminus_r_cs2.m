@@ -37,6 +37,7 @@ function Cminus_r_cs1(r, p, rge, counter);
                 gm := grminus_a(a, c, r, p);
                 Gm := Evaluate(gm, X);
                 if IsIrreducible(Gm) then
+                    tested_pmts := Append(tested_pmts, [a, c]);
                     ctr := ctr + 1;
                     print "Iteration nº", ctr, "\n";
                     print "r = ", r, ", p = ", p, ", a = ", a, ", b^p = ", bp, ", c = ", c, "\n";

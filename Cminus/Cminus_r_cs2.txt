@@ -1,0 +1,215 @@
+Magma V2.28-9     Fri Oct 25 2024 12:25:33 on ordi-martin [Seed = 3584671895]
+Type ? for help.  Type <Ctrl>-D to quit.
+
+Loading file "Cminus_r_cs2.m"
+
+
+
+
+#############################################################################
+We compute the cluster pictures and conductor of the curve
+Cminus(r, p, a, c) at r when r does not divide a*b and gminus is irreducible.
+#############################################################################
+
+
+
+
+#########################################
+Computing 10 iterations for r = 5, p = 11
+#########################################
+
+Iteration nº 1 
+
+r =  5 , p =  11 , a =  2627 , b^p =  -41120728554510862233333057197906747291 , c =  4722 
+
+Polynomial gminus = x^5 - 111486420*x^3 + 2485844368883280*x - 164482914218043448938027491635573728428
+
+The cluster picture of Cminus at 5 is:
+(1,2,3,4,5) d=[1/4]
+
+Expected outer depth: 1/4 
+
+The conductor of Cminus at 5 is 5
+
+
+
+
+
+Iteration nº 2 
+
+r =  5 , p =  11 , a =  -1836 , b^p =  799096899338889872078784063127264993 , c 
+=  -3743 
+
+Polynomial gminus = x^5 - 70050245*x^3 + 981407364912005*x + 
+    3196387597355559489784499359255313858
+
+The cluster picture of Cminus at 5 is:
+(1,2,3,4,5) d=[1/4]
+
+Expected outer depth: 1/4 
+
+The conductor of Cminus at 5 is 5
+
+
+
+
+
+Iteration nº 3 
+
+r =  5 , p =  11 , a =  -1591 , b^p =  165337732061261424198558014057036967 , c 
+=  2996 
+
+Polynomial gminus = x^5 - 44880080*x^3 + 402844316161280*x + 
+    661350928245045696311463427740469916
+
+The cluster picture of Cminus at 5 is:
+(1,2,3,4,5) d=[1/4]
+
+Expected outer depth: 1/4 
+
+The conductor of Cminus at 5 is 5
+
+
+
+
+
+Iteration nº 4 
+
+r =  5 , p =  11 , a =  936 , b^p =  -483096995065403958915286947529679 , c =  
+-3983 
+
+Polynomial gminus = x^5 - 79321445*x^3 + 1258378327377605*x - 
+    1932387980261613830812796612118430
+
+The cluster picture of Cminus at 5 is:
+(1,2,3,4,5) d=[1/4]
+
+Expected outer depth: 1/4 
+
+The conductor of Cminus at 5 is 5
+
+
+
+
+
+Iteration nº 5 
+
+r =  5 , p =  11 , a =  2566 , b^p =  -31755808362101617115613319453984620591 , 
+c =  3985 
+
+Polynomial gminus = x^5 - 79401125*x^3 + 1260907730253125*x - 
+    127023233448406468464463164737961963614
+
+The cluster picture of Cminus at 5 is:
+(1,2,3,4,5) d=[1/4]
+
+Expected outer depth: 1/4 
+
+The conductor of Cminus at 5 is 5
+
+
+
+
+
+Iteration nº 6 
+
+r =  5 , p =  11 , a =  -1851 , b^p =  873917842486117719435131505271560976 , c 
+=  -2915 
+
+Polynomial gminus = x^5 - 42486125*x^3 + 361014163503125*x + 
+    3495671369944470878161468535730887654
+
+The cluster picture of Cminus at 5 is:
+(1,2,3,4,5) d=[1/4]
+
+Expected outer depth: 1/4 
+
+The conductor of Cminus at 5 is 5
+
+
+
+
+
+Iteration nº 7 
+
+r =  5 , p =  11 , a =  1412 , b^p =  -44481729408868156604559297645035881 , c =
+3127 
+
+Polynomial gminus = x^5 - 48890645*x^3 + 478059033703205*x - 
+    177926917635472627016193429936112338
+
+The cluster picture of Cminus at 5 is:
+(1,2,3,4,5) d=[1/4]
+
+Expected outer depth: 1/4 
+
+The conductor of Cminus at 5 is 5
+
+
+
+
+
+Iteration nº 8 
+
+r =  5 , p =  11 , a =  -1662 , b^p =  267264461518772162438356960486177739 , c 
+=  4091 
+
+Polynomial gminus = x^5 - 83681405*x^3 + 1400515508554805*x + 
+    1069057846075088647461624263745628054
+
+The cluster picture of Cminus at 5 is:
+(1,2,3,4,5) d=[1/4]
+
+Expected outer depth: 1/4 
+
+The conductor of Cminus at 5 is 5
+
+
+
+
+
+Iteration nº 9 
+
+r =  5 , p =  11 , a =  -3877 , b^p =  2974772863300376937004797087665506081341 
+, c =  1388 
+
+Polynomial gminus = x^5 - 9632720*x^3 + 18557858919680*x + 
+    11899091453201507748019178047338752119028
+
+The cluster picture of Cminus at 5 is:
+(1,2,3,4,5) d=[1/4]
+
+Expected outer depth: 1/4 
+
+The conductor of Cminus at 5 is 5
+
+
+
+
+
+Iteration nº 10 
+
+r =  5 , p =  11 , a =  2927 , b^p =  -135098319482495796711125717384467536591 ,
+c =  4652 
+
+Polynomial gminus = x^5 - 108205520*x^3 + 2341686911694080*x - 
+    540393277929983186848860280543150490428
+
+The cluster picture of Cminus at 5 is:
+(1,2,3,4,5) d=[1/4]
+
+Expected outer depth: 1/4 
+
+The conductor of Cminus at 5 is 5
+
+
+
+
+
+When r = 5, p = 7, we expect the conductor exponent at r to be 5. We find:
+
+[ 5, 5, 5, 5, 5, 5, 5, 5, 5, 5 ]
+
+When r = 5, p = 11, we expect the conductor exponent at r to be 5. We find:
+
+[ 5, 5, 5, 5, 5, 5, 5, 5, 5, 5 ]

@@ -1,0 +1,431 @@
+#############################################################################
+We compute the cluster pictures and conductor of the curve
+Cplus(r, p, a, c) at r when r does not divide a*b and gminus is irreducible.
+#############################################################################
+
+
+
+
+########################################
+Computing 10 iterations for r = 5, p = 7
+########################################
+
+
+Iteration nº 1 
+
+r =  5 , p =  7 , a =  442 , b^p =  -3317373811721020697 , c =  -1849 
+
+Polynomial gplus = x^6 - 3698*x^5 - 17094005*x^4 + 63213630490*x^3 + 
+    58441001388005*x^2 - 13442387105390356780*x + 48910754899788287844420
+
+The cluster picture of Cplus at 5 is:
+(6,(1,2,3,4,5)) d=[1/4,0]
+
+Expected outer depth: 1/4 
+
+The conductor of Cplus at 5 is 5
+
+
+
+
+
+Iteration nº 2 
+
+r =  5 , p =  7 , a =  -3039 , b^p =  2393949488046419701164436 , c =  3397 
+
+Polynomial gplus = x^6 + 6794*x^5 - 57698045*x^4 - 392000517730*x^3 + 
+    665812879364405*x^2 + 9575801571011840726071800*x + 
+    65057965140573265775322938620
+
+The cluster picture of Cplus at 5 is:
+(6,(1,2,3,4,5)) d=[1/4,0]
+
+Expected outer depth: 1/4 
+
+The conductor of Cplus at 5 is 5
+
+
+
+
+
+Iteration nº 3 
+
+r =  5 , p =  7 , a =  168 , b^p =  -2097207557751069607 , c =  -4615 
+
+Polynomial gplus = x^6 - 9230*x^5 - 106491125*x^4 + 982913083750*x^3 + 
+    2268071940753125*x^2 - 25136273441525353428*x + 38784177823892109327940
+
+The cluster picture of Cplus at 5 is:
+(1,(2,3,4,5,6)) d=[1/4,0]
+
+Expected outer depth: 1/4 
+
+The conductor of Cplus at 5 is 5
+
+
+
+
+
+Iteration nº 4 
+
+r =  5 , p =  7 , a =  -4669 , b^p =  48369000772722575161000789 , c =  -2910 
+
+Polynomial gplus = x^6 - 5820*x^5 - 42340500*x^4 + 246421710000*x^3 + 
+    358543588050000*x^2 + 193476001421511354683203156*x - 
+    1126030340417927916121062367920
+
+The cluster picture of Cplus at 5 is:
+(1,(2,3,4,5,6)) d=[1/4,0]
+
+Expected outer depth: 1/4 
+
+The conductor of Cplus at 5 is 5
+
+
+
+
+
+Iteration nº 5 
+
+r =  5 , p =  7 , a =  562 , b^p =  -17707388904084668307 , c =  -419 
+
+Polynomial gplus = x^6 - 838*x^5 - 877805*x^4 + 735600590*x^3 + 154108323605*x^2
+    - 70829658930558818020*x + 59355145962162687831140
+
+The cluster picture of Cplus at 5 is:
+(6,(1,2,3,4,5)) d=[1/4,0]
+
+Expected outer depth: 1/4 
+
+The conductor of Cplus at 5 is 5
+
+
+
+
+
+Iteration nº 6 
+
+r =  5 , p =  7 , a =  2414 , b^p =  -477706180678689094223929 , c =  295 
+
+Polynomial gplus = x^6 + 590*x^5 - 435125*x^4 - 256723750*x^3 + 37866753125*x^2 
+    - 1910824722696883269420716*x - 1127386586404342545721034940
+
+The cluster picture of Cplus at 5 is:
+(1,(2,3,4,5,6)) d=[1/4,0]
+
+Expected outer depth: 1/4 
+
+The conductor of Cplus at 5 is 5
+
+
+
+
+
+Iteration nº 7 
+
+r =  5 , p =  7 , a =  3007 , b^p =  -2222972020667083914372511 , c =  1002 
+
+Polynomial gplus = x^6 + 2004*x^5 - 5020020*x^4 - 10060120080*x^3 + 
+    5040120160080*x^2 - 8891888074588015016849788*x - 
+    17819343721715585298570816432
+
+The cluster picture of Cplus at 5 is:
+(1,(2,3,4,5,6)) d=[1/4,0]
+
+Expected outer depth: 1/4 
+
+The conductor of Cplus at 5 is 5
+
+
+
+
+
+Iteration nº 8 
+
+r =  5 , p =  7 , a =  -2223 , b^p =  268274319619284196360879 , c =  4462 
+
+Polynomial gplus = x^6 + 8924*x^5 - 99547220*x^4 - 888359391280*x^3 + 
+    1981929801945680*x^2 + 1073111427870378836042172*x + 
+    9576288545833645658412335248
+
+The cluster picture of Cplus at 5 is:
+(1,(2,3,4,5,6)) d=[1/4,0]
+
+Expected outer depth: 1/4 
+
+The conductor of Cplus at 5 is 5
+
+
+
+
+
+Iteration nº 9 
+
+r =  5 , p =  7 , a =  2469 , b^p =  -559303618945889029181038 , c =  671 
+
+Polynomial gplus = x^6 + 1342*x^5 - 2251205*x^4 - 3021117110*x^3 + 
+    1013584790405*x^2 - 2237214474695371485745344*x - 
+    3002341826866618252337202068
+
+The cluster picture of Cplus at 5 is:
+(6,(1,2,3,4,5)) d=[1/4,0]
+
+Expected outer depth: 1/4 
+
+The conductor of Cplus at 5 is 5
+
+
+
+
+
+Iteration nº 10 
+
+r =  5 , p =  7 , a =  2219 , b^p =  -264912148468112601907432 , c =  -3413 
+
+Polynomial gplus = x^6 - 6826*x^5 - 58242845*x^4 + 397565659970*x^3 + 
+    678445798738805*x^2 - 1059652298729268160496072*x + 
+    7233154979435186987214107292
+
+The cluster picture of Cplus at 5 is:
+(1,(2,3,4,5,6)) d=[1/4,0]
+
+Expected outer depth: 1/4 
+
+The conductor of Cplus at 5 is 5
+
+
+
+
+
+
+
+#########################################
+Computing 10 iterations for r = 5, p = 11
+#########################################
+
+
+Iteration nº 1 
+
+r =  5 , p =  11 , a =  -1769 , b^p =  530891976762441810208257171378263412 , c 
+=  43 
+
+Polynomial gplus = x^6 + 86*x^5 - 9245*x^4 - 795070*x^3 + 17094005*x^2 + 
+    2123567907049767240833028686689121192*x + 
+    182626840006279982711640466928837161532
+
+The cluster picture of Cplus at 5 is:
+(1,(2,3,4,5,6)) d=[1/4,0]
+
+Expected outer depth: 1/4 
+
+The conductor of Cplus at 5 is 5
+
+
+
+
+
+Iteration nº 2 
+
+r =  5 , p =  11 , a =  -1406 , b^p =  42446171798824449136521406592877363 , c =
+-3773 
+
+Polynomial gplus = x^6 - 7546*x^5 - 71177645*x^4 + 537106509170*x^3 + 
+    1013251429549205*x^2 + 169784687195297790429289396468868708*x - 
+    1281195249575717184276098224310742088348
+
+The cluster picture of Cplus at 5 is:
+(1,(2,3,4,5,6)) d=[1/4,0]
+
+Expected outer depth: 1/4 
+
+The conductor of Cplus at 5 is 5
+
+
+
+
+
+Iteration nº 3 
+
+r =  5 , p =  11 , a =  793 , b^p =  -77983919732604406472042570797033 , c =  
+-66 
+
+Polynomial gplus = x^6 - 132*x^5 - 21780*x^4 + 2874960*x^3 + 94873680*x^2 - 
+    311935678930417625888180301848740*x + 41175509618815126617238146765033360
+
+The cluster picture of Cplus at 5 is:
+(6,(1,2,3,4,5)) d=[1/4,0]
+
+Expected outer depth: 1/4 
+
+The conductor of Cplus at 5 is 5
+
+
+
+
+
+Iteration nº 4 
+
+r =  5 , p =  11 , a =  -4032 , b^p =  4578526770246435948648445244831268895661 
+, c =  -1507 
+
+Polynomial gplus = x^6 - 3014*x^5 - 11355245*x^4 + 34224708430*x^3 + 
+    25788317802005*x^2 + 18314107080985743794593718798533191388188*x - 
+    55198718742091031796905702724912462546611612
+
+The cluster picture of Cplus at 5 is:
+(6,(1,2,3,4,5)) d=[1/4,0]
+
+Expected outer depth: 1/4 
+
+The conductor of Cplus at 5 is 5
+
+
+
+
+
+Iteration nº 5 
+
+r =  5 , p =  11 , a =  4829 , b^p =  -3329885186425769102982219862871909241862\
+9 , c =  2470 
+
+Polynomial gplus = x^6 + 4940*x^5 - 30504500*x^4 - 150692230000*x^3 + 
+    186104904050000*x^2 - 133195407457030764119288059028295564074516*x - 
+    657985312837731974749287553229416561108109040
+
+The cluster picture of Cplus at 5 is:
+(1,(2,3,4,5,6)) d=[1/4,0]
+
+Expected outer depth: 1/4 
+
+The conductor of Cplus at 5 is 5
+
+
+
+
+
+
+Iteration nº 6 
+
+r =  5 , p =  11 , a =  4848 , b^p =  -3476872161589604066638889531673211300820\
+3 , c =  -2171 
+
+Polynomial gplus = x^6 - 4342*x^5 - 23566205*x^4 + 102324462110*x^3 + 
+    111073203620405*x^2 - 139074886463584162665555967090808547871620*x + 
+    603863157024882434293841915049181494693443620
+
+The cluster picture of Cplus at 5 is:
+(6,(1,2,3,4,5)) d=[1/4,0]
+
+Expected outer depth: 1/4 
+
+The conductor of Cplus at 5 is 5
+
+
+
+
+
+Iteration nº 7 
+
+r =  5 , p =  11 , a =  -3624 , b^p =  1416022255096088246710934532990781267999 
+, c =  415 
+
+Polynomial gplus = x^6 + 830*x^5 - 861125*x^4 - 714733750*x^3 + 148307253125*x^2
+    + 5664089020384352986843738230439141146996*x + 
+    4701193886919012979080302629095620474194180
+
+The cluster picture of Cplus at 5 is:
+(1,(2,3,4,5,6)) d=[1/4,0]
+
+Expected outer depth: 1/4 
+
+The conductor of Cplus at 5 is 5
+
+
+
+
+
+Iteration nº 8 
+
+r =  5 , p =  11 , a =  397 , b^p =  -38609624188834822540019141002 , c =  3291 
+
+Polynomial gplus = x^6 + 6582*x^5 - 54153405*x^4 - 356437711710*x^3 + 
+    586518254618805*x^2 - 154438496752250919638555784400*x - 
+    1016514185648725121526786387145620
+
+The cluster picture of Cplus at 5 is:
+(6,(1,2,3,4,5)) d=[1/4,0]
+
+Expected outer depth: 1/4 
+
+The conductor of Cplus at 5 is 5
+
+
+
+
+
+Iteration nº 9 
+
+r =  5 , p =  11 , a =  299 , b^p =  -1707587911295703322570386131 , c =  -2562 
+
+Polynomial gplus = x^6 - 5124*x^5 - 32819220*x^4 + 168165683280*x^3 + 
+    215420240281680*x^2 - 6830351646065863939244207180*x + 
+    34998721828785547418081463278640
+
+The cluster picture of Cplus at 5 is:
+(6,(1,2,3,4,5)) d=[1/4,0]
+
+Expected outer depth: 1/4 
+
+The conductor of Cplus at 5 is 5
+
+
+
+
+
+Iteration nº 10 
+
+r =  5 , p =  11 , a =  -4828 , b^p =  3322307875429121043581775857611117518837\
+1 , c =  1059 
+
+Polynomial gplus = x^6 + 2118*x^5 - 5607405*x^4 - 11876483790*x^3 + 
+    6288598166805*x^2 + 132892315017164841743271044959845434587876*x + 
+    281465923206355134812248045014779187630568548
+
+The cluster picture of Cplus at 5 is:
+(1,(2,3,4,5,6)) d=[1/4,0]
+
+Expected outer depth: 1/4 
+
+The conductor of Cplus at 5 is 5
+
+
+
+
+
+Iteration nº 6 
+
+r =  5 , p =  11 , a =  -629 , b^p =  6097574284925154040475667160554 , c =  
+-4115 
+
+Polynomial gplus = x^6 - 8230*x^5 - 84666125*x^4 + 696802208750*x^3 + 
+    1433670544503125*x^2 + 24390297139691176875037660067216*x - 
+    200732145459755492345183718068500180
+
+The cluster picture of Cplus at 5 is:
+(1,(2,3,4,5,6)) d=[1/4,0]
+
+Expected outer depth: 1/4 
+
+The conductor of Cplus at 5 is 5
+
+
+
+
+
+When r = 5, p = 7, we expect the conductor exponent at r to be 5. We find:
+
+[ 5, 5, 5, 5, 5, 5, 5, 5, 5, 5 ]
+
+When r = 5, p = 11, we expect the conductor exponent at r to be 5. We find:
+
+[ 5, 5, 5, 5, 5, 5, 5, 5, 5, 5 ]

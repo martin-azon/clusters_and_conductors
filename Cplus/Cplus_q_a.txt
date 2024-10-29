@@ -1,11 +1,3 @@
-Magma V2.28-9     Mon Oct 28 2024 09:38:36 on ordi-martin [Seed = 542640865]
-Type ? for help.  Type <Ctrl>-D to quit.
-
-Loading file "Cplus_q_a.m"
-
-
-
-
 ##########################################################
 We compute the cluster pictures and conductor of the curve
 Cplus(r, p, a, c) at q when q divides a, q ne 2, r.

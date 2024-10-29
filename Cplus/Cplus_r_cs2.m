@@ -36,12 +36,12 @@ function Cplus_r_cs2(r, p, rge, counter);
         if not ([a, c] in tested_pmts) then
             bp := c^r - a^p;
             if (Gcd(Gcd(a, bp), c) eq 1) and (a*bp*c ne 0) and (a*bp mod r ne 0) then //assuming that the solution to the dioph. eq. is nontrivial
-                tested_pmts := Append(tested_pmts, [a, c]);
                 gm := gminus_a(a, c, r, p);
                 Gm := Evaluate(gm, X);
                 gpl := Evaluate(gm, x)*(x+2*c);
                 if IsIrreducible(Gm) then
                     //checking whether gminus is irreduccible over Q_r or not
+                    tested_pmts := Append(tested_pmts, [a, c]);
                     ctr := ctr + 1;
                     print "Iteration nº", ctr, "\n";
                     print "r = ", r, ", p = ", p, ", a = ", a, ", b^p = ", bp, ", c = ", c, "\n";

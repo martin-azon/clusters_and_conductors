@@ -1,11 +1,3 @@
-Magma V2.28-9     Thu Oct 24 2024 18:33:58 on ordi-martin [Seed = 4270059345]
-Type ? for help.  Type <Ctrl>-D to quit.
-
-Loading file "Crrp_r_cs1.m"
-
-
-
-
 ##########################################################
 We compute the cluster pictures and conductor of the curve
 Crrp(r, a, b) at r when r does not divide a^r+b^r.

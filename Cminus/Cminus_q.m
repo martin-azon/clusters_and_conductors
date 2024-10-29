@@ -35,6 +35,7 @@ function Cminus_q(r, p, rge, counter);
         if not ([a, c] in tested_pmts) then
             bp := c^r - a^p;
             if (Gcd(Gcd(a, bp), c) eq 1) and (a*bp*c ne 0) then //assuming that the solution to the dioph. eq. is nontrivial
+                tested_pmts := Append(tested_pmts, [a, c]);
                 ctr := ctr + 1;
                 print "Iteration nº", ctr, "\n";
                 gm := grminus_a(a, c, r, p);

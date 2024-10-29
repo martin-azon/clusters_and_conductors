@@ -19,6 +19,7 @@ In each folder one will find different magma files ( .m ), with the correspondin
 
 In each file appear the computions of the cluster pictures and conductor exponents of the corresponding curve in a specific case. The different cases are listed below:
 
+  
 Crrp_q ---> Computes clusters and conductors of Crrp at places dividing ab, different from 2, r.
 Crrp_r_cs1 ---> Computes clusters and conductors of Crrp at r when r does not divide ab.
 Crrp_r_cs2 ---> Computes clusters and conductors of Crrp at r when r divides ab.
@@ -35,6 +36,7 @@ Cplus_r_cs2 ---> Computes clusters and conductors of Cplus at r when r does not 
 Cplus_r_cs3 ---> Computes clusters and conductors of Cplus at r when r divides a.
 Cplus_r_cs4 ---> Computes clusters and conductors of Cplus at r when r divides b.
 
+  
 Note that the triple (a, b, c), assumed to be a solution to the diophantine equation, in general does not exists. 
 That is why, we consider two integers among a, b, c and work only with the r-th or p-th power of the remaining one. 
 For example, for the curve Crrp, we take a, b as input and consider only cp := a^r + b^r, which is an integer, but its p-th root is not.

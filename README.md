@@ -3,9 +3,12 @@
 
 This is a repository containing numerical verifications for the computations done in the preprint
 
+
+  
 Conductor exponents for families of hyperelliptic curves, 
 by Martin Azon, Mar Curcó-Iranzo, Maleeha Khawaja, Céline Maistret and Diana Mocanu.
 
+  
   
 All numerical tests were performed using Tim Dokchitser's package "clusters.m". The authors acknowledge him for sharing it wiht us and allowing us to use it.
 

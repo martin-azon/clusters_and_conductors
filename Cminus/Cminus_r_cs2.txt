@@ -1,11 +1,3 @@
-Magma V2.28-9     Fri Oct 25 2024 12:25:33 on ordi-martin [Seed = 3584671895]
-Type ? for help.  Type <Ctrl>-D to quit.
-
-Loading file "Cminus_r_cs2.m"
-
-
-
-
 #############################################################################
 We compute the cluster pictures and conductor of the curve
 Cminus(r, p, a, c) at r when r does not divide a*b and gminus is irreducible.

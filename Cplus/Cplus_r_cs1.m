@@ -40,6 +40,7 @@ function Cplus_r_cs1(r, p, rge, counter);
                 gpl := Evaluate(gm, x)*(x+2*c);
                 if not IsIrreducible(Gm) then
                     //checking whether gminus is irreduccible over Q_r or not
+                    tested_pmts := Append(tested_pmts, [a, c]);
                     ctr := ctr + 1;
                     print "Iteration nº", ctr, "\n";
                     print "r = ", r, ", p = ", p, ", a = ", a, ", b^p = ", bp, ", c = ", c, "\n";

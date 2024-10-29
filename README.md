@@ -10,8 +10,10 @@ by Martin Azon, Mar Curcó-Iranzo, Maleeha Khawaja, Céline Maistret and Diana M
 
   
   
-All numerical tests were performed using Tim Dokchitser's package "clusters.m". The authors acknowledge him for sharing it wiht us and allowing us to use it.
+All numerical tests were performed using Tim Dokchitser's package "clusters.m". 
+The authors acknowledge him for sharing it wiht us and allowing us to use it.
 
+  
 Files are stored in three different folders, one for each of the families of curves studied in the article:
 
 Crrp, which corresponds to the family of curves C_r associated to the equation of signature (r, r, p),
@@ -20,7 +22,9 @@ Cplus, which corresponds to the family of curves C_r^+ associated to the equatio
 
 In each folder one will find different magma files ( .m ), with the corresponding output in text format ( .txt ).
 
-In each file appear the computions of the cluster pictures and conductor exponents of the corresponding curve in a specific case. The different cases are listed below:
+  
+In each file appear the computions of the cluster pictures and conductor exponents of the corresponding curve in a specific case. 
+The different cases are listed below:
 
   
 Crrp_q ---> Computes clusters and conductors of Crrp at places dividing ab, different from 2, r.

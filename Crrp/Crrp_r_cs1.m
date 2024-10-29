@@ -29,6 +29,7 @@ function Crrp_r_cs1(r, rge, counter);
         if not ([a, b] in tested_pmts) then
             cp := a^r + b^r;
             if (Gcd(Gcd(a, b), cp) eq 1) and (a*b*cp ne 0) and (cp mod r ne 0) then //assuming that the solution to the dioph. eq. is nontrivial
+                tested_pmts := Append(tested_pmts, [a, b]);
                 ctr := ctr + 1;
                 print "Iteration nº", ctr, "\n";
                 fr := frrp(a, b, r);

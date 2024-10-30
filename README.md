@@ -11,7 +11,7 @@ by Martin Azon, Mar Curcó-Iranzo, Maleeha Khawaja, Céline Maistret and Diana M
   
   
 All numerical tests were performed using Tim Dokchitser's package "clusters.m". 
-The authors acknowledge him for sharing it wiht us and allowing us to use it.
+The authors acknowledge him for sharing it with us and allowing us to use it.
 
   
 Files are stored in three different folders, one for each of the families of curves studied in the article:
